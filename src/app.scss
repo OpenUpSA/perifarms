@@ -1,0 +1,22 @@
+.grid-item.is-content {
+    display: block !important;
+}
+
+.cayenne .grid-item_bg {
+    background-color: rgba(40, 122, 53, 1);
+}
+
+.cayenne .button.w--current {
+    background-color: rgba(40, 122, 53, 1) !important;
+}
+
+.missing-chart {
+    background: rgba(0,0,0,0.1);
+    padding: 0.5em;
+    border-radius: 5px;
+    margin: 0 0 1em 0;
+}
+
+.dashboard-country_info {
+    margin-bottom: 2em;
+}

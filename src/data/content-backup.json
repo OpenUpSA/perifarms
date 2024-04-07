@@ -1,0 +1,260 @@
+{
+    "crops": [
+        {
+            "name": "African Bird's Eye Chilli",
+            "short_name": "ABE",
+            "slug": "abe",
+            "countries": [
+                {
+                    "name": "Zimbabwe",
+                    "slug": "zimbabwe",
+                    "periods": [
+                        {
+                            "period": [2021,2022],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>In Zimbabwe, ABE continues to be purchased from the network of farmerscthrough Nando's country partner Kacholo's via its field extension officers in Birchenough, Fuve, and Ruware. Farmers sell ABE fresh to Kacholo and it dries the ABE at a central location in each community. The dried chilli from all locations is graded, bagged and shipped by Kacholo to Nando's processors in South Africa.</p>"
+                                        },
+                                        {
+                                            "name": "key_metrics",
+                                            "title": "Key Metrics",
+                                            "type": "MetricsTable",
+                                            "src": "/data/key-metrics.csv"
+                                        },
+                                        {
+                                            "name": "operational_model",
+                                            "title": "Operational Model",
+                                            "type": "text",
+                                            "content": "<div class=\"rich-text-with-icons w-richtext\"><figure class=\"w-richtext-align-floatright w-richtext-figure-type-image\"><div><img loading=\"lazy\" src=\"images/chili-shine.png\"></div></figure><p>Kacholo, used an out-grower operational model, with farmers cultivating ABE on their own land with support from Kacholo. The programme is supervised by Martin Bebete and Josaphat Mutsambwa with support from a team of dedicated field extension officers in each region.</p><p>Across all regions, Kacholo provided inputs, such as seedlings, fertiliser and pesticides, on credit to the farmers. Although Kacholo recommended which and how many inputs to take, farmers decided for themselves what they wanted. Kacholo also stipulated a fixed $-rate per kg of fresh chillies in the contract signed with farmers. Kacholo provided between 16 to 32 hours of group based and individual training to the farmers through their field extension officers, covering a broad range of subjects. In addition to the standard technical skills, in the Fuve region they also conducted training on labour management. Emphasis has also been placed on encouraging children to attend school rather than working in the fields during planting and harvest periods.</p><p>The planting density was 25,000 plants per Ha across all regions, but plot sizes varied between growing areas, cultivating ABE on plot sizes between .05Ha - .64Ha. The Zimbabwe government only permits 10-20% of land to be designated for cash crops with the balance for family consumption to ensure farmer food security.</p></div>"
+                                        },
+                                        {
+                                            "name": "assesment_anomalies",
+                                            "title": "Assesment Anomalies",
+                                            "type": "text",
+                                            "content": "<p>There were a range of anomalies related to the 2021/22 growing season in Zimbabwe that included:</p><h3 class=\"is-highlighted\">Macro-Financial Systems</h3><p>Although the situation in Zimbabwe remains relatively peaceful, the economic context continues to be a major challenge for farmers. Inflation rates continue to be erratic and averaged over 200% in the calendar year 2022. There are also artificially state based USD to Zimbabwe exchange rates, which devalue the money paid to the farmers via Kacholo. Farmers were allowed more consistent access to the money in their bank accounts than in previous years, but only in Zimbabwe dollars (RTGS). Farmers were paid in USD, but when removed from the bank as RTGS the exchange rate is typically 75% of the trading value. This exchange rate loss and hyperinflation had a significant impact on one of the core benefits of the programme, namely a 'fixed price' per kg of chili, based in USD.</p><h3 class=\"is-highlighted\">Labour Costs</h3><div class=\"rich-text-with-icons w-richtext\"><figure class=\"w-richtext-align-floatright w-richtext-figure-type-imag\"><div><img loading=\"lazy\" src=\"images/peri-hand-1.png\"></div></figure><p>This season the cost of labour varied substantially between the three communities being assessed. This variance was based on two primary factors: Price of labour and when labour was used.</p><p>Labour costs are considered in two parts, the first is before chilli is harvested where labour isbeing used to prepare the land, plant seedlings and tend to the chill bushes while growing, this timeframe is deemed the growing season. The second labour costs are incurred when the chilli is being harvested. As it is sold fresh, harvesting and selling in a timely fashion is critical to the farmers income thus, they use most labour to help them harvest. Across the various communities&#x27;, day labour harvested roughly 75% of all chilli grown. What differed dramatically between communities was the cost of labour. In all three communities, labour was paid based on productivity, not time.</p><p>The day labour was compensated by the 20 litre bucket of chilli harvested. This bucket price varied between $1 at the lowest and $1.82 at the highest. This was principally a factor of labour availability and employment opportunities in the areas where production occurred. The second key factor was the use of labour during the growing season. Historically, very few farmers have used labour during this period, but this season, for unknown reasons, they did particularly in Birchenough where labour was used by a large number of farmers interviewed. These differences accounted for an overall increase in the cost of labour from the previous season.</p></div>"
+                                        },
+                                        {
+                                            "name": "challenges",
+                                            "title": "Successes, Challenges & Farmer Feedback",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "<p>The programme has been successful in Zimbabwe and through earnings from ABE, the farmers' lives continue to be positively impacted albeit in a very challenging macro socio-economic environment. There are, however, a number of changes that can be made to enhance the impact on the farmer's lives. The following reflects some of the successes and challenges identified during the impact assessment.</p>"
+                                                },
+                                                {
+                                                    "title": "Successes",
+                                                    "type": "text",
+                                                    "content": "<p>Zimbabwe continues to be the largest producer of ABE with the most smallholder farmers involved. The key successes noted for this season were:</p><h4>Farmer Appreciation: </h4><p>Although cash is constantly mentioned as a challenge, all farmers are very appreciative of the PERi-Farms programme. Within the context of Zimbabwe's current economic climate, the ABE farmers are considerably more financially stable than other farmers in the areas visited. For farmers who have been in the programme over a number of seasons improvements and sustaining these improvements is greatly appreciated.</p><h4>Technical Support and Inputs:</h4><p>Training and inputs continue to be highlighted as the primary drivers of success for farmers. As the programme grows each season to include new farmers, those that are in their first season were greatly appreciative of the training and demonstrations facilitated by the Field Extension Officers. The training sessions found most beneficial by the farmers were on fertiliser application, harvest management and record keeping.</p><h4>Additional Income Sources:</h4><p>Farmers who have been growing ABE for an extended period are beginning side projects for additional income. Farmers indicated being able to buy more livestock (cattle, chickens, goats and turkeys). Some farmers indicated buying scotch-carts which have improved their overall access to transport and often renting out their scotch-carts to those that need them in their community.</p>"
+                                                },
+                                                {
+                                                    "title": "Challenges",
+                                                    "type": "text",
+                                                    "content": "<p>The following reflects some of the challenges mentioned in the farmer and management interviews that did affect both earnings and impact:</p><h4>Fixed Price/kg: </h4><p>Due to the ongoing fluctuations in exchange rates and inflation, the actual cash in hand farmers receive is not seen to be a ‘fixed price’ and therefore does not have the same value. The vast majority of farmers suggested that a portion of their overall income be paid in US$ cash.</p>h4>High labour costs: </h4><p>Farmers indicated that seasonal Labour costs were very high this season, and these labourers typically want to be paid in US$ for their labour. Farmers have also requested extra cash loans for the paid labourers particularly towards the peak harvesting months.</p><h4><strong>Assistance With Protective Clothing:</strong></h4><p> Due to the handling of fertilizers and in some instances pesticides, farmers are increasingly requesting assistance with work suits, gumboots and gloves to use when out in the field.</p><h4>Provision of Additional Dryers: </h4><p>The capacity of the driers often does not support all the volume of the yields. When the driers are full, some farmers have to rely on drying the chilli outside and during periods of extending rain, this often leads to increased rotting and crop loss.</p>"
+                                                },
+                                                {
+                                                    "title": "Farmer Feedback",
+                                                    "type": "text",
+                                                    "content": "<h4>Farmers Perception of the Most Important Component of the PERi-Farms Program</h4><p>The value farmers perceive they receive from the fixed price has significantly decreased from 43% last year to 24% this year. The value perceived from technical support has significantly increased from 27% last year to 49% this year. The value perceived from inputs on credit has marginally decreased from 30% last year to 27% this year. These changes are an important reflection of the changing macro-economic conditions they operate within and how Kacholo can continue to support them.</p><p>Key farmer feedback as primarily covered in the Challenges section are: Higher fixed price of $2 per kg instead of $1; being paid in USD cash; loans for labour; and protective clothing.</p>"
+                                                },
+                                                {
+                                                    "title": "Farmers according to the amount of farmland used for ABE chillis",
+                                                    "subtitle": "2021/2022",
+                                                    "caption": "For example, 49% of farmers in Zimbabwe use 0-24% of their total farmland for growing ABE chillis.",
+                                                    "type": "BarChart",
+                                                    "src": "/data/abe-zim-farmers-according-to-farmland.csv",
+                                                    "horizontal": true,
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Percentage",
+                                                    "value": "Percentage of Farmers",
+                                                    "theme": "red",
+                                                    "split": false
+                                                },
+                                                {
+                                                    "title": "Farmers according to the amount of farmland used for ABE chillis",
+                                                    "subtitle": "2021/2022",
+                                                    "caption": "For example, 49% of farmers in Zimbabwe use 0-24% of their total farmland for growing ABE chillis.",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe-zim-farmers-according-to-farmland.csv",
+                                                    "vertical": false,
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Percentage",
+                                                    "value": "Percentage of Farmers",
+                                                    "theme": "red"
+                                                },
+                                                {
+                                                    "title": "Farmers according to the amount of farmland used for ABE chillis",
+                                                    "subtitle": "2021/2022",
+                                                    "caption": "For example, 49% of farmers in Zimbabwe use 0-24% of their total farmland for growing ABE chillis.",
+                                                    "type": "BarChart",
+                                                    "src": "/data/abe-zim-farmers-according-to-farmland.csv",
+                                                    "horizontal": false,
+                                                    "x_label": "Percentage",
+                                                    "y_label": "Percentage of Farmers",
+                                                    "bin": "Percentage",
+                                                    "value": "Percentage of Farmers",
+                                                    "theme": "red",
+                                                    "split": true
+                                                },
+                                                {
+                                                    "title": "Farmers according to their net income",
+                                                    "subtitle": "2021/2022",
+                                                    "caption": "NOTE: 1 dot represents 1 farmer. Hover over dots for exact gross income.",
+                                                    "type": "ScatterChart",
+                                                    "src": "/data/abe-zim-gross-income.csv",
+                                                    "x_label": "Gross Income Bracket ($)",
+                                                    "y_label": "Gross Income ($)",
+                                                    "bin": "Gross Income Bracket ($)",
+                                                    "value": "Gross Income ($)",
+                                                    "theme": "red",
+                                                    "split": true
+                                                },
+                                                {
+                                                    "title": "Farmer Feedback",
+                                                    "type": "text",
+                                                    "content": "<p>1. The programme has been successful in Zimbabwe and through earnings from ABE, the farmers' lives continue to be positively impacted albeit in a very challenging macro socio-economic environment.</p><p>2. The programme has been successful in Zimbabwe and through earnings from ABE, the farmers' lives continue to be positively impacted albeit in a very challenging macro socio-economic environment.</p>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "farmers",
+                                    "title": "Farmers",
+                                    "sections": [
+                                        {
+                                            "name": "farmers_age",
+                                            "Title": "Farmers Age",
+                                            "chart": "ColumnChart",
+                                            "data": ""
+
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "production",
+                                    "title": "Production",
+                                    "sections": []
+                                },
+                                {
+                                    "name": "impact",
+                                    "title": "Impact",
+                                    "sections": []
+                                }
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Malawi",
+                    "slug": "malawi",
+                    "periods": [
+                        {
+                            "period": [2021,2022]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cayenne",
+            "short_name": "Cayenne",
+            "slug": "cayenne",
+            "countries": [
+                {
+                    "name": "Zimbabwe",
+                    "slug": "zimbabwe",
+                    "periods": [
+                        {
+                            "period": [2021,2022],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "content": "lorem ipsum"
+                                        },
+                                        {
+                                            "name": "key_metrics",
+                                            "title": "Key Metrics",
+                                            "content": {
+        
+                                            }
+                                        },
+                                        {
+                                            "name": "operational_model",
+                                            "title": "Operational Model",
+                                            "content": "lorem ipsum"
+                                        },
+                                        {
+                                            "name": "assesment_anomalies",
+                                            "title": "Assesment Anomalies",
+                                            "content": "lorem ipsum"
+                                        },
+                                        {
+                                            "name": "challenges",
+                                            "title": "Successes, Challenges & Farmer Feedback",
+                                            "content": [
+                                                {
+                                                    "title": "Successes",
+                                                    "content": "lorem ipsum"
+                                                },
+                                                {
+                                                    "title": "Challenges",
+                                                    "content": "lorem ipsum"
+                                                },
+                                                {
+                                                    "title": "Farmer Feedback",
+                                                    "content": "lorem ipsum"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "farmers",
+                                    "title": "Farmers",
+                                    "sections": []
+                                },
+                                {
+                                    "name": "production",
+                                    "title": "Production",
+                                    "sections": []
+                                },
+                                {
+                                    "name": "impact",
+                                    "title": "Impact",
+                                    "sections": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Malawi",
+                    "slug": "malawi",
+                    "periods": [
+                        {
+                            "period": [2021,2022]
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,64 @@
+.chartContainer {
+    width: 100%;
+    border: 1px solid rgb(221, 221, 221);
+    background: #fff;
+    margin-bottom: 2em;
+
+    * {
+        font-family: Roboto !important;
+    }
+
+    header {
+        padding: 1em;
+        border-bottom: 1px solid rgb(221, 221, 221);
+    }
+
+    footer {
+        padding: 1em;
+        border-top: 1px solid rgb(221, 221, 221);
+        font-size: 1rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin: 0 0 10px 0;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+        font-weight: 400;
+        margin: 0;
+    }
+
+    .regions {
+
+        padding: 1em;
+
+        .label {
+            display: inline-block;
+            font-weight:  600;
+            margin: 0 1em 0 0;
+        }
+    }
+
+    .regionSelect {
+        border: 1px solid rgb(221, 221, 221);
+        padding: 0.2em 1em;
+        display: inline-block;
+        margin: 1em 0.5em 0 0;
+        border-radius: 3px;
+        font-size: 0.8em;
+
+        &:hover {
+            cursor: pointer;
+            background-color: rgba(193, 48, 54, 1);
+            color: #fff;
+        }
+        
+        &.selectedRegion {
+            background-color: rgba(193, 48, 54, 1);
+            color: #fff;
+        }
+    }
+}

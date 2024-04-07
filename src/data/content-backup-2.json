@@ -1,0 +1,660 @@
+{
+    "crops": [
+        {
+            "name": "African Bird's Eye Chilli",
+            "short_name": "ABE",
+            "slug": "abe",
+            "countries": [
+                {
+                    "name": "Zimbabwe",
+                    "slug": "zimbabwe",
+                    "periods": [
+                        {
+                            "period": [2022,2023],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>In Zimbabwe, ABE continues to be purchased from the network of farmerscthrough Nando's country partner Kacholo's via its field extension officers in Birchenough, Fuve, and Ruware. Farmers sell ABE fresh to Kacholo and it dries the ABE at a central location in each community. The dried chilli from all locations is graded, bagged and shipped by Kacholo to Nando's processors in South Africa.</p>"
+                                        },
+                                        {
+                                            "name": "key_metrics",
+                                            "title": "Key Metrics",
+                                            "type": "MetricsTable",
+                                            "src": "/data/abe/Table1.csv",
+                                            "headers": true
+                                        },
+                                        {
+                                            "name": "key_metrics",
+                                            "title": "Key Metrics",
+                                            "type": "MetricsTable",
+                                            "src": "/data/abe/Table2.csv",
+                                            "headers": false
+                                        },
+                                        {
+                                            "name": "key_metrics",
+                                            "title": "Key Metrics",
+                                            "type": "MetricsTable",
+                                            "src": "/data/abe/Table3.csv",
+                                            "headers": true
+                                        },
+                                        {
+                                            "name": "operational_model",
+                                            "title": "Operational Model",
+                                            "type": "text",
+                                            "content": "<div class=\"rich-text-with-icons w-richtext\"><figure class=\"w-richtext-align-floatright w-richtext-figure-type-image\"><div><img loading=\"lazy\" src=\"images/chili-shine.png\"></div></figure><p>Kacholo, used an out-grower operational model, with farmers cultivating ABE on their own land with support from Kacholo. The programme is supervised by Martin Bebete and Josaphat Mutsambwa with support from a team of dedicated field extension officers in each region.</p><p>Across all regions, Kacholo provided inputs, such as seedlings, fertiliser and pesticides, on credit to the farmers. Although Kacholo recommended which and how many inputs to take, farmers decided for themselves what they wanted. Kacholo also stipulated a fixed $-rate per kg of fresh chillies in the contract signed with farmers. Kacholo provided between 16 to 32 hours of group based and individual training to the farmers through their field extension officers, covering a broad range of subjects. In addition to the standard technical skills, in the Fuve region they also conducted training on labour management. Emphasis has also been placed on encouraging children to attend school rather than working in the fields during planting and harvest periods.</p><p>The planting density was 25,000 plants per Ha across all regions, but plot sizes varied between growing areas, cultivating ABE on plot sizes between .05Ha - .64Ha. The Zimbabwe government only permits 10-20% of land to be designated for cash crops with the balance for family consumption to ensure farmer food security.</p></div>"
+                                        },
+                                        {
+                                            "name": "assesment_anomalies",
+                                            "title": "Assesment Anomalies",
+                                            "type": "text",
+                                            "content": "<p>There were a range of anomalies related to the 2021/22 growing season in Zimbabwe that included:</p><h3 class=\"is-highlighted\">Macro-Financial Systems</h3><p>Although the situation in Zimbabwe remains relatively peaceful, the economic context continues to be a major challenge for farmers. Inflation rates continue to be erratic and averaged over 200% in the calendar year 2022. There are also artificially state based USD to Zimbabwe exchange rates, which devalue the money paid to the farmers via Kacholo. Farmers were allowed more consistent access to the money in their bank accounts than in previous years, but only in Zimbabwe dollars (RTGS). Farmers were paid in USD, but when removed from the bank as RTGS the exchange rate is typically 75% of the trading value. This exchange rate loss and hyperinflation had a significant impact on one of the core benefits of the programme, namely a 'fixed price' per kg of chili, based in USD.</p><h3 class=\"is-highlighted\">Labour Costs</h3><div class=\"rich-text-with-icons w-richtext\"><figure class=\"w-richtext-align-floatright w-richtext-figure-type-imag\"><div><img loading=\"lazy\" src=\"images/peri-hand-1.png\"></div></figure><p>This season the cost of labour varied substantially between the three communities being assessed. This variance was based on two primary factors: Price of labour and when labour was used.</p><p>Labour costs are considered in two parts, the first is before chilli is harvested where labour isbeing used to prepare the land, plant seedlings and tend to the chill bushes while growing, this timeframe is deemed the growing season. The second labour costs are incurred when the chilli is being harvested. As it is sold fresh, harvesting and selling in a timely fashion is critical to the farmers income thus, they use most labour to help them harvest. Across the various communities&#x27;, day labour harvested roughly 75% of all chilli grown. What differed dramatically between communities was the cost of labour. In all three communities, labour was paid based on productivity, not time.</p><p>The day labour was compensated by the 20 litre bucket of chilli harvested. This bucket price varied between $1 at the lowest and $1.82 at the highest. This was principally a factor of labour availability and employment opportunities in the areas where production occurred. The second key factor was the use of labour during the growing season. Historically, very few farmers have used labour during this period, but this season, for unknown reasons, they did particularly in Birchenough where labour was used by a large number of farmers interviewed. These differences accounted for an overall increase in the cost of labour from the previous season.</p></div>"
+                                        },
+                                        {
+                                            "name": "challenges",
+                                            "title": "Successes, Challenges & Farmer Feedback",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "<p>The programme has been successful in Zimbabwe and through earnings from ABE, the farmers' lives continue to be positively impacted albeit in a very challenging macro socio-economic environment. There are, however, a number of changes that can be made to enhance the impact on the farmer's lives. The following reflects some of the successes and challenges identified during the impact assessment.</p>"
+                                                },
+                                                {
+                                                    "title": "Successes",
+                                                    "type": "text",
+                                                    "content": "<p>Zimbabwe continues to be the largest producer of ABE with the most smallholder farmers involved. The key successes noted for this season were:</p><h4>Farmer Appreciation: </h4><p>Although cash is constantly mentioned as a challenge, all farmers are very appreciative of the PERi-Farms programme. Within the context of Zimbabwe's current economic climate, the ABE farmers are considerably more financially stable than other farmers in the areas visited. For farmers who have been in the programme over a number of seasons improvements and sustaining these improvements is greatly appreciated.</p><h4>Technical Support and Inputs:</h4><p>Training and inputs continue to be highlighted as the primary drivers of success for farmers. As the programme grows each season to include new farmers, those that are in their first season were greatly appreciative of the training and demonstrations facilitated by the Field Extension Officers. The training sessions found most beneficial by the farmers were on fertiliser application, harvest management and record keeping.</p><h4>Additional Income Sources:</h4><p>Farmers who have been growing ABE for an extended period are beginning side projects for additional income. Farmers indicated being able to buy more livestock (cattle, chickens, goats and turkeys). Some farmers indicated buying scotch-carts which have improved their overall access to transport and often renting out their scotch-carts to those that need them in their community.</p>"
+                                                },
+                                                {
+                                                    "title": "Challenges",
+                                                    "type": "text",
+                                                    "content": "<p>The following reflects some of the challenges mentioned in the farmer and management interviews that did affect both earnings and impact:</p><h4>Fixed Price/kg: </h4><p>Due to the ongoing fluctuations in exchange rates and inflation, the actual cash in hand farmers receive is not seen to be a ‘fixed price’ and therefore does not have the same value. The vast majority of farmers suggested that a portion of their overall income be paid in US$ cash.</p>h4>High labour costs: </h4><p>Farmers indicated that seasonal Labour costs were very high this season, and these labourers typically want to be paid in US$ for their labour. Farmers have also requested extra cash loans for the paid labourers particularly towards the peak harvesting months.</p><h4><strong>Assistance With Protective Clothing:</strong></h4><p> Due to the handling of fertilizers and in some instances pesticides, farmers are increasingly requesting assistance with work suits, gumboots and gloves to use when out in the field.</p><h4>Provision of Additional Dryers: </h4><p>The capacity of the driers often does not support all the volume of the yields. When the driers are full, some farmers have to rely on drying the chilli outside and during periods of extending rain, this often leads to increased rotting and crop loss.</p>"
+                                                },
+                                                {
+                                                    "title": "Farmer Feedback",
+                                                    "type": "text",
+                                                    "content": "<h4>Farmers Perception of the Most Important Component of the PERi-Farms Program</h4><p>The value farmers perceive they receive from the fixed price has significantly decreased from 43% last year to 24% this year. The value perceived from technical support has significantly increased from 27% last year to 49% this year. The value perceived from inputs on credit has marginally decreased from 30% last year to 27% this year. These changes are an important reflection of the changing macro-economic conditions they operate within and how Kacholo can continue to support them.</p><p>Key farmer feedback as primarily covered in the Challenges section are: Higher fixed price of $2 per kg instead of $1; being paid in USD cash; loans for labour; and protective clothing.</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Which of the three core components of the ABE programme was the most important to you?</p>"
+                                                },
+                                                {
+                                                    "title": "Do you think the training you received changed your yield of ABE chillies?",
+                                                    "subtitle": "2022/2023",
+                                                    "caption": "...caption...",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe/Peri Farms — ZIM — 2022_23 — IMPACT - Do you think training received changed CROP yield.csv",
+                                                    "layout": "horizontal",
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Community",
+                                                    "value": "Count",
+                                                    "group": "Training received changed CROP yield?",
+                                                    "legend_text": "Select a Region",
+                                                    "colors": ["#9ac746", "#c13036"]
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Do you think the training you received increased the yields of your other crops, apart from ABE?</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Has any crop ever earned you more than you earned from growing chillies?</p>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "farmers",
+                                    "title": "Farmers",
+                                    "sections": [
+                                        {
+                                            "name": "farmers",
+                                            "title": "",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "name": "key_metrics",
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "src": "<h4>Missing Table</h4>"
+                                                },
+                                                {
+                                                    "title": "Farmers according to their age group",
+                                                    "subtitle": "2022/2023",
+                                                    "caption": "...caption...",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe/Peri Farms — ZIM — 2022_23 — COMMERCIAL - Farmers according to their age group.csv",
+                                                    "layout": "horizontal",
+                                                    "singular": true,
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Age Group",
+                                                    "value": "Count",
+                                                    "group": "Community",
+                                                    "legend_text": "Select a Region",
+                                                    "colors": ["#c13036", "#ed732e", "#9ac746"]
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to their highest level of education</p>"
+                                                },
+                                                {
+                                                    "title": "Farmers according to the size of their households",
+                                                    "subtitle": "2022/2023",
+                                                    "caption": "...caption...",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe/Peri Farms — ZIM — 2022_23 — IMPACT - Farmers according to the size of their households.csv",
+                                                    "layout": "horizontal",
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Household size (incl. farmer)",
+                                                    "value": "Count",
+                                                    "group": "Community",
+                                                    "legend_text": "Select a Region",
+                                                    "colors": ["#c13036", "#ed732e", "#9ac746"]
+                                                },
+                                                {
+                                                    "title": "Farmers according to their number of children",
+                                                    "subtitle": "2022/2023",
+                                                    "caption": "...caption...",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe/Peri Farms — ZIM — 2022_23 — IMPACT - Farmers according to their number of children.csv",
+                                                    "layout": "horizontal",
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "No. of children",
+                                                    "value": "Count",
+                                                    "group": "Community",
+                                                    "legend_text": "Select a Region",
+                                                    "colors": ["#c13036", "#ed732e", "#9ac746"]
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmland Beyond ABE</p>"
+                                                },
+                                                {
+                                                    "title": "Size of Total Farmland",
+                                                    "subtitle": "2022/2023",
+                                                    "caption": "...caption...",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe/Peri Farms — ZIM — 2022_23 — IMPACT - Size of Total Farmland.csv",
+                                                    "layout": "horizontal",
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Size of Total Farmland",
+                                                    "value": "Count",
+                                                    "group": "Community",
+                                                    "legend_text": "Select a Region",
+                                                    "colors": ["#c13036", "#ed732e", "#9ac746"]
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmland Irrigation</p>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "production",
+                                    "title": "Production",
+                                    "sections": [
+                                        {
+                                            "name": "farming",
+                                            "title": "Farming",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "name": "key_metrics",
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "src": "<h4>Missing Table</h4>"
+                                                },
+                                                {
+                                                    "title": "Farmers according to the amount of farmland used for ABE chillis",
+                                                    "subtitle": "2022/2023",
+                                                    "caption": "...caption...",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe/Peri Farms — ZIM — 2022_23 — IMPACT - Percentage of farmers according to farmland used for CROP.csv",
+                                                    "layout": "horizontal",
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Percentage of farmland used for CROP",
+                                                    "value": "Count",
+                                                    "group": "Community",
+                                                    "legend_text": "Select a Region",
+                                                    "colors": ["#c13036", "#ed732e", "#9ac746"]
+                                                },
+                                                {
+                                                    "title": "Farmers according to the other crops they grow",
+                                                    "subtitle": "2022/2023",
+                                                    "caption": "...caption...",
+                                                    "type": "RechartsBarChart",
+                                                    "src": "/data/abe/Peri Farms — ZIM — 2022_23 — IMPACT - Farmers according to the other crops they grow.csv",
+                                                    "layout": "horizontal",
+                                                    "x_label": "hello X",
+                                                    "y_label": "hello Y",
+                                                    "bin": "Other crops grown",
+                                                    "value": "Count",
+                                                    "group": "Community",
+                                                    "legend_text": "Select a Region",
+                                                    "colors": ["#c13036", "#ed732e", "#9ac746"]
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to the yield of fresh ABE chillis</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to the plot size of ABE chillis planted</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to the yield of fresh ABE chillis per 0.25ha planted</p>"
+                                                }
+                                                
+                                            ]
+                                        },
+                                        {
+                                            "name": "costs",
+                                            "title": "Costs",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "name": "costs_cta",
+                                                    "title": "",
+                                                    "type": "cta",
+                                                    "content": "To calculate the net income for farmers requires all costs to be considered. These include the input costs as recorded by country partner which include - seedlings, fertilisers, and pesticides. Additionally, the farmers also incur labour, transport, tools and sometimes water and electricity costs related to producing ABE. These costs are gleaned from the impact assessment interviews. The gross income minus all these costs is how the net income is derived."
+                                                },
+                                                {
+                                                    "name": "key_metrics",
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "src": "<h4>Missing Table</h4>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to their inputs costs (seedlings, fertilizer and pesticides)</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "income",
+                                            "title": "Income",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "name": "key_metrics",
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "src": "<h4>Missing Table</h4>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to their gross income</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to their net income</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to their gross income (detailed)</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Farmers according to their net income (detailed)</p>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "impact",
+                                    "title": "Impact",
+                                    "sections": [
+                                        {
+                                            "name": "human_needs",
+                                            "title": "Basic Human Needs Index",
+                                            "type": "text",
+                                            "content": "<p>As the conditions farmers live in are often difficult to grasp without first-hand experience, a numerical tool, called the basic human needs index, was developed to both compare communities, but most importantly to assist in understanding the impact of the PERi-Farms initiative. The basic human needs index creates a numerical value that measures how a community scores related to the key basic human needs: housing, water, effluent, energy, food security, health and education. </p><p>The baseline assessments create the initial scores for each of these human needs, which provides a foundation for comparison to the impact score derived after one or multiple growing seasons. Each area is scored on a scale of 1-10, where 1 represents the lowest value and 10 the highest. The following reflects how each basic human need is scored.</p><ul role=\"list\"><li>Education – Easy access to schools: pre-primary through high school, at a high quality at an affordable price, scores a 10.</li><li>Healthcare – Easy access to a broad range of medical care, that is high quality, at an affordable price, scores a 10.</li><li>Food Security – Access to food, which can provide a balanced diet with the essential vitamins and minerals at an affordable price, scores a 10.</li><li>Energy – Power of any type – grid or off-grid, inside the house that is consistently available at an affordable price, scores a 10.</li><li>Housing - A house that is solidly built, has adequate space for the size of the family, is waterproof, provides decent insulation, is equipped with water, toilets, and power, scores a 10.</li><li>Water – Water inside the house, that is always available, is safe for consumption and is affordable, scores a 10.</li><li>Effluent Removal – A house that has internal toilets that do not pose a risk to the environment, scores a 10.</li></ul>"
+                                        },
+                                        {
+                                            "name": "impact_scores",
+                                            "title": "Impact Scores",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Impact scores for farmers</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "education",
+                                            "title": "Education",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "Farmers in Zimbabwe generally have at least two children who are in primary school, and at least one in secondary school. The average cost of primary school is $183 per child and $361 for secondary school. Just over 60% of farmers spent money earned from ABE on education for their children.  They spent primarily on fees, stationary, books and uniforms spending on average $432.  ABE earnings were critical in maintaining their existing levels of education access and in some cases increasing the quality or higher education that would have otherwise been inaccessible."
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Has the money earned from growing ABE affected the education choices made in your household?</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "healthcare",
+                                            "title": "Healthcare",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "ABE Farmers generally access their healthcare at local clinics or hospitals where nurse and doctor visits are anywhere between $1-$10 including some basic medicines. Farmers visit medical facilities for a range of reasons, but the most common are malaria, headaches, diabetes, accidents and colds and flu.  73% of farmers spent ABE earnings on healthcare for themselves and their families, spending on average a reported $78. This money was primarily spent on transportation, fees and basic medicines.  In some cases, the ABE money was spent on private hospitals, doctors and medicines previously inaccessible."
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Has the money earned from growing ABE, in last season, affected the medical care your family gets?</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "food_security",
+                                            "title": "Food Security",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "Food Security continues to be an issue for Zimbabwe farmers. This is demonstrated by the limited amounts of protein consumed on average, as well as the high prevalence of carbohydrates versus vegetables and fruit. Additionally, it appears in how many farmers are regularly hungry and experience a “hungry” season. 40% of the farmers interviewed indicated they did not have enough to eat on a regular basis, but it was particularly acute between September – January when the crops they grow have the lowest harvests.  Finally, farmers are spending on average $294 of their ABE earnings on food, a proportionally high amount based on the average net incomes."
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Do you ever feel like you don't have enough to eat?</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>How often do you feel like you don't have enough to eat?</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Which months do you typically not have enough to eat?</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Did growing chillies affect the amount of food you grew to eat?</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>What kind of animals did you buy with your ABE earnings of last season?</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "housing",
+                                            "title": "Housing",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "The farmers have on average 6-7 people per household, sleeping on average 2-3 people per room. The housing in Zimbabwe is made with cement bricks (62%) and mud bricks (31%) and a small percentage use reeds and thatch. The housing structures generally have door and window frames and are plastered. The vast majority of the floors are cement (91%) and the balance are dirt. 52% of the farmers used their ABE earnings on housing. This included home improvements such as plastering, painting, floors, windows, frames, doors, roofing, and furniture. The average ABE earnings spent on housing was $248."
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Did you spend any of your ABE earnings from last season on housing?</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "energy",
+                                            "title": "Energy",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "The primary sources of energy for Zimbabwe farmers are wood for cooking and heating, solar for lighting and small device charging and batteries for lighting torches and lamps. In one of the growing areas farmers have access to electricity if they can afford to connect their house to the main line. The electricity is however only available intermittently and sometimes is unaffordable. 40% of all farmers spent ABE money on energy, spending an average of $135 in the 2021/22 season.  This money was spent on installing solar systems, buying wood, batteries, electricity, and fuel. Most of the money spent was for ongoing costs not sustainable energy sources."
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Since last season, has growing ABE changed the energy used in your household to cook, light or power other devices?</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Which energy forms have you increased spending on after growing ABE chillies?</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "water",
+                                            "title": "Water",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "The farmers have on average 6-7 people per household, sleeping on average 2-3 people per room. The housing in Zimbabwe is made with cement bricks (62%) aThe ABE farmers access water from lakes/rivers/canals (14%), local taps borehole/well (40%), municipality (11% - all in one community) and the balance from neighbours. The water is carried from source to the house 2-3 times per day, by multiple family members in 20 litre buckets. Independent of source, water is generally not tested regularly, but its quality varies dramatically between communities. Where sourced from a borehole or the municipality it tends to be safer than when sourced from a river, lake or steam. From the later sources, it is the cause of illnesses sporadically. 18% of farmers spent ABE earning on repairing boreholes, water fees, and chemicals for purification.  The average ABE earnings spent were $45.nd mud bricks (31%) and a small percentage use reeds and thatch. The housing structures generally have door and window frames and are plastered. The vast majority of the floors are cement (91%) and the balance are dirt. 52% of the farmers used their ABE earnings on housing. This included home improvements such as plastering, painting, floors, windows, frames, doors, roofing, and furniture. The average ABE earnings spent on housing was $248."
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Have any of your last years' ABE chilli earnings been spent on water for your household?</p>"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "effluent",
+                                            "title": "Effluent",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "The effluent systems used in Zimbabwe are pit latrine, the bush, and flush toilets by a small percentage (17%) in one community.   29% of farmers spent ABE earnings on their effluent system, spending an average of $146. Farmers bought the materials to build toilets, as well as repairing existing ones and in a few cases building a new toilet. "
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "content": "<h4>Missing Chart</h4><p>Have earnings from last year's chillies been spent on your family's effluent systems?</p>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        },
+                        {
+                            "period": [2021,2022],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>2021-2022 Overview</p>"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Malawi",
+                    "slug": "malawi",
+                    "periods": [
+                        {
+                            "period": [2022,2023],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>Now in their fifth season managing the PERi-Farm's programme, Tropha is Nando's country partner in Malawi. Its PERi-Farm's operational model is based on an in/out-grower hybrid scheme, with farmers cultivating African Birds Eye (ABE) chilli independently, but on land Tropha has secured and provided irrigation infrastructure. Beyond growing ABE for Nando's, Tropha also grows a range of other crops including Paprika, Malaga (another variety of ABE) and Macadamia nuts, which accounts for 70% of its business.</p><p>Farmers in the PERi-Farm's programme grow Nando's variety of ABE as their primary cash crop and a small amount of Malaga, in addition to other crops for consumption and local sales such as maize, tobacco, sorghum, soya and legumes.</p><p>The following country overview provides the key statistics and commercial data for the two communities, Chikwawa and Katowo, growing ABE in the 2022/23 season in Malawi. The commercial data is for the 83 farmers in Katowo (up by 51% from 55 in 2021/2022) and 198 farmers in Chikwawa (up by 68% from 118 in 2021/2022).</p>"
+                                        },
+                                        {
+                                            "name": "key_metrics",
+                                            "title": "Key Metrics",
+                                            "type": "mixed",
+                                            "sections": [
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "<p>Over 40% of the farmers in Malawi lost money growing ABE in 2022/23 based on excessive rain and flooding during the season.  Based on this, the data reflected below and throughout the commercial analysis has been segmented to include:</p><ul><li>All Farmers - refers to the total number of farmers who grew ABE in the 2022/23 season; and</li><li>Positive income - refers to farmers whose gross income exceeded their input and other costs.</li></ul>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "text",
+                                                    "content": "<p>HI</p>"
+                                                },
+                                                {
+                                                    "title": "",
+                                                    "type": "missing",
+                                                    "src": "<h4>Missing Table</h4>"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cayenne",
+            "short_name": "Cayenne",
+            "slug": "cayenne",
+            "countries": [
+                {
+                    "name": "Zimbabwe",
+                    "slug": "zimbabwe",
+                    "periods": [
+                        {
+                            "period": [2022,2023],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>2022-2023 Overview</p>"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "period": [2021,2022],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>2021-2022 Overview</p>"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Malawi",
+                    "slug": "malawi",
+                    "periods": [
+                        {
+                            "period": [2022,2023],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>2022-2023 Overview</p>"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "period": [2021,2022],
+                            "sections": [
+                                {
+                                    "name": "background",
+                                    "title": "Background",
+                                    "sections": [
+                                        {
+                                            "name": "overview",
+                                            "title": "Overview",
+                                            "type": "text",
+                                            "content": "<p>2022-2023 Overview</p>"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}
