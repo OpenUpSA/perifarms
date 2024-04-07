@@ -1,6 +1,6 @@
-# React Starter
+# PeriFarms
 
-A basic React Starter project with Parcel.
+Perifarms data
 
 ## Install
 
@@ -14,8 +14,7 @@ yarn
 yarn dev
 ```
 
-## Useful starting packages
+## Webflow
 
-```
-yarn add bootstrap react-bootstrap axios
-```
+This is a port from a Webflow export. The original export is available in `src/weblflow`
+
