@@ -4,9 +4,9 @@ import { useLocation } from 'react-router-dom';
 import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
 
 import MetricsList from './MetricsList';
-import BarChart from './BarChart';
 import RechartsBarChart from './RechartsBarChart';
-import RechartsBarMulti from './RechartsBarMulti';
+import RechartsBarChartMulti from './RechartsBarChartMulti';
+
 import ScatterChart from './ScatterChart';
 
 const CountryPage = () => {
@@ -122,16 +122,14 @@ const CountryPage = () => {
                                                                                     subsection.type == 'MetricsTable' && <MetricsList props={subsection} />
                                                                                 }
                                                                                 {
-                                                                                    subsection.type == 'BarChart' && <BarChart src={subsection.src} />
-                                                                                }
-                                                                                {
                                                                                     tab == section.name &&
                                                                                     subsection.type == 'RechartsBarChart' && <RechartsBarChart src={subsection.src} />
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
-                                                                                    subsection.type == 'RechartsBarMulti' && <RechartsBarMulti src={subsection.src} />
+                                                                                    subsection.type == 'RechartsBarChartMulti' && <RechartsBarChartMulti src={subsection.src} />
                                                                                 }
+                                                                                
                                                                                 {
                                                                                     subsection.type == 'mixed' && <>
                                                                                         {
@@ -155,16 +153,14 @@ const CountryPage = () => {
                                                                                                             subsubsection.type == 'MetricsTable' && <MetricsList props={subsubsection} />
                                                                                                         }
                                                                                                         {
-                                                                                                            subsubsection.type == 'BarChart' && <BarChart props={subsubsection} />
-                                                                                                        }
-                                                                                                        {
                                                                                                             tab == section.name &&
                                                                                                             subsubsection.type == 'RechartsBarChart' && <RechartsBarChart props={subsubsection} />
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
-                                                                                                            subsubsection.type == 'RechartsBarMulti' && <RechartsBarMulti props={subsubsection} />
+                                                                                                            subsubsection.type == 'RechartsBarChartMulti' && <RechartsBarChartMulti props={subsubsection} />
                                                                                                         }
+                                                                                                        
                                                                                                         {
                                                                                                             subsubsection.type == 'ScatterChart' && <ScatterChart props={subsubsection} />
                                                                                                         }
