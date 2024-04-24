@@ -3,11 +3,10 @@ import { AppContext } from './AppContext';
 import { useLocation } from 'react-router-dom';
 import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
 
-import MetricsList from './MetricsList';
+import Table from './Table';
 import RechartsBarChart from './RechartsBarChart';
 import RechartsBarChartMulti from './RechartsBarChartMulti';
-
-import ScatterChart from './ScatterChart';
+import RechartsScatterChart from './RechartsScatterChart';
 
 const CountryPage = () => {
 
@@ -15,29 +14,29 @@ const CountryPage = () => {
 
     const { content, crop, period, country, setCountry } = useContext(AppContext);
 
-    const [data, setData] = useState(null);
+    const [pageContent, setPageContent] = useState(null);
     const [countryInfo, setCountryInfo] = useState({});
     const [cropInfo, setCropInfo] = useState({});
-    const [tab, setTab] = useState('background');
+    const [tab, setTab] = useState('farmers');
 
 
 
     useEffect(() => {
-        getData();
+        getContent();
     }, []);
 
     useEffect(() => {
         
-        getData();
+        getContent();
     }, [period, crop]);
 
    
 
     useEffect(() => {
         
-    }, [data]);
+    }, [pageContent]);
 
-    const getData = () => {
+    const getContent = () => {
 
         let country = location.pathname.split('/')[2];
 
@@ -56,7 +55,7 @@ const CountryPage = () => {
             slug: countryInfoGet.slug,
         })
 
-        setData(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
+        setPageContent(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
 
         setCountry(countryInfoGet.slug);
 
@@ -78,7 +77,7 @@ const CountryPage = () => {
                     <div data-easing="ease" data-duration-in="300" data-duration-out="100" className="dashboard-content_tabs w-tabs">
                         <div className="tab-menu w-tab-menu">
                             {
-                                data.sections?.map((section, index) => {
+                                pageContent.sections?.map((section, index) => {
                                     return (
                                         <a key={index} data-w-tab={section.name} onClick={() => setTab(section.name)} className={`tab-link w-inline-block w-tab-link ${tab == section.name && 'w--current'}`}>
                                             <div className="button-text">{section.title}</div>
@@ -91,7 +90,7 @@ const CountryPage = () => {
                         <div className="tab-contents w-tab-content">
 
                             {
-                                data.sections?.map((section, index) => {
+                                pageContent.sections?.map((section, index) => {
                                     return (
 
                                         <div key={index} className={`tab-pane w-tab-pane ${tab == section.name && 'w--tab-active'}`}>
@@ -110,7 +109,7 @@ const CountryPage = () => {
                                                                                     </div>
                                                                                 }
                                                                                 {
-                                                                                    subsection.type == 'text' && ReactHtmlParser(subsection.content)
+                                                                                    subsection.type == 'text' && ReactHtmlParser(subsection.content?.replace('<h4>','<h4 class="is-highlighted">'))
                                                                                 }
                                                                                 {
                                                                                     subsection.type == 'missing' && <div className="missing-chart">{ReactHtmlParser(subsection.content)}</div>
@@ -119,11 +118,16 @@ const CountryPage = () => {
                                                                                     subsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsection.content}</p></div></div>
                                                                                 }
                                                                                 {
-                                                                                    subsection.type == 'MetricsTable' && <MetricsList props={subsection} />
+                                                                                    tab == section.name &&
+                                                                                    subsection.type == 'Table' && <Table props={subsection} />
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
                                                                                     subsection.type == 'RechartsBarChart' && <RechartsBarChart src={subsection.src} />
+                                                                                }
+                                                                                {
+                                                                                    tab == section.name &&
+                                                                                    subsection.type == 'ScatterChart' && <RechartsScatterChart src={subsection.src} />
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
@@ -150,7 +154,7 @@ const CountryPage = () => {
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
-                                                                                                            subsubsection.type == 'MetricsTable' && <MetricsList props={subsubsection} />
+                                                                                                            subsubsection.type == 'Table' && <Table props={subsubsection} />
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
@@ -158,12 +162,14 @@ const CountryPage = () => {
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
+                                                                                                            subsubsection.type == 'ScatterChart' && <RechartsScatterChart props={subsubsection} />
+                                                                                                        }
+                                                                                                        {
+                                                                                                            tab == section.name &&
                                                                                                             subsubsection.type == 'RechartsBarChartMulti' && <RechartsBarChartMulti props={subsubsection} />
                                                                                                         }
                                                                                                         
-                                                                                                        {
-                                                                                                            subsubsection.type == 'ScatterChart' && <ScatterChart props={subsubsection} />
-                                                                                                        }
+                                                                                                      
                                                                                                     </div>
                                                                                                 )
                                                                                             })

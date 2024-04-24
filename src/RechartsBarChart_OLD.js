@@ -5,16 +5,11 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, LabelList 
 
 import './recharts.scss';
 
-// TODO
-// multi-indicator labels
-// multi-indicator colors
-
 
 const RechartsBarChart = (props) => {
 
-    const { crop, country, period, data } = useContext(AppContext);
-    const [allData, setAllData] = useState([]);
-    const [chartData, setchartData] = useState([]);
+    const { crop, country, period } = useContext(AppContext);
+    const [data, setData] = useState([]);
     const [groups, setGroups] = useState([]);
     const [selectedGroups, setSelectedGroups] = useState([]);
     const svgRef = useRef(null);
@@ -31,7 +26,7 @@ const RechartsBarChart = (props) => {
         value: props.props.y_label,
         angle: -90,
         position: 'insideLeft',
-        offset: props.props.layout == 'vertical' ? -15 : 10,
+        offset: 10,
         fontSize: 13,
         fontWeight: 'bold',
         style: { textAnchor: 'middle' },
@@ -40,48 +35,62 @@ const RechartsBarChart = (props) => {
 
 
     useEffect(() => {
+        Papa.parse(props.props.src, {
+            download: true,
+            header: true,
+            complete: function (results) {
 
-        let filteredData = data[props.props.data_source].filter(item => item.country === props.props.country);
-        filteredData = filteredData.filter(item => item.crop === props.props.crop);
-        filteredData = filteredData.filter(item => props.props.indicator.includes(item.indicator));
-        filteredData = filteredData.filter(item => item.year === props.props.year);
+                console.log('raw data1', results.data);
 
-        let transformedDataArray = [];
+                var transformedData = [];
 
-        props.props.indicator.forEach(indicator => {
-            let transformedData = [];
-            let bins = Array.from(new Set(filteredData.filter(item => item.indicator === indicator).map(d => d.bin)));
+                var bins = Array.from(new Set(results.data.map((d) => d[props.props.bin])));
 
-            bins.forEach(bin => {
-                transformedData.push({ bin: bin });
-            });
+                bins.forEach((bin) => {
+                    transformedData.push({
+                        bin: bin,
+                    });
+                })
+                
 
-            filteredData.filter(item => item.indicator === indicator).forEach(item => {
-                transformedData.forEach(bin => {
-                    if (bin.bin === item.bin) {
-                        bin[item[props.props.group]] = parseFloat(props.props.value == 'percentage' ? item.percentage * 100 : item.value);
-                    }
-                });
-            });
+                results.data.forEach((item) => {
 
-            transformedDataArray.push({ indicator, transformedData });
+                    transformedData.forEach((bin) => {
+                        if (bin.bin === item[props.props.bin]) {
+                            bin[item[props.props.group]] = parseFloat(item[props.props.value]);
+                        }
+                    });
+                })
+
+                var groups = Array.from(new Set(results.data.map((d) => d[props.props.group])));
+
+                setGroups(groups);
+
+                if (props.props.singular) {
+                    setSelectedGroups([groups[0]]);
+                } else {
+                    setSelectedGroups(groups);
+                }
+
+
+
+
+                setData(transformedData);
+
+            }
         });
-
-        let groups = Array.from(new Set(filteredData.map(d => d[props.props.group])));
-        setGroups(groups);
-
-        if (props.props.singular) {
-            setSelectedGroups([groups[0]]);
-        } else {
-            setSelectedGroups(groups);
-        }
-
-        setAllData(transformedDataArray);
-        setchartData(transformedDataArray[0].transformedData);
-
     }, [props, crop, country, period]);
 
+    useEffect(() => {
+    }, [groups]);
 
+    useEffect(() => {
+
+    }, [selectedGroups]);
+
+    useEffect(() => {
+        console.log('final data1', data);
+    }, [data]);
 
     const getColors = (group) => {
         let colors = [
@@ -93,9 +102,7 @@ const RechartsBarChart = (props) => {
             '#ffff33'
         ];
         if (props.props.colors) {
-
-            colors = props.props.colors.concat(Array.from({ length: groups.length - props.props.colors.length }, (_, index) => props.props.colors[index % props.props.colors.length]));
-
+            colors = props.props.colors;
         }
 
         let index = groups.indexOf(group);
@@ -115,17 +122,6 @@ const RechartsBarChart = (props) => {
             }
         }
     };
-
-
-    const CustomizedLabel = (props) => {
-        const { x, y, width, height, value, chartProps } = props;
-
-        return (
-            <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
-                {chartProps.props.value == 'percentage' ? value.toFixed(0) + '%' : value.toFixed(0)}
-            </text>
-        );
-    }
 
     return (
         <div className="chartContainer">
@@ -151,35 +147,19 @@ const RechartsBarChart = (props) => {
                         );
                     })
                 }
-            </div>
 
-            {
-                allData.length > 1 && (
-                    <div className="indicators">
-                        <div className="label">{props.props.indicator_text}</div>
-                        <>
-                        {
-                            allData.map((item, index) => {
-                                return (
-                                    <div key={index} className={`indicatorSelect`} onClick={() => setchartData(item.transformedData)}>
-                                        {item.indicator}
-                                    </div>
-                                );
-                            })
-                        }
-                        </>
-                    </div>
-                    )
-            }
+
+
+            </div>
 
             <BarChart
                 width={document.querySelector('.chartContainer')?.offsetWidth}
                 height={400}
-                data={chartData}
+                data={data}
                 layout={props.props.layout}
-                margin={{ top: 40, right: 50, left: props.props.layout == 'vertical' ? 40 : 20, bottom: 40 }}
+                margin={{ top: 40, right: 50, left: 20, bottom: 40 }}
             >
-                <CartesianGrid vertical={props.props.layout == 'vertical' ? true : false} horizontal={props.props.layout == 'vertical' ? false : true} />
+                <CartesianGrid vertical={false} />
                 {
                     props.props.layout == 'vertical' ? <>
                         <XAxis
@@ -190,8 +170,7 @@ const RechartsBarChart = (props) => {
                             dataKey="bin"
                             type="category"
                             tick={{ fontSize: 11, fontWeight: 'bold' }}
-                            label={yAxisLabelStyle} 
-                            />
+                            label={yAxisLabelStyle} />
                     </> : <>
                         <XAxis
                             dataKey="bin"
@@ -204,15 +183,14 @@ const RechartsBarChart = (props) => {
                             label={yAxisLabelStyle} />
                     </>
                 }
-                <Tooltip 
-                    cursor={{ fill: 'rgba(0,0,0,0.05)' }} 
-                />
+                <Tooltip  cursor={{fill: 'rgba(0,0,0,0.05)'}} />
 
                 {
-                    selectedGroups.map((group, index) => {
+                    selectedGroups.map((group) => {
                         return (
-                            <Bar dataKey={group} key={index} fill={getColors(group)} label={<CustomizedLabel chartProps={props} />} />
-
+                            <Bar dataKey={group} key={group} fill={getColors(group)}>
+                                <LabelList dataKey="value" position="top" />
+                            </Bar>
                         );
                     })
                 }

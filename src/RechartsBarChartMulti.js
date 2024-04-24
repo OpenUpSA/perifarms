@@ -72,7 +72,6 @@ const RechartsBarChartMulti = (props) => {
 
     useEffect(() => {
     
-        console.log(data);
         setChartRefresh(chartRefresh + 1);
     
     },[data]);
