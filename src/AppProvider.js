@@ -58,7 +58,7 @@ export const AppProvider = ({ children }) => {
 
         // tables data
 
-        Papa.parse('/data/tables-data.csv', {
+        Papa.parse('/data/tables.csv', {
             download: true,
             header: true,
             complete: function (results) {

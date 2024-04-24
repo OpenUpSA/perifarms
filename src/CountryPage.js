@@ -109,12 +109,15 @@ const CountryPage = () => {
                                                                                     </div>
                                                                                 }
                                                                                 {
+                                                                                    tab == section.name &&
                                                                                     subsection.type == 'text' && ReactHtmlParser(subsection.content?.replace('<h4>','<h4 class="is-highlighted">'))
                                                                                 }
                                                                                 {
+                                                                                    tab == section.name &&
                                                                                     subsection.type == 'missing' && <div className="missing-chart">{ReactHtmlParser(subsection.content)}</div>
                                                                                 }
                                                                                 {
+                                                                                    tab == section.name &&
                                                                                     subsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsection.content}</p></div></div>
                                                                                 }
                                                                                 {
@@ -144,12 +147,15 @@ const CountryPage = () => {
                                                                                                             (subsubsection.type == 'text' && subsubsection.title != '') && <><div className="divider"></div><h3 className="is-highlighted">{subsubsection.title}</h3></>
                                                                                                         }
                                                                                                         {
+                                                                                                            tab == section.name &&
                                                                                                             subsubsection.type == 'text' && ReactHtmlParser(subsubsection.content)
                                                                                                         }
                                                                                                         {
+                                                                                                            tab == section.name &&
                                                                                                             subsubsection.type == 'missing' && <div className="missing-chart">{ReactHtmlParser(subsubsection.content)}</div>
                                                                                                         }
                                                                                                         {
+                                                                                                            tab == section.name &&
                                                                                                             subsubsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsubsection.content}</p></div></div>
                                                                                                         }
                                                                                                         {

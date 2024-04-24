@@ -25,7 +25,10 @@ const Table = (props) => {
         console.log(tableData);
     }, [tableData]);    
 
-    
+    const formatValue = (value) => {
+        return ReactHtmlParser(value.replace('[','<div class="small-value">').replace(']','</div>'));
+    }
+
    
     return (
         <>
@@ -37,7 +40,7 @@ const Table = (props) => {
                             <div className="metric-row" key={index}>
                                 <p className="metric-label">{item.indicator}</p>
                                 <div className="metric-item">
-                                    <div className="metric is-small">{item.value}</div>
+                                    <div className="metric is-small">{formatValue(item.value)}</div>
                                 </div>
                             </div>
                         </div>

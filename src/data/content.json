@@ -199,8 +199,14 @@
                       "sections": [
                         {
                           "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Zimbabwe",
+                          "table": [
+                            "farmers_key_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to their age group",
@@ -359,8 +365,14 @@
                       "sections": [
                         {
                           "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Zimbabwe",
+                          "table": [
+                            "production_farming_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to the amount of farmland used for ABE chillis",
@@ -490,8 +502,14 @@
                         },
                         {
                           "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Zimbabwe",
+                          "table": [
+                            "production_costs_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to their inputs costs (seedlings, fertilizer and pesticides)",
@@ -525,8 +543,14 @@
                       "sections": [
                         {
                           "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Zimbabwe",
+                          "table": [
+                            "production_income_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to their gross income",
@@ -977,9 +1001,14 @@
                         },
                         {
                           "title": "Key Metrics",
-                          "type": "MetricsTable",
-                          "src": "/data/abe/Peri Farms — MALAWI — 2022_23 — Background - Key Metrics.csv",
-                          "headers": true
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Malawi",
+                          "table": [
+                            "background_key_metrics"
+                          ],
+                          "year": "2022/23"
                         }
                       ]
                     },
@@ -1146,9 +1175,15 @@
                       "type": "mixed",
                       "sections": [
                         {
-                          "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "title": "Key Metrics",
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Malawi",
+                          "table": [
+                            "farmers_key_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to their age group",
@@ -1306,9 +1341,15 @@
                       "type": "mixed",
                       "sections": [
                         {
-                          "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "title": "Key Metrics",
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Malawi",
+                          "table": [
+                            "production_farming_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to the amount of farmland used for ABE chillis",
@@ -1437,9 +1478,15 @@
                           "content": "To calculate the net income for farmers requires all costs to be considered. These include the input costs as recorded by country partner which include - seedlings, fertilisers, and pesticides. Additionally, the farmers also incur labour, transport, tools and sometimes water and electricity costs related to producing ABE. These costs are gleaned from the impact assessment interviews. The gross income minus all these costs is how the net income is derived."
                         },
                         {
-                          "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "title": "Key Metrics",
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Malawi",
+                          "table": [
+                            "production_costs_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to their inputs costs (seedlings, fertilizer and pesticides)",
@@ -1472,9 +1519,15 @@
                       "type": "mixed",
                       "sections": [
                         {
-                          "title": "",
-                          "type": "missing",
-                          "src": "<h4>Missing Table</h4>"
+                          "title": "Key Metrics",
+                          "type": "Table",
+                          "data_source": "tables_data",
+                          "crop": "ABE",
+                          "country": "Malawi",
+                          "table": [
+                            "production_income_metrics"
+                          ],
+                          "year": "2022/23"
                         },
                         {
                           "title": "Farmers according to their gross income",
