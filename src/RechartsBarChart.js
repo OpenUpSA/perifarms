@@ -1,13 +1,17 @@
 import { useState, useEffect, useContext, useRef } from 'react';
 import { AppContext } from './AppContext';
-import Papa from 'papaparse';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, LabelList } from 'recharts';
 
+import Debug from './Debug';
+
 import './recharts.scss';
+import { filter } from 'd3';
 
 // TODO
 // multi-indicator labels
 // multi-indicator colors
+// number formats
+// coutnry comparison bins
 
 
 const RechartsBarChart = (props) => {
@@ -17,6 +21,7 @@ const RechartsBarChart = (props) => {
     const [chartData, setchartData] = useState([]);
     const [groups, setGroups] = useState([]);
     const [selectedGroups, setSelectedGroups] = useState([]);
+    const [selectedIndicator, setSelectedIndicator] = useState(props.props.indicator[0]);
     const svgRef = useRef(null);
     const xAxisLabelStyle = {
         value: props.props.x_label,
@@ -41,7 +46,18 @@ const RechartsBarChart = (props) => {
 
     useEffect(() => {
 
-        let filteredData = data[props.props.data_source].filter(item => item.country === props.props.country);
+        
+
+        let filteredData;
+        
+        if(props.props.country == 'multiple') {
+            filteredData = data[props.props.data_source].filter(item => item.community == item.country);
+            console.log(filteredData);
+        } else {
+            filteredData = data[props.props.data_source].filter(item => item.country === props.props.country);
+        }
+
+
         filteredData = filteredData.filter(item => item.crop === props.props.crop);
         filteredData = filteredData.filter(item => props.props.indicator.includes(item.indicator));
         filteredData = filteredData.filter(item => item.year === props.props.year);
@@ -119,13 +135,31 @@ const RechartsBarChart = (props) => {
 
     const CustomizedLabel = (props) => {
         const { x, y, width, height, value, chartProps } = props;
+    
+        if (chartProps.props.layout === 'horizontal') {
+            // For vertical bars, position the label above the bar
+            return (
+                <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
+                    {chartProps.props.value === 'percentage' ? `${value.toFixed(0)}%` : value.toFixed(2)}
+                </text>
+            );
+        } else {
+            // For horizontal bars, position the label to the right of the bar
+            return (
+                <text x={x + width + 10} y={y + height / 2} fill="#000" fontSize={10} fontWeight='bold' textAnchor="start" dy={0.35}>
+                    {chartProps.props.value === 'percentage' ? `${value.toFixed(0)}%` : value.toFixed(2)}
+                </text>
+            );
+        }
+    };
 
-        return (
-            <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
-                {chartProps.props.value == 'percentage' ? value.toFixed(0) + '%' : value.toFixed(0)}
-            </text>
-        );
+    const handleIndicatorChange = (item) => {
+
+        setSelectedIndicator(item.indicator);
+        setchartData(item.transformedData);
+
     }
+
 
     return (
         <div className="chartContainer">
@@ -136,6 +170,7 @@ const RechartsBarChart = (props) => {
                 {
                     props.props.subtitle && <h3>{props.props.subtitle}</h3>
                 }
+                <Debug props={props} />
             </header>
 
             <div className="groups">
@@ -161,7 +196,7 @@ const RechartsBarChart = (props) => {
                         {
                             allData.map((item, index) => {
                                 return (
-                                    <div key={index} className={`indicatorSelect`} onClick={() => setchartData(item.transformedData)}>
+                                    <div key={index} className={selectedIndicator == item.indicator ? `selectedIndicator indicatorSelect` : `indicatorSelect`} onClick={() => handleIndicatorChange(item)}>
                                         {item.indicator}
                                     </div>
                                 );
@@ -174,7 +209,7 @@ const RechartsBarChart = (props) => {
 
             <BarChart
                 width={document.querySelector('.chartContainer')?.offsetWidth}
-                height={400}
+                height={300}
                 data={chartData}
                 layout={props.props.layout}
                 margin={{ top: 40, right: 50, left: props.props.layout == 'vertical' ? 40 : 20, bottom: 40 }}

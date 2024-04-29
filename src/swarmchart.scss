@@ -1,0 +1,39 @@
+.swarmchart {
+
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+
+    .axis text {
+        font-size: 12px;
+    }
+
+    .circle {
+        stroke: #000;
+        stroke-width: 1px;
+    }
+
+    .circle:hover {
+        stroke: red;
+        /* Change stroke color on hover */
+    }
+
+    .band {
+        opacity: 0.2;
+    }
+
+    .swarm-tooltip {
+        position: absolute;
+        text-align: center;
+        padding: 1em;
+        color: #fff;
+        font: 12px sans-serif;
+        background: #333;
+        border: 1px solid #aaa;
+        border-radius: 4px;
+        pointer-events: none;
+    }
+}

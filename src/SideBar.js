@@ -25,7 +25,7 @@ const SideBar = () => {
                                 <div>{period[0]} - {period[1]}</div>
                             </div>
                             <nav className={`dropdown_list w-dropdown-list ${togglePeriodDropdown && 'w--open'}`}>
-                                <a href="#" onClick={() => setPeriod([2021,2022])} className="dropdown_link w-dropdown-link">2021 - 2022</a>
+                                {/* <a href="#" onClick={() => setPeriod([2021,2022])} className="dropdown_link w-dropdown-link">2021 - 2022</a> */}
                                 <a href="#" onClick={() => setPeriod([2022,2023])} className="dropdown_link w-dropdown-link">2022 - 2023</a>
                             </nav>
                         </div>

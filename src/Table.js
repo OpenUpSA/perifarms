@@ -7,6 +7,8 @@ const Table = (props) => {
    
     const { crop, country, period, data } = useContext(AppContext);
 
+    const [tableRefresh, setTableRefresh] = useState(0);
+
     const [tableData, setTableData] = useState([]);
 
     useEffect(() => {
@@ -19,11 +21,11 @@ const Table = (props) => {
         setTableData(filteredData);
 
 
-    }, []);
+    }, [data]);
+    
 
-    useEffect(() => {
-        console.log(tableData);
-    }, [tableData]);    
+    
+
 
     const formatValue = (value) => {
         return ReactHtmlParser(value.replace('[','<div class="small-value">').replace(']','</div>'));

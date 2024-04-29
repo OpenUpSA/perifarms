@@ -5,8 +5,8 @@ import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from
 
 import Table from './Table';
 import RechartsBarChart from './RechartsBarChart';
-import RechartsBarChartMulti from './RechartsBarChartMulti';
-import RechartsScatterChart from './RechartsScatterChart';
+import MultiChart from './MultiChart';
+import Swarmchart from './Swarmchart';
 
 const CountryPage = () => {
 
@@ -17,7 +17,7 @@ const CountryPage = () => {
     const [pageContent, setPageContent] = useState(null);
     const [countryInfo, setCountryInfo] = useState({});
     const [cropInfo, setCropInfo] = useState({});
-    const [tab, setTab] = useState('farmers');
+    const [tab, setTab] = useState('background');
 
 
 
@@ -121,20 +121,20 @@ const CountryPage = () => {
                                                                                     subsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsection.content}</p></div></div>
                                                                                 }
                                                                                 {
-                                                                                    tab == section.name &&
+                                                                                    
                                                                                     subsection.type == 'Table' && <Table props={subsection} />
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
-                                                                                    subsection.type == 'RechartsBarChart' && <RechartsBarChart src={subsection.src} />
+                                                                                    subsection.type == 'RechartsBarChart' && <RechartsBarChart props={subsection} />
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
-                                                                                    subsection.type == 'ScatterChart' && <RechartsScatterChart src={subsection.src} />
+                                                                                    subsection.type == 'SwarmChart' && <Swarmchart props={subsection} />
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
-                                                                                    subsection.type == 'RechartsBarChartMulti' && <RechartsBarChartMulti src={subsection.src} />
+                                                                                    subsection.type == 'MultiChart' && <MultiChart props={subsection} />
                                                                                 }
                                                                                 
                                                                                 {
@@ -168,11 +168,11 @@ const CountryPage = () => {
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
-                                                                                                            subsubsection.type == 'ScatterChart' && <RechartsScatterChart props={subsubsection} />
+                                                                                                            subsubsection.type == 'SwarmChart' && <Swarmchart props={subsubsection} />
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
-                                                                                                            subsubsection.type == 'RechartsBarChartMulti' && <RechartsBarChartMulti props={subsubsection} />
+                                                                                                            subsubsection.type == 'MultiChart' && <MultiChart props={subsubsection} />
                                                                                                         }
                                                                                                         
                                                                                                       

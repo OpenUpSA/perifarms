@@ -63,7 +63,6 @@
     }
 }
 
-// RechartsBarChartMulti
 
 .multiBarChartContainer {
 
@@ -75,9 +74,39 @@
         padding: 1em;
     }
 
+    .group h4 {
+        margin-bottom: 0em;
+    }
+
     &:after {
         content: "";
         display: block;
         clear: both;
+    }
+
+    .stackedBarChart {
+        box-sizing: border-box;
+        width: 100%;
+        background: #f7f7f7;
+        
+        .bar {
+            box-sizing: border-box;
+            height: 30px;
+            position: relative;
+
+            .bar-label {
+                font-size: 0.7em;
+                color: #000;
+                font-weight: bold;
+                position: absolute;
+                background: rgba(255,255,255,0.6);
+            }
+        }
+
+        &::after {
+            content: "";
+            display: block;
+            clear: both;
+        }
     }
 }

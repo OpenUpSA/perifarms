@@ -7,9 +7,13 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
+    "@lgv/beeswarm-bins": "^0.0.5",
     "autoprefixer": "^10.4.14",
+    "d3": "^7.9.0",
+    "d3-beeswarm": "^0.0.5",
     "papaparse": "^5.4.1",
     "react": "^18.2.0",
+    "react-app-protect": "^1.0.8",
     "react-dom": "^18.2.0",
     "react-html-parser": "^2.0.2",
     "react-router-dom": "^6.22.2",

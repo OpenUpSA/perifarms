@@ -34,8 +34,10 @@ const PeriFarms = () => {
                         <div className="dashboard-content">
                             <Routes>
                                 <Route path="/" element={<HomePage />} />
-                                <Route path={`${crop}/${country}`} element={<CountryPage />} />
-                                {/* <Route path="/cayenne/comparisons" element={<CountryComparison />} /> */}
+                                <Route path="/abe/zimbabwe" element={<CountryPage />} />
+                                <Route path="/abe/malawi" element={<CountryPage />} />
+                                <Route path="/abe/mozambique" element={<CountryPage />} />
+                                <Route path="/abe/comparisons" element={<CountryComparison />} />
                             </Routes>
                         </div>
                     </div>

@@ -6,92 +6,95 @@ import * as content from './data/content';
 
 
 export const AppProvider = ({ children }) => {
-
+    const debug = false;
     const [crop, setCrop] = useState('abe');
-    const [period, setPeriod] = useState([2022,2023]);
+    const [period, setPeriod] = useState([2022, 2023]);
     const [country, setCountry] = useState('zimbabwe');
+    const [dataLoaded, setDataLoaded] = useState(false);
     const [data, setData] = useState({
         charts_data: [],
-        impact_charts_data: [],
         tables_data: [],
-        impact_scores_charts_data: [],
-        farmers: []
+        impact_scores_data: [],
+        farmers_data: [],
+        country_comparisons_data: [],
+        country_comparisons_over_time_data: [],
+        extra_charts: []
     });
 
     // INIT
     useEffect(() => {
 
+       
+
+        if (dataLoaded == false) {
+            loadData();
+        }
+
         let path = window.location.pathname.split('/');
         let currentCrop = path[1];
         let currentCountry = path[2];
-        
+
         if (currentCrop === 'abe' || currentCrop === 'cayenne') {
             setCrop(currentCrop);
         }
 
         setCountry(currentCountry);
 
-        loadData();
+
+
+
 
     }, []);
 
     useEffect(() => {
         // console.log(crop);        
-    }, [crop] );
+    }, [crop]);
 
 
-    const loadData = () => {
-
-        // commercial data
-
-        Papa.parse('/data/charts.csv', {
-            download: true,
-            header: true,
-            complete: function (results) {
-
-                setData(prevData => ({
-                    ...prevData,
-                    charts_data: results.data
-                }));
-            }
-        });
-
-        // tables data
-
-        Papa.parse('/data/tables.csv', {
-            download: true,
-            header: true,
-            complete: function (results) {
-
-                setData(prevData => ({
-                    ...prevData,
-                    tables_data: results.data
-                }));
-            }
-        });
-
-        // farmers
-
-        Papa.parse('/data/farmers.csv', {
-            download: true,
-            header: true,
-            complete: function (results) {
-
-                setData(prevData => ({
-                    ...prevData,
-                    farmers: results.data
-                }));
-            }
-        });
+    const loadData = async () => {
         
 
+        try {
+            const [chartsData, tablesData, farmersData, countryComparisons, countryComparisonsOverTime, impactScores, extraCharts] = await Promise.all([
+                fetchData('/data/charts.csv'),
+                fetchData('/data/tables.csv'),
+                fetchData('/data/farmers.csv'),
+                fetchData('/data/country-comparisons.csv'),
+                fetchData('/data/country-comparisons-over-time.csv'),
+                fetchData('/data/impact-scores.csv'),
+                fetchData('/data/extra-charts.csv')
+            ]);
 
-    }
+            setData({ 
+                charts_data: chartsData, 
+                tables_data: tablesData,
+                farmers_data: farmersData,
+                impact_scores_data: impactScores,
+                country_comparisons_data: countryComparisons,
+                country_comparisons_over_time_data: countryComparisonsOverTime,
+                extra_charts: extraCharts
+            });
+            setDataLoaded(true);
+        } catch (error) {
+            console.error('Error loading data:', error);
+        }
+    };
+
+    const fetchData = (url) => {
+        return new Promise((resolve, reject) => {
+            Papa.parse(url, {
+                download: true,
+                header: true,
+                complete: (results) => resolve(results.data),
+                error: (error) => reject(error),
+            });
+        });
+    };
 
     useEffect(() => {
-        console.log(data);
+        
     }, [data]);
-   
+
     // SEND
     const values = {
         content,
@@ -101,7 +104,8 @@ export const AppProvider = ({ children }) => {
         setPeriod,
         country,
         setCountry,
-        data
+        data,
+        debug
     };
 
     return (

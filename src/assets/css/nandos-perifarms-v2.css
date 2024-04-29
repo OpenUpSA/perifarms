@@ -1068,6 +1068,18 @@ figcaption {
   background-color: rgba(45, 41, 41, .1);
 }
 
+.button.is-main-nav .button-bg, 
+.button.id-feature .button-bg {
+  transition: width .3s cubic-bezier(.23, 1, .32, 1);
+}
+
+
+.button.is-main-nav:hover .button-bg, 
+.button.is-feature:hover .button-bg {
+  width: 100%;
+}
+
+
 .button.is-main-nav.w--current {
   background-color: var(--nandos-red);
 }
