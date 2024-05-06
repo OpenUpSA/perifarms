@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
 
 import Table from './Table';
-import RechartsBarChart from './RechartsBarChart';
+import ChartBar from './ChartBar';
 import MultiChart from './MultiChart';
 import Swarmchart from './Swarmchart';
 
@@ -68,7 +68,7 @@ const CountryPage = () => {
                     <div className="padding-global"></div>
 
                     <div className="dashboard-country_info">
-                        <div className="country-name"><img src={`/images/${countryInfo.slug}.svg`} loading="lazy" alt="" className="country-flag" />
+                        <div className="country-name"><img src={`/assets/images/${countryInfo.slug}.svg`} loading="lazy" alt="" className="country-flag" />
                             <h1 className="heading-style-h1">{countryInfo.name} {crop == 'abe' ? 'ABE' : 'Cayenne'}</h1>
                             <div className="grid-item_bg"></div>
                         </div>
@@ -118,7 +118,7 @@ const CountryPage = () => {
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
-                                                                                    subsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsection.content}</p></div></div>
+                                                                                    subsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="/assets/images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsection.content}</p></div></div>
                                                                                 }
                                                                                 {
                                                                                     
@@ -126,7 +126,7 @@ const CountryPage = () => {
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
-                                                                                    subsection.type == 'RechartsBarChart' && <RechartsBarChart props={subsection} />
+                                                                                    subsection.type == 'BarChart' && <ChartBar props={subsection} />
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
@@ -156,7 +156,7 @@ const CountryPage = () => {
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
-                                                                                                            subsubsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsubsection.content}</p></div></div>
+                                                                                                            subsubsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="/assets/images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsubsection.content}</p></div></div>
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
@@ -164,7 +164,7 @@ const CountryPage = () => {
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&
-                                                                                                            subsubsection.type == 'RechartsBarChart' && <RechartsBarChart props={subsubsection} />
+                                                                                                            subsubsection.type == 'BarChart' && <ChartBar props={subsubsection} />
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&

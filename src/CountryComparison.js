@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
 
 import Table from './Table';
-import RechartsBarChart from './RechartsBarChart';
+import ChartBar from './ChartBar';
 import MultiChart from './MultiChart';
 import Swarmchart from './Swarmchart';
 
@@ -95,7 +95,7 @@ const CountryComparison = () => {
                                                         section.type == 'Table' && <Table props={section} />
                                                     }
                                                     {
-                                                        section.type == 'RechartsBarChart' && <RechartsBarChart props={section} />
+                                                        section.type == 'BarChart' && <ChartBar props={section} />
                                                     }
                                                     {
                                                         section.type == 'Beeswarm' && <Swarmchart props={section} />
@@ -127,7 +127,7 @@ const CountryComparison = () => {
                                                                                 subsection.type == 'Table' && <Table props={subsection} />
                                                                             }
                                                                             {
-                                                                                subsection.type == 'RechartsBarChart' && <RechartsBarChart props={subsection} />
+                                                                                subsection.type == 'BarChart' && <ChartBar props={subsection} />
                                                                             }
                                                                             {
                                                                                 subsection.type == 'Beeswarm' && <Swarmchart props={subsection} />

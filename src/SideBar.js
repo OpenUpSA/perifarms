@@ -13,7 +13,7 @@ const SideBar = () => {
         <>
             <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" className="dashboard-nav w-nav">
                 <div className="nav-brand">
-                    <a href="/" aria-current="page" className="dashboard-nav_logo w-nav-brand w--current"><img src="/images/peri-farms-logo-205px.png" loading="lazy" alt="" className="dashboard-logo_image" /></a>
+                    <a href="/" aria-current="page" className="dashboard-nav_logo w-nav-brand w--current"><img src="/assets/images/peri-farms-logo-205px.png" loading="lazy" alt="" className="dashboard-logo_image" /></a>
                     <h1 className="nav-title">Impact Dashboard</h1>
                 </div>
                 <nav role="navigation" className={`${crop} countrypage-content main-nav_menu w-nav-menu`}>
@@ -62,7 +62,7 @@ const SideBar = () => {
                             if(country.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]) != undefined){
                                 return (
                                     <a key={index} href={`/${crop}/${country.slug}`} className={`button is-main-nav w-inline-block ${useLocation().pathname.includes(country.slug) && 'w--current'}`}>
-                                        <img src={`/images/${country.slug}.svg`} loading="lazy" alt="" className="button-flag" />
+                                        <img src={`/assets/images/${country.slug}.svg`} loading="lazy" alt="" className="button-flag" />
                                         <div className="button-text">{country.name}</div>
                                         <div className="button-bg is-green"></div>
                                     </a>
@@ -73,7 +73,7 @@ const SideBar = () => {
                     
                     
                    
-                    <a href={`/${crop}/comparisons`} className="button is-main-nav w-inline-block">
+                    <a href={`/${crop}/comparisons`} className={`button is-main-nav w-inline-block ${useLocation().pathname.includes('comparison') && 'w--current'}`}>
                         <div className="button-text">Country Comparisons</div>
                         <div className="button-bg is-green"></div>
                     </a>
