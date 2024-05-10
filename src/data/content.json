@@ -238,11 +238,6 @@
 													]
 												},
 												{
-													"title": "",
-													"type": "missing",
-													"content": "<h4>Missing Chart</h4><p>Farmers according to their highest level of education</p>"
-												},
-												{
 													"title": "Farmers according to the size of their households",
 													"subtitle": "2022/2023",
 													"caption": "For example, 43% of farmers in Ruware live in a household with 7-9 persons (incl. farmer).",
@@ -355,7 +350,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -447,7 +442,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -470,7 +465,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												},
 												{
@@ -493,7 +488,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -561,7 +556,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												}
 											]
@@ -602,7 +597,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -780,7 +775,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -850,7 +845,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												}
 											]
@@ -1253,13 +1248,8 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
-												},
-												{
-													"title": "",
-													"type": "missing",
-													"content": "<h4>Missing Chart</h4><p>Farmers according to their highest level of education</p>"
 												},
 												{
 													"title": "Farmers according to the size of their households",
@@ -1281,7 +1271,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												},
 												{
@@ -1351,7 +1341,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -1466,7 +1456,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												},
 												{
@@ -1489,7 +1479,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#ffad43"
 													]
 												},
 												{
@@ -1535,7 +1525,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												}
 											]
@@ -1621,7 +1611,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -1644,7 +1634,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												}
 											]
@@ -1827,7 +1817,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												},
 												{
@@ -1874,7 +1864,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												}
 											]
@@ -2175,9 +2165,27 @@
 													"year": "2022/23"
 												},
 												{
-													"title": "",
-													"type": "missing",
-													"content": "<h4>Missing Chart</h4><p>Farmers according to their highest level of education</p>"
+													"title": "Farmers according to their highest level of education",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"farmer_highest_edu_level"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Highest Education Level",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
 												},
 												{
 													"title": "Farmers according to the size of their households",
@@ -2199,7 +2207,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												},
 												{
@@ -2726,7 +2734,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#9ac746"
 													]
 												},
 												{
@@ -2773,7 +2781,7 @@
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c13036"
+														"#f3b158"
 													]
 												}
 
