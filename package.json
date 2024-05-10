@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "copyfiles -s -a -u 1 ./src/data/* ./dist && copyfiles -s -a -u 1 ./src/assets/images/* ./dist && parcel src/index.html",
-    "build": "copyfiles -s -a -u 1 ./src/data/* ./dist && copyfiles -s -a -u 1 ./src/assets/images/* ./dist && parcel build src/index.html"
+    "build": "copyfiles -s -a -u 1 ./src/data/* ./dist && copyfiles -s -a -u 1 ./src/assets/images/* ./dist && parcel build src/index.html",
+    "netlify_build": ""
   },
   "dependencies": {
     "@lgv/beeswarm-bins": "^0.0.5",
