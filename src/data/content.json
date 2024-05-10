@@ -352,29 +352,6 @@
 													"colors": [
 														"#f3b158"
 													]
-												},
-												{
-													"title": "Beeswarm",
-													"subtitle": "2022/2023",
-													"caption": "",
-													"type": "Beeswarm",
-													"data_source": "charts_data",
-													"crop": "ABE",
-													"country": "Zimbabwe",
-													"indicator": [
-														"farmland_irrigation"
-													],
-													"year": "2022/23",
-													"group": "community",
-													"layout": "horizontal",
-													"singular": true,
-													"value": "percentage",
-													"x_label": "Response",
-													"y_label": "Percentage of farmers",
-													"legend_text": "Select a Region",
-													"colors": [
-														"#c13036"
-													]
 												}
 											]
 										}
@@ -1366,30 +1343,8 @@
 													"colors": [
 														"#c13036"
 													]
-												},
-												{
-													"title": "Earnings",
-													"subtitle": "2022/2023",
-													"caption": "",
-													"type": "SwarmChart",
-													"data_source": "charts_data",
-													"crop": "ABE",
-													"country": "Malawi",
-													"indicator": [
-														"gross_income_scatter_plot"
-													],
-													"year": "2022/23",
-													"group": "community",
-													"layout": "horizontal",
-													"singular": true,
-													"value": "percentage",
-													"x_label": "Response",
-													"y_label": "",
-													"legend_text": "Select a Region",
-													"colors": [
-														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
-													]
 												}
+												
 											]
 										}
 									]
@@ -3108,17 +3063,8 @@
 										"#ed732e",
 										"#c13036"
 									]
-								},
-								{
-									"title": "",
-									"type": "missing",
-									"content": "<h4>Missing Chart</h4><p>Percentage change in gross income per farmer</p>"
-								},
-								{
-									"title": "",
-									"type": "missing",
-									"content": "<h4>Missing Chart</h4><p>Percentage change in net income per farmer</p>"
 								}
+								
 								
 							]
 						}
