@@ -1,0 +1,1586 @@
+order,crop,country,community,year,indicator,bin,value,percentage
+001,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Most important,14,0.2500
+002,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Average importance,8,0.1429
+003,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Least important,34,0.6071
+004,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Most important,2,0.1111
+005,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Average importance,4,0.2222
+006,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Least important,12,0.6667
+007,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Most important,5,0.2381
+008,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Average importance,1,0.0476
+009,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Least important,15,0.7143
+010,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Most important,7,0.4118
+011,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Average importance,3,0.1765
+012,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Least important,7,0.4118
+013,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Most important,17,0.3036
+014,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Average importance,32,0.5714
+015,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Least important,7,0.1250
+016,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Most important,8,0.4706
+017,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Average importance,6,0.3529
+018,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Least important,3,0.1765
+019,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Most important,5,0.2273
+020,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Average importance,17,0.7727
+021,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Least important,0,0.0000
+022,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Most important,4,0.2353
+023,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Average importance,9,0.5294
+024,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Least important,4,0.2353
+025,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Most important,29,0.4265
+026,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Average importance,20,0.2941
+027,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Least important,19,0.2794
+028,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Most important,8,0.4211
+029,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Average importance,8,0.4211
+030,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Least important,3,0.1579
+031,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Most important,11,0.5500
+032,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Average importance,3,0.1500
+033,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Least important,6,0.3000
+034,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Most important,10,0.3448
+035,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Average importance,9,0.3103
+036,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Least important,10,0.3448
+037,ABE,Malawi,Malawi,2022/23,Fixed Prices,Most important,10,0.2564
+038,ABE,Malawi,Malawi,2022/23,Fixed Prices,Average importance,8,0.2051
+039,ABE,Malawi,Malawi,2022/23,Fixed Prices,Least important,21,0.5385
+040,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Most important,5,0.2381
+041,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Average importance,5,0.2381
+042,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Least important,11,0.5238
+043,ABE,Malawi,Katowo,2022/23,Fixed Prices,Most important,5,0.2778
+044,ABE,Malawi,Katowo,2022/23,Fixed Prices,Average importance,3,0.1667
+045,ABE,Malawi,Katowo,2022/23,Fixed Prices,Least important,10,0.5556
+046,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Most important,10,0.2703
+047,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Average importance,13,0.3514
+048,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Least important,14,0.3784
+049,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Most important,5,0.2632
+050,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Average importance,7,0.3684
+051,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Least important,7,0.3684
+052,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Most important,5,0.2778
+053,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Average importance,6,0.3333
+054,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Least important,7,0.3889
+055,ABE,Malawi,Malawi,2022/23,Tech Support,Most important,20,0.4545
+056,ABE,Malawi,Malawi,2022/23,Tech Support,Average importance,19,0.4318
+057,ABE,Malawi,Malawi,2022/23,Tech Support,Least important,5,0.1136
+058,ABE,Malawi,Chikwawa,2022/23,Tech Support,Most important,11,0.4783
+059,ABE,Malawi,Chikwawa,2022/23,Tech Support,Average importance,9,0.3913
+060,ABE,Malawi,Chikwawa,2022/23,Tech Support,Least important,3,0.1304
+061,ABE,Malawi,Katowo,2022/23,Tech Support,Most important,9,0.4286
+062,ABE,Malawi,Katowo,2022/23,Tech Support,Average importance,10,0.4762
+063,ABE,Malawi,Katowo,2022/23,Tech Support,Least important,2,0.0952
+064,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Most important,3,0.2500
+065,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Average importance,6,0.5000
+066,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Least important,3,0.2500
+070,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Most important,3,0.2500
+071,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Average importance,6,0.5000
+072,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Least important,3,0.2500
+076,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Most important,5,0.4167
+077,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Average importance,2,0.1667
+078,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Least important,5,0.4167
+082,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Most important,5,0.4167
+083,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Average importance,2,0.1667
+084,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Least important,5,0.4167
+088,ABE,Mozambique,Mozambique,2022/23,Tech Support,Most important,4,0.3333
+089,ABE,Mozambique,Mozambique,2022/23,Tech Support,Average importance,4,0.3333
+090,ABE,Mozambique,Mozambique,2022/23,Tech Support,Least important,4,0.3333
+094,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Most important,4,0.3333
+095,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Average importance,4,0.3333
+096,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Least important,4,0.3333
+100,ABE,Zimbabwe,Zimbabwe,2022/23,training_received_changed_yield_ABE,Yes,56,0.9333
+101,ABE,Zimbabwe,Zimbabwe,2022/23,training_received_changed_yield_ABE,No,4,0.0667
+102,ABE,Zimbabwe,Birchenough,2022/23,training_received_changed_yield_ABE,Yes,18,1.0000
+103,ABE,Zimbabwe,Birchenough,2022/23,training_received_changed_yield_ABE,No,0,0.0000
+104,ABE,Zimbabwe,Zaka,2022/23,training_received_changed_yield_ABE,Yes,18,0.8571
+105,ABE,Zimbabwe,Zaka,2022/23,training_received_changed_yield_ABE,No,3,0.1429
+106,ABE,Zimbabwe,Ruware,2022/23,training_received_changed_yield_ABE,Yes,20,0.9524
+107,ABE,Zimbabwe,Ruware,2022/23,training_received_changed_yield_ABE,No,1,0.0476
+108,ABE,Malawi,Malawi,2022/23,training_received_changed_yield_ABE,Yes,37,0.9250
+109,ABE,Malawi,Malawi,2022/23,training_received_changed_yield_ABE,No,3,0.0750
+110,ABE,Malawi,Chikwawa,2022/23,training_received_changed_yield_ABE,Yes,19,0.9048
+111,ABE,Malawi,Chikwawa,2022/23,training_received_changed_yield_ABE,No,2,0.0952
+112,ABE,Malawi,Katowo,2022/23,training_received_changed_yield_ABE,Yes,18,0.9474
+113,ABE,Malawi,Katowo,2022/23,training_received_changed_yield_ABE,No,1,0.0526
+114,ABE,Zimbabwe,Zimbabwe,2022/23,training_received_changed_yield_other_crops,Yes,53,0.8983
+115,ABE,Zimbabwe,Zimbabwe,2022/23,training_received_changed_yield_other_crops,No,6,0.1017
+116,ABE,Zimbabwe,Birchenough,2022/23,training_received_changed_yield_other_crops,Yes,15,0.8824
+117,ABE,Zimbabwe,Birchenough,2022/23,training_received_changed_yield_other_crops,No,2,0.1176
+118,ABE,Zimbabwe,Zaka,2022/23,training_received_changed_yield_other_crops,Yes,18,0.8571
+119,ABE,Zimbabwe,Zaka,2022/23,training_received_changed_yield_other_crops,No,3,0.1429
+120,ABE,Zimbabwe,Ruware,2022/23,training_received_changed_yield_other_crops,Yes,20,0.9524
+121,ABE,Zimbabwe,Ruware,2022/23,training_received_changed_yield_other_crops,No,1,0.0476
+122,ABE,Malawi,Malawi,2022/23,training_received_changed_yield_other_crops,Yes,33,0.8250
+123,ABE,Malawi,Malawi,2022/23,training_received_changed_yield_other_crops,No,7,0.1750
+124,ABE,Malawi,Chikwawa,2022/23,training_received_changed_yield_other_crops,Yes,19,0.9048
+125,ABE,Malawi,Chikwawa,2022/23,training_received_changed_yield_other_crops,No,2,0.0952
+126,ABE,Malawi,Katowo,2022/23,training_received_changed_yield_other_crops,Yes,14,0.7368
+127,ABE,Malawi,Katowo,2022/23,training_received_changed_yield_other_crops,No,5,0.2632
+128,ABE,Zimbabwe,Zimbabwe,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,20,0.3333
+129,ABE,Zimbabwe,Zimbabwe,2022/23,other_crop_ever_earned_you_more_than_ABE,No,40,0.6667
+130,ABE,Zimbabwe,Birchenough,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,7,0.3889
+131,ABE,Zimbabwe,Birchenough,2022/23,other_crop_ever_earned_you_more_than_ABE,No,11,0.6111
+132,ABE,Zimbabwe,Zaka,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,7,0.3333
+133,ABE,Zimbabwe,Zaka,2022/23,other_crop_ever_earned_you_more_than_ABE,No,14,0.6667
+134,ABE,Zimbabwe,Ruware,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,6,0.2857
+135,ABE,Zimbabwe,Ruware,2022/23,other_crop_ever_earned_you_more_than_ABE,No,15,0.7143
+136,ABE,Malawi,Malawi,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,6,0.1500
+137,ABE,Malawi,Malawi,2022/23,other_crop_ever_earned_you_more_than_ABE,No,34,0.8500
+138,ABE,Malawi,Chikwawa,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,2,0.0952
+139,ABE,Malawi,Chikwawa,2022/23,other_crop_ever_earned_you_more_than_ABE,No,19,0.9048
+140,ABE,Malawi,Katowo,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,4,0.2105
+141,ABE,Malawi,Katowo,2022/23,other_crop_ever_earned_you_more_than_ABE,No,15,0.7895
+142,ABE,Mozambique,Mozambique,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,1,0.0833
+143,ABE,Mozambique,Mozambique,2022/23,other_crop_ever_earned_you_more_than_ABE,No,11,0.9167
+146,ABE,Mozambique,Subsistence farmers,2022/23,other_crop_ever_earned_you_more_than_ABE,Yes,1,0.0833
+147,ABE,Mozambique,Subsistence farmers,2022/23,other_crop_ever_earned_you_more_than_ABE,No,11,0.9167
+150,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,0-9 y/o,0,0.0000
+151,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,10-19 y/o,1,0.0020
+152,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,20-29 y/o,43,0.0845
+153,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,30-39 y/o,105,0.2063
+154,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,40-49 y/o,166,0.3261
+155,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,50-59 y/o,105,0.2063
+156,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,60-69 y/o,64,0.1257
+157,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_age_groups,70+ y/o,25,0.0491
+158,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,0-9 y/o,0,0.0000
+159,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,10-19 y/o,0,0.0000
+160,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,20-29 y/o,11,0.0456
+161,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,30-39 y/o,47,0.1950
+162,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,40-49 y/o,81,0.3361
+163,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,50-59 y/o,51,0.2116
+164,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,60-69 y/o,38,0.1577
+165,ABE,Zimbabwe,Birchenough,2022/23,farmer_age_groups,70+ y/o,13,0.0539
+166,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,0-9 y/o,0,0.0000
+167,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,10-19 y/o,0,0.0000
+168,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,20-29 y/o,11,0.0724
+169,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,30-39 y/o,30,0.1974
+170,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,40-49 y/o,45,0.2961
+171,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,50-59 y/o,34,0.2237
+172,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,60-69 y/o,22,0.1447
+173,ABE,Zimbabwe,Zaka,2022/23,farmer_age_groups,70+ y/o,10,0.0658
+174,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,0-9 y/o,0,0.0000
+175,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,10-19 y/o,1,0.0086
+176,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,20-29 y/o,21,0.1810
+177,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,30-39 y/o,28,0.2414
+178,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,40-49 y/o,40,0.3448
+179,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,50-59 y/o,20,0.1724
+180,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,60-69 y/o,4,0.0345
+181,ABE,Zimbabwe,Ruware,2022/23,farmer_age_groups,70+ y/o,2,0.0172
+182,ABE,Malawi,Malawi,2022/23,farmer_age_groups,0-9 y/o,0,0.0000
+183,ABE,Malawi,Malawi,2022/23,farmer_age_groups,10-19 y/o,0,0.0000
+184,ABE,Malawi,Malawi,2022/23,farmer_age_groups,20-29 y/o,37,0.1317
+185,ABE,Malawi,Malawi,2022/23,farmer_age_groups,30-39 y/o,51,0.1815
+186,ABE,Malawi,Malawi,2022/23,farmer_age_groups,40-49 y/o,78,0.2776
+187,ABE,Malawi,Malawi,2022/23,farmer_age_groups,50-59 y/o,68,0.2420
+188,ABE,Malawi,Malawi,2022/23,farmer_age_groups,60-69 y/o,37,0.1317
+189,ABE,Malawi,Malawi,2022/23,farmer_age_groups,70+ y/o,10,0.0356
+190,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,0-9 y/o,0,0.0000
+191,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,10-19 y/o,0,0.0000
+192,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,20-29 y/o,28,0.1414
+193,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,30-39 y/o,39,0.1970
+194,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,40-49 y/o,55,0.2778
+195,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,50-59 y/o,40,0.2020
+196,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,60-69 y/o,28,0.1414
+197,ABE,Malawi,Chikwawa,2022/23,farmer_age_groups,70+ y/o,8,0.0404
+198,ABE,Malawi,Katowo,2022/23,farmer_age_groups,0-9 y/o,0,0.0000
+199,ABE,Malawi,Katowo,2022/23,farmer_age_groups,10-19 y/o,0,0.0000
+200,ABE,Malawi,Katowo,2022/23,farmer_age_groups,20-29 y/o,9,0.1084
+201,ABE,Malawi,Katowo,2022/23,farmer_age_groups,30-39 y/o,12,0.1446
+202,ABE,Malawi,Katowo,2022/23,farmer_age_groups,40-49 y/o,23,0.2771
+203,ABE,Malawi,Katowo,2022/23,farmer_age_groups,50-59 y/o,28,0.3373
+204,ABE,Malawi,Katowo,2022/23,farmer_age_groups,60-69 y/o,9,0.1084
+205,ABE,Malawi,Katowo,2022/23,farmer_age_groups,70+ y/o,2,0.0241
+206,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_household_size,1-3 persons,7,0.1167
+207,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_household_size,4-6 persons,31,0.5167
+208,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_household_size,7-9 persons,20,0.3333
+209,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_household_size,10+ persons,2,0.0333
+210,ABE,Zimbabwe,Birchenough,2022/23,farmer_household_size,1-3 persons,4,0.2222
+211,ABE,Zimbabwe,Birchenough,2022/23,farmer_household_size,4-6 persons,7,0.3889
+212,ABE,Zimbabwe,Birchenough,2022/23,farmer_household_size,7-9 persons,5,0.2778
+213,ABE,Zimbabwe,Birchenough,2022/23,farmer_household_size,10+ persons,2,0.1111
+214,ABE,Zimbabwe,Zaka,2022/23,farmer_household_size,1-3 persons,2,0.0952
+215,ABE,Zimbabwe,Zaka,2022/23,farmer_household_size,4-6 persons,13,0.6190
+216,ABE,Zimbabwe,Zaka,2022/23,farmer_household_size,7-9 persons,6,0.2857
+217,ABE,Zimbabwe,Zaka,2022/23,farmer_household_size,10+ persons,0,0.0000
+218,ABE,Zimbabwe,Ruware,2022/23,farmer_household_size,1-3 persons,1,0.0476
+219,ABE,Zimbabwe,Ruware,2022/23,farmer_household_size,4-6 persons,11,0.5238
+220,ABE,Zimbabwe,Ruware,2022/23,farmer_household_size,7-9 persons,9,0.4286
+221,ABE,Zimbabwe,Ruware,2022/23,farmer_household_size,10+ persons,0,0.0000
+222,ABE,Malawi,Malawi,2022/23,farmer_household_size,1-3 persons,3,0.0750
+223,ABE,Malawi,Malawi,2022/23,farmer_household_size,4-6 persons,24,0.6000
+224,ABE,Malawi,Malawi,2022/23,farmer_household_size,7-9 persons,11,0.2750
+225,ABE,Malawi,Malawi,2022/23,farmer_household_size,10+ persons,2,0.0500
+226,ABE,Malawi,Chikwawa,2022/23,farmer_household_size,1-3 persons,1,0.0476
+227,ABE,Malawi,Chikwawa,2022/23,farmer_household_size,4-6 persons,10,0.4762
+228,ABE,Malawi,Chikwawa,2022/23,farmer_household_size,7-9 persons,10,0.4762
+229,ABE,Malawi,Chikwawa,2022/23,farmer_household_size,10+ persons,0,0.0000
+230,ABE,Malawi,Katowo,2022/23,farmer_household_size,1-3 persons,2,0.1053
+231,ABE,Malawi,Katowo,2022/23,farmer_household_size,4-6 persons,14,0.7368
+232,ABE,Malawi,Katowo,2022/23,farmer_household_size,7-9 persons,1,0.0526
+233,ABE,Malawi,Katowo,2022/23,farmer_household_size,10+ persons,2,0.1053
+234,ABE,Mozambique,Mozambique,2022/23,farmer_household_size,1-3 persons,2,0.1667
+235,ABE,Mozambique,Mozambique,2022/23,farmer_household_size,4-6 persons,4,0.3333
+236,ABE,Mozambique,Mozambique,2022/23,farmer_household_size,7-9 persons,6,0.5000
+237,ABE,Mozambique,Mozambique,2022/23,farmer_household_size,10+ persons,0,0.0000
+242,ABE,Mozambique,Subsistence farmers,2022/23,farmer_household_size,1-3 persons,2,0.1667
+243,ABE,Mozambique,Subsistence farmers,2022/23,farmer_household_size,4-6 persons,4,0.3333
+244,ABE,Mozambique,Subsistence farmers,2022/23,farmer_household_size,7-9 persons,6,0.5000
+245,ABE,Mozambique,Subsistence farmers,2022/23,farmer_household_size,10+ persons,0,0.0000
+250,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_no_of_children,No children,1,0.0167
+251,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_no_of_children,1-3 children,21,0.3500
+252,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_no_of_children,4-6 children,36,0.6000
+253,ABE,Zimbabwe,Zimbabwe,2022/23,farmer_no_of_children,7-9 children,2,0.0333
+254,ABE,Zimbabwe,Birchenough,2022/23,farmer_no_of_children,No children,0,0.0000
+255,ABE,Zimbabwe,Birchenough,2022/23,farmer_no_of_children,1-3 children,8,0.4444
+256,ABE,Zimbabwe,Birchenough,2022/23,farmer_no_of_children,4-6 children,9,0.5000
+257,ABE,Zimbabwe,Birchenough,2022/23,farmer_no_of_children,7-9 children,1,0.0556
+258,ABE,Zimbabwe,Zaka,2022/23,farmer_no_of_children,No children,1,0.0476
+259,ABE,Zimbabwe,Zaka,2022/23,farmer_no_of_children,1-3 children,7,0.3333
+260,ABE,Zimbabwe,Zaka,2022/23,farmer_no_of_children,4-6 children,12,0.5714
+261,ABE,Zimbabwe,Zaka,2022/23,farmer_no_of_children,7-9 children,1,0.0476
+262,ABE,Zimbabwe,Ruware,2022/23,farmer_no_of_children,No children,0,0.0000
+263,ABE,Zimbabwe,Ruware,2022/23,farmer_no_of_children,1-3 children,6,0.2857
+264,ABE,Zimbabwe,Ruware,2022/23,farmer_no_of_children,4-6 children,15,0.7143
+265,ABE,Zimbabwe,Ruware,2022/23,farmer_no_of_children,7-9 children,0,0.0000
+266,ABE,Malawi,Malawi,2022/23,farmer_no_of_children,No children,3,0.0769
+267,ABE,Malawi,Malawi,2022/23,farmer_no_of_children,1-3 children,19,0.4872
+268,ABE,Malawi,Malawi,2022/23,farmer_no_of_children,4-6 children,15,0.3846
+269,ABE,Malawi,Malawi,2022/23,farmer_no_of_children,7-9 children,2,0.0513
+270,ABE,Malawi,Chikwawa,2022/23,farmer_no_of_children,No children,1,0.0476
+271,ABE,Malawi,Chikwawa,2022/23,farmer_no_of_children,1-3 children,8,0.3810
+272,ABE,Malawi,Chikwawa,2022/23,farmer_no_of_children,4-6 children,10,0.4762
+273,ABE,Malawi,Chikwawa,2022/23,farmer_no_of_children,7-9 children,2,0.0952
+274,ABE,Malawi,Katowo,2022/23,farmer_no_of_children,No children,2,0.1111
+275,ABE,Malawi,Katowo,2022/23,farmer_no_of_children,1-3 children,11,0.6111
+276,ABE,Malawi,Katowo,2022/23,farmer_no_of_children,4-6 children,5,0.2778
+277,ABE,Malawi,Katowo,2022/23,farmer_no_of_children,7-9 children,0,0.0000
+278,ABE,Mozambique,Mozambique,2022/23,farmer_no_of_children,No children,0,0.0000
+279,ABE,Mozambique,Mozambique,2022/23,farmer_no_of_children,1-3 children,4,0.3636
+280,ABE,Mozambique,Mozambique,2022/23,farmer_no_of_children,4-6 children,4,0.3636
+281,ABE,Mozambique,Mozambique,2022/23,farmer_no_of_children,7-9 children,3,0.2727
+286,ABE,Mozambique,Subsistence farmers,2022/23,farmer_no_of_children,No children,0,0.0000
+287,ABE,Mozambique,Subsistence farmers,2022/23,farmer_no_of_children,1-3 children,4,0.3636
+288,ABE,Mozambique,Subsistence farmers,2022/23,farmer_no_of_children,4-6 children,4,0.3636
+289,ABE,Mozambique,Subsistence farmers,2022/23,farmer_no_of_children,7-9 children,3,0.2727
+294,ABE,Zimbabwe,Zimbabwe,2022/23,farmland_beyond_ABE,Yes,59,0.9833
+295,ABE,Zimbabwe,Zimbabwe,2022/23,farmland_beyond_ABE,No,1,0.0167
+296,ABE,Zimbabwe,Birchenough,2022/23,farmland_beyond_ABE,Yes,18,1.0000
+297,ABE,Zimbabwe,Birchenough,2022/23,farmland_beyond_ABE,No,0,0.0000
+298,ABE,Zimbabwe,Zaka,2022/23,farmland_beyond_ABE,Yes,21,1.0000
+299,ABE,Zimbabwe,Zaka,2022/23,farmland_beyond_ABE,No,0,0.0000
+300,ABE,Zimbabwe,Ruware,2022/23,farmland_beyond_ABE,Yes,20,0.9524
+301,ABE,Zimbabwe,Ruware,2022/23,farmland_beyond_ABE,No,1,0.0476
+302,ABE,Malawi,Malawi,2022/23,farmland_beyond_ABE,Yes,40,1.0000
+303,ABE,Malawi,Malawi,2022/23,farmland_beyond_ABE,No,0,0.0000
+304,ABE,Malawi,Chikwawa,2022/23,farmland_beyond_ABE,Yes,21,1.0000
+305,ABE,Malawi,Chikwawa,2022/23,farmland_beyond_ABE,No,0,0.0000
+306,ABE,Malawi,Katowo,2022/23,farmland_beyond_ABE,Yes,19,1.0000
+307,ABE,Malawi,Katowo,2022/23,farmland_beyond_ABE,No,0,0.0000
+308,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,<1ha,38,0.5205
+309,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,1-1.9ha,14,0.1918
+310,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,2-2.9ha,6,0.0822
+311,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,3-3.9ha,8,0.1096
+312,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,4-4.9ha,0,0.0000
+313,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,5-5.9ha,4,0.0548
+314,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,6-6.9ha,2,0.0274
+315,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,7-7.9ha,0,0.0000
+316,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,8-8.9ha,1,0.0137
+317,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,9-9.9ha,0,0.0000
+318,ABE,Zimbabwe,Zimbabwe,2022/23,total_farmland_size,10ha+,0,0.0000
+319,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,<1ha,15,0.7143
+320,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,1-1.9ha,3,0.1429
+321,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,2-2.9ha,0,0.0000
+322,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,3-3.9ha,1,0.0476
+323,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,4-4.9ha,0,0.0000
+324,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,5-5.9ha,1,0.0476
+325,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,6-6.9ha,0,0.0000
+326,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,7-7.9ha,0,0.0000
+327,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,8-8.9ha,1,0.0476
+328,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,9-9.9ha,0,0.0000
+329,ABE,Zimbabwe,Birchenough,2022/23,total_farmland_size,10ha+,0,0.0000
+330,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,<1ha,18,0.6000
+331,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,1-1.9ha,9,0.3000
+332,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,2-2.9ha,2,0.0667
+333,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,3-3.9ha,1,0.0333
+334,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,4-4.9ha,0,0.0000
+335,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,5-5.9ha,0,0.0000
+336,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,6-6.9ha,0,0.0000
+337,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,7-7.9ha,0,0.0000
+338,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,8-8.9ha,0,0.0000
+339,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,9-9.9ha,0,0.0000
+340,ABE,Zimbabwe,Zaka,2022/23,total_farmland_size,10ha+,0,0.0000
+341,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,<1ha,5,0.2273
+342,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,1-1.9ha,2,0.0909
+343,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,2-2.9ha,4,0.1818
+344,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,3-3.9ha,6,0.2727
+345,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,4-4.9ha,0,0.0000
+346,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,5-5.9ha,3,0.1364
+347,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,6-6.9ha,2,0.0909
+348,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,7-7.9ha,0,0.0000
+349,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,8-8.9ha,0,0.0000
+350,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,9-9.9ha,0,0.0000
+351,ABE,Zimbabwe,Ruware,2022/23,total_farmland_size,10ha+,0,0.0000
+352,ABE,Malawi,Malawi,2022/23,total_farmland_size,<1ha,31,0.4921
+353,ABE,Malawi,Malawi,2022/23,total_farmland_size,1-1.9ha,21,0.3333
+354,ABE,Malawi,Malawi,2022/23,total_farmland_size,2-2.9ha,6,0.0952
+355,ABE,Malawi,Malawi,2022/23,total_farmland_size,3-3.9ha,1,0.0159
+356,ABE,Malawi,Malawi,2022/23,total_farmland_size,4-4.9ha,1,0.0159
+357,ABE,Malawi,Malawi,2022/23,total_farmland_size,5-5.9ha,0,0.0000
+358,ABE,Malawi,Malawi,2022/23,total_farmland_size,6-6.9ha,1,0.0159
+359,ABE,Malawi,Malawi,2022/23,total_farmland_size,7-7.9ha,0,0.0000
+360,ABE,Malawi,Malawi,2022/23,total_farmland_size,8-8.9ha,0,0.0000
+361,ABE,Malawi,Malawi,2022/23,total_farmland_size,9-9.9ha,0,0.0000
+362,ABE,Malawi,Malawi,2022/23,total_farmland_size,10ha+,2,0.0317
+363,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,<1ha,17,0.5000
+364,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,1-1.9ha,12,0.3529
+365,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,2-2.9ha,3,0.0882
+366,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,3-3.9ha,1,0.0294
+367,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,4-4.9ha,0,0.0000
+368,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,5-5.9ha,0,0.0000
+369,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,6-6.9ha,0,0.0000
+370,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,7-7.9ha,0,0.0000
+371,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,8-8.9ha,0,0.0000
+372,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,9-9.9ha,0,0.0000
+373,ABE,Malawi,Chikwawa,2022/23,total_farmland_size,10ha+,1,0.0294
+374,ABE,Malawi,Katowo,2022/23,total_farmland_size,<1ha,14,0.4828
+375,ABE,Malawi,Katowo,2022/23,total_farmland_size,1-1.9ha,9,0.3103
+376,ABE,Malawi,Katowo,2022/23,total_farmland_size,2-2.9ha,3,0.1034
+377,ABE,Malawi,Katowo,2022/23,total_farmland_size,3-3.9ha,0,0.0000
+378,ABE,Malawi,Katowo,2022/23,total_farmland_size,4-4.9ha,1,0.0345
+379,ABE,Malawi,Katowo,2022/23,total_farmland_size,5-5.9ha,0,0.0000
+380,ABE,Malawi,Katowo,2022/23,total_farmland_size,6-6.9ha,1,0.0345
+381,ABE,Malawi,Katowo,2022/23,total_farmland_size,7-7.9ha,0,0.0000
+382,ABE,Malawi,Katowo,2022/23,total_farmland_size,8-8.9ha,0,0.0000
+383,ABE,Malawi,Katowo,2022/23,total_farmland_size,9-9.9ha,0,0.0000
+384,ABE,Malawi,Katowo,2022/23,total_farmland_size,10ha+,1,0.0345
+385,ABE,Zimbabwe,Zimbabwe,2022/23,farmland_irrigation,Yes,46,0.7797
+386,ABE,Zimbabwe,Zimbabwe,2022/23,farmland_irrigation,Partially,7,0.1186
+387,ABE,Zimbabwe,Zimbabwe,2022/23,farmland_irrigation,No,6,0.1017
+388,ABE,Zimbabwe,Birchenough,2022/23,farmland_irrigation,Yes,17,0.9444
+389,ABE,Zimbabwe,Birchenough,2022/23,farmland_irrigation,Partially,0,0.0000
+390,ABE,Zimbabwe,Birchenough,2022/23,farmland_irrigation,No,1,0.0556
+391,ABE,Zimbabwe,Zaka,2022/23,farmland_irrigation,Yes,17,0.8095
+392,ABE,Zimbabwe,Zaka,2022/23,farmland_irrigation,Partially,3,0.1429
+393,ABE,Zimbabwe,Zaka,2022/23,farmland_irrigation,No,1,0.0476
+394,ABE,Zimbabwe,Ruware,2022/23,farmland_irrigation,Yes,12,0.6000
+395,ABE,Zimbabwe,Ruware,2022/23,farmland_irrigation,Partially,4,0.2000
+396,ABE,Zimbabwe,Ruware,2022/23,farmland_irrigation,No,4,0.2000
+397,ABE,Malawi,Malawi,2022/23,farmland_irrigation,Yes,4,0.1000
+398,ABE,Malawi,Malawi,2022/23,farmland_irrigation,Partially,2,0.0500
+399,ABE,Malawi,Malawi,2022/23,farmland_irrigation,No,34,0.8500
+400,ABE,Malawi,Chikwawa,2022/23,farmland_irrigation,Yes,1,0.0476
+401,ABE,Malawi,Chikwawa,2022/23,farmland_irrigation,Partially,0,0.0000
+402,ABE,Malawi,Chikwawa,2022/23,farmland_irrigation,No,20,0.9524
+403,ABE,Malawi,Katowo,2022/23,farmland_irrigation,Yes,3,0.1579
+404,ABE,Malawi,Katowo,2022/23,farmland_irrigation,Partially,2,0.1053
+405,ABE,Malawi,Katowo,2022/23,farmland_irrigation,No,14,0.7368
+406,ABE,Zimbabwe,Zimbabwe,2022/23,percentage_farmland_for_ABE,0-24%,33,0.6000
+407,ABE,Zimbabwe,Zimbabwe,2022/23,percentage_farmland_for_ABE,25-49%,10,0.1818
+408,ABE,Zimbabwe,Zimbabwe,2022/23,percentage_farmland_for_ABE,50-74%,8,0.1455
+409,ABE,Zimbabwe,Zimbabwe,2022/23,percentage_farmland_for_ABE,75-100%,4,0.0727
+410,ABE,Zimbabwe,Birchenough,2022/23,percentage_farmland_for_ABE,0-24%,7,0.3889
+411,ABE,Zimbabwe,Birchenough,2022/23,percentage_farmland_for_ABE,25-49%,3,0.1667
+412,ABE,Zimbabwe,Birchenough,2022/23,percentage_farmland_for_ABE,50-74%,6,0.3333
+413,ABE,Zimbabwe,Birchenough,2022/23,percentage_farmland_for_ABE,75-100%,2,0.1111
+414,ABE,Zimbabwe,Zaka,2022/23,percentage_farmland_for_ABE,0-24%,10,0.5556
+415,ABE,Zimbabwe,Zaka,2022/23,percentage_farmland_for_ABE,25-49%,5,0.2778
+416,ABE,Zimbabwe,Zaka,2022/23,percentage_farmland_for_ABE,50-74%,1,0.0556
+417,ABE,Zimbabwe,Zaka,2022/23,percentage_farmland_for_ABE,75-100%,2,0.1111
+418,ABE,Zimbabwe,Ruware,2022/23,percentage_farmland_for_ABE,0-24%,16,0.8421
+419,ABE,Zimbabwe,Ruware,2022/23,percentage_farmland_for_ABE,25-49%,2,0.1053
+420,ABE,Zimbabwe,Ruware,2022/23,percentage_farmland_for_ABE,50-74%,1,0.0526
+421,ABE,Zimbabwe,Ruware,2022/23,percentage_farmland_for_ABE,75-100%,0,0.0000
+422,ABE,Malawi,Malawi,2022/23,percentage_farmland_for_ABE,0-24%,29,0.7250
+423,ABE,Malawi,Malawi,2022/23,percentage_farmland_for_ABE,25-49%,11,0.2750
+424,ABE,Malawi,Malawi,2022/23,percentage_farmland_for_ABE,50-74%,0,0.0000
+425,ABE,Malawi,Malawi,2022/23,percentage_farmland_for_ABE,75-100%,0,0.0000
+426,ABE,Malawi,Chikwawa,2022/23,percentage_farmland_for_ABE,0-24%,14,0.6667
+427,ABE,Malawi,Chikwawa,2022/23,percentage_farmland_for_ABE,25-49%,7,0.3333
+428,ABE,Malawi,Chikwawa,2022/23,percentage_farmland_for_ABE,50-74%,0,0.0000
+429,ABE,Malawi,Chikwawa,2022/23,percentage_farmland_for_ABE,75-100%,0,0.0000
+430,ABE,Malawi,Katowo,2022/23,percentage_farmland_for_ABE,0-24%,15,0.7895
+431,ABE,Malawi,Katowo,2022/23,percentage_farmland_for_ABE,25-49%,4,0.2105
+432,ABE,Malawi,Katowo,2022/23,percentage_farmland_for_ABE,50-74%,0,0.0000
+433,ABE,Malawi,Katowo,2022/23,percentage_farmland_for_ABE,75-100%,0,0.0000
+434,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Bananas,9,0.0479
+435,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Beans,39,0.2074
+436,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Cabbage,6,0.0319
+437,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Cotton,7,0.0372
+438,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Ground nuts,24,0.1277
+439,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Maize,52,0.2766
+440,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Okra,2,0.0106
+441,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Onions,4,0.0213
+442,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Potatoes,0,0.0000
+443,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Round nuts,1,0.0053
+444,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Sesame,2,0.0106
+445,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Sorghum,1,0.0053
+446,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Spinach,0,0.0000
+447,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Sweet potatoes,1,0.0053
+448,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Tobacco,0,0.0000
+449,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Tomatoes,20,0.1064
+450,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Wheat,15,0.0798
+451,ABE,Zimbabwe,Zimbabwe,2022/23,other_crops_grown,Other,5,0.0266
+452,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Bananas,0,0.0000
+453,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Beans,6,0.1176
+454,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Cabbage,2,0.0392
+455,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Cotton,0,0.0000
+456,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Ground nuts,9,0.1765
+457,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Maize,16,0.3137
+458,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Okra,1,0.0196
+459,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Onions,2,0.0392
+460,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Potatoes,0,0.0000
+461,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Round nuts,0,0.0000
+462,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Sesame,0,0.0000
+463,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Sorghum,0,0.0000
+464,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Spinach,0,0.0000
+465,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Sweet potatoes,0,0.0000
+466,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Tobacco,0,0.0000
+467,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Tomatoes,10,0.1961
+468,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Wheat,3,0.0588
+469,ABE,Zimbabwe,Birchenough,2022/23,other_crops_grown,Other,2,0.0392
+470,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Bananas,0,0.0000
+471,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Beans,17,0.2237
+472,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Cabbage,3,0.0395
+473,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Cotton,0,0.0000
+474,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Ground nuts,14,0.1842
+475,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Maize,18,0.2368
+476,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Okra,1,0.0132
+477,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Onions,1,0.0132
+478,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Potatoes,0,0.0000
+479,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Round nuts,1,0.0132
+480,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Sesame,0,0.0000
+481,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Sorghum,1,0.0132
+482,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Spinach,0,0.0000
+483,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Sweet potatoes,1,0.0132
+484,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Tobacco,0,0.0000
+485,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Tomatoes,7,0.0921
+486,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Wheat,10,0.1316
+487,ABE,Zimbabwe,Zaka,2022/23,other_crops_grown,Other,2,0.0263
+488,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Bananas,0,0.0000
+489,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Beans,16,0.3077
+490,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Cabbage,1,0.0192
+491,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Cotton,7,0.1346
+492,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Ground nuts,1,0.0192
+493,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Maize,18,0.3462
+494,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Okra,0,0.0000
+495,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Onions,1,0.0192
+496,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Potatoes,0,0.0000
+497,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Round nuts,0,0.0000
+498,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Sesame,2,0.0385
+499,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Sorghum,0,0.0000
+500,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Spinach,0,0.0000
+501,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Sweet potatoes,0,0.0000
+502,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Tobacco,0,0.0000
+503,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Tomatoes,3,0.0577
+504,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Wheat,2,0.0385
+505,ABE,Zimbabwe,Ruware,2022/23,other_crops_grown,Other,1,0.0192
+506,ABE,Malawi,Malawi,2022/23,other_crops_grown,Bananas,0,0.0000
+507,ABE,Malawi,Malawi,2022/23,other_crops_grown,Beans,14,0.1750
+508,ABE,Malawi,Malawi,2022/23,other_crops_grown,Cabbage,0,0.0000
+509,ABE,Malawi,Malawi,2022/23,other_crops_grown,Cotton,0,0.0000
+510,ABE,Malawi,Malawi,2022/23,other_crops_grown,Ground nuts,10,0.1250
+511,ABE,Malawi,Malawi,2022/23,other_crops_grown,Maize,33,0.4125
+512,ABE,Malawi,Malawi,2022/23,other_crops_grown,Okra,0,0.0000
+513,ABE,Malawi,Malawi,2022/23,other_crops_grown,Onions,1,0.0125
+514,ABE,Malawi,Malawi,2022/23,other_crops_grown,Potatoes,1,0.0125
+515,ABE,Malawi,Malawi,2022/23,other_crops_grown,Round nuts,3,0.0375
+516,ABE,Malawi,Malawi,2022/23,other_crops_grown,Sesame,0,0.0000
+517,ABE,Malawi,Malawi,2022/23,other_crops_grown,Sorghum,0,0.0000
+518,ABE,Malawi,Malawi,2022/23,other_crops_grown,Spinach,0,0.0000
+519,ABE,Malawi,Malawi,2022/23,other_crops_grown,Sweet potatoes,4,0.0500
+520,ABE,Malawi,Malawi,2022/23,other_crops_grown,Tobacco,3,0.0375
+521,ABE,Malawi,Malawi,2022/23,other_crops_grown,Tomatoes,2,0.0250
+522,ABE,Malawi,Malawi,2022/23,other_crops_grown,Wheat,0,0.0000
+523,ABE,Malawi,Malawi,2022/23,other_crops_grown,Other,9,0.1125
+524,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Bananas,0,0.0000
+525,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Beans,8,0.2222
+526,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Cabbage,0,0.0000
+527,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Cotton,0,0.0000
+528,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Ground nuts,3,0.0833
+529,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Maize,16,0.4444
+530,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Okra,0,0.0000
+531,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Onions,0,0.0000
+532,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Potatoes,0,0.0000
+533,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Round nuts,1,0.0278
+534,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Sesame,0,0.0000
+535,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Sorghum,0,0.0000
+536,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Spinach,0,0.0000
+537,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Sweet potatoes,1,0.0278
+538,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Tobacco,2,0.0556
+539,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Tomatoes,0,0.0000
+540,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Wheat,0,0.0000
+541,ABE,Malawi,Chikwawa,2022/23,other_crops_grown,Other,5,0.1389
+542,ABE,Malawi,Katowo,2022/23,other_crops_grown,Bananas,0,0.0000
+543,ABE,Malawi,Katowo,2022/23,other_crops_grown,Beans,6,0.1364
+544,ABE,Malawi,Katowo,2022/23,other_crops_grown,Cabbage,0,0.0000
+545,ABE,Malawi,Katowo,2022/23,other_crops_grown,Cotton,0,0.0000
+546,ABE,Malawi,Katowo,2022/23,other_crops_grown,Ground nuts,7,0.1591
+547,ABE,Malawi,Katowo,2022/23,other_crops_grown,Maize,17,0.3864
+548,ABE,Malawi,Katowo,2022/23,other_crops_grown,Okra,0,0.0000
+549,ABE,Malawi,Katowo,2022/23,other_crops_grown,Onions,1,0.0227
+550,ABE,Malawi,Katowo,2022/23,other_crops_grown,Potatoes,1,0.0227
+551,ABE,Malawi,Katowo,2022/23,other_crops_grown,Round nuts,2,0.0455
+552,ABE,Malawi,Katowo,2022/23,other_crops_grown,Sesame,0,0.0000
+553,ABE,Malawi,Katowo,2022/23,other_crops_grown,Sorghum,0,0.0000
+554,ABE,Malawi,Katowo,2022/23,other_crops_grown,Spinach,0,0.0000
+555,ABE,Malawi,Katowo,2022/23,other_crops_grown,Sweet potatoes,3,0.0682
+556,ABE,Malawi,Katowo,2022/23,other_crops_grown,Tobacco,1,0.0227
+557,ABE,Malawi,Katowo,2022/23,other_crops_grown,Tomatoes,2,0.0455
+558,ABE,Malawi,Katowo,2022/23,other_crops_grown,Wheat,0,0.0000
+559,ABE,Malawi,Katowo,2022/23,other_crops_grown,Other,4,0.0909
+560,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE,0-499 kg,118,0.2107
+561,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE,500-999 kg,190,0.3393
+562,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE,1000-1499 kg,133,0.2375
+563,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE,1500-1999 kg,54,0.0964
+564,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE,2000-2499 kg,28,0.0500
+565,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE,2500+ kg,37,0.0661
+566,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE,0-499 kg,36,0.1358
+567,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE,500-999 kg,82,0.3094
+568,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE,1000-1499 kg,63,0.2377
+569,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE,1500-1999 kg,40,0.1509
+570,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE,2000-2499 kg,16,0.0604
+571,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE,2500+ kg,28,0.1057
+572,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE,0-499 kg,48,0.2712
+573,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE,500-999 kg,62,0.3503
+574,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE,1000-1499 kg,45,0.2542
+575,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE,1500-1999 kg,10,0.0565
+576,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE,2000-2499 kg,7,0.0395
+577,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE,2500+ kg,5,0.0282
+578,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE,0-499 kg,34,0.2881
+579,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE,500-999 kg,46,0.3898
+580,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE,1000-1499 kg,25,0.2119
+581,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE,1500-1999 kg,4,0.0339
+582,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE,2000-2499 kg,5,0.0424
+583,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE,2500+ kg,4,0.0339
+584,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE,0-499 kg,277,0.9858
+585,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE,500-999 kg,3,0.0107
+586,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE,1000-1499 kg,1,0.0036
+587,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE,1500-1999 kg,0,0.0000
+588,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE,2000-2499 kg,0,0.0000
+589,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE,2500+ kg,0,0.0000
+590,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE,0-499 kg,196,0.9899
+591,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE,500-999 kg,2,0.0101
+592,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE,1000-1499 kg,0,0.0000
+593,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE,1500-1999 kg,0,0.0000
+594,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE,2000-2499 kg,0,0.0000
+595,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE,2500+ kg,0,0.0000
+596,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE,0-499 kg,81,0.9759
+597,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE,500-999 kg,1,0.0120
+598,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE,1000-1499 kg,1,0.0120
+599,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE,1500-1999 kg,0,0.0000
+600,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE,2000-2499 kg,0,0.0000
+601,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE,2500+ kg,0,0.0000
+602,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE,0-499 kg,10,0.2857
+603,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE,500-999 kg,5,0.1429
+604,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE,1000-1499 kg,3,0.0857
+605,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE,1500-1999 kg,3,0.0857
+606,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE,2000-2499 kg,1,0.0286
+607,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE,2500+ kg,13,0.3714
+608,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE,0-499 kg,3,0.1429
+609,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE,500-999 kg,4,0.1905
+610,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE,1000-1499 kg,3,0.1429
+611,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE,1500-1999 kg,1,0.0476
+612,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE,2000-2499 kg,1,0.0476
+613,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE,2500+ kg,9,0.4286
+614,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE,0-499 kg,7,0.5385
+615,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE,500-999 kg,1,0.0769
+616,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE,1000-1499 kg,0,0.0000
+617,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE,1500-1999 kg,2,0.1538
+618,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE,2000-2499 kg,0,0.0000
+619,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE,2500+ kg,3,0.2308
+620,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE,0-499 kg,0,0.0000
+621,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE,500-999 kg,0,0.0000
+622,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE,1000-1499 kg,0,0.0000
+623,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE,1500-1999 kg,0,0.0000
+624,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE,2000-2499 kg,0,0.0000
+625,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE,2500+ kg,1,1.0000
+626,ABE,Zimbabwe,Zimbabwe,2022/23,planted_area,0-0.09 ha,2,0.0036
+627,ABE,Zimbabwe,Zimbabwe,2022/23,planted_area,0.1-0.19 ha,348,0.6214
+628,ABE,Zimbabwe,Zimbabwe,2022/23,planted_area,0.2-0.29 ha,176,0.3143
+629,ABE,Zimbabwe,Zimbabwe,2022/23,planted_area,0.3+ ha,34,0.0607
+630,ABE,Zimbabwe,Birchenough,2022/23,planted_area,0-0.09 ha,0,0.0000
+631,ABE,Zimbabwe,Birchenough,2022/23,planted_area,0.1-0.19 ha,173,0.6528
+632,ABE,Zimbabwe,Birchenough,2022/23,planted_area,0.2-0.29 ha,67,0.2528
+633,ABE,Zimbabwe,Birchenough,2022/23,planted_area,0.3+ ha,25,0.0943
+634,ABE,Zimbabwe,Zaka,2022/23,planted_area,0-0.09 ha,1,0.0056
+635,ABE,Zimbabwe,Zaka,2022/23,planted_area,0.1-0.19 ha,110,0.6215
+636,ABE,Zimbabwe,Zaka,2022/23,planted_area,0.2-0.29 ha,58,0.3277
+637,ABE,Zimbabwe,Zaka,2022/23,planted_area,0.3+ ha,8,0.0452
+638,ABE,Zimbabwe,Ruware,2022/23,planted_area,0-0.09 ha,1,0.0085
+639,ABE,Zimbabwe,Ruware,2022/23,planted_area,0.1-0.19 ha,65,0.5508
+640,ABE,Zimbabwe,Ruware,2022/23,planted_area,0.2-0.29 ha,51,0.4322
+641,ABE,Zimbabwe,Ruware,2022/23,planted_area,0.3+ ha,1,0.0085
+642,ABE,Malawi,Malawi,2022/23,planted_area,0-0.09 ha,0,0.0000
+643,ABE,Malawi,Malawi,2022/23,planted_area,0.1-0.19 ha,151,0.5374
+644,ABE,Malawi,Malawi,2022/23,planted_area,0.2-0.29 ha,0,0.0000
+645,ABE,Malawi,Malawi,2022/23,planted_area,0.3+ ha,130,0.4626
+646,ABE,Malawi,Chikwawa,2022/23,planted_area,0-0.09 ha,0,0.0000
+647,ABE,Malawi,Chikwawa,2022/23,planted_area,0.1-0.19 ha,107,0.5404
+648,ABE,Malawi,Chikwawa,2022/23,planted_area,0.2-0.29 ha,0,0.0000
+649,ABE,Malawi,Chikwawa,2022/23,planted_area,0.3+ ha,91,0.4596
+650,ABE,Malawi,Katowo,2022/23,planted_area,0-0.09 ha,0,0.0000
+651,ABE,Malawi,Katowo,2022/23,planted_area,0.1-0.19 ha,44,0.5301
+652,ABE,Malawi,Katowo,2022/23,planted_area,0.2-0.29 ha,0,0.0000
+653,ABE,Malawi,Katowo,2022/23,planted_area,0.3+ ha,39,0.4699
+654,ABE,Mozambique,Mozambique,2022/23,planted_area,0-0.09 ha,0,0.0000
+655,ABE,Mozambique,Mozambique,2022/23,planted_area,0.1-0.19 ha,0,0.0000
+656,ABE,Mozambique,Mozambique,2022/23,planted_area,0.2-0.29 ha,0,0.0000
+657,ABE,Mozambique,Mozambique,2022/23,planted_area,0.3+ ha,35,1.0000
+658,ABE,Mozambique,Small scale commercial farmers,2022/23,planted_area,0-0.09 ha,0,0.0000
+659,ABE,Mozambique,Small scale commercial farmers,2022/23,planted_area,0.1-0.19 ha,0,0.0000
+660,ABE,Mozambique,Small scale commercial farmers,2022/23,planted_area,0.2-0.29 ha,0,0.0000
+661,ABE,Mozambique,Small scale commercial farmers,2022/23,planted_area,0.3+ ha,21,1.0000
+662,ABE,Mozambique,Subsistence farmers,2022/23,planted_area,0-0.09 ha,0,0.0000
+663,ABE,Mozambique,Subsistence farmers,2022/23,planted_area,0.1-0.19 ha,0,0.0000
+664,ABE,Mozambique,Subsistence farmers,2022/23,planted_area,0.2-0.29 ha,0,0.0000
+665,ABE,Mozambique,Subsistence farmers,2022/23,planted_area,0.3+ ha,13,1.0000
+666,ABE,Mozambique,Organisation farmers,2022/23,planted_area,0-0.09 ha,0,0.0000
+667,ABE,Mozambique,Organisation farmers,2022/23,planted_area,0.1-0.19 ha,0,0.0000
+668,ABE,Mozambique,Organisation farmers,2022/23,planted_area,0.2-0.29 ha,0,0.0000
+669,ABE,Mozambique,Organisation farmers,2022/23,planted_area,0.3+ ha,1,1.0000
+670,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,176,0.3143
+671,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,215,0.3839
+672,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,126,0.2250
+673,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,26,0.0464
+674,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,13,0.0232
+675,ABE,Zimbabwe,Zimbabwe,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,4,0.0071
+676,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,47,0.1774
+677,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,96,0.3623
+678,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,87,0.3283
+679,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,21,0.0792
+680,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,10,0.0377
+681,ABE,Zimbabwe,Birchenough,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,4,0.0151
+682,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,73,0.4124
+683,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,74,0.4181
+684,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,26,0.1469
+685,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,2,0.0113
+686,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,2,0.0113
+687,ABE,Zimbabwe,Zaka,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+688,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,56,0.4746
+689,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,45,0.3814
+690,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,13,0.1102
+691,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,3,0.0254
+692,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,1,0.0085
+693,ABE,Zimbabwe,Ruware,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+694,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,281,1.0000
+695,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,0,0.0000
+696,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,0,0.0000
+697,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,0,0.0000
+698,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,0,0.0000
+699,ABE,Malawi,Malawi,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+700,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,198,1.0000
+701,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,0,0.0000
+702,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,0,0.0000
+703,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,0,0.0000
+704,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,0,0.0000
+705,ABE,Malawi,Chikwawa,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+706,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,83,1.0000
+707,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,0,0.0000
+708,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,0,0.0000
+709,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,0,0.0000
+710,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,0,0.0000
+711,ABE,Malawi,Katowo,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+712,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,23,0.6571
+713,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,9,0.2571
+714,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,2,0.0571
+715,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,1,0.0286
+716,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,0,0.0000
+717,ABE,Mozambique,Mozambique,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+718,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,12,0.5714
+719,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,6,0.2857
+720,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,2,0.0952
+721,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,1,0.0476
+722,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,0,0.0000
+723,ABE,Mozambique,Small scale commercial farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+724,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,11,0.8462
+725,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,2,0.1538
+726,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,0,0.0000
+727,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,0,0.0000
+728,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,0,0.0000
+729,ABE,Mozambique,Subsistence farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+730,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,0-999 kg/.25ha,0,0.0000
+731,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,1000-1999 kg/.25ha,1,1.0000
+732,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,2000-2999 kg/.25ha,0,0.0000
+733,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,3000-3999 kg/.25ha,0,0.0000
+734,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,4000-4999 kg/.25ha,0,0.0000
+735,ABE,Mozambique,Organisation farmers,2022/23,fresh_yield_ABE_per_0.25ha_planted,5000+ kg/.25ha,0,0.0000
+736,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$0-99,12,0.0214
+737,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$100-199,208,0.3714
+738,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$200-299,251,0.4482
+739,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$300-399,67,0.1196
+740,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$400-499,14,0.0250
+741,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$500-599,5,0.0089
+742,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$600-699,2,0.0036
+743,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$700-799,0,0.0000
+744,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$800-899,0,0.0000
+745,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$900-999,0,0.0000
+746,ABE,Zimbabwe,Zimbabwe,2022/23,total_input_costs_aka_loan,$1000+,1,0.0018
+747,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$0-99,6,0.0226
+748,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$100-199,145,0.5472
+749,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$200-299,76,0.2868
+750,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$300-399,21,0.0792
+751,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$400-499,10,0.0377
+752,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$500-599,4,0.0151
+753,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$600-699,2,0.0075
+754,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$700-799,0,0.0000
+755,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$800-899,0,0.0000
+756,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$900-999,0,0.0000
+757,ABE,Zimbabwe,Birchenough,2022/23,total_input_costs_aka_loan,$1000+,1,0.0038
+758,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$0-99,4,0.0226
+759,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$100-199,22,0.1243
+760,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$200-299,116,0.6554
+761,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$300-399,30,0.1695
+762,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$400-499,4,0.0226
+763,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$500-599,1,0.0056
+764,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$600-699,0,0.0000
+765,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$700-799,0,0.0000
+766,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$800-899,0,0.0000
+767,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$900-999,0,0.0000
+768,ABE,Zimbabwe,Zaka,2022/23,total_input_costs_aka_loan,$1000+,0,0.0000
+769,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$0-99,2,0.0169
+770,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$100-199,41,0.3475
+771,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$200-299,59,0.5000
+772,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$300-399,16,0.1356
+773,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$400-499,0,0.0000
+774,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$500-599,0,0.0000
+775,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$600-699,0,0.0000
+776,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$700-799,0,0.0000
+777,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$800-899,0,0.0000
+778,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$900-999,0,0.0000
+779,ABE,Zimbabwe,Ruware,2022/23,total_input_costs_aka_loan,$1000+,0,0.0000
+780,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$0-99,0,0.0000
+781,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$100-199,151,0.5374
+782,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$200-299,126,0.4484
+783,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$300-399,0,0.0000
+784,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$400-499,0,0.0000
+785,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$500-599,3,0.0107
+786,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$600-699,0,0.0000
+787,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$700-799,0,0.0000
+788,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$800-899,1,0.0036
+789,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$900-999,0,0.0000
+790,ABE,Malawi,Malawi,2022/23,total_input_costs_aka_loan,$1000+,0,0.0000
+791,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$0-99,0,0.0000
+792,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$100-199,107,0.5404
+793,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$200-299,91,0.4596
+794,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$300-399,0,0.0000
+795,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$400-499,0,0.0000
+796,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$500-599,0,0.0000
+797,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$600-699,0,0.0000
+798,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$700-799,0,0.0000
+799,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$800-899,0,0.0000
+800,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$900-999,0,0.0000
+801,ABE,Malawi,Chikwawa,2022/23,total_input_costs_aka_loan,$1000+,0,0.0000
+802,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$0-99,0,0.0000
+803,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$100-199,44,0.5301
+804,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$200-299,35,0.4217
+805,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$300-399,0,0.0000
+806,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$400-499,0,0.0000
+807,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$500-599,3,0.0361
+808,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$600-699,0,0.0000
+809,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$700-799,0,0.0000
+810,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$800-899,1,0.0120
+811,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$900-999,0,0.0000
+812,ABE,Malawi,Katowo,2022/23,total_input_costs_aka_loan,$1000+,0,0.0000
+813,ABE,Zimbabwe,Zimbabwe,2022/23,gross_income,$0-499,169,0.3018
+814,ABE,Zimbabwe,Zimbabwe,2022/23,gross_income,$500-999,223,0.3982
+815,ABE,Zimbabwe,Zimbabwe,2022/23,gross_income,$1000-1499,96,0.1714
+816,ABE,Zimbabwe,Zimbabwe,2022/23,gross_income,$1500-1999,35,0.0625
+817,ABE,Zimbabwe,Zimbabwe,2022/23,gross_income,$2000-2499,20,0.0357
+818,ABE,Zimbabwe,Zimbabwe,2022/23,gross_income,$2500+,17,0.0304
+819,ABE,Zimbabwe,Birchenough,2022/23,gross_income,$0-499,55,0.2075
+820,ABE,Zimbabwe,Birchenough,2022/23,gross_income,$500-999,102,0.3849
+821,ABE,Zimbabwe,Birchenough,2022/23,gross_income,$1000-1499,57,0.2151
+822,ABE,Zimbabwe,Birchenough,2022/23,gross_income,$1500-1999,23,0.0868
+823,ABE,Zimbabwe,Birchenough,2022/23,gross_income,$2000-2499,16,0.0604
+824,ABE,Zimbabwe,Birchenough,2022/23,gross_income,$2500+,12,0.0453
+825,ABE,Zimbabwe,Zaka,2022/23,gross_income,$0-499,68,0.3842
+826,ABE,Zimbabwe,Zaka,2022/23,gross_income,$500-999,72,0.4068
+827,ABE,Zimbabwe,Zaka,2022/23,gross_income,$1000-1499,25,0.1412
+828,ABE,Zimbabwe,Zaka,2022/23,gross_income,$1500-1999,7,0.0395
+829,ABE,Zimbabwe,Zaka,2022/23,gross_income,$2000-2499,2,0.0113
+830,ABE,Zimbabwe,Zaka,2022/23,gross_income,$2500+,3,0.0169
+831,ABE,Zimbabwe,Ruware,2022/23,gross_income,$0-499,46,0.3898
+832,ABE,Zimbabwe,Ruware,2022/23,gross_income,$500-999,49,0.4153
+833,ABE,Zimbabwe,Ruware,2022/23,gross_income,$1000-1499,14,0.1186
+834,ABE,Zimbabwe,Ruware,2022/23,gross_income,$1500-1999,5,0.0424
+835,ABE,Zimbabwe,Ruware,2022/23,gross_income,$2000-2499,2,0.0169
+836,ABE,Zimbabwe,Ruware,2022/23,gross_income,$2500+,2,0.0169
+837,ABE,Malawi,Malawi,2022/23,gross_income,$0-499,216,0.7687
+838,ABE,Malawi,Malawi,2022/23,gross_income,$500-999,59,0.2100
+839,ABE,Malawi,Malawi,2022/23,gross_income,$1000-1499,4,0.0142
+840,ABE,Malawi,Malawi,2022/23,gross_income,$1500-1999,1,0.0036
+841,ABE,Malawi,Malawi,2022/23,gross_income,$2000-2499,0,0.0000
+842,ABE,Malawi,Malawi,2022/23,gross_income,$2500+,1,0.0036
+843,ABE,Malawi,Chikwawa,2022/23,gross_income,$0-499,153,0.7727
+844,ABE,Malawi,Chikwawa,2022/23,gross_income,$500-999,42,0.2121
+845,ABE,Malawi,Chikwawa,2022/23,gross_income,$1000-1499,2,0.0101
+846,ABE,Malawi,Chikwawa,2022/23,gross_income,$1500-1999,1,0.0051
+847,ABE,Malawi,Chikwawa,2022/23,gross_income,$2000-2499,0,0.0000
+848,ABE,Malawi,Chikwawa,2022/23,gross_income,$2500+,0,0.0000
+849,ABE,Malawi,Katowo,2022/23,gross_income,$0-499,63,0.7590
+850,ABE,Malawi,Katowo,2022/23,gross_income,$500-999,17,0.2048
+851,ABE,Malawi,Katowo,2022/23,gross_income,$1000-1499,2,0.0241
+852,ABE,Malawi,Katowo,2022/23,gross_income,$1500-1999,0,0.0000
+853,ABE,Malawi,Katowo,2022/23,gross_income,$2000-2499,0,0.0000
+854,ABE,Malawi,Katowo,2022/23,gross_income,$2500+,1,0.0120
+855,ABE,Mozambique,Mozambique,2022/23,gross_income,$0-499,10,0.2857
+856,ABE,Mozambique,Mozambique,2022/23,gross_income,$500-999,5,0.1429
+857,ABE,Mozambique,Mozambique,2022/23,gross_income,$1000-1499,3,0.0857
+858,ABE,Mozambique,Mozambique,2022/23,gross_income,$1500-1999,3,0.0857
+859,ABE,Mozambique,Mozambique,2022/23,gross_income,$2000-2499,1,0.0286
+860,ABE,Mozambique,Mozambique,2022/23,gross_income,$2500+,13,0.3714
+861,ABE,Mozambique,Small scale commercial farmers,2022/23,gross_income,$0-499,3,0.1429
+862,ABE,Mozambique,Small scale commercial farmers,2022/23,gross_income,$500-999,4,0.1905
+863,ABE,Mozambique,Small scale commercial farmers,2022/23,gross_income,$1000-1499,3,0.1429
+864,ABE,Mozambique,Small scale commercial farmers,2022/23,gross_income,$1500-1999,1,0.0476
+865,ABE,Mozambique,Small scale commercial farmers,2022/23,gross_income,$2000-2499,1,0.0476
+866,ABE,Mozambique,Small scale commercial farmers,2022/23,gross_income,$2500+,9,0.4286
+867,ABE,Mozambique,Subsistence farmers,2022/23,gross_income,$0-499,7,0.5385
+868,ABE,Mozambique,Subsistence farmers,2022/23,gross_income,$500-999,1,0.0769
+869,ABE,Mozambique,Subsistence farmers,2022/23,gross_income,$1000-1499,0,0.0000
+870,ABE,Mozambique,Subsistence farmers,2022/23,gross_income,$1500-1999,2,0.1538
+871,ABE,Mozambique,Subsistence farmers,2022/23,gross_income,$2000-2499,0,0.0000
+872,ABE,Mozambique,Subsistence farmers,2022/23,gross_income,$2500+,3,0.2308
+873,ABE,Mozambique,Organisation farmers,2022/23,gross_income,$0-499,0,0.0000
+874,ABE,Mozambique,Organisation farmers,2022/23,gross_income,$500-999,0,0.0000
+875,ABE,Mozambique,Organisation farmers,2022/23,gross_income,$1000-1499,0,0.0000
+876,ABE,Mozambique,Organisation farmers,2022/23,gross_income,$1500-1999,0,0.0000
+877,ABE,Mozambique,Organisation farmers,2022/23,gross_income,$2000-2499,0,0.0000
+878,ABE,Mozambique,Organisation farmers,2022/23,gross_income,$2500+,1,1.0000
+879,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,Net loss,50,0.0893
+880,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$0-99,32,0.0571
+881,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$100-199,45,0.0804
+882,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$200-299,45,0.0804
+883,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$300-399,57,0.1018
+884,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$400-499,44,0.0786
+885,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$500-599,54,0.0964
+886,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$600-699,36,0.0643
+887,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$700-799,37,0.0661
+888,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$800-899,25,0.0446
+889,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$900-999,25,0.0446
+890,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1000-1099,14,0.0250
+891,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1100-1199,14,0.0250
+892,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1200-1299,15,0.0268
+893,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1300-1399,8,0.0143
+894,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1400-1499,12,0.0214
+895,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1500-1599,6,0.0107
+896,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1600-1699,5,0.0089
+897,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1700-1799,5,0.0089
+898,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1800-1899,5,0.0089
+899,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$1900-1999,6,0.0107
+900,ABE,Zimbabwe,Zimbabwe,2022/23,net_income,$2000+,20,0.0357
+901,ABE,Zimbabwe,Birchenough,2022/23,net_income,Net loss,13,0.0491
+902,ABE,Zimbabwe,Birchenough,2022/23,net_income,$0-99,7,0.0264
+903,ABE,Zimbabwe,Birchenough,2022/23,net_income,$100-199,13,0.0491
+904,ABE,Zimbabwe,Birchenough,2022/23,net_income,$200-299,14,0.0528
+905,ABE,Zimbabwe,Birchenough,2022/23,net_income,$300-399,25,0.0943
+906,ABE,Zimbabwe,Birchenough,2022/23,net_income,$400-499,21,0.0792
+907,ABE,Zimbabwe,Birchenough,2022/23,net_income,$500-599,21,0.0792
+908,ABE,Zimbabwe,Birchenough,2022/23,net_income,$600-699,23,0.0868
+909,ABE,Zimbabwe,Birchenough,2022/23,net_income,$700-799,22,0.0830
+910,ABE,Zimbabwe,Birchenough,2022/23,net_income,$800-899,9,0.0340
+911,ABE,Zimbabwe,Birchenough,2022/23,net_income,$900-999,17,0.0642
+912,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1000-1099,9,0.0340
+913,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1100-1199,10,0.0377
+914,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1200-1299,14,0.0528
+915,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1300-1399,6,0.0226
+916,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1400-1499,6,0.0226
+917,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1500-1599,4,0.0151
+918,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1600-1699,3,0.0113
+919,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1700-1799,5,0.0189
+920,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1800-1899,5,0.0189
+921,ABE,Zimbabwe,Birchenough,2022/23,net_income,$1900-1999,3,0.0113
+922,ABE,Zimbabwe,Birchenough,2022/23,net_income,$2000+,15,0.0566
+923,ABE,Zimbabwe,Zaka,2022/23,net_income,Net loss,22,0.1243
+924,ABE,Zimbabwe,Zaka,2022/23,net_income,$0-99,12,0.0678
+925,ABE,Zimbabwe,Zaka,2022/23,net_income,$100-199,24,0.1356
+926,ABE,Zimbabwe,Zaka,2022/23,net_income,$200-299,15,0.0847
+927,ABE,Zimbabwe,Zaka,2022/23,net_income,$300-399,19,0.1073
+928,ABE,Zimbabwe,Zaka,2022/23,net_income,$400-499,13,0.0734
+929,ABE,Zimbabwe,Zaka,2022/23,net_income,$500-599,20,0.1130
+930,ABE,Zimbabwe,Zaka,2022/23,net_income,$600-699,11,0.0621
+931,ABE,Zimbabwe,Zaka,2022/23,net_income,$700-799,7,0.0395
+932,ABE,Zimbabwe,Zaka,2022/23,net_income,$800-899,10,0.0565
+933,ABE,Zimbabwe,Zaka,2022/23,net_income,$900-999,6,0.0339
+934,ABE,Zimbabwe,Zaka,2022/23,net_income,$1000-1099,4,0.0226
+935,ABE,Zimbabwe,Zaka,2022/23,net_income,$1100-1199,2,0.0113
+936,ABE,Zimbabwe,Zaka,2022/23,net_income,$1200-1299,1,0.0056
+937,ABE,Zimbabwe,Zaka,2022/23,net_income,$1300-1399,1,0.0056
+938,ABE,Zimbabwe,Zaka,2022/23,net_income,$1400-1499,3,0.0169
+939,ABE,Zimbabwe,Zaka,2022/23,net_income,$1500-1599,2,0.0113
+940,ABE,Zimbabwe,Zaka,2022/23,net_income,$1600-1699,1,0.0056
+941,ABE,Zimbabwe,Zaka,2022/23,net_income,$1700-1799,0,0.0000
+942,ABE,Zimbabwe,Zaka,2022/23,net_income,$1800-1899,0,0.0000
+943,ABE,Zimbabwe,Zaka,2022/23,net_income,$1900-1999,1,0.0056
+944,ABE,Zimbabwe,Zaka,2022/23,net_income,$2000+,3,0.0169
+945,ABE,Zimbabwe,Ruware,2022/23,net_income,Net loss,15,0.1271
+946,ABE,Zimbabwe,Ruware,2022/23,net_income,$0-99,13,0.1102
+947,ABE,Zimbabwe,Ruware,2022/23,net_income,$100-199,8,0.0678
+948,ABE,Zimbabwe,Ruware,2022/23,net_income,$200-299,16,0.1356
+949,ABE,Zimbabwe,Ruware,2022/23,net_income,$300-399,13,0.1102
+950,ABE,Zimbabwe,Ruware,2022/23,net_income,$400-499,10,0.0847
+951,ABE,Zimbabwe,Ruware,2022/23,net_income,$500-599,13,0.1102
+952,ABE,Zimbabwe,Ruware,2022/23,net_income,$600-699,2,0.0169
+953,ABE,Zimbabwe,Ruware,2022/23,net_income,$700-799,8,0.0678
+954,ABE,Zimbabwe,Ruware,2022/23,net_income,$800-899,6,0.0508
+955,ABE,Zimbabwe,Ruware,2022/23,net_income,$900-999,2,0.0169
+956,ABE,Zimbabwe,Ruware,2022/23,net_income,$1000-1099,1,0.0085
+957,ABE,Zimbabwe,Ruware,2022/23,net_income,$1100-1199,2,0.0169
+958,ABE,Zimbabwe,Ruware,2022/23,net_income,$1200-1299,0,0.0000
+959,ABE,Zimbabwe,Ruware,2022/23,net_income,$1300-1399,1,0.0085
+960,ABE,Zimbabwe,Ruware,2022/23,net_income,$1400-1499,3,0.0254
+961,ABE,Zimbabwe,Ruware,2022/23,net_income,$1500-1599,0,0.0000
+962,ABE,Zimbabwe,Ruware,2022/23,net_income,$1600-1699,1,0.0085
+963,ABE,Zimbabwe,Ruware,2022/23,net_income,$1700-1799,0,0.0000
+964,ABE,Zimbabwe,Ruware,2022/23,net_income,$1800-1899,0,0.0000
+965,ABE,Zimbabwe,Ruware,2022/23,net_income,$1900-1999,2,0.0169
+966,ABE,Zimbabwe,Ruware,2022/23,net_income,$2000+,2,0.0169
+967,ABE,Malawi,Malawi,2022/23,net_income,Net loss,72,0.2562
+968,ABE,Malawi,Malawi,2022/23,net_income,$0-99,93,0.3310
+969,ABE,Malawi,Malawi,2022/23,net_income,$100-199,27,0.0961
+970,ABE,Malawi,Malawi,2022/23,net_income,$200-299,28,0.0996
+971,ABE,Malawi,Malawi,2022/23,net_income,$300-399,21,0.0747
+972,ABE,Malawi,Malawi,2022/23,net_income,$400-499,17,0.0605
+973,ABE,Malawi,Malawi,2022/23,net_income,$500-599,4,0.0142
+974,ABE,Malawi,Malawi,2022/23,net_income,$600-699,9,0.0320
+975,ABE,Malawi,Malawi,2022/23,net_income,$700-799,5,0.0178
+976,ABE,Malawi,Malawi,2022/23,net_income,$800-899,0,0.0000
+977,ABE,Malawi,Malawi,2022/23,net_income,$900-999,1,0.0036
+978,ABE,Malawi,Malawi,2022/23,net_income,$1000-1099,0,0.0000
+979,ABE,Malawi,Malawi,2022/23,net_income,$1100-1199,2,0.0071
+980,ABE,Malawi,Malawi,2022/23,net_income,$1200-1299,0,0.0000
+981,ABE,Malawi,Malawi,2022/23,net_income,$1300-1399,0,0.0000
+982,ABE,Malawi,Malawi,2022/23,net_income,$1400-1499,0,0.0000
+983,ABE,Malawi,Malawi,2022/23,net_income,$1500-1599,1,0.0036
+984,ABE,Malawi,Malawi,2022/23,net_income,$1600-1699,0,0.0000
+985,ABE,Malawi,Malawi,2022/23,net_income,$1700-1799,1,0.0036
+986,ABE,Malawi,Malawi,2022/23,net_income,$1800-1899,0,0.0000
+987,ABE,Malawi,Malawi,2022/23,net_income,$1900-1999,0,0.0000
+988,ABE,Malawi,Malawi,2022/23,net_income,$2000+,0,0.0000
+989,ABE,Malawi,Chikwawa,2022/23,net_income,Net loss,59,0.2980
+990,ABE,Malawi,Chikwawa,2022/23,net_income,$0-99,61,0.3081
+991,ABE,Malawi,Chikwawa,2022/23,net_income,$100-199,20,0.1010
+992,ABE,Malawi,Chikwawa,2022/23,net_income,$200-299,15,0.0758
+993,ABE,Malawi,Chikwawa,2022/23,net_income,$300-399,11,0.0556
+994,ABE,Malawi,Chikwawa,2022/23,net_income,$400-499,14,0.0707
+995,ABE,Malawi,Chikwawa,2022/23,net_income,$500-599,2,0.0101
+996,ABE,Malawi,Chikwawa,2022/23,net_income,$600-699,9,0.0455
+997,ABE,Malawi,Chikwawa,2022/23,net_income,$700-799,5,0.0253
+998,ABE,Malawi,Chikwawa,2022/23,net_income,$800-899,0,0.0000
+999,ABE,Malawi,Chikwawa,2022/23,net_income,$900-999,0,0.0000
+1000,ABE,Malawi,Chikwawa,2022/23,net_income,$1000-1099,0,0.0000
+1001,ABE,Malawi,Chikwawa,2022/23,net_income,$1100-1199,1,0.0051
+1002,ABE,Malawi,Chikwawa,2022/23,net_income,$1200-1299,0,0.0000
+1003,ABE,Malawi,Chikwawa,2022/23,net_income,$1300-1399,0,0.0000
+1004,ABE,Malawi,Chikwawa,2022/23,net_income,$1400-1499,0,0.0000
+1005,ABE,Malawi,Chikwawa,2022/23,net_income,$1500-1599,1,0.0051
+1006,ABE,Malawi,Chikwawa,2022/23,net_income,$1600-1699,0,0.0000
+1007,ABE,Malawi,Chikwawa,2022/23,net_income,$1700-1799,0,0.0000
+1008,ABE,Malawi,Chikwawa,2022/23,net_income,$1800-1899,0,0.0000
+1009,ABE,Malawi,Chikwawa,2022/23,net_income,$1900-1999,0,0.0000
+1010,ABE,Malawi,Chikwawa,2022/23,net_income,$2000+,0,0.0000
+1011,ABE,Malawi,Katowo,2022/23,net_income,Net loss,13,0.1566
+1012,ABE,Malawi,Katowo,2022/23,net_income,$0-99,32,0.3855
+1013,ABE,Malawi,Katowo,2022/23,net_income,$100-199,7,0.0843
+1014,ABE,Malawi,Katowo,2022/23,net_income,$200-299,13,0.1566
+1015,ABE,Malawi,Katowo,2022/23,net_income,$300-399,10,0.1205
+1016,ABE,Malawi,Katowo,2022/23,net_income,$400-499,3,0.0361
+1017,ABE,Malawi,Katowo,2022/23,net_income,$500-599,2,0.0241
+1018,ABE,Malawi,Katowo,2022/23,net_income,$600-699,0,0.0000
+1019,ABE,Malawi,Katowo,2022/23,net_income,$700-799,0,0.0000
+1020,ABE,Malawi,Katowo,2022/23,net_income,$800-899,0,0.0000
+1021,ABE,Malawi,Katowo,2022/23,net_income,$900-999,1,0.0120
+1022,ABE,Malawi,Katowo,2022/23,net_income,$1000-1099,0,0.0000
+1023,ABE,Malawi,Katowo,2022/23,net_income,$1100-1199,1,0.0120
+1024,ABE,Malawi,Katowo,2022/23,net_income,$1200-1299,0,0.0000
+1025,ABE,Malawi,Katowo,2022/23,net_income,$1300-1399,0,0.0000
+1026,ABE,Malawi,Katowo,2022/23,net_income,$1400-1499,0,0.0000
+1027,ABE,Malawi,Katowo,2022/23,net_income,$1500-1599,0,0.0000
+1028,ABE,Malawi,Katowo,2022/23,net_income,$1600-1699,0,0.0000
+1029,ABE,Malawi,Katowo,2022/23,net_income,$1700-1799,1,0.0120
+1030,ABE,Malawi,Katowo,2022/23,net_income,$1800-1899,0,0.0000
+1031,ABE,Malawi,Katowo,2022/23,net_income,$1900-1999,0,0.0000
+1032,ABE,Malawi,Katowo,2022/23,net_income,$2000+,0,0.0000
+1033,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,Net loss,109,0.1946
+1034,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$0-99,64,0.1143
+1035,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$100-199,57,0.1018
+1036,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$200-299,70,0.1250
+1037,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$300-399,57,0.1018
+1038,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$400-499,36,0.0643
+1039,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$500-599,36,0.0643
+1040,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$600-699,29,0.0518
+1041,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$700-799,24,0.0429
+1042,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$800-899,17,0.0304
+1043,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$900-999,8,0.0143
+1044,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1000-1099,4,0.0071
+1045,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1100-1199,14,0.0250
+1046,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1200-1299,6,0.0107
+1047,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1300-1399,7,0.0125
+1048,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1400-1499,2,0.0036
+1049,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1500-1599,3,0.0054
+1050,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1600-1699,1,0.0018
+1051,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1700-1799,1,0.0018
+1052,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1800-1899,2,0.0036
+1053,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$1900-1999,1,0.0018
+1054,ABE,Zimbabwe,Zimbabwe,2022/23,true_net_income,$2000+,12,0.0214
+1055,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,Net loss,46,0.1736
+1056,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$0-99,30,0.1132
+1057,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$100-199,25,0.0943
+1058,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$200-299,33,0.1245
+1059,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$300-399,27,0.1019
+1060,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$400-499,11,0.0415
+1061,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$500-599,20,0.0755
+1062,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$600-699,10,0.0377
+1063,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$700-799,17,0.0642
+1064,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$800-899,10,0.0377
+1065,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$900-999,4,0.0151
+1066,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1000-1099,3,0.0113
+1067,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1100-1199,9,0.0340
+1068,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1200-1299,3,0.0113
+1069,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1300-1399,3,0.0113
+1070,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1400-1499,2,0.0075
+1071,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1500-1599,2,0.0075
+1072,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1600-1699,0,0.0000
+1073,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1700-1799,0,0.0000
+1074,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1800-1899,2,0.0075
+1075,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$1900-1999,1,0.0038
+1076,ABE,Zimbabwe,Birchenough,2022/23,true_net_income,$2000+,7,0.0264
+1077,ABE,Zimbabwe,Zaka,2022/23,true_net_income,Net loss,35,0.1977
+1078,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$0-99,25,0.1412
+1079,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$100-199,15,0.0847
+1080,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$200-299,19,0.1073
+1081,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$300-399,20,0.1130
+1082,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$400-499,17,0.0960
+1083,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$500-599,9,0.0508
+1084,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$600-699,12,0.0678
+1085,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$700-799,5,0.0282
+1086,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$800-899,5,0.0282
+1087,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$900-999,3,0.0169
+1088,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1000-1099,1,0.0056
+1089,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1100-1199,2,0.0113
+1090,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1200-1299,2,0.0113
+1091,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1300-1399,3,0.0169
+1092,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1400-1499,0,0.0000
+1093,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1500-1599,0,0.0000
+1094,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1600-1699,0,0.0000
+1095,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1700-1799,1,0.0056
+1096,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1800-1899,0,0.0000
+1097,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$1900-1999,0,0.0000
+1098,ABE,Zimbabwe,Zaka,2022/23,true_net_income,$2000+,3,0.0169
+1099,ABE,Zimbabwe,Ruware,2022/23,true_net_income,Net loss,28,0.2373
+1100,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$0-99,9,0.0763
+1101,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$100-199,17,0.1441
+1102,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$200-299,18,0.1525
+1103,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$300-399,10,0.0847
+1104,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$400-499,8,0.0678
+1105,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$500-599,7,0.0593
+1106,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$600-699,7,0.0593
+1107,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$700-799,2,0.0169
+1108,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$800-899,2,0.0169
+1109,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$900-999,1,0.0085
+1110,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1000-1099,0,0.0000
+1111,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1100-1199,3,0.0254
+1112,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1200-1299,1,0.0085
+1113,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1300-1399,1,0.0085
+1114,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1400-1499,0,0.0000
+1115,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1500-1599,1,0.0085
+1116,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1600-1699,1,0.0085
+1117,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1700-1799,0,0.0000
+1118,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1800-1899,0,0.0000
+1119,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$1900-1999,0,0.0000
+1120,ABE,Zimbabwe,Ruware,2022/23,true_net_income,$2000+,2,0.0169
+1121,ABE,Malawi,Malawi,2022/23,true_net_income,Net loss,129,0.4591
+1122,ABE,Malawi,Malawi,2022/23,true_net_income,$0-99,47,0.1673
+1123,ABE,Malawi,Malawi,2022/23,true_net_income,$100-199,30,0.1068
+1124,ABE,Malawi,Malawi,2022/23,true_net_income,$200-299,26,0.0925
+1125,ABE,Malawi,Malawi,2022/23,true_net_income,$300-399,19,0.0676
+1126,ABE,Malawi,Malawi,2022/23,true_net_income,$400-499,11,0.0391
+1127,ABE,Malawi,Malawi,2022/23,true_net_income,$500-599,8,0.0285
+1128,ABE,Malawi,Malawi,2022/23,true_net_income,$600-699,6,0.0214
+1129,ABE,Malawi,Malawi,2022/23,true_net_income,$700-799,0,0.0000
+1130,ABE,Malawi,Malawi,2022/23,true_net_income,$800-899,1,0.0036
+1131,ABE,Malawi,Malawi,2022/23,true_net_income,$900-999,0,0.0000
+1132,ABE,Malawi,Malawi,2022/23,true_net_income,$1000-1099,2,0.0071
+1133,ABE,Malawi,Malawi,2022/23,true_net_income,$1100-1199,0,0.0000
+1134,ABE,Malawi,Malawi,2022/23,true_net_income,$1200-1299,0,0.0000
+1135,ABE,Malawi,Malawi,2022/23,true_net_income,$1300-1399,0,0.0000
+1136,ABE,Malawi,Malawi,2022/23,true_net_income,$1400-1499,1,0.0036
+1137,ABE,Malawi,Malawi,2022/23,true_net_income,$1500-1599,0,0.0000
+1138,ABE,Malawi,Malawi,2022/23,true_net_income,$1600-1699,1,0.0036
+1139,ABE,Malawi,Malawi,2022/23,true_net_income,$1700-1799,0,0.0000
+1140,ABE,Malawi,Malawi,2022/23,true_net_income,$1800-1899,0,0.0000
+1141,ABE,Malawi,Malawi,2022/23,true_net_income,$1900-1999,0,0.0000
+1142,ABE,Malawi,Malawi,2022/23,true_net_income,$2000+,0,0.0000
+1143,ABE,Malawi,Chikwawa,2022/23,true_net_income,Net loss,93,0.4697
+1144,ABE,Malawi,Chikwawa,2022/23,true_net_income,$0-99,35,0.1768
+1145,ABE,Malawi,Chikwawa,2022/23,true_net_income,$100-199,18,0.0909
+1146,ABE,Malawi,Chikwawa,2022/23,true_net_income,$200-299,15,0.0758
+1147,ABE,Malawi,Chikwawa,2022/23,true_net_income,$300-399,13,0.0657
+1148,ABE,Malawi,Chikwawa,2022/23,true_net_income,$400-499,8,0.0404
+1149,ABE,Malawi,Chikwawa,2022/23,true_net_income,$500-599,8,0.0404
+1150,ABE,Malawi,Chikwawa,2022/23,true_net_income,$600-699,6,0.0303
+1151,ABE,Malawi,Chikwawa,2022/23,true_net_income,$700-799,0,0.0000
+1152,ABE,Malawi,Chikwawa,2022/23,true_net_income,$800-899,0,0.0000
+1153,ABE,Malawi,Chikwawa,2022/23,true_net_income,$900-999,0,0.0000
+1154,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1000-1099,1,0.0051
+1155,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1100-1199,0,0.0000
+1156,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1200-1299,0,0.0000
+1157,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1300-1399,0,0.0000
+1158,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1400-1499,1,0.0051
+1159,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1500-1599,0,0.0000
+1160,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1600-1699,0,0.0000
+1161,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1700-1799,0,0.0000
+1162,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1800-1899,0,0.0000
+1163,ABE,Malawi,Chikwawa,2022/23,true_net_income,$1900-1999,0,0.0000
+1164,ABE,Malawi,Chikwawa,2022/23,true_net_income,$2000+,0,0.0000
+1165,ABE,Malawi,Katowo,2022/23,true_net_income,Net loss,36,0.4337
+1166,ABE,Malawi,Katowo,2022/23,true_net_income,$0-99,12,0.1446
+1167,ABE,Malawi,Katowo,2022/23,true_net_income,$100-199,12,0.1446
+1168,ABE,Malawi,Katowo,2022/23,true_net_income,$200-299,11,0.1325
+1169,ABE,Malawi,Katowo,2022/23,true_net_income,$300-399,6,0.0723
+1170,ABE,Malawi,Katowo,2022/23,true_net_income,$400-499,3,0.0361
+1171,ABE,Malawi,Katowo,2022/23,true_net_income,$500-599,0,0.0000
+1172,ABE,Malawi,Katowo,2022/23,true_net_income,$600-699,0,0.0000
+1173,ABE,Malawi,Katowo,2022/23,true_net_income,$700-799,0,0.0000
+1174,ABE,Malawi,Katowo,2022/23,true_net_income,$800-899,1,0.0120
+1175,ABE,Malawi,Katowo,2022/23,true_net_income,$900-999,0,0.0000
+1176,ABE,Malawi,Katowo,2022/23,true_net_income,$1000-1099,1,0.0120
+1177,ABE,Malawi,Katowo,2022/23,true_net_income,$1100-1199,0,0.0000
+1178,ABE,Malawi,Katowo,2022/23,true_net_income,$1200-1299,0,0.0000
+1179,ABE,Malawi,Katowo,2022/23,true_net_income,$1300-1399,0,0.0000
+1180,ABE,Malawi,Katowo,2022/23,true_net_income,$1400-1499,0,0.0000
+1181,ABE,Malawi,Katowo,2022/23,true_net_income,$1500-1599,0,0.0000
+1182,ABE,Malawi,Katowo,2022/23,true_net_income,$1600-1699,1,0.0120
+1183,ABE,Malawi,Katowo,2022/23,true_net_income,$1700-1799,0,0.0000
+1184,ABE,Malawi,Katowo,2022/23,true_net_income,$1800-1899,0,0.0000
+1185,ABE,Malawi,Katowo,2022/23,true_net_income,$1900-1999,0,0.0000
+1186,ABE,Malawi,Katowo,2022/23,true_net_income,$2000+,0,0.0000
+1187,ABE,Mozambique,Mozambique,2022/23,ABE_affected_education_choices,Yes,8,0.8889
+1188,ABE,Mozambique,Mozambique,2022/23,ABE_affected_education_choices,No,1,0.1111
+1191,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_education_choices,Yes,8,0.8889
+1192,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_education_choices,No,1,0.1111
+1195,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_education_choices,Yes,40,0.7407
+1196,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_education_choices,No,14,0.2593
+1197,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_education_choices,Yes,13,0.7647
+1198,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_education_choices,No,4,0.2353
+1199,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_education_choices,Yes,11,0.6471
+1200,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_education_choices,No,6,0.3529
+1201,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_education_choices,Yes,16,0.8000
+1202,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_education_choices,No,4,0.2000
+1203,ABE,Malawi,Malawi,2022/23,ABE_affected_education_choices,Yes,24,0.6486
+1204,ABE,Malawi,Malawi,2022/23,ABE_affected_education_choices,No,13,0.3514
+1205,ABE,Malawi,Chikwawa,2022/23,ABE_affected_education_choices,Yes,12,0.6000
+1206,ABE,Malawi,Chikwawa,2022/23,ABE_affected_education_choices,No,8,0.4000
+1207,ABE,Malawi,Katowo,2022/23,ABE_affected_education_choices,Yes,12,0.7059
+1208,ABE,Malawi,Katowo,2022/23,ABE_affected_education_choices,No,5,0.2941
+1209,ABE,Mozambique,Mozambique,2022/23,ABE_affected_medical_choices,Yes,7,0.5833
+1210,ABE,Mozambique,Mozambique,2022/23,ABE_affected_medical_choices,No,5,0.4167
+1213,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_medical_choices,Yes,7,0.5833
+1214,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_medical_choices,No,5,0.4167
+1217,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_medical_choices,Yes,23,0.3833
+1218,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_medical_choices,No,37,0.6167
+1219,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_medical_choices,Yes,10,0.5556
+1220,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_medical_choices,No,8,0.4444
+1221,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_medical_choices,Yes,7,0.3333
+1222,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_medical_choices,No,14,0.6667
+1223,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_medical_choices,Yes,6,0.2857
+1224,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_medical_choices,No,15,0.7143
+1225,ABE,Malawi,Malawi,2022/23,ABE_affected_medical_choices,Yes,20,0.5000
+1226,ABE,Malawi,Malawi,2022/23,ABE_affected_medical_choices,No,20,0.5000
+1227,ABE,Malawi,Chikwawa,2022/23,ABE_affected_medical_choices,Yes,11,0.5238
+1228,ABE,Malawi,Chikwawa,2022/23,ABE_affected_medical_choices,No,10,0.4762
+1229,ABE,Malawi,Katowo,2022/23,ABE_affected_medical_choices,Yes,9,0.4737
+1230,ABE,Malawi,Katowo,2022/23,ABE_affected_medical_choices,No,10,0.5263
+1231,ABE,Mozambique,Mozambique,2022/23,not_enough_to_eat,Yes,5,0.4167
+1232,ABE,Mozambique,Mozambique,2022/23,not_enough_to_eat,No,7,0.5833
+1235,ABE,Mozambique,Subsistence farmers,2022/23,not_enough_to_eat,Yes,5,0.4167
+1236,ABE,Mozambique,Subsistence farmers,2022/23,not_enough_to_eat,No,7,0.5833
+1239,ABE,Zimbabwe,Zimbabwe,2022/23,not_enough_to_eat,Yes,30,0.5000
+1240,ABE,Zimbabwe,Zimbabwe,2022/23,not_enough_to_eat,No,30,0.5000
+1241,ABE,Zimbabwe,Birchenough,2022/23,not_enough_to_eat,Yes,10,0.5556
+1242,ABE,Zimbabwe,Birchenough,2022/23,not_enough_to_eat,No,8,0.4444
+1243,ABE,Zimbabwe,Zaka,2022/23,not_enough_to_eat,Yes,12,0.5714
+1244,ABE,Zimbabwe,Zaka,2022/23,not_enough_to_eat,No,9,0.4286
+1245,ABE,Zimbabwe,Ruware,2022/23,not_enough_to_eat,Yes,8,0.3810
+1246,ABE,Zimbabwe,Ruware,2022/23,not_enough_to_eat,No,13,0.6190
+1247,ABE,Malawi,Malawi,2022/23,not_enough_to_eat,Yes,16,0.4000
+1248,ABE,Malawi,Malawi,2022/23,not_enough_to_eat,No,24,0.6000
+1249,ABE,Malawi,Chikwawa,2022/23,not_enough_to_eat,Yes,10,0.4762
+1250,ABE,Malawi,Chikwawa,2022/23,not_enough_to_eat,No,11,0.5238
+1251,ABE,Malawi,Katowo,2022/23,not_enough_to_eat,Yes,6,0.3158
+1252,ABE,Malawi,Katowo,2022/23,not_enough_to_eat,No,13,0.6842
+1253,ABE,Mozambique,Mozambique,2022/23,how_often_not_enough_to_eat,Once a week or more,2,0.4000
+1254,ABE,Mozambique,Mozambique,2022/23,how_often_not_enough_to_eat,Less than once per month,0,0.0000
+1255,ABE,Mozambique,Mozambique,2022/23,how_often_not_enough_to_eat,Once a month or more,3,0.6000
+1259,ABE,Mozambique,Subsistence farmers,2022/23,how_often_not_enough_to_eat,Once a week or more,2,0.4000
+1260,ABE,Mozambique,Subsistence farmers,2022/23,how_often_not_enough_to_eat,Less than once per month,0,0.0000
+1261,ABE,Mozambique,Subsistence farmers,2022/23,how_often_not_enough_to_eat,Once a month or more,3,0.6000
+1265,ABE,Zimbabwe,Zimbabwe,2022/23,how_often_not_enough_to_eat,Once a week or more,17,0.5667
+1266,ABE,Zimbabwe,Zimbabwe,2022/23,how_often_not_enough_to_eat,Less than once per month,8,0.2667
+1267,ABE,Zimbabwe,Zimbabwe,2022/23,how_often_not_enough_to_eat,Once a month or more,5,0.1667
+1268,ABE,Zimbabwe,Birchenough,2022/23,how_often_not_enough_to_eat,Once a week or more,5,0.5000
+1269,ABE,Zimbabwe,Birchenough,2022/23,how_often_not_enough_to_eat,Less than once per month,3,0.3000
+1270,ABE,Zimbabwe,Birchenough,2022/23,how_often_not_enough_to_eat,Once a month or more,2,0.2000
+1271,ABE,Zimbabwe,Zaka,2022/23,how_often_not_enough_to_eat,Once a week or more,7,0.5833
+1272,ABE,Zimbabwe,Zaka,2022/23,how_often_not_enough_to_eat,Less than once per month,2,0.1667
+1273,ABE,Zimbabwe,Zaka,2022/23,how_often_not_enough_to_eat,Once a month or more,3,0.2500
+1274,ABE,Zimbabwe,Ruware,2022/23,how_often_not_enough_to_eat,Once a week or more,5,0.6250
+1275,ABE,Zimbabwe,Ruware,2022/23,how_often_not_enough_to_eat,Less than once per month,3,0.3750
+1276,ABE,Zimbabwe,Ruware,2022/23,how_often_not_enough_to_eat,Once a month or more,0,0.0000
+1277,ABE,Malawi,Malawi,2022/23,how_often_not_enough_to_eat,Once a week or more,8,0.5000
+1278,ABE,Malawi,Malawi,2022/23,how_often_not_enough_to_eat,Less than once per month,4,0.2500
+1279,ABE,Malawi,Malawi,2022/23,how_often_not_enough_to_eat,Once a month or more,4,0.2500
+1280,ABE,Malawi,Chikwawa,2022/23,how_often_not_enough_to_eat,Once a week or more,4,0.4000
+1281,ABE,Malawi,Chikwawa,2022/23,how_often_not_enough_to_eat,Less than once per month,4,0.4000
+1282,ABE,Malawi,Chikwawa,2022/23,how_often_not_enough_to_eat,Once a month or more,2,0.2000
+1283,ABE,Malawi,Katowo,2022/23,how_often_not_enough_to_eat,Once a week or more,4,0.6667
+1284,ABE,Malawi,Katowo,2022/23,how_often_not_enough_to_eat,Less than once per month,0,0.0000
+1285,ABE,Malawi,Katowo,2022/23,how_often_not_enough_to_eat,Once a month or more,2,0.3333
+1286,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Jan,4,0.3077
+1287,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Feb,2,0.1538
+1288,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Mar,1,0.0769
+1289,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Apr,0,0.0000
+1290,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,May,0,0.0000
+1291,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Jun,1,0.0769
+1292,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Jul,1,0.0769
+1293,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Aug,0,0.0000
+1294,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Sep,1,0.0769
+1295,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Oct,1,0.0769
+1296,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Nov,1,0.0769
+1297,ABE,Mozambique,Mozambique,2022/23,months_not_enough_to_eat,Dec,1,0.0769
+1310,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Jan,4,0.3077
+1311,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Feb,2,0.1538
+1312,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Mar,1,0.0769
+1313,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Apr,0,0.0000
+1314,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,May,0,0.0000
+1315,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Jun,1,0.0769
+1316,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Jul,1,0.0769
+1317,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Aug,0,0.0000
+1318,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Sep,1,0.0769
+1319,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Oct,1,0.0769
+1320,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Nov,1,0.0769
+1321,ABE,Mozambique,Subsistence farmers,2022/23,months_not_enough_to_eat,Dec,1,0.0769
+1334,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Jan,8,0.1818
+1335,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Feb,1,0.0227
+1336,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Mar,1,0.0227
+1337,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Apr,1,0.0227
+1338,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,May,2,0.0455
+1339,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Jun,2,0.0455
+1340,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Jul,1,0.0227
+1341,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Aug,1,0.0227
+1342,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Sep,2,0.0455
+1343,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Oct,7,0.1591
+1344,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Nov,9,0.2045
+1345,ABE,Zimbabwe,Zimbabwe,2022/23,months_not_enough_to_eat,Dec,9,0.2045
+1346,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Jan,2,0.1176
+1347,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Feb,1,0.0588
+1348,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Mar,1,0.0588
+1349,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Apr,1,0.0588
+1350,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,May,1,0.0588
+1351,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Jun,1,0.0588
+1352,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Jul,1,0.0588
+1353,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Aug,1,0.0588
+1354,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Sep,1,0.0588
+1355,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Oct,2,0.1176
+1356,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Nov,3,0.1765
+1357,ABE,Zimbabwe,Birchenough,2022/23,months_not_enough_to_eat,Dec,2,0.1176
+1358,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Jan,2,0.1250
+1359,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Feb,0,0.0000
+1360,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Mar,0,0.0000
+1361,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Apr,0,0.0000
+1362,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,May,1,0.0625
+1363,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Jun,1,0.0625
+1364,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Jul,0,0.0000
+1365,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Aug,0,0.0000
+1366,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Sep,1,0.0625
+1367,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Oct,3,0.1875
+1368,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Nov,4,0.2500
+1369,ABE,Zimbabwe,Zaka,2022/23,months_not_enough_to_eat,Dec,4,0.2500
+1370,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Jan,4,0.3636
+1371,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Feb,0,0.0000
+1372,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Mar,0,0.0000
+1373,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Apr,0,0.0000
+1374,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,May,0,0.0000
+1375,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Jun,0,0.0000
+1376,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Jul,0,0.0000
+1377,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Aug,0,0.0000
+1378,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Sep,0,0.0000
+1379,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Oct,2,0.1818
+1380,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Nov,2,0.1818
+1381,ABE,Zimbabwe,Ruware,2022/23,months_not_enough_to_eat,Dec,3,0.2727
+1382,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Jan,8,0.2667
+1383,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Feb,15,0.5000
+1384,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Mar,5,0.1667
+1385,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Apr,1,0.0333
+1386,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,May,0,0.0000
+1387,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Jun,0,0.0000
+1388,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Jul,0,0.0000
+1389,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Aug,0,0.0000
+1390,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Sep,0,0.0000
+1391,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Oct,0,0.0000
+1392,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Nov,0,0.0000
+1393,ABE,Malawi,Malawi,2022/23,months_not_enough_to_eat,Dec,1,0.0333
+1394,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Jan,6,0.2727
+1395,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Feb,9,0.4091
+1396,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Mar,5,0.2273
+1397,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Apr,1,0.0455
+1398,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,May,0,0.0000
+1399,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Jun,0,0.0000
+1400,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Jul,0,0.0000
+1401,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Aug,0,0.0000
+1402,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Sep,0,0.0000
+1403,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Oct,0,0.0000
+1404,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Nov,0,0.0000
+1405,ABE,Malawi,Chikwawa,2022/23,months_not_enough_to_eat,Dec,1,0.0455
+1406,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Jan,2,0.2500
+1407,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Feb,6,0.7500
+1408,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Mar,0,0.0000
+1409,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Apr,0,0.0000
+1410,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,May,0,0.0000
+1411,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Jun,0,0.0000
+1412,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Jul,0,0.0000
+1413,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Aug,0,0.0000
+1414,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Sep,0,0.0000
+1415,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Oct,0,0.0000
+1416,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Nov,0,0.0000
+1417,ABE,Malawi,Katowo,2022/23,months_not_enough_to_eat,Dec,0,0.0000
+1418,ABE,Mozambique,Mozambique,2022/23,ABE_affected_amount_of_food_to_eat,Yes,3,0.2500
+1419,ABE,Mozambique,Mozambique,2022/23,ABE_affected_amount_of_food_to_eat,No,9,0.7500
+1422,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_amount_of_food_to_eat,Yes,3,0.2500
+1423,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_amount_of_food_to_eat,No,9,0.7500
+1426,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_amount_of_food_to_eat,Yes,25,0.4167
+1427,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_amount_of_food_to_eat,No,35,0.5833
+1428,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_amount_of_food_to_eat,Yes,9,0.5000
+1429,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_amount_of_food_to_eat,No,9,0.5000
+1430,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_amount_of_food_to_eat,Yes,7,0.3333
+1431,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_amount_of_food_to_eat,No,14,0.6667
+1432,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_amount_of_food_to_eat,Yes,9,0.4286
+1433,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_amount_of_food_to_eat,No,12,0.5714
+1434,ABE,Malawi,Malawi,2022/23,ABE_affected_amount_of_food_to_eat,Yes,13,0.3250
+1435,ABE,Malawi,Malawi,2022/23,ABE_affected_amount_of_food_to_eat,No,27,0.6750
+1436,ABE,Malawi,Chikwawa,2022/23,ABE_affected_amount_of_food_to_eat,Yes,7,0.3333
+1437,ABE,Malawi,Chikwawa,2022/23,ABE_affected_amount_of_food_to_eat,No,14,0.6667
+1438,ABE,Malawi,Katowo,2022/23,ABE_affected_amount_of_food_to_eat,Yes,6,0.3158
+1439,ABE,Malawi,Katowo,2022/23,ABE_affected_amount_of_food_to_eat,No,13,0.6842
+1440,ABE,Mozambique,Mozambique,2022/23,animals_bought_with_ABE_earnings,Chicken,2,0.5000
+1441,ABE,Mozambique,Mozambique,2022/23,animals_bought_with_ABE_earnings,Cow,0,0.0000
+1442,ABE,Mozambique,Mozambique,2022/23,animals_bought_with_ABE_earnings,Donkey,0,0.0000
+1443,ABE,Mozambique,Mozambique,2022/23,animals_bought_with_ABE_earnings,Duck,1,0.2500
+1444,ABE,Mozambique,Mozambique,2022/23,animals_bought_with_ABE_earnings,Goat,1,0.2500
+1445,ABE,Mozambique,Mozambique,2022/23,animals_bought_with_ABE_earnings,Sheep,0,0.0000
+1446,ABE,Mozambique,Mozambique,2022/23,animals_bought_with_ABE_earnings,Other,0,0.0000
+1454,ABE,Mozambique,Subsistence farmers,2022/23,animals_bought_with_ABE_earnings,Chicken,2,0.5000
+1455,ABE,Mozambique,Subsistence farmers,2022/23,animals_bought_with_ABE_earnings,Cow,0,0.0000
+1456,ABE,Mozambique,Subsistence farmers,2022/23,animals_bought_with_ABE_earnings,Donkey,0,0.0000
+1457,ABE,Mozambique,Subsistence farmers,2022/23,animals_bought_with_ABE_earnings,Duck,1,0.2500
+1458,ABE,Mozambique,Subsistence farmers,2022/23,animals_bought_with_ABE_earnings,Goat,1,0.2500
+1459,ABE,Mozambique,Subsistence farmers,2022/23,animals_bought_with_ABE_earnings,Sheep,0,0.0000
+1460,ABE,Mozambique,Subsistence farmers,2022/23,animals_bought_with_ABE_earnings,Other,0,0.0000
+1468,ABE,Zimbabwe,Zimbabwe,2022/23,animals_bought_with_ABE_earnings,Chicken,3,0.1154
+1469,ABE,Zimbabwe,Zimbabwe,2022/23,animals_bought_with_ABE_earnings,Cow,6,0.2308
+1470,ABE,Zimbabwe,Zimbabwe,2022/23,animals_bought_with_ABE_earnings,Donkey,0,0.0000
+1471,ABE,Zimbabwe,Zimbabwe,2022/23,animals_bought_with_ABE_earnings,Duck,0,0.0000
+1472,ABE,Zimbabwe,Zimbabwe,2022/23,animals_bought_with_ABE_earnings,Goat,15,0.5769
+1473,ABE,Zimbabwe,Zimbabwe,2022/23,animals_bought_with_ABE_earnings,Sheep,1,0.0385
+1474,ABE,Zimbabwe,Zimbabwe,2022/23,animals_bought_with_ABE_earnings,Other,1,0.0385
+1475,ABE,Zimbabwe,Birchenough,2022/23,animals_bought_with_ABE_earnings,Chicken,1,0.1429
+1476,ABE,Zimbabwe,Birchenough,2022/23,animals_bought_with_ABE_earnings,Cow,0,0.0000
+1477,ABE,Zimbabwe,Birchenough,2022/23,animals_bought_with_ABE_earnings,Donkey,0,0.0000
+1478,ABE,Zimbabwe,Birchenough,2022/23,animals_bought_with_ABE_earnings,Duck,0,0.0000
+1479,ABE,Zimbabwe,Birchenough,2022/23,animals_bought_with_ABE_earnings,Goat,6,0.8571
+1480,ABE,Zimbabwe,Birchenough,2022/23,animals_bought_with_ABE_earnings,Sheep,0,0.0000
+1481,ABE,Zimbabwe,Birchenough,2022/23,animals_bought_with_ABE_earnings,Other,0,0.0000
+1482,ABE,Zimbabwe,Zaka,2022/23,animals_bought_with_ABE_earnings,Chicken,0,0.0000
+1483,ABE,Zimbabwe,Zaka,2022/23,animals_bought_with_ABE_earnings,Cow,2,0.5000
+1484,ABE,Zimbabwe,Zaka,2022/23,animals_bought_with_ABE_earnings,Donkey,0,0.0000
+1485,ABE,Zimbabwe,Zaka,2022/23,animals_bought_with_ABE_earnings,Duck,0,0.0000
+1486,ABE,Zimbabwe,Zaka,2022/23,animals_bought_with_ABE_earnings,Goat,2,0.5000
+1487,ABE,Zimbabwe,Zaka,2022/23,animals_bought_with_ABE_earnings,Sheep,0,0.0000
+1488,ABE,Zimbabwe,Zaka,2022/23,animals_bought_with_ABE_earnings,Other,0,0.0000
+1489,ABE,Zimbabwe,Ruware,2022/23,animals_bought_with_ABE_earnings,Chicken,2,0.1333
+1490,ABE,Zimbabwe,Ruware,2022/23,animals_bought_with_ABE_earnings,Cow,4,0.2667
+1491,ABE,Zimbabwe,Ruware,2022/23,animals_bought_with_ABE_earnings,Donkey,0,0.0000
+1492,ABE,Zimbabwe,Ruware,2022/23,animals_bought_with_ABE_earnings,Duck,0,0.0000
+1493,ABE,Zimbabwe,Ruware,2022/23,animals_bought_with_ABE_earnings,Goat,7,0.4667
+1494,ABE,Zimbabwe,Ruware,2022/23,animals_bought_with_ABE_earnings,Sheep,1,0.0667
+1495,ABE,Zimbabwe,Ruware,2022/23,animals_bought_with_ABE_earnings,Other,1,0.0667
+1496,ABE,Malawi,Malawi,2022/23,animals_bought_with_ABE_earnings,Chicken,37,0.2662
+1497,ABE,Malawi,Malawi,2022/23,animals_bought_with_ABE_earnings,Cow,34,0.2446
+1498,ABE,Malawi,Malawi,2022/23,animals_bought_with_ABE_earnings,Donkey,10,0.0719
+1499,ABE,Malawi,Malawi,2022/23,animals_bought_with_ABE_earnings,Duck,9,0.0647
+1500,ABE,Malawi,Malawi,2022/23,animals_bought_with_ABE_earnings,Goat,20,0.1439
+1501,ABE,Malawi,Malawi,2022/23,animals_bought_with_ABE_earnings,Sheep,13,0.0935
+1502,ABE,Malawi,Malawi,2022/23,animals_bought_with_ABE_earnings,Other,16,0.1151
+1503,ABE,Malawi,Chikwawa,2022/23,animals_bought_with_ABE_earnings,Chicken,7,0.4375
+1504,ABE,Malawi,Chikwawa,2022/23,animals_bought_with_ABE_earnings,Cow,0,0.0000
+1505,ABE,Malawi,Chikwawa,2022/23,animals_bought_with_ABE_earnings,Donkey,0,0.0000
+1506,ABE,Malawi,Chikwawa,2022/23,animals_bought_with_ABE_earnings,Duck,0,0.0000
+1507,ABE,Malawi,Chikwawa,2022/23,animals_bought_with_ABE_earnings,Goat,6,0.3750
+1508,ABE,Malawi,Chikwawa,2022/23,animals_bought_with_ABE_earnings,Sheep,0,0.0000
+1509,ABE,Malawi,Chikwawa,2022/23,animals_bought_with_ABE_earnings,Other,3,0.1875
+1510,ABE,Malawi,Katowo,2022/23,animals_bought_with_ABE_earnings,Chicken,3,0.2143
+1511,ABE,Malawi,Katowo,2022/23,animals_bought_with_ABE_earnings,Cow,1,0.0714
+1512,ABE,Malawi,Katowo,2022/23,animals_bought_with_ABE_earnings,Donkey,1,0.0714
+1513,ABE,Malawi,Katowo,2022/23,animals_bought_with_ABE_earnings,Duck,0,0.0000
+1514,ABE,Malawi,Katowo,2022/23,animals_bought_with_ABE_earnings,Goat,6,0.4286
+1515,ABE,Malawi,Katowo,2022/23,animals_bought_with_ABE_earnings,Sheep,0,0.0000
+1516,ABE,Malawi,Katowo,2022/23,animals_bought_with_ABE_earnings,Other,3,0.2143
+1517,ABE,Mozambique,Mozambique,2022/23,ABE_earnings_spent_on_housing,Yes,7,0.1167
+1518,ABE,Mozambique,Mozambique,2022/23,ABE_earnings_spent_on_housing,No,5,0.0833
+1519,ABE,Mozambique,Small scale commercial farmers,2022/23,ABE_earnings_spent_on_housing,Yes,0,0.0000
+1520,ABE,Mozambique,Small scale commercial farmers,2022/23,ABE_earnings_spent_on_housing,No,0,0.0000
+1521,ABE,Mozambique,Subsistence farmers,2022/23,ABE_earnings_spent_on_housing,Yes,7,0.3333
+1522,ABE,Mozambique,Subsistence farmers,2022/23,ABE_earnings_spent_on_housing,No,5,0.2381
+1523,ABE,Mozambique,Organisation farmers,2022/23,ABE_earnings_spent_on_housing,Yes,0,0.0000
+1524,ABE,Mozambique,Organisation farmers,2022/23,ABE_earnings_spent_on_housing,No,0,0.0000
+1525,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_earnings_spent_on_housing,Yes,27,0.4500
+1526,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_earnings_spent_on_housing,No,33,0.5500
+1527,ABE,Zimbabwe,Birchenough,2022/23,ABE_earnings_spent_on_housing,Yes,9,0.5000
+1528,ABE,Zimbabwe,Birchenough,2022/23,ABE_earnings_spent_on_housing,No,9,0.5000
+1529,ABE,Zimbabwe,Zaka,2022/23,ABE_earnings_spent_on_housing,Yes,8,0.3810
+1530,ABE,Zimbabwe,Zaka,2022/23,ABE_earnings_spent_on_housing,No,13,0.6190
+1531,ABE,Zimbabwe,Ruware,2022/23,ABE_earnings_spent_on_housing,Yes,10,0.4762
+1532,ABE,Zimbabwe,Ruware,2022/23,ABE_earnings_spent_on_housing,No,11,0.5238
+1533,ABE,Malawi,Malawi,2022/23,ABE_earnings_spent_on_housing,Yes,22,0.5500
+1534,ABE,Malawi,Malawi,2022/23,ABE_earnings_spent_on_housing,No,18,0.4500
+1535,ABE,Malawi,Chikwawa,2022/23,ABE_earnings_spent_on_housing,Yes,12,0.5714
+1536,ABE,Malawi,Chikwawa,2022/23,ABE_earnings_spent_on_housing,No,9,0.4286
+1537,ABE,Malawi,Katowo,2022/23,ABE_earnings_spent_on_housing,Yes,10,0.5263
+1538,ABE,Malawi,Katowo,2022/23,ABE_earnings_spent_on_housing,No,9,0.4737
+1539,ABE,Mozambique,Mozambique,2022/23,ABE_affected_energy_used,Yes,2,0.1667
+1540,ABE,Mozambique,Mozambique,2022/23,ABE_affected_energy_used,No,10,0.8333
+1543,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_energy_used,Yes,2,0.1667
+1544,ABE,Mozambique,Subsistence farmers,2022/23,ABE_affected_energy_used,No,10,0.8333
+1547,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_energy_used,Yes,17,0.2833
+1548,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_affected_energy_used,No,43,0.7167
+1549,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_energy_used,Yes,7,0.3889
+1550,ABE,Zimbabwe,Birchenough,2022/23,ABE_affected_energy_used,No,11,0.6111
+1551,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_energy_used,Yes,5,0.2381
+1552,ABE,Zimbabwe,Zaka,2022/23,ABE_affected_energy_used,No,16,0.7619
+1553,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_energy_used,Yes,5,0.2381
+1554,ABE,Zimbabwe,Ruware,2022/23,ABE_affected_energy_used,No,16,0.7619
+1555,ABE,Malawi,Malawi,2022/23,ABE_affected_energy_used,Yes,17,0.4250
+1556,ABE,Malawi,Malawi,2022/23,ABE_affected_energy_used,No,23,0.5750
+1557,ABE,Malawi,Chikwawa,2022/23,ABE_affected_energy_used,Yes,7,0.3333
+1558,ABE,Malawi,Chikwawa,2022/23,ABE_affected_energy_used,No,14,0.6667
+1559,ABE,Malawi,Katowo,2022/23,ABE_affected_energy_used,Yes,10,0.5263
+1560,ABE,Malawi,Katowo,2022/23,ABE_affected_energy_used,No,9,0.4737
+1561,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Batteries,3,0.1579
+1562,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Candles,0,0.0000
+1563,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Coal,0,0.0000
+1564,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Electricity,3,0.1579
+1565,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,LPG,0,0.0000
+1566,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Paraffin,0,0.0000
+1567,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Solar,8,0.4211
+1568,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Wood,4,0.2105
+1569,ABE,Zimbabwe,Zimbabwe,2022/23,energy_increased_spending_on,Other,1,0.0526
+1570,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Batteries,0,0.0000
+1571,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Candles,0,0.0000
+1572,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Coal,0,0.0000
+1573,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Electricity,3,0.3750
+1574,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,LPG,0,0.0000
+1575,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Paraffin,0,0.0000
+1576,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Solar,0,0.0000
+1577,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Wood,4,0.5000
+1578,ABE,Zimbabwe,Birchenough,2022/23,energy_increased_spending_on,Other,1,0.1250
+1579,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Batteries,1,0.1667
+1580,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Candles,0,0.0000
+1581,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Coal,0,0.0000
+1582,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Electricity,0,0.0000
+1583,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,LPG,0,0.0000
+1584,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Paraffin,0,0.0000
+1585,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Solar,5,0.8333
+1586,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Wood,0,0.0000
+1587,ABE,Zimbabwe,Zaka,2022/23,energy_increased_spending_on,Other,0,0.0000
+1588,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Batteries,2,0.4000
+1589,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Candles,0,0.0000
+1590,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Coal,0,0.0000
+1591,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Electricity,0,0.0000
+1592,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,LPG,0,0.0000
+1593,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Paraffin,0,0.0000
+1594,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Solar,3,0.6000
+1595,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Wood,0,0.0000
+1596,ABE,Zimbabwe,Ruware,2022/23,energy_increased_spending_on,Other,0,0.0000
+1597,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Batteries,17,0.1090
+1598,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Candles,46,0.2949
+1599,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Coal,10,0.0641
+1600,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Electricity,10,0.0641
+1601,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,LPG,1,0.0064
+1602,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Paraffin,20,0.1282
+1603,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Solar,15,0.0962
+1604,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Wood,18,0.1154
+1605,ABE,Malawi,Malawi,2022/23,energy_increased_spending_on,Other,19,0.1218
+1606,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Batteries,0,0.0000
+1607,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Candles,0,0.0000
+1608,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Coal,0,0.0000
+1609,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Electricity,1,0.1429
+1610,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,LPG,0,0.0000
+1611,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Paraffin,0,0.0000
+1612,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Solar,5,0.7143
+1613,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Wood,0,0.0000
+1614,ABE,Malawi,Chikwawa,2022/23,energy_increased_spending_on,Other,1,0.1429
+1615,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Batteries,3,0.2308
+1616,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Candles,0,0.0000
+1617,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Coal,0,0.0000
+1618,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Electricity,1,0.0769
+1619,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,LPG,0,0.0000
+1620,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Paraffin,0,0.0000
+1621,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Solar,7,0.5385
+1622,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Wood,0,0.0000
+1623,ABE,Malawi,Katowo,2022/23,energy_increased_spending_on,Other,2,0.1538
+1624,ABE,Mozambique,Mozambique,2022/23,ABE_earnings_spent_on_water,Yes,4,0.3333
+1625,ABE,Mozambique,Mozambique,2022/23,ABE_earnings_spent_on_water,No,8,0.6667
+1628,ABE,Mozambique,Subsistence farmers,2022/23,ABE_earnings_spent_on_water,Yes,4,0.3333
+1629,ABE,Mozambique,Subsistence farmers,2022/23,ABE_earnings_spent_on_water,No,8,0.6667
+1632,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_earnings_spent_on_water,Yes,14,0.2333
+1633,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_earnings_spent_on_water,No,46,0.7667
+1634,ABE,Zimbabwe,Birchenough,2022/23,ABE_earnings_spent_on_water,Yes,10,0.5556
+1635,ABE,Zimbabwe,Birchenough,2022/23,ABE_earnings_spent_on_water,No,8,0.4444
+1636,ABE,Zimbabwe,Zaka,2022/23,ABE_earnings_spent_on_water,Yes,1,0.0476
+1637,ABE,Zimbabwe,Zaka,2022/23,ABE_earnings_spent_on_water,No,20,0.9524
+1638,ABE,Zimbabwe,Ruware,2022/23,ABE_earnings_spent_on_water,Yes,3,0.1429
+1639,ABE,Zimbabwe,Ruware,2022/23,ABE_earnings_spent_on_water,No,18,0.8571
+1640,ABE,Malawi,Malawi,2022/23,ABE_earnings_spent_on_water,Yes,16,0.4000
+1641,ABE,Malawi,Malawi,2022/23,ABE_earnings_spent_on_water,No,24,0.6000
+1642,ABE,Malawi,Chikwawa,2022/23,ABE_earnings_spent_on_water,Yes,6,0.2857
+1643,ABE,Malawi,Chikwawa,2022/23,ABE_earnings_spent_on_water,No,15,0.7143
+1644,ABE,Malawi,Katowo,2022/23,ABE_earnings_spent_on_water,Yes,10,0.5263
+1645,ABE,Malawi,Katowo,2022/23,ABE_earnings_spent_on_water,No,9,0.4737
+1646,ABE,Mozambique,Mozambique,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,1,0.0833
+1647,ABE,Mozambique,Mozambique,2022/23,ABE_earnings_spent_on_effluent_systems,No,11,0.9167
+1650,ABE,Mozambique,Subsistence farmers,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,1,0.0833
+1651,ABE,Mozambique,Subsistence farmers,2022/23,ABE_earnings_spent_on_effluent_systems,No,11,0.9167
+1654,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,13,0.2167
+1655,ABE,Zimbabwe,Zimbabwe,2022/23,ABE_earnings_spent_on_effluent_systems,No,47,0.7833
+1656,ABE,Zimbabwe,Birchenough,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,5,0.2778
+1657,ABE,Zimbabwe,Birchenough,2022/23,ABE_earnings_spent_on_effluent_systems,No,13,0.7222
+1658,ABE,Zimbabwe,Zaka,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,3,0.1429
+1659,ABE,Zimbabwe,Zaka,2022/23,ABE_earnings_spent_on_effluent_systems,No,18,0.8571
+1660,ABE,Zimbabwe,Ruware,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,5,0.2381
+1661,ABE,Zimbabwe,Ruware,2022/23,ABE_earnings_spent_on_effluent_systems,No,16,0.7619
+1662,ABE,Malawi,Malawi,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,11,0.2750
+1663,ABE,Malawi,Malawi,2022/23,ABE_earnings_spent_on_effluent_systems,No,29,0.7250
+1664,ABE,Malawi,Chikwawa,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,4,0.1905
+1665,ABE,Malawi,Chikwawa,2022/23,ABE_earnings_spent_on_effluent_systems,No,17,0.8095
+1666,ABE,Malawi,Katowo,2022/23,ABE_earnings_spent_on_effluent_systems,Yes,7,0.3684
+1667,ABE,Malawi,Katowo,2022/23,ABE_earnings_spent_on_effluent_systems,No,12,0.6316
+1766,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,No schooling,2,0.1667
+1767,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 1,0,0.0000
+1768,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 2,0,0.0000
+1769,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 3,1,0.0833
+1770,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 4,5,0.4167
+1771,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 5,1,0.0833
+1772,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 6,0,0.0000
+1773,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 7,2,0.1667
+1774,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 8,1,0.0833
+1775,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 9,0,0.0000
+1776,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 10,0,0.0000
+1777,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 11,0,0.0000
+1778,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 12,0,0.0000
+1779,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Higher than Grade 12,0,0.0000
+1794,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,No schooling,2,0.1667
+1795,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 1,0,0.0000
+1796,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 2,0,0.0000
+1797,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 3,1,0.0833
+1798,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 4,5,0.4167
+1799,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 5,1,0.0833
+1800,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 6,0,0.0000
+1801,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 7,2,0.1667
+1802,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 8,1,0.0833
+1803,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 9,0,0.0000
+1804,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 10,0,0.0000
+1805,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 11,0,0.0000
+1806,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 12,0,0.0000
+1807,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Higher than Grade 12,0,0.0000

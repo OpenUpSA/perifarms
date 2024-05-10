@@ -1,0 +1,81 @@
+order,crop,country,community,year,indicator,orig_value,tag,value
+001,ABE,Zimbabwe,Zimbabwe,2022/23,Total Farmers,560,farmers,560 farmers
+002,ABE,Malawi,Malawi,2022/23,Total Farmers,281,farmers,281 farmers
+003,ABE,Mozambique,Mozambique,2022/23,Total Farmers,35,farmers,35 farmers
+004,ABE,Zimbabwe,Zimbabwe,2022/23,Total Land Cultivated,96.4,ha,96.4ha
+005,ABE,Malawi,Malawi,2022/23,Total Land Cultivated,63.2,ha,63.2ha
+006,ABE,Mozambique,Mozambique,2022/23,Total Land Cultivated,29.6,ha,29.6ha
+007,ABE,Zimbabwe,Zimbabwe,2022/23,Average Plot Size,0.17,ha,0.17ha
+008,ABE,Malawi,Malawi,2022/23,Average Plot Size,0.23,ha,0.23ha
+009,ABE,Mozambique,Mozambique,2022/23,Average Plot Size,0.88,ha,0.88ha
+010,ABE,Zimbabwe,Zimbabwe,2022/23,Average Productivity,1493.8,kg [per 0.25 ha],"1,493.8kg [per 0.25 ha]"
+011,ABE,Malawi,Malawi,2022/23,Average Productivity,168.5,kg [per 0.25 ha],168.5kg [per 0.25 ha]
+012,ABE,Mozambique,Mozambique,2022/23,Average Productivity,956.1,kg [per 0.25 ha],956.1kg [per 0.25 ha]
+013,ABE,Zimbabwe,Zimbabwe,2022/23,Average Gross Income,830.35,,$830.35 
+014,ABE,Malawi,Malawi,2022/23,Average Gross Income,363.76,,$363.76 
+015,ABE,Mozambique,Mozambique,2022/23,Average Gross Income,3788.53,,"$3,788.53 "
+016,ABE,Zimbabwe,Zimbabwe,2022/23,Average True Earnings,364.74,,$364.74 
+017,ABE,Malawi,Malawi,2022/23,Average True Earnings,98.24,,$98.24 
+019,ABE,Zimbabwe,Zimbabwe,2022/23,Average Gross Income per 0.25 ha,1195.03,,"$1,195.03 "
+020,ABE,Malawi,Malawi,2022/23,Average Gross Income per 0.25 ha,411.37,,$411.37 
+021,ABE,Mozambique,Mozambique,2022/23,Average Gross Income per 0.25 ha,963.18,,$963.18 
+022,ABE,Zimbabwe,Zimbabwe,2022/23,Average True Earnings per 0.25 ha,492.44,,$492.44 
+023,ABE,Malawi,Malawi,2022/23,Average True Earnings per 0.25 ha,112.31,,$112.31 
+025,ABE,Zimbabwe,Birchenough,2022/23,Total Farmers,265,farmers,265 farmers
+026,ABE,Zimbabwe,Zaka,2022/23,Total Farmers,177,farmers,177 farmers
+027,ABE,Zimbabwe,Ruware,2022/23,Total Farmers,118,farmers,118 farmers
+028,ABE,Malawi,Chikwawa,2022/23,Total Farmers,198,farmers,198 farmers
+029,ABE,Malawi,Katowo,2022/23,Total Farmers,83,farmers,83 farmers
+030,ABE,Mozambique,Small scale commercial farmers,2022/23,Total Farmers,21,farmers,21 farmers
+031,ABE,Mozambique,Subsistence farmers,2022/23,Total Farmers,13,farmers,13 farmers
+032,ABE,Mozambique,Organisation farmers,2022/23,Total Farmers,1,farmers,1 farmers
+033,ABE,Zimbabwe,Birchenough,2022/23,Total Land Cultivated,44.2,ha,44.2ha
+034,ABE,Zimbabwe,Zaka,2022/23,Total Land Cultivated,31.1,ha,31.1ha
+035,ABE,Zimbabwe,Ruware,2022/23,Total Land Cultivated,21.1,ha,21.1ha
+036,ABE,Malawi,Chikwawa,2022/23,Total Land Cultivated,43.3,ha,43.3ha
+037,ABE,Malawi,Katowo,2022/23,Total Land Cultivated,19.8,ha,19.8ha
+038,ABE,Mozambique,Small scale commercial farmers,2022/23,Total Land Cultivated,19.2,ha,19.2ha
+039,ABE,Mozambique,Subsistence farmers,2022/23,Total Land Cultivated,9.4,ha,9.4ha
+040,ABE,Mozambique,Organisation farmers,2022/23,Total Land Cultivated,1.0,ha,1.0ha
+041,ABE,Zimbabwe,Birchenough,2022/23,Average Plot Size,0.17,ha,0.17ha
+042,ABE,Zimbabwe,Zaka,2022/23,Average Plot Size,0.18,ha,0.18ha
+043,ABE,Zimbabwe,Ruware,2022/23,Average Plot Size,0.18,ha,0.18ha
+044,ABE,Malawi,Chikwawa,2022/23,Average Plot Size,0.22,ha,0.22ha
+045,ABE,Malawi,Katowo,2022/23,Average Plot Size,0.24,ha,0.24ha
+046,ABE,Mozambique,Small scale commercial farmers,2022/23,Average Plot Size,0.91,ha,0.91ha
+047,ABE,Mozambique,Subsistence farmers,2022/23,Average Plot Size,0.72,ha,0.72ha
+048,ABE,Mozambique,Organisation farmers,2022/23,Average Plot Size,1.00,ha,1.00ha
+049,ABE,Zimbabwe,Birchenough,2022/23,Average Productivity,1995.9,kg [per 0.25 ha],"1,995.9kg [per 0.25 ha]"
+050,ABE,Zimbabwe,Zaka,2022/23,Average Productivity,1295.5,kg [per 0.25 ha],"1,295.5kg [per 0.25 ha]"
+051,ABE,Zimbabwe,Ruware,2022/23,Average Productivity,1189.9,kg [per 0.25 ha],"1,189.9kg [per 0.25 ha]"
+052,ABE,Malawi,Chikwawa,2022/23,Average Productivity,163.1,kg [per 0.25 ha],163.1kg [per 0.25 ha]
+053,ABE,Malawi,Katowo,2022/23,Average Productivity,174.0,kg [per 0.25 ha],174.0kg [per 0.25 ha]
+054,ABE,Mozambique,Small scale commercial farmers,2022/23,Average Productivity,944.6,kg [per 0.25 ha],944.6kg [per 0.25 ha]
+055,ABE,Mozambique,Subsistence farmers,2022/23,Average Productivity,419.8,kg [per 0.25 ha],419.8kg [per 0.25 ha]
+056,ABE,Mozambique,Organisation farmers,2022/23,Average Productivity,1503.8,kg [per 0.25 ha],"1,503.8kg [per 0.25 ha]"
+057,ABE,Zimbabwe,Birchenough,2022/23,Average Gross Income,1065.30,,"$1,065.30 "
+058,ABE,Zimbabwe,Zaka,2022/23,Average Gross Income,727.04,,$727.04 
+059,ABE,Zimbabwe,Ruware,2022/23,Average Gross Income,698.72,,$698.72 
+060,ABE,Malawi,Chikwawa,2022/23,Average Gross Income,342.11,,$342.11 
+061,ABE,Malawi,Katowo,2022/23,Average Gross Income,385.40,,$385.40 
+062,ABE,Mozambique,Small scale commercial farmers,2022/23,Average Gross Income,3892.25,,"$3,892.25 "
+063,ABE,Mozambique,Subsistence farmers,2022/23,Average Gross Income,1413.44,,"$1,413.44 "
+064,ABE,Mozambique,Organisation farmers,2022/23,Average Gross Income,6059.89,,"$6,059.89 "
+065,ABE,Zimbabwe,Birchenough,2022/23,Average True Earnings,430.61,,$430.61 
+066,ABE,Zimbabwe,Zaka,2022/23,Average True Earnings,340.84,,$340.84 
+067,ABE,Zimbabwe,Ruware,2022/23,Average True Earnings,322.77,,$322.77 
+068,ABE,Malawi,Chikwawa,2022/23,Average True Earnings,93.71,,$93.71 
+069,ABE,Malawi,Katowo,2022/23,Average True Earnings,102.76,,$102.76 
+073,ABE,Zimbabwe,Birchenough,2022/23,Average Gross Income per 0.25 ha,1596.74,,"$1,596.74 "
+074,ABE,Zimbabwe,Zaka,2022/23,Average Gross Income per 0.25 ha,1036.41,,"$1,036.41 "
+075,ABE,Zimbabwe,Ruware,2022/23,Average Gross Income per 0.25 ha,951.94,,$951.94 
+076,ABE,Malawi,Chikwawa,2022/23,Average Gross Income per 0.25 ha,400.75,,$400.75 
+077,ABE,Malawi,Katowo,2022/23,Average Gross Income per 0.25 ha,422.00,,$422.00 
+078,ABE,Mozambique,Small scale commercial farmers,2022/23,Average Gross Income per 0.25 ha,951.63,,$951.63 
+079,ABE,Mozambique,Subsistence farmers,2022/23,Average Gross Income per 0.25 ha,422.95,,$422.95 
+080,ABE,Mozambique,Organisation farmers,2022/23,Average Gross Income per 0.25 ha,1514.97,,"$1,514.97 "
+081,ABE,Zimbabwe,Birchenough,2022/23,Average True Earnings per 0.25 ha,580.73,,$580.73 
+082,ABE,Zimbabwe,Zaka,2022/23,Average True Earnings per 0.25 ha,473.38,,$473.38 
+083,ABE,Zimbabwe,Ruware,2022/23,Average True Earnings per 0.25 ha,423.20,,$423.20 
+084,ABE,Malawi,Chikwawa,2022/23,Average True Earnings per 0.25 ha,110.19,,$110.19 
+085,ABE,Malawi,Katowo,2022/23,Average True Earnings per 0.25 ha,114.44,,$114.44 

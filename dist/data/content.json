@@ -1,0 +1,3161 @@
+{
+	"crops": [
+		{
+			"name": "African Bird's Eye Chilli",
+			"short_name": "ABE",
+			"slug": "abe",
+			"colour": "#c13036",
+			"countries": [
+				{
+					"name": "Zimbabwe",
+					"slug": "zimbabwe",
+					"periods": [
+						{
+							"period": [
+								2022,
+								2023
+							],
+							"sections": [
+								{
+									"name": "background",
+									"title": "Background",
+									"sections": [
+										{
+											"title": "Overview",
+											"type": "text",
+											"content": "<p>In Zimbabwe, ABE continues to be purchased from the network of farmers through Nando's country partner Kacholo via its field extension officers in Birchenough, Fuve, and Ruware. Farmers sell ABE fresh to Kacholo and it dries the ABE at a central location in each community. The dried chilli from all locations is graded, bagged and shipped by Kacholo to Nando's processors in South Africa.</p>"
+										},
+										{
+											"title": "Key Metrics",
+											"type": "Table",
+											"data_source": "tables_data",
+											"crop": "ABE",
+											"country": "Zimbabwe",
+											"table": [
+												"background_key_metrics"
+											],
+											"year": "2022/23"
+										},
+										{
+											"title": "Operational Model",
+											"type": "text",
+											"content": "<div class=\"rich-text-with-icons w-richtext\"><figure class=\"w-richtext-align-floatright w-richtext-figure-type-image\"><div><img loading=\"lazy\" src=\"images/chili-shine.png\"></div></figure><p>Kacholo, used an out-grower operational model, with farmers cultivating ABE on their own land with support from Kacholo. The programme is supervised by Martin Bebete and Josaphat Mutsambwa with support from a team of dedicated field extension officers in each region.</p><p>Across all regions, Kacholo provided inputs, such as seedlings, fertiliser and pesticides, on credit to the farmers. Although Kacholo recommended which and how many inputs to take, farmers decided for themselves what they wanted. Kacholo also stipulated a fixed $.8 rate per kg for fresh chillies in the contract signed with farmers. Per the Kacholo field extension officers they provided an average of 20 hours of group and individual training to the farmers. However, the farmers perceive the training received to have been an average of 8 hours. Continued emphasis has also been placed by Kacholo on encouraging children to attend school rather than working in the fields during planting and harvest periods.</p><p>The planting density was 25,000 plants per Ha across all regions, but plot sizes varied between growing areas, cultivating ABE on plot sizes between .05Ha - .64Ha. The Zimbabwe government only permits 10-20% of a farmer's land to be designated for cash crops with the balance for family consumption to ensure farmer food security.</p></div>"
+										},
+										{
+											"title": "Assesment Anomalies",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Macro-Financial Systems",
+													"type": "text",
+													"content": "<p>Although the situation in Zimbabwe remains relatively peaceful, the economic context continues to be a major challenge for farmers. Inflation rates continue to be erratic and averaged 314.5% in the calendar year 2023. There are also artificially State based USD to Zimbabwe Dollar (KWL) exchange rates, which continues to devalue the money paid to the farmers. Although the price per kg of ABE sold was contracted in USD, based on the Zimbabwe currency exchange laws, when farmers withdraw from their bank accounts it is paid in ZWL at a State defined exchange rate which is dramatically lower than the retail or commonly used rate.Kacholo was able to successfully pay 75% of farmer payments directly in USD and 25% in ZWL. This exchange rate loss on a percentage of the farmers income and hyperinflation continued to have a significant impact on the farmers spending power.</p>"
+												},
+												{
+													"title": "Labour Vs. Plot Size Vs Yield",
+													"type": "text",
+													"content": "<p>The cost of labour continued to vary substantially between the three communities being assessed. This variance was based on two primary factors: Price of labour and when labour was used.</p><p>Labour costs are considered in two parts, the first is before chilli is harvested where labour is being used to prepare the land, plant seedlings and tend to the chill bushes while growing, this timeframe is deemed the growing season. The second labour costs are incurred when the chilli is being harvested. As it is sold fresh, harvesting and selling in a timely fashion is critical to the farmers income, thus, they use most labour to help them harvest. Across the various communities, day labour harvested between 80-90% of all chilli grown. What continued to differ dramatically between communities was the cost of labour and the application of paid labour versus average plot sizes and ABE production. In all three communities, labour was paid based on productivity, not time.</p><p>The day labour was compensated by the 20-litre bucket of chilli harvested. In 2022/2023, this bucket price was $1 in Fuve, $1.5 in Ruware and $2 in Birchenough. This variance was principally a factor of labour availability and employment opportunities in the areas where production occurred. The second key factor was the use of labour during the growing season. Historically, very few farmers have used labour during this period, but for the last two seasons, for unknown reasons, they did, particularly in Birchenough where labour was used by a large number of farmers interviewed. These differences accounted for an overall increase in the cost of labour from the previous season. 74% of Birchenough farmers used paid labour during the growing season, compared to 24% and 48% of farmers in Ruware and Fuve respectively. While Birchenough average plot sizes are the smallest of the three communities at .167Ha, compared to .176Ha in Fuve and .178Ha in Ruware it continues to have the highest yields.</p>"
+												},
+												{
+													"title": "Season Was Artificially Ended Early",
+													"type": "text",
+													"content": "<p>Nando's reduced its total ABE demand for the 2024 season. This resulted in a few negative implications for the farmers in the 2023 season and those in the 2024. The first is that Kacholo (country partner) ended the 2023 season early and stopped buying from farmers in April in one location and May in two others. The season normally runs till 1 August. As farmers still had ABE to harvest and sell they lost this additional income for the season after already investing in most of the annual costs. This had a meaningful impact on their net income.</p>"
+												},
+												{
+													"title": "Birchenough Plot Rental",
+													"type": "text",
+													"content": "<p>The cost of land emerged as a new dynamic for farmers in Birchenough. Some of the farmers interviewed indicated that they rent some or all of their ABE land from other farmers at various prices.It is unclear how many farmers in this community are paying for the land they use, but it is estimated to be 20% by the FEO in the rejoin.This additional cost can be material for some farmers if they are not managing their inputs on credit and labour costs closely and should be further investigated to determine how many farmers it is affecting and by how much.</p>"
+												}
+											]
+										},
+										{
+											"title": "Successes, Challenges & Farmer Feedback",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The programme has been successful in Zimbabwe and through earnings from ABE, the farmers' lives continue to be positively impacted albeit in a very challenging macro socio-economic environment. There are, however, a number of changes that can be made to enhance the impact on the farmer's lives. The following reflects some of the successes and challenges identified during the impact assessment.</p>"
+												},
+												{
+													"title": "Successes",
+													"type": "text",
+													"content": "<p>Zimbabwe continues to be the largest producer of ABE with the most smallholder farmers involved. The key successes noted for this season were:</p><h4>Programme Appreciation:</h4><p>Although cash is constantly mentioned as a challenge, all farmers are appreciative of the PERi-Farms programme. Within the context of Zimbabwe's current economic climate, the ABE farmers are considerably more financially stable than other farmers in the areas visited. For farmers who have been in the programme over a number of seasons improvements and sustaining these improvements is greatly appreciated.</p><h4>Technical Support And Inputs:</h4><p>Training and inputs on credit continue to be highlighted as the primary drivers of success for farmers. The inputs on credit are material because most farmers do not have the working capital needed to fund the costs of growing ABE prior to harvesting. Additionally, new and seasoned farmers in the programme still appreciate the training and demonstrations facilitated by the Field Extension Officers. The training sessions found most beneficial by the farmers in the 2022/2023 were land preparation, fertiliser application, harvest management and record keeping. The training for ABE production, also was deemed valuable for increasing the yields of the farmers' other subsistence and cash crops.</p><h4>Provision of Additional Dryer:</h4><p>In the previous season, farmers had mentioned that there was increased ABE rotting due to mist and rain from having to dry some of the ABE outside and the capacity of the dryers could not support all the ABE harvested. In 2022/2023 a new dryer was purchased, and this challenge has been resolved successfully.</p>"
+												},
+												{
+													"title": "Challenges",
+													"type": "text",
+													"content": "<p>The following reflects some of the challenges mentioned in the farmer and management interviews that did affect both earnings and impact:</p><h4>Season Ending Early</h4><p>Farmers noted repeatedly that ending the season in April and May, two to three months, prematurely, materially affected their net income as they had planned their input purchases and labour allocations with the expectation of the season ending in August.</p><h4>Fixed Price/Kg:</h4><p>The price paid to farmers for ABE has remained constant for three years, while all their other costs have increased. Thus, reducing their potential net income. This was mentioned as a material issue repeatedly by the farmers.</p><h4>High Labour Costs:</h4><p>Farmers indicated the cost of labour continues to be a material issue for them which fundamentally affects their net income. Farmers requested extra cash loans for paying labour during the harvesting period.</p><h4>Banking Challenges:</h4><p>Farmers were previously using CAPS bank, which did not charge fees or cash-out charges. However, they were switched to a new bank that imposed monthly fees. This change in banking services has increased operational costs for the farmers. The reasons for the change are too detailed to enumerate here, but farmers are presently allowed to choose their own bank providers, however, this as a cost centre should still be reviewed to ensure it is minimised.</p><h4>Birchenough Attrition</h4><p>At the end of the 2022/23 season 43% of the Birchenough farmers left the programme. This level of attrition has never happened in the 9 year history of the programme. While we don't know for certain all the reasons, it is likely the season ending early, the banking charges, the high labour costs and the price remaining constant. This area has more economic opportunities than the other two in Zimbabwe, thus enabling farmers more production choices. As this is so significant it should be closely watched as it may have material repercussions on the entire programme's long term.</p>"
+												},
+												{
+													"title": "Farmer Feedback",
+													"type": "text",
+													"content": "<h4>Farmers Perception Of The Most Important Component Of The PERi-Farms Programme</h4><p>The value farmers perceive they receive from the fixed price stayed very similar to previous years but is on a consistently decreasing trend. The value perceived from technical support also decreased considerably from 49% last season to 41%. The value perceived from inputs on credit has increased significantly from 27% last season to 36%. These changes continue to be an important reflection of the macroeconomic conditions the farmers operate within, and how Kacholo can continue to support them.</p>"
+												},
+												{
+													"title": "Which of the three core components of the ABE programme was the most important to you?",
+													"subtitle": "2022/2023",
+													"caption": "For example, 29% of farmers in Zimbabwe view 'Technical support' as the most important core component of the ABE programme, whereas 19% view it as the least important component.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"Fixed Prices",
+														"Inputs on Credit",
+														"Tech Support"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"indicator_text": "Select a core component:",
+													"colors": [
+														"#9ac746",
+														"#ed732e",
+														"#c13036"
+													]
+												},
+												{
+													"title": "Do you think the training you received changed your yield of ABE chillies?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"training_received_changed_yield_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmers",
+													"y_label": "Response",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "Do you think the training you received increased the yields of your other crops, apart from ABE?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: For farmers answering 'Yes', the training provided new knowledge and skills transferrable to growing other crops. For example, the use of fertilisers, pesticides, general crop management, and book keeping.",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"training_received_changed_yield_other_crops"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmers",
+													"y_label": "Response",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "Has any crop ever earned you more than you earned from growing chillies?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"other_crop_ever_earned_you_more_than_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmers",
+													"y_label": "Response",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "farmers",
+									"title": "Farmers",
+									"sections": [
+										{
+											"title": "",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"table": [
+														"farmers_key_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to their age group",
+													"subtitle": "2022/2023",
+													"caption": "For example, 30% of farmers in Fuve-Zaka belong to the age group 40-49 y/o.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"farmer_age_groups"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Age Group",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Farmers according to the size of their households",
+													"subtitle": "2022/2023",
+													"caption": "For example, 43% of farmers in Ruware live in a household with 7-9 persons (incl. farmer).",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"farmer_household_size"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Household size (no. of persons incl. farmer)",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to their number of children",
+													"subtitle": "2022/2023",
+													"caption": "For example, 53% of farmers in Zimbabwe have 4-6 children.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"farmer_no_of_children"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Number of children",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Farmland Beyond ABE",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"farmland_beyond_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "Size of Total Farmland",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"total_farmland_size"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Size of farmland",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Farmland Irrigation",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"farmland_irrigation"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Beeswarm",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "Beeswarm",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"farmland_irrigation"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "production",
+									"title": "Production",
+									"sections": [
+										{
+											"title": "Farming",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"table": [
+														"production_farming_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to the amount of farmland used for ABE chillis",
+													"subtitle": "2022/2023",
+													"caption": "For example, 60% of farmers in Zimbabwe use 0-24% of their total farmland for growing ABE chillis.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"percentage_farmland_for_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmland used for growing ABE chillis",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Farmers according to the other crops they grow",
+													"subtitle": "2022/2023",
+													"caption": "For example, 24% of farmers in Fuve-Zaka grow, in addition to ABE chillis, maize.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"other_crops_grown"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Other crops grown by ABE chilli farmers",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to the yield of fresh ABE chillis",
+													"subtitle": "2022/2023",
+													"caption": "For example, 36% of farmers in Ruware produced 500-999kg fresh ABE chilis.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"fresh_yield_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Yield of fresh ABE chillis",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Farmers according to the plot size of ABE chillis planted",
+													"subtitle": "2022/2023",
+													"caption": "For example, 9% of farmers in Birchenough have a plot size of planted ABE chillis of more than 0.3ha.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"planted_area"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Plot size of ABE chillis planted",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to the yield of fresh ABE chillis per 0.25ha planted",
+													"subtitle": "2022/2023",
+													"caption": "For example, 30% of farmers in Zimbabwe produce (yield) 2000+kg of fresh ABE chillis per 0.25ha planted.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"fresh_yield_ABE_per_0.25ha_planted"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Yield of fresh ABE chillis (kg) per 0.25ha",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Costs",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "cta",
+													"content": "To calculate the net income for farmers requires all costs to be considered. These include the input costs as recorded by country partner which include - seedlings, fertilisers, and pesticides. Additionally, the farmers also incur labour, transport, tools and sometimes water and electricity costs related to producing ABE. These costs are gleaned from the impact assessment interviews. The gross income minus all these costs is how the net income is derived."
+												},
+												{
+													"title": "",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"table": [
+														"production_costs_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to their inputs costs (seedlings, fertilizer and pesticides)",
+													"subtitle": "2022/2023",
+													"caption": "For example, 29% of farmers in Birchenough have input costs of $200-299.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"total_input_costs_aka_loan"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Input costs (seedlings, fertilizer and pesticides)",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												}
+											]
+										},
+										{
+											"name": "income",
+											"title": "Income",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"table": [
+														"production_income_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to their gross income",
+													"subtitle": "2022/2023",
+													"caption": "For example, 32% of farmers in Fuve-Zaka earned a gross income of $500-999.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"gross_income"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Gross income",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to their net income",
+													"subtitle": "2022/2023",
+													"caption": "For example, 11% of farmers in Zimbabwe earned a net income of less than $0 i.e., a loss.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"net_income"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Net income",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "impact",
+									"title": "Impact",
+									"sections": [
+										{
+											"title": "Basic Human Needs Index",
+											"type": "text",
+											"content": "<p>As the conditions farmers live in are often difficult to grasp without first-hand experience, a numerical tool, called the basic human needs index, was developed to both compare communities, but most importantly to assist in understanding the impact of the PERi-Farms initiative. The basic human needs index creates a numerical value that measures how a community scores related to the key basic human needs: housing, water, effluent, energy, food security, health and education.</p><p>The baseline assessments create the initial scores for each of these human needs, which provides a foundation for comparison to the impact score derived after one or multiple growing seasons. Each area is scored on a scale of 1-10, where 1 represents the lowest value and 10 the highest. The following reflects how each basic human need is scored.</p><ul><li>Education - Easy access to schools: pre-primary through high school, at a high quality at an affordable price, scores a 10.</li><li>Healthcare - Easy access to a broad range of medical care, that is high quality, at an affordable price, scores a 10.</li><li>Food Security - Access to food, which can provide a balanced diet with the essential vitamins and minerals at an affordable price, scores a 10.</li><li>Energy - Power of any type - grid or off-grid, inside the house that is consistently available at an affordable price, scores a 10.</li><li>Housing - A house that is solidly built, has adequate space for the size of the family, is waterproof, provides decent insulation, is equipped with water, toilets, and power, scores a 10.</li><li>Water - Water inside the house, that is always available, is safe for consumption and is affordable, scores a 10.</li><li>Effluent Removal - A house that has internal toilets that do not pose a risk to the environment, scores a 10.</li></ul>"
+										},
+										{
+											"title": "Impact Scores",
+											"type": "mixed",
+											"sections": []
+										},
+										{
+											"title": "Key impact metrics Education; Energy and Food Security",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "To provide another perspective on how the ABE farmers have been impacted by the addition of this cash crop it is relevant to understand their access to education, energy and food security in relation to other subsistence farmers in Zimbabwe. These three factors are critical because: being food secure allows the farmers and their children to focus on other productive measures - education, commercial gain, and social connections; energy access which provides lights and charging facilities enables studying and commercial activities after dark; and, children's education is a tool for realising new commercial opportunities other than subsistence farming or becoming more efficient and effective at farming. As these impact metrics are vital to understanding change, this section reviews the access to education that ABE farmers' children have, their household access to energy, as well as their food security in relation to the Zimbabwean country norms.</p><h4>Education</h4><h5>Percentage of age appropriate children in primary school</h5><p>The latest data available from 2020 on what percentage of age appropriate children are in primary school is 86.36% in Zimbabwe. Thus 13.64% of children are not in school, however this statistic only refers to those not enrolled not counting those enrolled but not attending regularly.</p><h5>Percentage of children that complete primary school</h5><p>In Zimbabwe, around 89% of children complete primary school according to UNICEF's data for 2021 (UNICEF Zimbabwe Education Fact Sheets, 2021). There are however disparities between genders, with girls having a slightly higher completion rate (around 92%) compared to boys (around 86%) [International Institute for Capacity Building in Africa].</p><h5>Percentage which go to and also complete secondary school in Zimbabwe</h5><p>Secondary school has two levels in Zimbabwe, lower which is grades 8-11 (O level) and upper which is grades 12-13 (A level). As of 2021, 71% of children who completed primary school enter lower secondary school, however of those who entered, the average completion rate is only 54% which drops to 40% for rural areas. In Zimbabwe there are a range of tertiary degrees that only require an O level like teaching, and most other technical degrees. To enter university however, an A level is required. Only 15%, which drops to 6% for rural areas, complete upper secondary school. (<a href='https://data.unicef.org/wp-content/uploads/2021/12/Zimbabwe-MICS-EAGLE-Education-fact-sheets-2021.pdf'>See here</a>).</p><h5>Percentage in university</h5><p>The latest available tertiary education enrollment rate, 2020, was 9.72% of both O and A level graduates. Roughly 7-8% of the Zimbabwe population have tertiary education, that rate drops to 3-4% in rural areas.</p><p>The vast majority of ABE Zimbabwean farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level a high 96% of Zimbabwean farmers children are attending, for secondary school a high 84% are attending, and for university 58% eligible for university are attending.</p><p>The ABE farmer children are attending secondary school and university at much higher rates than the country average and particularly high in comparison to rural areas.</p><h4>Energy</h4><h5>Percentage of Zimbabwe electrified and has solar in rural areas</h5><p>While there's no single definitive figure, estimates suggest that between 40% and 53% of Zimbabwe's population has access to electricity. This access rate for Zimbabweans includes both rural and urban areas, with a significant disparity between urban (78 -86% access) and rural areas (14 -16% access). While these percentages are a range, so too is the daily availability of electricity for those who have it ranging between 4-12 hours per day.  Counted in the rural figures for having access to “electricity” includes those with a solar system which further confuses the facts. The estimations of how many people in rural communities have access to solar power ranges between 10-20%.</p><p>(<a href='https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW'>https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW</a>).<br/>(<a href='https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/'>https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/</a>)<br/>(<a href='https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/'>https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/</a>)</p><p>While the ABE farmers reflect close to the national average for electrical connections at 13%, the percentage which have solar energy is substantially above the rural average. 69% of ABE farmers have solar power for lighting and charging in their homes giving them a level of power access which is materially better than the rural and country norm.</p><h4>Food Security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Zimbabwe has been defined as being in a major food crisis considering that as of December 2022, annual food price inflation was estimated at 285% due to reliance on food imports as well as currency depreciations in the country. The extent of the crisis affects 3 - 3.5M people in Zimbabwe who were projected to be in IPC Phase 3 or above reflecting the persisting effects of economic and weather shocks on household food access and availability (FEWS NET, 2022)(FEWS NET, February 2023).</p><p>This crisis phase was consistent among the Birchenough, Ruware and Fuve, areas where ABE is grown. These areas have all been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report.</p><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in the farmers' diets, as well as the variety within food groups.</p><p>The chart below considers food regularly purchased and food grown for consumption by Zimbabwean farmers. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. The farmers have most of their variety concentrated in the various carbohydrates they consume at a 14.75% good variety rate, followed by proteins at 6,56% good variety rate. Therefore 21.31% of farmers consume 6 or more types of proteins and carbohydrates regularly. Almost half of the farmers (48%) have an inadequate variety of protein however, with the most consumed protein coming from beans and chicken. The most consumed carbohydrate is maize, in the form of porridge or sadza. When it comes to vitamins and minerals, the most consumed are from \"vegetables\" which refers to leafy greens such as kovo, rape or pumpkin leaves. Fats/oils have the least variety with farmers purchasing cooking oil and typically consuming ground nuts.</p>"
+												}
+											]
+										},
+										{
+											"title": "Education",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>In the 2022-2023 season all farmer children, except for one child in the Fuve community, could afford to send their children to age appropriate schools. The ABE Farmers had between one and two children in primary school and secondary school on average. In Birchenough, 68% of farmers indicated that ABE affected schooling their choices positively, while 80% indicated the same in Ruware and 55% in Fuve. 76% of all ABE farmers spent money earned from ABE on education for their children, and in Birchenough particularly 84% of farmers indicated spending their earnings on their children's education. A few farmers in Birchenough indicated being able to send their children to university and boarding school using their ABE earnings, where farmers in Fuve and Ruware indicated spending the money on fees, transport, uniforms, books and other materials.</p>"
+												},
+												{
+													"title": "Has the money earned from growing ABE affected the education choices made in your household?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_affected_education_choices"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Healthcare",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>ABE farmers in Zimbabwe generally access their healthcare at local hospitals and clinics, while a few are able to afford private clinics. In Birchenough farmers make use of the local hospitals rather than clinics, however some do make use of private clinics. In Fuve and Ruware farmers make use of public clinics and occasionally private clinics. On average 41% of farmers across Zimbabwe indicated that ABE income affected the healthcare choices they made in the past season. For Birchenough and Ruware the health care spending and access enabled by ABE income from 2022/23 principally maintained the previous achievements realised. While only 35% of the Fuve community indicated that ABE income affected their medical choices, that effect was material. These farmers visited healthcare facilities more frequently (an average of 2.9 times) and the income enabled them to afford transportation to the medical facility, medications, doctors fees and for some, the ability to attend a private facility when needed. The most consistent reasons for visiting medical facilities were headaches, colds/flu, pain, diarrhoea, malaria, pregnancies and child health needs.</p>"
+												},
+												{
+													"title": "Has the money earned from growing ABE, in last season, affected the medical care your family gets?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_affected_medical_choices"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Food Security",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>ABE farmers in Zimbabwe generally access their healthcare at local hospitals and clinics, while a few are able to afford private clinics. In Birchenough farmers make use of the local hospitals rather than clinics, however some do make use of private clinics. In Fuve and Ruware farmers make use of public clinics and occasionally private clinics. On average 41% of farmers across Zimbabwe indicated that ABE income affected the healthcare choices they made in the past season. For Birchenough and Ruware the health care spending and access enabled by ABE income from 2022/23 principally maintained the previous achievements realised. While only 35% of the Fuve community indicated that ABE income affected their medical choices, that effect was material. These farmers visited healthcare facilities more frequently (an average of 2.9 times) and the income enabled them to afford transportation to the medical facility, medications, doctors fees and for some, the ability to attend a private facility when needed. The most consistent reasons for visiting medical facilities were headaches, colds/flu, pain, diarrhoea, malaria, pregnancies and child health needs.</p>"
+												},
+												{
+													"title": "Do you ever feel like you don't have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "How often do you feel like you don't have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"how_often_not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Which months do you typically not have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one month. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"months_not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Month",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Did growing chillies affect the amount of food you grew to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_affected_amount_of_food_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "What kind of animals did you buy with your ABE earnings of last season?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one animal, and not all farmers provided an answer. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"animals_bought_with_ABE_earnings"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Animals",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												}
+											]
+										},
+										{
+											"title": "Housing",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The typical household for ABE farmers in Zimbabwe is 5-6 people, with an average of 2-3 bedrooms per household. The houses are primarily made with mud bricks with 34% using cement bricks. Across Zimbabwe the housing structures generally have both doors and window frames (83%), with 68% being plastered as well. The roofs are mostly corrugated iron or asbestos, with asbestos roofs being concentrated in Birchenough (70%). The flooring across communities are generally cement floors (80%). In the 2022/23 season, 50% in Birchenough, 40% in Fuve and 50% in Ruware spent their ABE income on housing. The kinds of housing spend went to items such as cement, building materials and labour. The amounts spent and what was done with the funding maintained the impact previously achieved from farming ABE.</p>"
+												},
+												{
+													"title": "Did you spend any of your ABE earnings from last season on housing?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_earnings_spent_on_housing"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Energy",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The primary sources of energy for Zimbabwean ABE farmers is wood (84%) for cooking and heating, solar (69%) for lighting and small device charging, as well as batteries (23%). The Birchenough community is the only community where farmers have access to the electrical grid, where 42% have electricity connected to their homes. Across Zimbabwe 29% of farmers said that growing chilli changed the energy used in their households to cook, light and power devices. An average of 26% of farmers spent ABE money on energy in the past season on wood, electricity bills, and solar system maintenance and upgrades. The wood used is collected or purchased by the farmers or family members, and often requires them to travel long distances. In the Fuve and Ruware community some farmers travel distances exceeding 1km. By contrast the Birchenough farmers generally don't collect, but buy wood. For all three communities the ABE money spent on energy and the access it enabled in the 2022/23 season principally maintained the impact already achieved from previous years.</p>"
+												},
+												{
+													"title": "Which energy forms have you increased spending on after growing ABE chillies?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one form of energy, and not all farmers provided an answer. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"energy_increased_spending_on"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Water",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Water access improved in Birchenough but stayed constant in Fuve and Ruware. In Birchenough 84% of farmers have access to water at their house via the municipality that is regularly tested but at times unavailable due to power outages. Farmers in Fuve however, still get water from a borehole or river which is on average 750m from their homes. The water in this community is not always safe as 25% of farmers had issues with the water quality and 35% treated the water themselves. In Ruware farmers access water from a canal which is on average 150m from their homes. This water quality was an issue for 30% of the farmers while 70% of farmers treat the water themselves to make it safe for use. In Birchenough ABE money was primarily spent on paying monthly water bills and gaining access to the municipal system. Changing how water is accessed and enhancing quality in Fuve and Ruware is generally beyond the means of the ABE farmers, thus why little impact has been made to-date in these communities.</p>"
+												},
+												{
+													"title": "Have any of your last years' ABE chilli earnings been spent on water for your household?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_earnings_spent_on_water"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Effluent",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Access to effluent facilities increased across two of the three communities in Zimbabwe this past season. The effluent systems generally used in Zimbabwe are pit latrines and the bush system. Overall an average of 22% of farmers spent ABE earnings on their effluent systems. While the percentage was not high, how farmers spent their ABE earnings was meaningful. In Birchenough, 26% spent their ABE earnings on effluent systems which ranged from upgrading to a flush toilet or building new pit latrines. In Ruware, 25% spent their ABE earnings on effluent systems which included new pit latrines, or materials and labour for building a pit latrine toilet. In Fuve, only 15% of farmers spent ABE income on their systems, primarily for small things like materials or repairing pit latrines.</p>"
+												},
+												{
+													"title": "Have earnings from last year's chillies been spent on your family's effluent systems?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_earnings_spent_on_effluent_systems"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"period": [2021,2022],
+							"sections": [
+								{
+									"name": "background",
+									"title": "Background",
+									"sections": [
+										{
+											"title": "Overview",
+											"type": "text",
+											"content": "<p>2021-2022 Zimbabwe ABE</p>"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Malawi",
+					"slug": "malawi",
+					"periods": [
+						{
+							"period": [
+								2022,
+								2023
+							],
+							"sections": [
+								{
+									"name": "background",
+									"title": "Background",
+									"sections": [
+										{
+											"title": "Overview",
+											"type": "text",
+											"content": "<p>Now in their fifth season managing the PERi-Farm's programme, Tropha is Nando's country partner in Malawi. Its PERi-Farm's operational model is based on an in/out-grower hybrid scheme, with farmers cultivating African Birds Eye (ABE) chilli independently, but on land Tropha has secured and provided irrigation infrastructure. Beyond growing ABE for Nando's, Tropha also grows a range of other crops including Paprika, Malaga (another variety of ABE) and Macadamia nuts, which accounts for 70% of its business.</p><p>Farmers in the PERi-Farm's programme grow Nando's variety of ABE as their primary cash crop and a small amount of Malaga, in addition to other crops for consumption and local sales such as maize, tobacco, sorghum, soya and legumes.</p><p>The following country overview provides the key statistics and commercial data for the two communities, Chikwawa and Katowo, growing ABE in the 2022/23 season in Malawi. The commercial data is for the 83 farmers in Katowo (up by 51% from 55 in 2021/2022) and 198 farmers in Chikwawa (up by 68% from 118 in 2021/2022).</p>"
+										},
+										{
+											"title": "Key Metrics",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Over 40% of the farmers in Malawi lost money growing ABE in 2022/23 based on excessive rain and flooding during the season. Based on this, the data reflected below and throughout the commercial analysis has been segmented to include:</p><ul><li>All Farmers - refers to the total number of farmers who grew ABE in the 2022/23 season; and</li><li>Positive income - refers to farmers whose gross income exceeded their input and other costs.</li></ul><p>&nbsp</p>"
+												},
+												{
+													"title": "Key Metrics",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"table": [
+														"background_key_metrics"
+													],
+													"year": "2022/23"
+												}
+											]
+										},
+										{
+											"title": "Operational Model",
+											"type": "text",
+											"content": "<p>The PERi-Farm's programme operates on an in/out-grower scheme managed by Tropha. The programme is managed by Duncan McDavid who supervised all aspects of the programme including farm visits, programme coordination, technical skills training by the FEOs and farmers, and the drying process.</p><p> Tropha's small scale farmers are growing ABE in one region, across different irrigation blocks. The irrigation system has been successfully installed by Tropha at no cost to the farmers. There was been no charge to-date for water, however, in the future farmers will be required to pay for pumping water and general maintenance monthly. The land has been allocated to the farmers through negotiations by Tropha with the primary chiefs in the area. Of the 120Ha of land allocated to Tropha, 63Ha was allocated to produce Nando's ABE across. Generally each ABE farmer has 1Ha of irrigated land, with an average of .22Ha allocated to ABE. The Tropha Farmers will be able to increase their ABE production, based on success, up to .4Ha of land.</p><p>Farmers growing ABE were provided inputs on credit, technical skills training, and a guaranteed price per kg of dry ABE. Inputs were allocated based on an average of .22 Ha plot size and were provided at cost with no additional charge for transportation. All new farmers are supplied with chemical inputs with the Tropha team doing the spraying of crops in the first season, and farmers spraying themselves from their second season onwards. Sprayers are bought by individual farmers or at a community level. Protective PPE clothing is supplied on loan from Nando's for farmers who opt to do their own spraying in the second season.</p><p>During 2022/2023, farmers received quarterly group training sessions from FEOs, lasting roughly two hours each. According to the FEOs, group training and one-on-one coaching totalled sixteen hours over the season, however, according to farmer's perceptions, the total training time totalled eleven hours. The focus of the technical skills training included the fundamentals of farming in the classroom with practical in-field observations, covering topics such as seed beds, land preparation, transplanting, pests and disease management, harvesting and grading.</p>"
+										},
+										{
+											"title": "Assessment Anomalies",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "In the 2022/23 growing season in Malawi, there were three material anomalies:"
+												},
+												{
+													"title": "Flood Damage",
+													"type": "text",
+													"content": "<p>Only 59% of the farmers covered earned a net income in the 2022/23 season. The rest lost money due to crop damage from floods caused by heavy rainfalls. More than 75% of the farmers affected by the heavy rainfall were in the community of Chikwawa. Some of the farmers who were affected by the floods were able to still grow other crops such as maize and soya beans which were sold at local markets and used for personal consumption. As reported by FEOs, in a reasonably good season, A-grade ABE average yields are roughly 90%, however, in 2022/2023 it was only 47%. Farmers sold B and C grades to Tropha while the rest of the lower grade ABE was sold in local markets. Most farmers reported losses from those sales as the chilli was sold fresh and rotted within a short time. For those farmers that lost money growing ABE, where the cost of inputs taken on credit from Tropha exceeded revenue earned from ABE sales, were not required to pay their debt this season. That debt was suspended until the 2023/24 season when ABE revenue is expected to exceed costs as well as earn a profit for these farmers.</p>"
+												},
+												{
+													"title": "Malaga ABE",
+													"type": "text",
+													"content": "<p>In addition to Nando's ABE variety, Tropha also provided inputs and support to the small farmers for Malaga ABE production, which was sold to Nando's for managing heat levels in its sauces. Thus, farmers were growing two varieties of chilli for Nando's and could not make a clear distinction about their sources of income and costs between the two varieties. To accommodate this lack of clarity, some of the data reflected in this report - income, costs, and impact reflect the combination of these two chilis. While other data like land size and yields only relates to ABE. As the farmer income and impact were materially affected by the floods, combining the chilli data together, when done, has created very little distortion because the amount of income (average $30 gross income) and its related impact from growing Malaga was marginal.</p>"
+												},
+												{
+													"title": "Labour Costs",
+													"type": "text",
+													"content": "<p>The labour costs between the two communities varied dramatically, thus the averages distort the data. Labour is considered in two parts, the first is before chilli is harvested where labour is being used to prepare the land, plant seedlings, and tend to the chilli bushes while growing, thus this timeframe is deemed the growing season. The second is when the chilli is being harvested. Farmers always incur a higher labour cost for harvesting as it is more time sensitive and requires more people working at once to prevent crop loss. ABE is sold dry to Tropha, thus each farmer must take the responsibility of all post-harvest handling until the point of sale to Tropha.</p><p>In the 2022/2023 season, on average, both communities used similar amounts of paid labour for both growing and harvesting, however, farmers in Katowo paid $.87 for each bucket (the most common method of payment) harvested by paid labour while Chikwawa paid $1.67 per bucket. This disparity was based on the location. Katowo is much more isolated than Chikwawa and therefore there are less opportunities, so people are prepared to work for less than in Chikwawa.</p>"
+												}
+											]
+										},
+										{
+											"title": "Successes, Challenges & Farmer Feedback",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Although there were significant losses in 2022/23, the programme is still considered successful in Malawi, as earnings from ABE have positively impacted the farmers involved. The farmers interviewed for this report were only those that had a positive income as it is futile to try and measure the impact of ABE when there was no income. Thus the reflections represented are from this subset of farmers. The following reflects some of the successes and challenges from the Farmers and FEOs perspectives as gleaned during the impact assessment for this season.</p>"
+												},
+												{
+													"title": "Successes",
+													"type": "text",
+													"content": "<h4>Improved access to basic needs</h4><p>In the previous season they had mentioned spending on items, such as motorbikes and solar systems for their homes for lighting and charging phones as well as being able to afford better educational choices for their children. In this season, 60% of the farmers interviewed indicated that ABE earnings did have a positive impact, albeit to a lesser degree than previously.</p><h4>Training and technical support</h4><p>Farmers were happy with the training they received and explained that it made a meaningful impact on their ability to grow chilies correctly, which they believe improved their yields.</p><p>As in the past season, farmers acknowledge the supportive nature of the Field Extension Officers who visited their plots regularly, with the majority indicating they receive site visits from these officers at least once a week.</p><h4>Other crops improvement</h4><p>Farmers mentioned that the programme continues to enable them to improve the yields and quality of other crops, such as maize, nuts and soya. They reported this was the result of an improvement in their technical skills gained from the training, which are transferable to other crops.</p>"
+												},
+												{
+													"title": "Challenges",
+													"type": "text",
+													"content": "<h4>Yields</h4><p>The biggest challenge in this season was the heavy rainfall. Both farmers and the FEOs indicated there were no additional prevention and damage control measures they could have implemented.</p><h4>Revenue And Net Income</h4><p>Both the average gross income and average net income declined from the previous season, decreasing by 62% and 94% respectively.</p><h4>Higher price per kg</h4><p>Due to increasing costs of living and inflation, most of the farmers are still requesting an increase of the price per kg to $3.50 per kg.</p><h4>Poorer seedling quality for this season</h4><p>In the previous season 8% of farmers indicated that the seedlings were lower quality and were more prone to drying out and rotting compared to the previous season. This was still a challenge for 5% of the farmers in this season.</p><h4>Fertiliser application changes</h4><p>Many of the farmers reported receiving less than adequate fertiliser and attributed some of their failures to that. The FEOs explained that this was a misunderstanding as the same amount of fertiliser had been provided per plot size; however, it was applied only on one side of the raised bed ABE is grown in as opposed to both sides as had been done in the past.</p><h4>Side-selling</h4><p>FEOs indicated that in this season an estimated 20% of farmers sold their A-grade chilli to external vendors who may have offered them higher prices. Tropha has reiterated to farmers that side-selling will result in removal from the programme.</p>"
+												},
+												{
+													"title": "Farmer Feedback",
+													"type": "text",
+													"content": "<h4>Farmers Perception of the Most Important Component of the PERi-Farms Programme</h4><p>Farmers continue to rate the technical support feature of the programme the highest in relation to a fixed price and inputs on credit. There was marginal change from the 2021/22 season in perceptions regarding the value of the fixed price which increased by 5% and inputs on credit decreased by 7% in 2022/23. These changes are not significant enough however, to draw any conclusions about the importance of each feature from 2021/22 to 2022/23.</p>"
+												},
+												{
+													"title": "Which of the three core components of the ABE programme was the most important to you?",
+													"subtitle": "2022/2023",
+													"caption": "For example, 45% of farmers in Malawi view 'Technical support' as the most important core component of the ABE programme, whereas 11% view it as the least important component.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"Fixed Prices",
+														"Inputs on Credit",
+														"Tech Support"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"indicator_text": "Select a core component:",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Do you think the training you received changed your yield of ABE chillies?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"training_received_changed_yield_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmers",
+													"y_label": "Response",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "Do you think the training you received increased the yields of your other crops, apart from ABE?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"training_received_changed_yield_other_crops"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmers",
+													"y_label": "Response",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "Has any crop ever earned you more than you earned from growing chillies?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"other_crop_ever_earned_you_more_than_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmers",
+													"y_label": "Response",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "farmers",
+									"title": "Farmers",
+									"sections": [
+										{
+											"title": "",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Key Metrics",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"table": [
+														"farmers_key_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to their age group",
+													"subtitle": "2022/2023",
+													"caption": "For example, 28% of farmers in Chikwawa belong to the age group 40-49 y/o.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"farmer_age_groups"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Age Group",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to the size of their households",
+													"subtitle": "2022/2023",
+													"caption": "For example, 60% of farmers in Malawi live in a household with 4-6 persons (incl. farmer).",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"farmer_household_size"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Household size (no. of persons incl. farmer)",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Farmers according to their number of children",
+													"subtitle": "2022/2023",
+													"caption": "For example, 5% of farmers in Malawi have 7-9 children.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"farmer_no_of_children"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Number of children",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Farmland Beyond ABE",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"farmland_beyond_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "Size of Total Farmland",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"total_farmland_size"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Size of farmland",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmland Irrigation",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"farmland_irrigation"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Earnings",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "SwarmChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"gross_income_scatter_plot"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "production",
+									"title": "Production",
+									"sections": [
+										{
+											"title": "Farming",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Key Metrics",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"table": [
+														"production_farming_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to the amount of farmland used for ABE chillis",
+													"subtitle": "2022/2023",
+													"caption": "For example, 17% of farmers in Malawi use 25-49% of their total farmland for growing ABE chillis.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"percentage_farmland_for_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmland used for growing ABE chillis",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Farmers according to the other crops they grow",
+													"subtitle": "2022/2023",
+													"caption": "For example, 28% of farmers in Chikwawa grow, in addition to ABE chillis, ground nuts.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"other_crops_grown"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Other crops grown by ABE chilli farmers",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Farmers according to the yield of fresh ABE chillis",
+													"subtitle": "2022/2023",
+													"caption": "For example, 47% of farmers in Katowo produced 1000-1499kg fresh ABE chilis.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"fresh_yield_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Yield of fresh ABE chillis",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#ffad43"
+													]
+												},
+												{
+													"title": "Farmers according to the plot size of ABE chillis planted",
+													"subtitle": "2022/2023",
+													"caption": "For example, 93% of farmers in Katowo have a plot size of planted ABE chillis of 0.25ha or less.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"planted_area"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Plot size of ABE chillis planted",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Farmers according to the yield of fresh ABE chillis per 0.25ha planted",
+													"subtitle": "2022/2023",
+													"caption": "For example, 36% of farmers in Malawi produce (yield) 500-999kg of fresh ABE chillis per 0.25ha planted.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"fresh_yield_ABE_per_0.25ha_planted"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Yield of fresh ABE chillis (kg) per 0.25ha",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												}
+											]
+										},
+										{
+											"title": "Costs",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "cta",
+													"content": "To calculate the net income for farmers requires all costs to be considered. These include the input costs as recorded by country partner which include - seedlings, fertilisers, and pesticides. Additionally, the farmers also incur labour, transport, tools and sometimes water and electricity costs related to producing ABE. These costs are gleaned from the impact assessment interviews. The gross income minus all these costs is how the net income is derived."
+												},
+												{
+													"title": "Key Metrics",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"table": [
+														"production_costs_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to their inputs costs (seedlings, fertilizer and pesticides)",
+													"subtitle": "2022/2023",
+													"caption": "For example, 64% of farmers in Chikwawa have input costs of $0-199.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"total_input_costs_aka_loan"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Input costs (seedlings, fertilizer and pesticides)",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"name": "income",
+											"title": "Income",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Key Metrics",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"table": [
+														"production_income_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to their gross income",
+													"subtitle": "2022/2023",
+													"caption": "For example, 6% of farmers in Katowo earned a gross income of $2000+.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"gross_income"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Gross income",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to their net income",
+													"subtitle": "2022/2023",
+													"caption": "For example, 5% of farmers in Malawi earned a net income of less than $0 i.e., a loss.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"net_income"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Net income",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "impact",
+									"title": "Impact",
+									"sections": [
+										{
+											"title": "Basic Human Needs Index",
+											"type": "text",
+											"content": "<p>As the conditions farmers live in are often difficult to grasp without first-hand experience, a numerical tool, called the basic human needs index, was developed to both compare communities, but most importantly to assist in understanding the impact of the PERi-Farms initiative. The basic human needs index creates a numerical value that measures how a community scores related to the key basic human needs: housing, water, effluent, energy, food security, health and education.</p><p>The baseline assessments create the initial scores for each of these human needs, which provides a foundation for comparison to the impact score derived after one or multiple growing seasons. Each area is scored on a scale of 1-10, where 1 represents the lowest value and 10 the highest. The following reflects how each basic human need is scored.</p><ul><li>Education - Easy access to schools: pre-primary through high school, at a high quality at an affordable price, scores a 10.</li><li>Healthcare - Easy access to a broad range of medical care, that is high quality, at an affordable price, scores a 10.</li><li>Food Security - Access to food, which can provide a balanced diet with the essential vitamins and minerals at an affordable price, scores a 10.</li><li>Energy - Power of any type - grid or off-grid, inside the house that is consistently available at an affordable price, scores a 10.</li><li>Housing - A house that is solidly built, has adequate space for the size of the family, is waterproof, provides decent insulation, is equipped with water, toilets, and power, scores a 10.</li><li>Water - Water inside the house, that is always available, is safe for consumption and is affordable, scores a 10.</li><li>Effluent Removal - A house that has internal toilets that do not pose a risk to the environment, scores a 10.</li></ul>"
+										},
+										{
+											"title": "Impact Scores",
+											"type": "mixed",
+											"sections": []
+										},
+										{
+											"title": "Key impact metrics Education; Energy and Food Security",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>To provide another perspective on how the ABE farmers have been impacted by the addition of this cash crop it is relevant to understand their access to education, energy and food security in relation to other subsistence farmers in Malawi. These three factors are critical because: being food secure allows the farmers and their children to focus on other productive measures - education, commercial gain, and social connections; energy access which provides lights and charging facilities enables studying and commercial activities after dark; and, children's education is a tool for realising new commercial opportunities other than subsistence farming or becoming more efficient and effective at farming. As these impact metrics are vital to understanding change, this section reviews the access to education that ABE farmers' children have, their household access to energy, as well as their food security in relation to the Malawi country norms.</p><h4>Education</h4><h5>% of age appropriate children not in primary school in Malawi</h5><p>According to data from UNICEF, in Malawi over 10 percent of school-aged children do not attend primary school, this statistic does not however specify whether it applies specifically to rural populations.</p><h5>% of children that complete primary school</h5><p></p>The net enrolment rate in primary school is around 88% in Malawi, however only 27% of children complete primary education in rural areas <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>(Unicef, 2022; Ministry of Education Malawi Statistics, 2022)</a>.</p><p>The dropout rate from primary school is particularly high, with 74% of pupils not completing a full course of primary schooling in Malawi overall. This rate is even higher among girls due to factors like early marriages and pregnancies <a href='https://www.pedagogy4change.org/education-of-girls-in-malawi/'>(Pedagogy for change)</a>. <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>According to the Ministry of Education 2022 Education Statistics Report</a> about 44 % dropped out of primary school because of poverty (unspecified).</p><h5>% which go to and also complete secondary school in Malawi</h5>*note the distinction between rural and urban are not available for Malawi<p>In Malawi, the transition rate from primary to secondary school is approximately 16%​ <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>​.This indicates that a relatively small fraction of children who complete primary education proceed to secondary education.</p><p>The dropout rate of girls in secondary education increased from 6.4% in 2020 to 9.5% in 2021. For many girls, dropping out is common due to child marriage and teen pregnancy, with a 50% child marriage rate, and 29% teenage pregnancy rate (Unicef, 2022).</p><h5>% in university</h5><p>Malawi has one of the lowest university enrolment rates in the world, with less than 1% of college-age individuals attending university. This is considerably lower than the African average of 12% and the global average of 33% <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>.</p><p>The vast majority of ABE Malawi farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level, a high 98% of Malawian farmers children are attending, for secondary school 78% are attending, and for university 87% eligible for university are attending.  The university attendance level is exceptionally high and is likely an aberration based on the sample of farmers interviewed.  This is likely to decrease as more data is gathered in subsequent years.</p><p>The levels of school participation for ABE farmers in Malawi far exceeds the country norms at the primary, secondary and university levels.</p><h4>Energy</h4><p>Per the World Bank in 2022, 14.2% of Malawi is electrified, while only 5.6% is electrified in rural areas. Per a University of Michigan, School for Environment and Sustainability study in 2023 roughly 7% of rural households are electrified and 20% of rural homes have solar power.</p><p>More than half of the ABE farmers (58%) have access to solar for lighting and charging in their households. This solar consists of solar powered torches and lamps. Additionally, 10% of households are connected to the electrical grid.</p><p>The combination of solar power and grid based connections demonstrates that ABE farmers in Malawi are meaningfullymore energy secure than the rural country norms.</p><h4>Food security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Malawi has been defined as being in a major food crisis in all editions of the Report since 2017, largely due to the impact of weather extremes on harvests, high food prices and low household purchasing power.</p><p>The Chikwawa and Katomo areas where ABE is grown have been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report. These two areas generally fall into the Phase 2 and 3 classifications which are:</p><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in farmers' diets, as well as the variety within food groups.</p><p>The chart below shows that 43% of farmers in Malawi have good protein intake. Carbohydrate intake was considered moderate to good for 75% of farmers, and vitamin/mineral intake was considered good for only 23% of farmers.</p><p>This chart also factors in food regularly purchased and food grown for consumption. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. Farmers have more variety when it comes to proteins and carbohydrates consumed. 17,5% of farmers consume 6 or more types of proteins and carbohydrates. The most consumed protein comes from fish and beans, the most consumed carbohydrate is maize, consumed in the form of porridge or sima. When it comes to vitamins and minerals, the most consumed vitamins are from \"vegetables\" which refers to leafy greens such as pumpkin leaves. Fats/oils have the least variety with farmers acquiring fats and oils from cooking oil, and in some cases margarine and ground nuts.</p><h5>Animal ownership</h5><p>Every farmer growing ABE owns at least one animal, however owning one animal does not provide any real food security. For animals to contribute toward food security farmers need to own multiple animals. The chart below shows that the most popular animals owned by ABE farmers in Malawi are birds such as chickens and pigeons, followed by larger animals such as pigs and goats.</p><p>The combination of food consumed and animal ownership demonstrates that ABE farmers in Malawi are meaningfully more food secure than the country and regional norms.</p><p>While a direct causal relationship cannot be made between the increased levels of food security, access to energy and education from growing ABE and its related income. However, there is a strong and distinct correlation between the introduction of ABE as a new cash crop and the improvement of each of these metrics.</p>"
+												}
+											]
+										},
+										{
+											"title": "",
+											"type": "text",
+											"content": "<p>When considering the impact information below, keep in mind that this reflects the views for farmers who earned an income from ABE. It does not reflect the views of the 40% of farmers which lost money from ABE in 2022-23. It therefore, does not reflect the outcomes of the entire community of farmers growing ABE in Malawi.</p>"
+										},
+										{
+											"title": "Education",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>In the 2022 -2023 season all farmers could afford to send their children to school. There were also cases where children who had not attended school before could now attend school. Farmers had at least two children in primary school for both communities, and at least one child in secondary school. In the Chikwawa community farmers had at least two children in secondary school. In Chikwawa, 52% of farmers indicated that ABE affected schooling choices made positively and a high 73% of farmers spent money earned from ABE on education for their children. The average cost of education was $17 per child in Chikwawa per month, and $134 for the year. All farmers who spent in this community used it for fees, transport, uniforms, books and other materials. In Katowo the average monthly cost of education was slightly lower at $6 per month and $110 for the year. In this community a high 63% of farmers indicated that ABE money positively affected decisions made for education, and 78% of farmers spend money earned from ABE on their children's education./p>"
+												},
+												{
+													"title": "Has the money earned from growing ABE affected the education choices made in your household?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"ABE_affected_education_choices"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Healthcare",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>In the 2022 -2023 season all farmers could afford to send their children to school. There were also cases where children who had not attended school before could now attend school. Farmers had at least two children in primary school for both communities, and at least one child in secondary school. In the Chikwawa community farmers had at least two children in secondary school. In Chikwawa, 52% of farmers indicated that ABE affected schooling choices made positively and a high 73% of farmers spent money earned from ABE on education for their children. The average cost of education was $17 per child in Chikwawa per month, and $134 for the year. All farmers who spent in this community used it for fees, transport, uniforms, books and other materials. In Katowo the average monthly cost of education was slightly lower at $6 per month and $110 for the year. In this community a high 63% of farmers indicated that ABE money positively affected decisions made for education, and 78% of farmers spend money earned from ABE on their children's education.</p>"
+												},
+												{
+													"title": "Has the money earned from growing ABE, in last season, affected the medical care your family gets?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"ABE_affected_medical_choices"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Food Security",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Malawian farmers confronted material food insecurity in the 2022-2023 season as 40% of farmers felt that they did not have enough to eat. From January- March farmers experienced the most food insecurity as this is the period between planting their cash (ABE) and subsistence crops and earning/reaping from the harvest. It is also the longest time from when they last earned any money from crop sales from the previous season. This period is considered the “hunger season”. The balance of protein, carbohydrates, vegetables and fruits eaten indicated sufficient intake of carbohydrates, as well as protein. The amount of vitamins and minerals from fruits and veg, as well as fats and oils were however not well balanced. On a community level 50% of farmers in Chikwawa indicated they do not have enough to eat, compared to 30% of farmers in Katowo. A significant number of farmers (67%) in Katowo indicated experiencing hunger at least once a week compared to Chikwawa (40%). Both communities purchased animals with their ABE earnings. In Chikwawa, 30% of the farmers purchased chickens, goats and pigs. In Katowo, 20% of the farmers purchased chickens, cows, donkey's, goats and pigs. Based on the level of hunger experienced, particularly in the Katowo community, the overall food security score went down slightly this past season.</p>"
+												},
+												{
+													"title": "Do you ever feel like you don't have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "How often do you feel like you don't have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"how_often_not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Which months do you typically not have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one month. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"months_not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Month",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Did growing chillies affect the amount of food you grew to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"ABE_affected_amount_of_food_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "What kind of animals did you buy with your ABE earnings of last season?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one animal, and not all farmers provided an answer. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"animals_bought_with_ABE_earnings"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Animals",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												}
+											]
+										},
+										{
+											"title": "Housing",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The typical household for ABE farmers is 5-6 people, with an average of 3 bedrooms, with two sleeping per room. The houses are primarily made with mud bricks with 18% using cement bricks. The housing structures generally have doors and window frames, but only 38% are plastered. The floors are either dirt (50% Chikwawa; 70% Katowo) or cement (50% Chikwawa; 26% Katowo). 55% of the farmers spent their ABE earnings on housing this past season, which included home improvements such as adding furniture, adding electricity/solar or new buildings or structural improvements. In Chikwawa, 57% of the farmers allocated some of their ABE earnings on housing while only 25% was something material like roofing or an additional room. In Katowo, 53% of the farmers spent their ABE earnings on housing with 65% spending on material items while 35% spent on more marginal issues like only buying some of the materials needed for construction, a chair, or window curtains. The average ABE earnings spent on housing was $122 - $169, with the biggest spend in Katowo.</p>"
+												},
+												{
+													"title": "Did you spend any of your ABE earnings from last season on housing?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"ABE_earnings_spent_on_housing"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Energy",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The primary sources of energy for Malawian ABE farmers is wood for cooking and heating, solar for lighting and small device charging, as well as batteries for lighting torches. In Chikwawa 33% of all farmers spent ABE money on energy, where 85% of those spent it on solar installation or upgrades. In Katowo 52% of farmers spent on energy and 70% of the spend was on solar as well. A small number of farmers were also able to spend ABE earnings on electrical wiring for electrical connections or buying more electricity than before. All cooking is done with wood or charcoal which is collected or purchased by the farmers or family members often requiring them to travel long distances.</p>"
+												},
+												{
+													"title": "Which energy forms have you increased spending on after growing ABE chillies?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one form of energy, and not all farmers provided an answer. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"energy_increased_spending_on"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Water",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Water access improved slightly in Katowo but stayed constant in Chikwawa. Overall the water score has decreased slightly due to the problems with water quality experienced by farmers in Chikwawa. In Malawi farmers generally don't have water connected to their houses (85 - 100%) and have to fetch water from a nearby source. The water sources do vary slightly, however farmers primarily get water from a well/borehole with a tap. Farmers pump water which is generally located 200m from their homes in Chikwawa and 400m in Katowo. 33% of farmers in Chikwawa and 75% of farmers in Katowo have to pay for water, however the costs are marginal. There have been problems with the quality of the water (causing people to get sick) particularly in Chikwawa where 50% have experienced problems, compared to only 10% in Katowo. In Chikwawa only 33% know that the water quality has been tested, compared to 60% in Katowo. Water is generally available all year round in these communities (80-90%). 29% of farmers in Chikwawa and 53% of farmers in Katowo spent ABE earnings on general water access, borehole maintenance and water testing.</p>"
+												},
+												{
+													"title": "Have any of your last years' ABE chilli earnings been spent on water for your household?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"ABE_earnings_spent_on_water"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Effluent",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Access to effluent facilities increased slightly in both Katowo and Chikwawa this past season. The effluent systems used in Malawi are 70 -77% pit latrines and 23- 30% communal or the bush system. 19% of farmers in Chikwawa spent ABE earnings meaningfully on their effluent system spending an average of $62. In Katowo a high 34% of farmers spent on average $27 on their effluent system as well. The improvement of effluent facilities took the form of farmers spending on building and buying the materials for new pit latrines, as well as repairing existing ones and in some cases building new ones.</p>"
+												},
+												{
+													"title": "Have earnings from last year's chillies been spent on your family's effluent systems?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"ABE_earnings_spent_on_effluent_systems"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Mozambique",
+					"slug": "mozambique",
+					"periods": [
+						{
+							"period": [2022,2023],
+							"sections": [
+								{
+									"name": "background",
+									"title": "Background",
+									"sections": [
+										{
+											"title": "Overview",
+											"type": "text",
+											"content": "<p>Mozambique is in its fifth season under Nando’s direct management controlling the country’s production of ABE and general operations. Its base of operation is the MaXamba farm located just outside Marrucune. For the 2022/23 season, the MaXamba farm operated as a commercial farm while also managing an out-grower network to produce ABE. These out-growers were made up of a mix of individual small scale commercial farmers, organisations which are non-profits and small-scale subsistence/community associations whose members are subsistence farmers. </p>"
+										},
+										{
+											"title": "Key Metrics",
+											"type": "Table",
+											"data_source": "tables_data",
+											"crop": "ABE",
+											"country": "Mozambique",
+											"table": [
+												"background_key_metrics"
+											],
+											"year": "2022/23"
+										},
+										{
+											"title": "Operational Model",
+											"type": "text",
+											"content": "<p>James Dunkin manages the MaXamba farm, out-growers programme and general community engagements initiated by Nando’s. The operational model and programme implementation are more complex in Mozambique than in other countries due to the farming scheme structure involving out-growers, their labourers, and MaXamba. The Mozambique out-growers can be divided into three distinct categories: Small Scale Commercial Farmers - these are farmers who typically grow ABE (.5Ha+), and other crops on a larger scale than subsistence farmers, and employ full time and part time labour; Organisations – these vary in type, but generally operate as non-profit organisations and/or have a religious or social mission, employ multiple types of people, including those who manage the chilli production, and use ABE income to fund their mandates and/or cover operational costs. These organisations are also generally reliant on multiple funding sources to operate (public, private); and Small-Scale Subsistence/Community Associations - these are made up of subsistence farmers from a specific community, who share land in order to produce ABE.</p><p>Daniel Lucilio specifically manages the out-grower programme. The implementation of the programme includes the receipt of seedlings while other inputs are provided by MaXamba for some of the out-growers. MaXamba provides very limited technical support to the farmers regarding ABE production. All harvested fresh ABE is aggregated at the MaXamba Farm, dried, graded, bagged, and shipped to Nando’s processors in South Africa.</p>"
+										},
+										{
+											"title": "Assesment Anomalies",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The model used for out-growers, including small and medium size farms and organisational types had a direct effect on the potential impact that could be measured for the 2022/23 season.</p><p>The complexity of varying land sizes and farm set-ups, ranging from subsistence farmers associations with a number of growers to individual commercial farmers, meant that a standard commercial analysis for each farmer and community was not possible. The out-growers commercial analysis is better understood based on these categories: Small-scale commercial farmers, Organisations and Subsistence/community association farmers instead of by community, which is used in Zimbabwe and Malawi.</p><p>The commercial analysis was also more limited than in Zimbabwe and Malawi because all the costs associated with growing ABE per individual farmer or type of farmer could not be determined. Therefore, a net income earned from ABE is not possible to define.</p>" 
+												},
+												{
+													"title": "Subsistence Farmers",
+													"type": "text",
+													"content": "<p>12 subsistence farmers from three Community Associations/Cooperatives were interviewed. Each cooperative interviewed consists of between 3-5 farmers. There is little understanding of how the farmers in each cooperative work together and if they share land allocated to them equally or share some farming costs. There are also inconsistencies with the size of land allocated to each cooperative versus the land farmers within that cooperative are growing ABE on. Calculating net income begins with accurate figures for gross income which is provided by Nando’s country partners for this analysis. In this instance, MaXamba has accurate gross income data for the association but not for individual farmers within the association.  There was therefore no verifiable information regarding gross income for each farmer.  Accurately calculating net incomes was also possible for this group of farmers because only 40% indicated that they kept track of all their farming costs. Where costs were provided there were too many inconsistencies indicating a low reliability of accurate information. Costs associated with the hiring of seasonal labour appeared to be the highest costs incurred by farmers, however.  Without reliable yield data per farmer there is no alternative means to calculate labour costs as it is done in Zimbabwe and Malawi. In summary, accurately understanding individual farmer income was not possible for all the subsistence farmers in the programme.</p><p>Defining what impact occurred from growing ABE was more complex and described in detail in the impact section of this site.</p>"
+												},
+												{
+													"title": "Small-scale Commercial Growers",
+													"type": "text",
+													"content": "<p>ABE is generally replacing an existing cash crop. These farmers typically have 2+ Ha of land under irrigation and are actively growing multiple crops including ABE. Engaging with this size grower is an issue from an impact perspective for various reasons. Firstly, ABE is generally replacing an existing cash crop. So, the starting point for judging impact is the cash earned from ABE, which is additional to normal earnings, so understanding what crop is being replaced and the income lost versus the new ABE earned is often hard to determine as the farmers usually do not have good records from the past regarding crop sales. This lack of record keeping makes understanding what new income the farmer earned from ABE impossible. They often know what some of the inputs were that they purchased for the farm but cannot connect those costs directly to ABE production. For example, they may have bought fertiliser twice and know what was spent, but have no idea how much of it was applied to ABE versus their other crops.</p><p>It is difficult to conduct a baseline study and get a proxy for the community across a range of poverty metrics – healthcare, food, education. This is because the farmers are often very different from one another in terms of land size, crops grown, markets accessed, and income earned. They therefore must be considered independently instead of a reflection of the same community. Their unique characteristics mean that farmer samples cannot be used as a reflection of the entire group. Impact can only be determined farmer by farmer instead of by community. This is complex if the farmers change year to year and costly as all the farmers in the programme must be assessed instead of a representative sample.</p><p>Attributing ABE income is very difficult to determine as these types of farmers typically have multiple and dynamic income sources. The new income earned from ABE is therefore going into a much more complex pot of income and determining attributions like, the farmer is now able to send their kids to a better school because of the ABE income, is very hard to accurately assess.</p><p>Finally, this size farmer always has consistent temporary or permanent staff, so it is imperative to examine the impact on them, which requires bespoke baseline and impact data collection as a community proxy cannot be used for anything because the circumstances are all different. Again, this is complex if the labourers change year to year and costly as all the labourers in the programme must be assessed instead of a representative sample.</p><p>While these limitations exist, some potential impact trends are provided specifically related to the subsistence farmers, which is explained further in the impact section.</p>"
+												},
+												{
+													"title": "Labour Risks",
+													"type": "text",
+													"content": "<p>The small-scale commercial farmers and organisations that are part of the out-grower network typically have permanent and seasonal labour. As they are functioning within one of the poorest countries on the planet and operating at a small scale in comparison to other Agri-producers it is to be expected that they will not always adhere to Mozambique labour law nor international labour standards. As such, the Labour Risks (hyperlink here) section documents some of the risks to Nando’s of this network based on the interviews conducted with labourers</p>"
+												}
+											]
+										},
+										{
+											"title": "Successes, Challenges and Farmer Feedback",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Successes",
+													"type": "text",
+													"content": "<p>The farmers interviewed are grateful for the programme, and when asked, recognise the value it adds to their lives.</p><h4>Technical Support</h4><p>Scheduled group trainings and demonstrations occurred twice during the 2022/23 season, once at the beginning of the season and another just before the harvesting period. This support was considered valuable by the subsistence farmers in particular.</p><h4>Organisational Impact</h4><p>For the 2022/23 season, impact was realised for the organisation farmer type – the mission. Although the organisation has to cut their harvest period short due to the cyclone’s heavy rains, ABE earnings contribute 20-30% of the mission’s annual budget. Money earned from ABE contributed to the mission's labour costs (both seasonal and permanent) and also contributed to their feeding program that serves 150 children.</p><h4>Provision of basic humans needs for subsistence farmers</h4><p>Although floods had a negative effect on yields for the 2022/23 season particularly for subsistence farmers, 60% of the subsistence farmers interviewed maintained that earning from ABE has positively affected both the quality and quantity of food they are able to purchase for their households. Additionally, more than half of these subsistence farmers indicated that they were able to spend ABE earnings on housing, education for their children and healthcare.</p>"
+												},
+												{
+													"title": "Challenges",
+													"type": "text",
+													"content": "<h4>Subsistence Farmer Losses</h4><p>From the group of subsistence farmers (which represent 52 farmers), 3 Cooperatives/Associations (representing 14 farmers) earned no income due to cyclones that occurred in the region in March. The losses of potential income and infrastructure has resulted in some subsistence farmers not participating in the 2023/24 season. There is a need for farmers to be better protected against loss of earnings and resulting debt remaining from loans provided in the event of weather disasters.</p><h4>Technical Support</h4><p>While the technical support provided was appreciated, farmers want more scheduled trainings, particularly for those with less resources.</p><h4>Fertiliser Provision</h4><p>Due to the nature of agreements with farmers in Mozambique, not all farmers receive inputs such as fertiliser on loan from MaXamba. Some farmers purchase their own fertiliser which is not always of good quality and this in turn affects the quality of the harvested yields.</p><h4>Higher Fixed Prices</h4><p>Farmers indicated that the price has not been raised to keep up with inflation and suggested an increase of $1.50 to $2 per Kg of fresh chilli.</p>"
+												},
+												{
+													"title": "Farmer Feedback",
+													"type": "text",
+													"content": "<p>When considering the farmer feedback, recall that not all farmers received technical support, inputs on credit and a fixed price as part of the Peri-Farms programme. The following perceptions are only indicative of the Subsistence farmers interviewed.</p><p>The value subsistence farmers perceive they receive from fixed prices reduced significantly from 60% last season to 25% for the 2022/23 season. The value perceived from technical support increased this season, with 33% of farmers perceiving it as the most important component compared to 0% last season with most farmers perceiving it as of average and least importance. The perceived value of inputs on credit increased slightly from 40% last season to 42% for the 2022/23 season.</p>"
+												},
+												{
+													"title": "Which of the three core components of the ABE programme was the most important to you?",
+													"subtitle": "2022/2023",
+													"caption": "For example, 25% of subsistence farmers in Mozambique perceive ‘Inputs on Credit’ as the most important core component of the ABE programme, whereas 50% perceive it of average importance.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"Fixed Prices",
+														"Inputs on Credit",
+														"Tech Support"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"indicator_text": "Select a core component:",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Has any crop ever earned you more than you earned from growing chillies?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"other_crop_ever_earned_you_more_than_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Percentage of farmers",
+													"y_label": "Response",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "farmers",
+									"title": "Farmers",
+									"sections": [
+										{
+											"title": "",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Key Metrics",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"table": [
+														"farmers_key_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to their highest level of education",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"farmer_highest_edu_level"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Highest Education Level",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to the size of their households",
+													"subtitle": "2022/2023",
+													"caption": "or example, 50% of farmers in Mozambique live in a household with 7-9 people (including farmer).",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"farmer_household_size"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Household size (no. of persons incl. farmer)",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Farmers according to their number of children",
+													"subtitle": "2022/2023",
+													"caption": "For example, 36% of farmers in Mozambique have 1-3 children.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"farmer_no_of_children"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Number of children",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										}
+
+									]
+								},
+								{
+									"name": "labour",
+									"title": "Labour Risks",
+									"type": "mixed",
+									"sections": [
+										{
+											"title": "",
+											"type": "text",
+											"content": "<p>The small-scale commercial farmers and organisations that are part of the out-grower network typically have permanent and seasonal labour. As they are functioning within one of the poorest countries on the planet and operating at a small scale in comparison to other Agri-producers it is to be expected that they will not always adhere to Mozambique labour law nor international labour standards.</p><p>To mitigate against this risk, interviews were conducted with labourers that work for the out-growers. The Impact Amplifier team interviewed the employees of both small-scale farmers and organisation out-growers. A total of 18 employees were interviewed from eight farmers in the 2022/23 farming season. Five of these farmers are new farmers in their first season with MaXamba. Based on these interviews, the following reflects some of the potential risks Nando’s and MaXamba have from these two groups of out-growers within its programme. This is what was found:</p>"
+										},
+										{
+											"title": "Labour Standards",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Monthly Wages",
+													"type": "content-and-chart",
+													"content": "<p>Analysis has shown that wages are typically determined by the role/position of the employee interviewed and their level of education. 50% of employees interviewed are earning below the minimum wage for the agricultural sector in Mozambique, 5,800 Meticais (MZN) as of April 2023. 61% of employees indicated that they do not receive any yearly increases to their wages regardless of any inflation that occurs with the basic costs of living. For employees that have worked overtime, 73% are not paid for their time.</p><p>There were a few instances, 17%, where employers have retained wages. The most common reasoning provided for wages being retained is as a form of disciplinary action when employees miss work without justification.</p>",
+													"charts": [
+														{
+															"chart": "ChartPie",
+															"chart_title": "Labourers according to their monthly wages",
+															"data_source": "extra_charts",
+															"crop": "ABE",
+															"country": "Mozambique",
+															"indicator": [
+																"farmers_monthly_wages"
+															],
+															"year": "2022/23",
+															"colors": [
+																"#d21830", "#ffad43"
+															]
+														}
+													]
+												},
+												{
+													"title": "Hours Worked",
+													"type": "content-and-chart",
+													"content": "<p>The normal work week for employees is roughly 48 hours or more – 8 hours per day for 6 days per week (excluding Sundays). This is the legal standard but beyond what is recognised as good practice internationally. </p>",
+												},
+												{
+													"title": "Leave days (Annual Leave; Sick Leave, Maternity Leave; Leave for Family Responsibility):",
+													"type": "content-and-chart",
+													"content": "<p>39% of employees interviewed do not get any annual leave. Of those that are given leave days, 6% receive 1-10 days off, 17% receive between 11-15 days off, and 39% receive more than 15 days off per year. Employees are entitled to annual leave by law: one day for every month of employment, during the first year; two days for every month during the second; and thirty days for every year, from the third year onwards. 83% of employees receive paid sick leave. Paid sick leave is dependent on the timely communication of illness typically accompanied by a doctor or nurses note. With regards to maternity leave, employees indicated that new mothers often received 2-3 months paid leave. Father’s typically receive 2-5 days off for paternity leave. The majority of employees are allowed to take leave for funerals with 11% indicating that they either do not know if they can or are not allowed. </p>",
+													"charts": [
+														{
+															"chart": "ChartPie",
+															"chart_title": "Labourers according to their annual leave",
+															"data_source": "extra_charts",
+															"crop": "ABE",
+															"country": "Mozambique",
+															"indicator": [
+																"farmers_annual_leave"
+															],
+															"year": "2022/23",
+															"colors": [
+																"#d21830", "#ffad43"
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"title": "HR Practices",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "Contracts",
+													"type": "content-and-chart",
+													"content": "<p>44% of employees interviewed do not have contracts with their employer.</p>",
+													"chart": "ChartPie",
+													"chart_title": "Labourers according to their contractual status",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"farmers_contractual_status"
+													],
+													"year": "2022/23",
+													"colors": [
+														"#d21830", "#ffad43"
+													]
+												},
+												{
+													"title": "Policies",
+													"type": "content-and-chart",
+													"content": "<p>In 22% of instances, employees indicate that there is a written Disciplinary Policy. 50% of employees indicate that there are verbal agreements/understanding around Disciplinary Actions and who to contact with any grievances, typically the farm managers or supervisors in most cases whilst the remaining employees were unsure about how the process to raise grievances works. There are no written policies covering aspects such as Discrimination (Gender, Age), and Sexual Harassment. No cases of sexual harassment have been witnessed or reported however, it must be noted that 61% of employees indicate that they would not know whom to contact if it was witnessed or experienced.</p>",
+													
+												},
+												{
+													"title": "Employment Equity",
+													"type": "content-and-chart",
+													"content": "<p>50% of employees indicated that there is preferential hiring of men for permanent employment. Women are typically only considered for seasonal employment such as the time of harvesting.</p>",
+													"charts": [
+														{
+															"chart": "ChartPie",
+															"chart_title": "Employers according to their preference to hire only men",
+															"data_source": "extra_charts",
+															"crop": "ABE",
+															"country": "Mozambique",
+															"indicator": [
+																"employers_preference_to_hire_men"
+															],
+															"year": "2022/23",
+															"colors": [
+																"#d21830", "#ffad43"
+															]
+														}
+													]
+												},
+												{
+													"title": "Training and Skills development",
+													"type": "content-and-chart",
+													"content": "<p>44% of employees indicated receiving training from their employer. This training typically consisted of the correct techniques for planting, irrigation, fertiliser and pesticide applications. For those that did not receive training, they learnt on the job or learnt from other employees. 78% of employees indicated that where training was provided, the training was only offered to some employees and not all.</p>",
+													"charts": [
+														{
+															"chart": "ChartPie",
+															"chart_title": "Labourers according to the training they received",
+															"data_source": "extra_charts",
+															"crop": "ABE",
+															"country": "Mozambique",
+															"indicator": [
+																"farmers_training_received"
+															],
+															"year": "2022/23",
+															"colors": [
+																"#d21830", "#ffad43"
+															]
+														}
+													]
+													
+												},
+												{
+													"title": "Health and Safety",
+													"type": "content-and-chart",
+													"content": "<p>44% of employees have been informed by their employer about potential dangers associated with their work on the farm. These dangers include, the presence of snakes and crocodiles, the consequences of not handling pesticides correctly and the need for protective clothing. 83% of employees interviewed shared the opinion that their employers do not provide enough clothing and equipment that is necessary for work. 39% do not receive any protective clothing stating that their employer expects them to purchase it themselves, whilst the remainder mostly complain that some protective clothing such as gumboots, overalls and gloves are worn and need to be replaced. In the event of any emergencies, only 22% of employees were aware of first aid kits available on site.</p>",
+													"charts": [
+														{
+															"chart": "ChartPie",
+															"chart_title": "Labourers informed about potential hazards at work",
+															"data_source": "extra_charts",
+															"crop": "ABE",
+															"country": "Mozambique",
+															"indicator": [
+																"famers_informed_about_work_hazards"
+															],
+															"year": "2022/23",
+															"colors": [
+																"#d21830", "#ffad43"
+															]
+														},
+														{
+															"chart": "ChartPie",
+															"chart_title": "Labourers provided with sufficient protective gear",
+															"data_source": "extra_charts",
+															"crop": "ABE",
+															"country": "Mozambique",
+															"indicator": [
+																"farmers_provided_with_protective_equip"
+															],
+															"year": "2022/23",
+															"colors": [
+																"#d21830", "#ffad43"
+															]
+														}
+													]
+
+												},
+												{
+													"title": "Medical Assistance",
+													"type": "content-and-chart",
+													"content": "<p>33% indicated that employers assist them with costs for the required medicine in the event that an employee gets injured at work. 33% of employees indicate that their employees have provided them with wellness based information regarding personal hygiene, HIV/Aids and Malaria prevention.</p>"
+												},
+												{
+													"title": "Risk Details ",
+													"type": "content-and-chart",
+													"content": "<p>The specific risks identified per farm is available upon request.</p>"
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "impact",
+									"title": "Impact",
+									"sections": [
+										{
+											"title": "Basic Human Needs Index",
+											"type": "text",
+											"content": "<p>As indicated in the background section, the model used for out-growers, includes small and medium size farmers, different organisational types and subsistence farmers who grow as part of a community association. This variance had a direct effect on the impact that could be measured for the 2022/23 season.</p><p>The complexity of varying land sizes and farm set-ups, ranging from non-profit organisations with a number of growers to individual commercial farmers with permanent labour, meant that a standard community impact analysis was not possible. In Zimbabwe and Malawi all the farmers are very similar in terms of size of their farms, how much ABE they grow, other cash crops, commercial opportunities available, irrigation in place, public infrastructure, inputs used, and technical support provided. These consistencies allow a single farmer to be reflective of the entire community.</p><p>In Mozambique it is difficult to conduct a baseline study and get a proxy for the community across a range of poverty metrics (healthcare, food, education) because the farmers are often very different from one another in terms of land size, crops grown, markets accessed, income earned and location. These farmers therefore must be considered independently instead of a reflection of a community. Their unique characteristics mean that farmer samples cannot be used as a reflection of the entire group, except for subsistence farmers who grow as part of a community association. For small and medium size farmers and different organisational types impact can only be determined farmer by farmer instead of by community. This is complex if the farmers change year to year and costly as all the farmers in the programme must be assessed instead of a representative sample.</p>"
+										},
+										{
+											"title": "Farmer groups",
+											"type": "text",
+											"content": "<p>To assess impact an alternative approach has been used for Mozambique, which mimics the commercial analysis undertaken. The approach separates the farmers into three types: Small-scale commercial farmers, Organisations and Subsistence/community association farmers instead of by the community where they farm. These groupings, while useful as a framework to understand production, will take multiple seasons to gather enough data to measure and score impact as every farmer must be baselined and then impact measured specifically for them against that baseline. Instead of scoring the impact the following reflects what was gleaned from farmer interviews regarding the ABE contribution to their basic human needs over the 2022/23 growing season.</p>"
+										},
+										{
+											"title": "Small scale commercial growers",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>These farmers typically have 2+ Ha of land under irrigation and are actively growing multiple crops including ABE. Engaging with this size grower is an issue from an impact perspective for various reasons. Firstly, ABE is generally replacing an existing cash crop. So, the starting point for judging impact is the cash earned from ABE, which is additional to normal earnings, so understanding what crop is being replaced and the income lost versus the new ABE earned is often hard to determine as the farmers usually do not have accurate records from the past regarding crop sales.</p><p>Secondly, this lack of record keeping makes understanding the farmer’s net ABE earnings also challenging. They often know what some of the inputs were that they purchased for the farm, but cannot connect those costs directly to ABE production. For example, they may have bought fertilizer twice and know what was spent but have no idea how much of it was applied to ABE versus their other crops.</p><p>Finally, attributing ABE income to any kind of social impact is very difficult to determine as these types of farmers typically have multiple and dynamic income sources. The new income earned from ABE is therefore going into a much more complex pot of income and determining attributions like, the farmer is now able to send their kids to a better school because of the ABE income, is very hard to assess and verify. In the 2022/23 season Mozambique experienced extreme flooding conditions which ended the ABE season earlier than normal which had material consequences on the income they were able to generate from all farming activities. Comparing the average earnings for small scale commercial growers in 2021/22 -$4,518 to this season, 2022/23 - $3,405 the income impact of the flooding is evident. </p>"
+												},
+												{
+													"title": "Impact",
+													"type": "text",
+													"content": "<p>This past season no formal impact interviews were conducted with the 24 small scale commercial farmers because of the complexity of accurately understanding impact with this farming group.</p><p>However, to provide context to the impact experience of small scale commercial farmers in the 2022/2023 season, two interviews were conducted to provide impact context for two small scale commercial farmer businesses. The interviews were conducted with Anna Lizette from Umbeluzi investments and Manual Gove from EMH, which gave insight into their farming structure, crops farmed, earnings and impact. Overall small scale commercial farmers made up 78% of the Mozambique harvest for the season.</p><h4>Farming structure</h4><strong>Umbeluzi investments</strong><p>Anna Lizette is one of the shareholders of Umbeluzi Investments, which is owned collectively by three shareholders. This company farms agriculture, but has also recently expanded into livestock management. The company has two employees who are permanent, and 10 seasonal workers for the planting and growing of ABE, as well as other crops.</p><strong>EMH</strong><p>EMH is owned collectively by three shareholders where Manuel is the manager of all farming including ABE farming. The shareholders are generally not involved on a day to day basis, but focus more on the financial administration of the business. Manual farms for EMH, but is also the agricultural technician for Umbeluzi investments, under the management of Anna. Anna rents out part of her other farmland to Manuel, but does not charge him money for the land use. In exchange Manual applies his technician skills to her crops, including. Due to the floods EMH experienced this past season they had to restructure the farm and downsize to only seven seasonal workers who farm ABE.</p><h4>Crops Farmed and Earnings</h4><strong>Umbeluzi Investments</strong><p>In the 2022/2023 season Anna farmed ABE on 1.5Ha. In previous seasons an approximate 50% of the farming profits came from ABE, however, in the last season the farm realised very little profits due to flooding. The preparation for planting ABE started in November 2022 and floods came in February 2023. Regardless, they were able to harvest 12 tonnes of ABE, which allowed them to cover the costs of labour and inputs. Anna explained that all other crops (cabbage, beans and tomatoes) were also destroyed by the flooding. Besides flooding losses, the prices of inputs as well as labour has increased and affected the income earned from ABE, which also resulted in the downsizing of employees.</p><strong>EMH</strong><p>EMH farmed chillies on 3Ha in the past season. The ABE farming contributes roughly 50-60% to all earnings of the business. In addition to ABE, EMH farmed potatoes (9-10 tonnes harvested), cabbage (earned 250,000 mets), maize (5 tonnes) and tomatoes (85,000 mets) in the past season. EMH harvested 9.8 tonnes of ABE and earned the farm a total of $9,800 at $1 per kg. The expected yield for the season was however projected to be 30 tonnes.</p><h4>Impact</h4><strong>Umbeluzi investments</strong><p>The profits from ABE were used to invest back into the business and the acquisition of more livestock, pigs in particular. The seasonal workers employed by Anna also received an increase in payment due largely to the rising cost of living in Mozambique, where instead of being paid 10meticals ($.15) per kg picked, labourers received 15mt ($.23) per kg.</p><strong>EMH</strong><p>The money earned from ABE contributed towards the farming operations such as irrigation, salaries and production. Manual could not give exact examples of the income spent because this was managed by the shareholders. Permanent staff members at EMH generally earn 5,000 mets ($76) per month.</p>"
+												}
+											]
+
+										},
+										{
+											"title": "Organisational growers",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Beyond the complexities of measuring impact outlined for small scale commercial growers an area that is even more exaggerated for organisational growers is the issue of ABE income attribution. Organisations generally have more sources of income than small-scale commercial growers. As such, determining what the ABE income was spent on is generally not known. It has not been accounted for separately, meaning that the administrators do not know how it was spent on their operational costs, which are separate from other income sources. Therefore, determining which impact originated from the ABE income is difficult to measure.</p>"
+												},
+												{
+													"title": "Impact",
+													"type": "text",
+													"content": "<p>In 2022/23, an open ended impact interview was conducted with the only organisation which grew ABE this season. The organisation is Missao Sao Frumenzio/Domenico represented by Dania Fransisco who coordinates the farming activities of the mission. She was also interviewed in 2021/22.</p><h4>Farming structure</h4><p>Missao Sao Frumenzio/Domenico primarily serves as a school, but also helps the surrounding community members with transport to hospitals as well as food security with the produce they farm. The mission has five full time employees, two of which are specifically focused on growing ABE. The mission does receive support from MaXamba in that the FEO provides technical support, however the mission buys their own fertiliser rather than take it on loan from MaXamba.</p><h4>Crops farmed and earnings</h4><p>Organisations made up only 1% of the total harvest for the season. In this specific case, other than ABE, the Mission farms maize, beans, carrots, cucumber, lettuce and onions, mangoes, papaya, and avocados. From these crops they are able to feed the children at the school. The Mission school currently has 90 children enrolled and 60 children at another school at a separate location. Though Dania was not able to determine the exact income earned from growing ABE in the last season, she believes that the income generated from growing ABE contributed 20-30% of the overall income of the Mission enabling them to feed the 150 children they support. They were able to harvest 5 tonnes of chillies on the 1 hectare of land used for growing ABE, but because of floods they had to end the season early. They received 380,000 ($5,846) for the ABE sold.</p>"
+												},
+												{
+													"title": "What percentage of your total income came from the money earned from ABE?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"percentage_income_from_ABE_chart"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "value",
+													"x_label": "",
+													"y_label": "Percentage of income",
+													"legend_text": "",
+													"indicator_text": "",
+													"colors": [
+														"#9ac746",
+														"#ed732e",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Subsistence/Community Associations",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>These farmers are generally smaller in scale – less than 1ha of irrigated land, have limited cash crops and ABE generally makes up a large portion of the household income. Impact is therefore easier to measure than the other two groups. However, this group of farmers in the Peri-Farms programme in Mozambique are not uniform. Many of these farmers have other cash crops and other sources of household income like wages. As such, ABE attribution has been challenging to document. This will improve over time as individual baseline assessments are compared to the change documented post growing ABE for multiple seasons. To determine impact better for the following season the following questions will be added to understand how the association worked together – Do they share one plot, and do they share it equally? Do they share costs for the entire plot or just their section? If they work as a group what are the individual land sizes, labour costs etc.</p>"
+												},
+												{
+													"title": "Impact",
+													"type": "text",
+													"content": "<p>In 2022/2023, impact interviews were conducted with 12 of the 52 subsistence farmers in the Matutuine District of Mozambique.</p><h4>Farming structure</h4><p>Most subsistence farmers grow ABE in associations, which have multiple members growing. The individual land size subsistence farmers allocated to ABE could not be determined as the land size indicated during interviews were not reliable as it was inconsistent with the entire association allocation. For example some farmers indicated they grew ABE on 1ha/1.5ha, but the entire association only farmed on 1.3ha and had 4-5 members.</p><h4>Crops farmed and earnings</h4><p>In the past season subsistence farmers contributed 17% of the overall Mozambique harvest, growing on average plot sizes of .18Ha and each subsistence farmer earned an average of $353 In gross income.  A high percentage of these farmers earned very little or nothing from the last season, 29% earned less than $25, and 26% made no income. 66% received some of their inputs from either the country partner (MaXamba) on credit or from other organisations for free. It was impossible to determine the net income of subsistence farmers even though farmers indicated paying for a range of other inputs. The costs of these inputs could not be accurately determined since only 40% of farmers kept track of their costs. Where farmers were able to provide an indication of input costs they provided a lot of inconsistent information. There were however no records on what exactly the labourers harvested versus the farmers. The lack of record keeping and without individual farmer commercial data net income could not be determined.</p>"
+												}
+
+											]
+										},
+										{
+											"title": "Impact",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The subsistence farmers interviewed indicated that they had plans, before the season, on how their ABE income would be spent. 72% of farmers were either completely able or partially able to spend income on the things they planned to spend it on. Keeping in mind that 25% of farmers earned less than $25, the charts below show the impact of the earning on their basic needs as per those interviewed.</p>"
+												},
+												{
+													"title": "What did you plan/hope to spend the money you earned from growing chillis on?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"ABE_money_spent_on"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "value",
+													"x_label": "",
+													"y_label": "Percentage of income",
+													"legend_text": "",
+													"indicator_text": "",
+													"colors": [
+														"#9ac746",
+														"#ed732e",
+														"#c13036"
+													]
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>Farmers reported the following impact from growing ABE:</p>"
+												}
+											]
+										},
+										{
+											"title": "Housing",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>58% of the farmers reported spending some ABE earnings on education costs, spending on building materials, labour and cooking utensils. Their houses are generally made from cement bricks, with a zinc roof and cement floor. The houses have 2 bedrooms for sleeping with an average household size of 5-6 people.</p>"
+												},
+												{
+													"title": "Did you spend any of your ABE earnings from last season on housing?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"ABE_earnings_spent_on_housing"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Education",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>67% of the farmers reported spending some ABE earnings on education costs, like school fees, uniforms, bags and stationery, and paying for boarding with family to attend school. Of the farmers interviewed, (61%) have children in secondary school with an average cost of $235 per annum and 33% have children attending primary school with an average cost of $196 per annum. </p>"
+												},
+												{
+													"title": "Has the money earned from growing ABE affected the education choices made in your household?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"ABE_affected_education_choices"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Healthcare",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>58% of the farmers reported spending some of their ABE earning on health care related costs, spending money on medicine and paying for transport to the hospital. Subsistence farmers make use of the local government hospital for healthcare needs that is generally 10-20km away from their homes. 27% of farmers visited the hospital more than seven times in the past year. </p>"
+												},
+												{
+													"title": "Has the money earned from growing ABE, in last season, affected the medical care your family gets?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"ABE_affected_medical_choices"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Food Security",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>75% of farmers reported that growing chillies positively affected both the quantity and quality of food purchased for their household.  Where animals were bought with ABE earnings, farmers bought birds such as chickens and ducks. 42% of farmers however, feel like they do not have enough to eat, and of these farmers 40% experience hunger once a week or more. The month where hunger is at its most acute is January, which is the last month before they begin harvesting their summer crops.</p>"
+												},
+												{
+													"title": "Do you ever feel like you don't have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "How often do you feel like you don't have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"how_often_not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Which months do you typically not have enough to eat?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one month. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "MOzambique",
+													"indicator": [
+														"months_not_enough_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Month",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Did growing chillies affect the amount of food you grew to eat?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"ABE_affected_amount_of_food_to_eat"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "What kind of animals did you buy with your ABE earnings of last season?",
+													"subtitle": "2022/2023",
+													"caption": "NOTE: Farmers could select more than one animal, and not all farmers provided an answer. As such, percentages do not add up to 100%.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"animals_bought_with_ABE_earnings"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Animals",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												}
+
+											]
+										},
+										{
+											"title": "Energy",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>16% of farmers reported spending a small amount of their ABE earnings on energy. The energy source used by subsistence farmers is 42% electricity and 50% solar. They spend on average $6.3 per month on electricity. These farmers have also spent $238 on solar for their household in the past year. Wood is collected by all those who use wood for cooking and heat. </p>"
+												}
+											]
+										},
+										{
+											"title": "Water",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>33% of the farmers reported spending some ABE earning on water costs, spending money on paying for water from the well. None of these farmers have a water connection inside their house, they get water from a well where they pay for the water and travel on average 600 to more than 2000m metres to collect it. </p>"
+												},
+												{
+													"title": "Have any of your last years' ABE chilli earnings been spent on water for your household?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"ABE_earnings_spent_on_water"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												},
+												{
+													"title": "What distance is travelled to collect water?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"meters_walked_for_water_collection"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"title": "Effluent ",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>8% of the farmers spent ABE earning on effluent costs. The type of toilet generally used by subsistence farmers are pit latrines. </p>"
+												},
+												{
+													"title": "Have earnings from last year's chillies been spent on your family's effluent systems?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"ABE_earnings_spent_on_effluent_systems"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746",
+														"#c13036"
+													]
+												}
+											]
+										}
+									]
+
+								}
+							]
+						}
+					]
+
+				}
+			],
+			"comparisons": [
+				{
+					"period": [
+						2022,
+						2023
+					],
+					"sections":[
+						{
+							"title": "2022/23 Country Comparisons",
+							"type": "mixed",
+							"sections": [
+								{
+									"title": "Total number of farmers",
+									"subtitle": "2022/2023",
+									"caption": "For example, there were 281 ABE chilli farmers in Malawi for 2022/2023.",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Total Farmers"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "value",
+									"x_label": "Countries",
+									"y_label": "Number of farmers",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "",
+									"type": "missing",
+									"content": "<h4>Missing Chart</h4><p>Number of growing communities</p>"
+								},
+								{
+									"title": "Total area under cultivation",
+									"subtitle": "2022/2023",
+									"caption": "For example, 560ha was under cultivation in Zimbabwe for 2022/2023.",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Total Land Cultivated"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "value",
+									"x_label": "Countries",
+									"y_label": "Area in hectares",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Average plot size of planted ABE Chillis",
+									"subtitle": "2022/2023",
+									"caption": "For example, the average plot size of planted ABE chillis in Malawi was 0.23ha for 2022/2023.",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Average Plot Size"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "value",
+									"x_label": "Countries",
+									"y_label": "Plot Size",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Average yield of ABE chillis per .25ha planted",
+									"subtitle": "2022/2023",
+									"caption": "For example, the average yield of ABE chillis per .25ha planted in Zimbabwe was 168.50 kg/.25ha for 2022/2023.",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Average Productivity"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "value",
+									"x_label": "Countries",
+									"y_label": "Avg yield in kg per 0.25ha planted",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Average gross income",
+									"subtitle": "2022/2023",
+									"caption": "",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Average Gross Income"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "orig_value",
+									"x_label": "Countries",
+									"y_label": "Avg gross income in $",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Average gross income per .25ha planted ABE chillis",
+									"subtitle": "2022/2023",
+									"caption": "",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Average Gross Income per 0.25 ha"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "orig_value",
+									"x_label": "Countries",
+									"y_label": "Avg income in $ per 0.25ha planted",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Average net income (gross income minus total costs)",
+									"subtitle": "2022/2023",
+									"caption": "",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Average True Earnings"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "orig_value",
+									"x_label": "Countries",
+									"y_label": "Avg income in $",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Average net income per .25ha planted ABE chillis",
+									"subtitle": "2022/2023",
+									"caption": "",
+									"type": "BarChart",
+									"data_source": "country_comparisons_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Average True Earnings per 0.25 ha"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "orig_value",
+									"x_label": "Countries",
+									"y_label": "Avg income in $",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "",
+									"type": "missing",
+									"content": "<h4>Missing Chart</h4><p>Percentage change in gross income per farmer</p>"
+								},
+								{
+									"title": "",
+									"type": "missing",
+									"content": "<h4>Missing Chart</h4><p>Percentage change in net income per farmer</p>"
+								}
+								
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Cayenne",
+			"short_name": "Cayenne",
+			"slug": "cayenne",
+			"colour": "#287a35",
+			"countries": [
+				{
+					"name": "Malawi",
+					"slug": "malawi",
+					"periods": [
+						{
+							"period": [2022,2023],
+							"sections": [
+								{
+									"name": "background",
+									"title": "Background",
+									"sections": [
+										{
+											"title": "Overview",
+											"type": "text",
+											"content": "<p>2022-2023 Zimbabwe Cayenne</p>"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+
+		}
+	]
+}

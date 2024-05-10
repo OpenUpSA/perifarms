@@ -75,8 +75,7 @@ const Swarmchart = (props) => {
         setHeight(initialHeight);
 
         // Append SVG
-        const initialSvg = d3
-            .select(svgRef.current)
+        const initialSvg = d3.select(svgRef.current)
             .attr('width', width + margin.left + margin.right)
             .attr('height', initialHeight + margin.top + margin.bottom)
             .append('g')
@@ -88,8 +87,7 @@ const Swarmchart = (props) => {
         setX(initialX);
 
         // Apply simulation to spread out circles
-        const simulation = d3
-            .forceSimulation(chartData)
+        const simulation = d3.forceSimulation(chartData)
             .force('x', d3.forceX((d) => initialX(d.earnings)).strength(1))
             .force('y', d3.forceY(initialHeight / 2))
             .force('collide', d3.forceCollide(5));
@@ -163,8 +161,7 @@ const Swarmchart = (props) => {
         updateBands(maxEarnings, newX, height, svg, circles);
 
         // Recompute simulation
-        const simulation = d3
-            .forceSimulation(chartData)
+        const simulation = d3.forceSimulation(chartData)
             .force('x', d3.forceX((d) => newX(d.earnings)).strength(1))
             .force('y', d3.forceY(height / 2))
             .force('collide', d3.forceCollide(5));
