@@ -2905,11 +2905,6 @@
 							"type": "mixed",
 							"sections": [
 								{
-									"title": "",
-									"type": "text",
-									"content": "<p>dddd</p>"
-								},
-								{
 									"title": "Total number of farmers",
 									"subtitle": "2022/2023",
 									"caption": "For example, there were 281 ABE chilli farmers in Malawi for 2022/2023.",
@@ -3023,7 +3018,7 @@
 									"group": "community",
 									"layout": "horizontal",
 									"singular": false,
-									"value": "value",
+									"value": "orig_value",
 									"x_label": "Countries",
 									"y_label": "Avg gross income in $",
 									"legend_text": "Select a Region",
@@ -3047,7 +3042,7 @@
 									"group": "community",
 									"layout": "horizontal",
 									"singular": false,
-									"value": "value",
+									"value": "orig_value",
 									"x_label": "Countries",
 									"y_label": "Avg income in $ per 0.25ha planted",
 									"legend_text": "Select a Region",
@@ -3071,7 +3066,7 @@
 									"group": "community",
 									"layout": "horizontal",
 									"singular": false,
-									"value": "value",
+									"value": "orig_value",
 									"x_label": "Countries",
 									"y_label": "Avg income in $",
 									"legend_text": "Select a Region",
@@ -3095,7 +3090,7 @@
 									"group": "community",
 									"layout": "horizontal",
 									"singular": false,
-									"value": "value",
+									"value": "orig_value",
 									"x_label": "Countries",
 									"y_label": "Avg income in $",
 									"legend_text": "Select a Region",
