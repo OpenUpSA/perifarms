@@ -3,7 +3,7 @@ import { AppContext } from './AppContext';
 import Papa from 'papaparse';
 
 import * as content from './data/content';
-
+import * as homeContent from './data/home';
 
 export const AppProvider = ({ children }) => {
     const debug = false;
@@ -49,6 +49,8 @@ export const AppProvider = ({ children }) => {
     useEffect(() => {
         // console.log(crop);        
     }, [crop]);
+
+   
 
 
     const loadData = async () => {
@@ -97,6 +99,7 @@ export const AppProvider = ({ children }) => {
 
     // SEND
     const values = {
+        homeContent,
         content,
         crop,
         setCrop,

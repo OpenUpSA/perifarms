@@ -7,6 +7,7 @@ import Table from './Table';
 import ChartBar from './ChartBar';
 import MultiChart from './MultiChart';
 import Swarmchart from './Swarmchart';
+import ChartPie from './ChartPie';
 
 const CountryPage = () => {
 
@@ -85,6 +86,11 @@ const CountryPage = () => {
                                     )
                                 })
                             }
+                            <div className="period">
+                                <div className="period-content">
+                                    <div className="period-content_text">{period[0]} - {period[1]}</div>
+                                </div>
+                            </div>
                         </div>
 
                         <div className="tab-contents w-tab-content">
@@ -174,6 +180,32 @@ const CountryPage = () => {
                                                                                                             tab == section.name &&
                                                                                                             subsubsection.type == 'MultiChart' && <MultiChart props={subsubsection} />
                                                                                                         }
+                                                                                                        {
+                                                                                                            tab == section.name &&
+                                                                                                            subsubsection.type == 'content-and-chart' && 
+                                                                                                            <>
+                                                                                                                <div className="grid">
+                                                                                                                    <div className="grid-item is-content">
+                                                                                                                        {
+                                                                                                                            subsubsection.title != '' && <><h3 className="is-highlighted">{subsubsection.title}</h3></>
+                                                                                                                        }
+                                                                                                                        {ReactHtmlParser(subsubsection.content)}
+                                                                                                                    </div>
+                                                                                                                    {subsubsection.charts && subsubsection.charts.length > 0 &&
+                                                                                                                        <div className="grid-item is-chart">
+                                                                                                                            {
+                                                                                                                                subsubsection.charts.map((chart,index) =>
+                                                                                                                                    <ChartPie props={subsubsection} chartIndex={index} key={index} />
+                                                                                                                                )
+                                                                                                                            }
+                                                                                                                        </div>
+                                                                                                                    }
+                                                                                                                    
+                                                                                                                </div>
+                                                                                                                <div className="divider"></div>
+                                                                                                            </>
+                                                                                                        }
+                                                                                                        
                                                                                                         
                                                                                                       
                                                                                                     </div>

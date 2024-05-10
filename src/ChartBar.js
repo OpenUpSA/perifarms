@@ -51,7 +51,6 @@ const ChartBar = (props) => {
         
         if(props.props.country == 'multiple') {
             filteredData = data[props.props.data_source].filter(item => item.community == item.country);
-            console.log(filteredData);
         } else {
             filteredData = data[props.props.data_source].filter(item => item.country === props.props.country);
         }
