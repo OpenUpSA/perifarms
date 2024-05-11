@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext, useRef } from 'react';
 import { AppContext } from './AppContext';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, LabelList } from 'recharts';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, LabelList, ResponsiveContainer } from 'recharts';
 
 import Debug from './Debug';
 
@@ -10,11 +10,7 @@ import './chartLine.scss';
 const ChartLine = (props) => {
 
     const { crop, country, period, data } = useContext(AppContext);
-    const [allData, setAllData] = useState([]);
     const [chartData, setchartData] = useState([]);
-    const [groups, setGroups] = useState([]);
-    const [selectedGroups, setSelectedGroups] = useState([]);
-    const [selectedIndicator, setSelectedIndicator] = useState(props.props.indicator[0]);
     const svgRef = useRef(null);
     const xAxisLabelStyle = {
         value: props.props.x_label,
@@ -88,16 +84,10 @@ const ChartLine = (props) => {
 
         let filteredData;
 
-        if (props.props.country == 'multiple') {
-            filteredData = data[props.props.data_source].filter(item => item.community == item.country);
-        } else {
-            filteredData = data[props.props.data_source].filter(item => item.country === props.props.country);
-        }
-
+        filteredData = data[props.props.data_source];
 
         filteredData = filteredData.filter(item => item.crop === props.props.crop);
         filteredData = filteredData.filter(item => props.props.indicator.includes(item.indicator));
-        filteredData = filteredData.filter(item => item.year === props.props.year);
 
         let transformedDataArray = [];
 
@@ -111,8 +101,9 @@ const ChartLine = (props) => {
 
             filteredData.filter(item => item.indicator === indicator).forEach(item => {
                 transformedData.forEach(bin => {
+    
                     if (bin.bin === item.bin) {
-                        bin[item[props.props.group]] = parseFloat(props.props.value == 'percentage' ? item.percentage * 100 : item[props.props.value]);
+                        bin.indicator = parseFloat(props.props.value == 'percentage' ? item.percentage * 100 : item[props.props.value]);
                     }
                 });
             });
@@ -120,16 +111,7 @@ const ChartLine = (props) => {
             transformedDataArray.push({ indicator, transformedData });
         });
 
-        let groups = Array.from(new Set(filteredData.map(d => d[props.props.group])));
-        setGroups(groups);
 
-        if (props.props.singular) {
-            setSelectedGroups([groups[0]]);
-        } else {
-            setSelectedGroups(groups);
-        }
-
-        setAllData(transformedDataArray);
         setchartData(transformedDataArray[0].transformedData);
 
     }, [props, crop, country, period]);
@@ -156,46 +138,24 @@ const ChartLine = (props) => {
         return colors[index];
     }
 
-    const handleGroupChange = (group) => {
-
-        if (props.props.singular) {
-            setSelectedGroups([group]);
-        } else {
-            if (selectedGroups.includes(group)) {
-                setSelectedGroups(selectedGroups.filter((g) => g !== group));
-            } else {
-                setSelectedGroups([...selectedGroups, group]);
-            }
-        }
-    };
-
+    
 
     const CustomizedLabel = (props) => {
-        const { x, y, width, height, value, chartProps } = props;
+        
+          const { x, y, stroke, value } = props;
+      
+          return (
+            <text x={x} y={y} dy={-10} fill={stroke} fontSize={10} textAnchor="middle">
+              {value}
+            </text>
+          );
+        
+      }
 
-        if (chartProps.props.layout === 'horizontal') {
-            // For vertical bars, position the label above the bar
-            return (
-                <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
-                    {chartProps.props.value === 'percentage' ? `${value.toFixed(0)}%` : value.toFixed(2)}
-                </text>
-            );
-        } else {
-            // For horizontal bars, position the label to the right of the bar
-            return (
-                <text x={x + width + 10} y={y + height / 2} fill="#000" fontSize={10} fontWeight='bold' textAnchor="start" dy={0.35}>
-                    {chartProps.props.value === 'percentage' ? `${value.toFixed(0)}%` : value.toFixed(2)}
-                </text>
-            );
-        }
-    };
+    useEffect(() => {
+        console.log(chartData);
+    }, [chartData]);
 
-    const handleIndicatorChange = (item) => {
-
-        setSelectedIndicator(item.indicator);
-        setchartData(item.transformedData);
-
-    }
 
 
     return (
@@ -210,59 +170,30 @@ const ChartLine = (props) => {
                 <Debug props={props} />
             </header>
 
-            <div className="groups">
-                <div className="label">{props.props.legend_text}: </div>
+            <div className="groups"></div>
 
-                {
+            
 
-                    groups?.map((group) => {
-                        return (
-                            <div style={{ backgroundColor: selectedGroups.includes(group) ? getColors(group) : '#fff' }} className={`groupSelect ${selectedGroups.includes(group) && 'selectedGroup'}`} key={group} onClick={() => handleGroupChange(group)}>
-                                {group}
-                            </div>
-                        );
-                    })
-                }
-            </div>
-
-            {
-                allData.length > 1 && (
-                    <div className="indicators">
-                        <div className="label">{props.props.indicator_text}</div>
-                        <>
-                            {
-                                allData.map((item, index) => {
-                                    return (
-                                        <div key={index} className={selectedIndicator == item.indicator ? `selectedIndicator indicatorSelect` : `indicatorSelect`} onClick={() => handleIndicatorChange(item)}>
-                                            {item.indicator}
-                                        </div>
-                                    );
-                                })
-                            }
-                        </>
-                    </div>
-                )
-            }
-
-            <LineChart
-                width={500}
-                height={300}
-                data={linedata}
-                margin={{
-                    top: 5,
-                    right: 30,
-                    left: 20,
-                    bottom: 5,
-                }}
-            >
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="name" />
-                <YAxis />
-                <Tooltip />
-                <Legend />
-                <Line type="monotone" dataKey="pv" stroke="#8884d8" activeDot={{ r: 8 }} />
-                <Line type="monotone" dataKey="uv" stroke="#82ca9d" />
-            </LineChart>
+            
+            <ResponsiveContainer width="100%" height={300}>
+                <LineChart
+                    height={300}
+                    data={chartData}
+                    margin={{
+                        top: 5,
+                        right: 30,
+                        left: 20,
+                        bottom: 5,
+                    }}
+                >
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="bin" label={xAxisLabelStyle} tick={{ fontSize: 11, fontWeight: 'bold' }}/>
+                    <YAxis label={yAxisLabelStyle} tick={{ fontSize: 11, fontWeight: 'bold' }}/>
+                    <Tooltip />
+                    <Line type="monotone" strokeWidth={2} dataKey="indicator" stroke={props.props.colors[0]} activeDot={{ r: 8 }}  label={<CustomizedLabel />}/>
+                    
+                </LineChart>
+            </ResponsiveContainer>
 
             <footer>
                 {props.props.caption}

@@ -662,7 +662,32 @@
 										{
 											"title": "Impact Scores",
 											"type": "mixed",
-											"sections": []
+											"sections": [
+												{
+													"title": "Impact scores for farmers",
+													"subtitle": "",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "impact_scores_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"Education","Healthcare","Food Security","Housing","Energy","Water","Effluent"
+													],
+													"year": "",
+													"group": "community",
+													"layout": "horiontal",
+													"singular": true,
+													"value": "value",
+													"x_label": "",
+													"y_label": "Impact Score",
+													"legend_text": "Select a Region",
+													"indicator_text": "Select an indicator",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
 										},
 										{
 											"title": "Key impact metrics Education; Energy and Food Security",
@@ -1700,7 +1725,32 @@
 										{
 											"title": "Impact Scores",
 											"type": "mixed",
-											"sections": []
+											"sections": [
+												{
+													"title": "Impact scores for farmers",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "impact_scores_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"Education","Healthcare","Food Security","Housing","Energy","Water","Effluent"
+													],
+													"year": "",
+													"group": "community",
+													"layout": "horiontal",
+													"singular": true,
+													"value": "value",
+													"x_label": "",
+													"y_label": "Impact Score",
+													"legend_text": "Select a Region",
+													"indicator_text": "Select an indicator",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
 										},
 										{
 											"title": "Key impact metrics Education; Energy and Food Security",
@@ -2283,6 +2333,132 @@
 											]
 										}
 
+									]
+								},
+								{
+									"name": "production",
+									"title": "Production",
+									"type": "mixed",
+									"sections": [
+										{
+											"title": "Farming",
+											"type": "mixed",
+											"sections": [
+												{
+													"title": "",
+													"type": "Table",
+													"data_source": "tables_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"table": [
+														"production_farming_metrics"
+													],
+													"year": "2022/23"
+												},
+												{
+													"title": "Farmers according to the yield of fresh ABE chillis",
+													"subtitle": "2022/2023",
+													"caption": "For example, 29% of farmers in Mozambique have yields between 0 and 500kg.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"fresh_yield_ABE"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Yield",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												},
+												
+												{
+													"title": "Farmers according to the plot size of ABE chillis planted",
+													"subtitle": "2022/2023",
+													"caption": "For example, 100% of farmers in Mozambique have a plot size of planted ABE chillis of more than 0.3ha.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"planted_area"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Plot size of ABE chillis planted",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "Farmers according to the yield of fresh ABE chillis per 0.25ha planted",
+													"subtitle": "2022/2023",
+													"caption": "For example, 66% of farmers in Zimbabwe produce (yield) between 0 and 1000kg of fresh ABE chillis per 0.25ha planted.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"fresh_yield_ABE_per_0.25ha_planted"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Yield of fresh ABE chillis (kg) per 0.25ha",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+											]
+										},
+										{
+											"name": "income",
+											"title": "Income",
+											"type": "mixed",
+											"sections": [
+												
+												{
+													"title": "Farmers according to their gross income",
+													"subtitle": "2022/2023",
+													"caption": "For example, 14% of farmers in Mozambique have a gross income of between $500-1000.",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Mozambique",
+													"indicator": [
+														"gross_income"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Gross Income",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036"
+													]
+												}
+
+											]
+										}
 									]
 								},
 								{
@@ -2957,33 +3133,46 @@
 					],
 					"sections":[
 						{
-							"title": "2022/23 Country Comparisons",
+							"title": "Peri-Farms Over Time",
 							"type": "mixed",
 							"sections": [
 								{
-									"title": "Linechart work",
-									"subtitle": "2022/2023",
+									"title": "Total number of farmers per year (all countries)",
+									"subtitle": "2014/15 to 2022/23",
 									"caption": "",
 									"type": "LineChart",
 									"data_source": "country_comparisons_over_time_data",
 									"crop": "ABE",
-									"country": "multiple",
-									"indicator": ["Total Farmers"],
-									"year": "2022/23",
-									"group": "community",
-									"layout": "horizontal",
-									"singular": false,
-									"value": "value",
-									"x_label": "Countries",
+									"indicator": ["Total no. of farmers per year (all countries)"],
+									"value": "orig_value",
+									"x_label": "",
 									"y_label": "Number of farmers",
-									"legend_text": "Select a Region",
-
+									"group": "farmers",
 									"colors": [
-										"#9ac746",
-										"#ed732e",
-										"#c13036"
+										"#ed732e"
 									]
 								},
+								{
+									"title": "Total area under cultivation per year (all countries)",
+									"subtitle": "2014/15 to 2022/23",
+									"caption": "",
+									"type": "LineChart",
+									"data_source": "country_comparisons_over_time_data",
+									"crop": "ABE",
+									"indicator": ["Total area under cultivation per year (all countries)"],
+									"value": "orig_value",
+									"x_label": "",
+									"y_label": "Number of farmers",
+									"colors": [
+										"#9ac746"
+									]
+								}
+							]
+						},
+						{
+							"title": "2022/23 Country Comparisons",
+							"type": "mixed",
+							"sections": [
 								{
 									"title": "Total number of farmers",
 									"subtitle": "2022/2023",
@@ -3001,7 +3190,6 @@
 									"x_label": "Countries",
 									"y_label": "Number of farmers",
 									"legend_text": "Select a Region",
-
 									"colors": [
 										"#9ac746",
 										"#ed732e",
@@ -3009,9 +3197,27 @@
 									]
 								},
 								{
-									"title": "",
-									"type": "missing",
-									"content": "<h4>Missing Chart</h4><p>Number of growing communities</p>"
+									"title": "Number of growing communities",
+									"subtitle": "2022/2023",
+									"caption": "",
+									"type": "BarChart",
+									"data_source": "extra_charts",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["No. of growing communities"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "orig_value",
+									"x_label": "Countries",
+									"y_label": "Number of communities",
+									"legend_text": "Select a Region",
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
 								},
 								{
 									"title": "Total area under cultivation",
@@ -3173,6 +3379,54 @@
 									"value": "orig_value",
 									"x_label": "Countries",
 									"y_label": "Avg income in $",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Percentage change in gross income per farmer",
+									"subtitle": "2020/21 to 2022/23",
+									"caption": "",
+									"type": "BarChart",
+									"data_source": "extra_charts",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23)"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "orig_value",
+									"x_label": "Countries",
+									"y_label": "Percentage %",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
+									"title": "Percentage change in net income per farmer",
+									"subtitle": "2020/21 to 2022/23",
+									"caption": "",
+									"type": "BarChart",
+									"data_source": "extra_charts",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23)"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "orig_value",
+									"x_label": "Countries",
+									"y_label": "Percentage %",
 									"legend_text": "Select a Region",
 
 									"colors": [

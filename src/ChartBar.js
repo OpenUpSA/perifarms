@@ -58,7 +58,11 @@ const ChartBar = (props) => {
 
         filteredData = filteredData.filter(item => item.crop === props.props.crop);
         filteredData = filteredData.filter(item => props.props.indicator.includes(item.indicator));
-        filteredData = filteredData.filter(item => item.year === props.props.year);
+        if(props.props.year != '') {
+            filteredData = filteredData.filter(item => item.year === props.props.year);
+        }
+
+        
 
         let transformedDataArray = [];
 
@@ -73,7 +77,7 @@ const ChartBar = (props) => {
             filteredData.filter(item => item.indicator === indicator).forEach(item => {
                 transformedData.forEach(bin => {
                     if (bin.bin === item.bin) {
-                        let value = 0;
+                        let value;
                         if (props.props.value == 'percentage') {
                             value = item.percentage * 100;
                         } else {
@@ -143,12 +147,13 @@ const ChartBar = (props) => {
 
     const CustomizedLabel = (props) => {
         const { x, y, width, height, value, chartProps } = props;
+
     
         if (chartProps.props.layout === 'horizontal') {
             // For vertical bars, position the label above the bar
             return (
                 <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
-                    {chartProps.props.value === 'percentage' ? `${value.toFixed(0)}%` : value.toFixed(2)}
+                    {chartProps.props.value === 'percentage' ? `${value?.toFixed(0)}%` : value?.toFixed(2)}
                 </text>
             );
         } else {
@@ -167,6 +172,9 @@ const ChartBar = (props) => {
         setchartData(item.transformedData);
 
     }
+    useEffect(() => {
+        console.log(chartData)
+    }, [chartData])
 
 
     return (
@@ -253,6 +261,8 @@ const ChartBar = (props) => {
 
                 {
                     selectedGroups.map((group, index) => {
+
+                       
                         return (
                             <Bar dataKey={group} key={index} fill={getColors(group)} label={<CustomizedLabel chartProps={props} />} />
 
