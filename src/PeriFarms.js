@@ -21,11 +21,12 @@ const PeriFarms = () => {
     return (
         <div>
             <div className="btt-wrapper">
-                <a href="#page-top" className="back-to-top w-inline-block">
-                    <img src="/images/back-to-top.svg" loading="lazy" alt="" className="back-to-top_icon" />
+                <a href="#page-top" className="back-to-top w-inline-block btt-btn-inline">
+                    <img src="/assets/images/back-to-top.svg" loading="lazy" alt="" className="back-to-top_icon" />
                 </a>
                 <div id="page-top" className="content-top"></div>
             </div>
+            
             <div className="page-wrapper">
                 <main className="main-wrapper padding-global padding-section-small">
                     <div className="dashboard-bg"></div>

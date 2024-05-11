@@ -26,6 +26,30 @@
 											"content": "<p>In Zimbabwe, ABE continues to be purchased from the network of farmers through Nando's country partner Kacholo via its field extension officers in Birchenough, Fuve, and Ruware. Farmers sell ABE fresh to Kacholo and it dries the ABE at a central location in each community. The dried chilli from all locations is graded, bagged and shipped by Kacholo to Nando's processors in South Africa.</p>"
 										},
 										{
+											"title": "",
+											"type": "jump",
+											"sections": [
+												{
+													"title": "Key Metrics",
+													"name": "key_metrics"
+												},
+												{
+													"title": "Operational Model",
+													"name": "operational_model"
+												},
+												{
+													"title": "Assesment Anomalies",
+													"name": "assesment_anomalies"
+												},
+												{
+													"title": "Successes, Challenges & Farmer Feedback",
+													"name": "successes"
+												}
+
+											]
+										},
+										{
+											"name": "key_metrics",
 											"title": "Key Metrics",
 											"type": "Table",
 											"data_source": "tables_data",
@@ -37,11 +61,13 @@
 											"year": "2022/23"
 										},
 										{
+											"name": "operational_model",
 											"title": "Operational Model",
 											"type": "text",
 											"content": "<div class=\"rich-text-with-icons w-richtext\"><figure class=\"w-richtext-align-floatright w-richtext-figure-type-image\"><div><img loading=\"lazy\" src=\"/assets/images/chili-shine.png\"></div></figure><p>Kacholo, used an out-grower operational model, with farmers cultivating ABE on their own land with support from Kacholo. The programme is supervised by Martin Bebete and Josaphat Mutsambwa with support from a team of dedicated field extension officers in each region.</p><p>Across all regions, Kacholo provided inputs, such as seedlings, fertiliser and pesticides, on credit to the farmers. Although Kacholo recommended which and how many inputs to take, farmers decided for themselves what they wanted. Kacholo also stipulated a fixed $.8 rate per kg for fresh chillies in the contract signed with farmers. Per the Kacholo field extension officers they provided an average of 20 hours of group and individual training to the farmers. However, the farmers perceive the training received to have been an average of 8 hours. Continued emphasis has also been placed by Kacholo on encouraging children to attend school rather than working in the fields during planting and harvest periods.</p><p>The planting density was 25,000 plants per Ha across all regions, but plot sizes varied between growing areas, cultivating ABE on plot sizes between .05Ha - .64Ha. The Zimbabwe government only permits 10-20% of a farmer's land to be designated for cash crops with the balance for family consumption to ensure farmer food security.</p></div>"
 										},
 										{
+											"name": "assesment_anomalies",
 											"title": "Assesment Anomalies",
 											"type": "mixed",
 											"sections": [
@@ -68,6 +94,7 @@
 											]
 										},
 										{
+											"name": "successes",
 											"title": "Successes, Challenges & Farmer Feedback",
 											"type": "mixed",
 											"sections": [
@@ -1173,6 +1200,30 @@
 											"content": "<p>Now in their fifth season managing the PERi-Farm's programme, Tropha is Nando's country partner in Malawi. Its PERi-Farm's operational model is based on an in/out-grower hybrid scheme, with farmers cultivating African Birds Eye (ABE) chilli independently, but on land Tropha has secured and provided irrigation infrastructure. Beyond growing ABE for Nando's, Tropha also grows a range of other crops including Paprika, Malaga (another variety of ABE) and Macadamia nuts, which accounts for 70% of its business.</p><p>Farmers in the PERi-Farm's programme grow Nando's variety of ABE as their primary cash crop and a small amount of Malaga, in addition to other crops for consumption and local sales such as maize, tobacco, sorghum, soya and legumes.</p><p>The following country overview provides the key statistics and commercial data for the two communities, Chikwawa and Katowo, growing ABE in the 2022/23 season in Malawi. The commercial data is for the 83 farmers in Katowo (up by 51% from 55 in 2021/2022) and 198 farmers in Chikwawa (up by 68% from 118 in 2021/2022).</p>"
 										},
 										{
+											"title": "",
+											"type": "jump",
+											"sections": [
+												{
+													"title": "Key Metrics",
+													"name": "key_metrics"
+												},
+												{
+													"title": "Operational Model",
+													"name": "operational_model"
+												},
+												{
+													"title": "Assesment Anomalies",
+													"name": "assesment_anomalies"
+												},
+												{
+													"title": "Successes, Challenges & Farmer Feedback",
+													"name": "successes"
+												}
+
+											]
+										},
+										{
+											"name": "key_metrics",
 											"title": "Key Metrics",
 											"type": "mixed",
 											"sections": [
@@ -1195,11 +1246,13 @@
 											]
 										},
 										{
+											"name": "operational_model",
 											"title": "Operational Model",
 											"type": "text",
 											"content": "<p>The PERi-Farm's programme operates on an in/out-grower scheme managed by Tropha. The programme is managed by Duncan McDavid who supervised all aspects of the programme including farm visits, programme coordination, technical skills training by the FEOs and farmers, and the drying process.</p><p> Tropha's small scale farmers are growing ABE in one region, across different irrigation blocks. The irrigation system has been successfully installed by Tropha at no cost to the farmers. There was been no charge to-date for water, however, in the future farmers will be required to pay for pumping water and general maintenance monthly. The land has been allocated to the farmers through negotiations by Tropha with the primary chiefs in the area. Of the 120Ha of land allocated to Tropha, 63Ha was allocated to produce Nando's ABE across. Generally each ABE farmer has 1Ha of irrigated land, with an average of .22Ha allocated to ABE. The Tropha Farmers will be able to increase their ABE production, based on success, up to .4Ha of land.</p><p>Farmers growing ABE were provided inputs on credit, technical skills training, and a guaranteed price per kg of dry ABE. Inputs were allocated based on an average of .22 Ha plot size and were provided at cost with no additional charge for transportation. All new farmers are supplied with chemical inputs with the Tropha team doing the spraying of crops in the first season, and farmers spraying themselves from their second season onwards. Sprayers are bought by individual farmers or at a community level. Protective PPE clothing is supplied on loan from Nando's for farmers who opt to do their own spraying in the second season.</p><p>During 2022/2023, farmers received quarterly group training sessions from FEOs, lasting roughly two hours each. According to the FEOs, group training and one-on-one coaching totalled sixteen hours over the season, however, according to farmer's perceptions, the total training time totalled eleven hours. The focus of the technical skills training included the fundamentals of farming in the classroom with practical in-field observations, covering topics such as seed beds, land preparation, transplanting, pests and disease management, harvesting and grading.</p>"
 										},
 										{
+											"name": "assesment_anomalies",
 											"title": "Assessment Anomalies",
 											"type": "mixed",
 											"sections": [
@@ -1226,6 +1279,7 @@
 											]
 										},
 										{
+											"name": "successes",
 											"title": "Successes, Challenges & Farmer Feedback",
 											"type": "mixed",
 											"sections": [
@@ -2315,6 +2369,30 @@
 											"content": "<p>Mozambique is in its fifth season under Nando’s direct management controlling the country’s production of ABE and general operations. Its base of operation is the MaXamba farm located just outside Marrucune. For the 2022/23 season, the MaXamba farm operated as a commercial farm while also managing an out-grower network to produce ABE. These out-growers were made up of a mix of individual small scale commercial farmers, organisations which are non-profits and small-scale subsistence/community associations whose members are subsistence farmers. </p>"
 										},
 										{
+											"title": "",
+											"type": "jump",
+											"sections": [
+												{
+													"title": "Key Metrics",
+													"name": "key_metrics"
+												},
+												{
+													"title": "Operational Model",
+													"name": "operational_model"
+												},
+												{
+													"title": "Assesment Anomalies",
+													"name": "assesment_anomalies"
+												},
+												{
+													"title": "Successes, Challenges & Farmer Feedback",
+													"name": "successes"
+												}
+
+											]
+										},
+										{
+											"name": "key_metrics",
 											"title": "Key Metrics",
 											"type": "Table",
 											"data_source": "tables_data",
@@ -2326,11 +2404,13 @@
 											"year": "2022/23"
 										},
 										{
+											"name": "operational_model",
 											"title": "Operational Model",
 											"type": "text",
 											"content": "<p>James Dunkin manages the MaXamba farm, out-growers programme and general community engagements initiated by Nando’s. The operational model and programme implementation are more complex in Mozambique than in other countries due to the farming scheme structure involving out-growers, their labourers, and MaXamba. The Mozambique out-growers can be divided into three distinct categories: Small Scale Commercial Farmers - these are farmers who typically grow ABE (.5Ha+), and other crops on a larger scale than subsistence farmers, and employ full time and part time labour; Organisations – these vary in type, but generally operate as non-profit organisations and/or have a religious or social mission, employ multiple types of people, including those who manage the chilli production, and use ABE income to fund their mandates and/or cover operational costs. These organisations are also generally reliant on multiple funding sources to operate (public, private); and Small-Scale Subsistence/Community Associations - these are made up of subsistence farmers from a specific community, who share land in order to produce ABE.</p><p>Daniel Lucilio specifically manages the out-grower programme. The implementation of the programme includes the receipt of seedlings while other inputs are provided by MaXamba for some of the out-growers. MaXamba provides very limited technical support to the farmers regarding ABE production. All harvested fresh ABE is aggregated at the MaXamba Farm, dried, graded, bagged, and shipped to Nando’s processors in South Africa.</p>"
 										},
 										{
+											"name": "assesment_anomalies",
 											"title": "Assesment Anomalies",
 											"type": "mixed",
 											"sections": [
@@ -2357,6 +2437,7 @@
 											]
 										},
 										{
+											"name": "successes",
 											"title": "Successes, Challenges and Farmer Feedback",
 											"type": "mixed",
 											"sections": [

@@ -112,7 +112,7 @@ const CountryPage = () => {
                                                                             <div className="grid-item is-content">
                                                                                 {
                                                                                     subsection.title != '' && <div className="sticky-heading">
-                                                                                        <h2 className="sticky-heading_text">{subsection.title}</h2>
+                                                                                        <h2 id={subsection.name} className="sticky-heading_text">{subsection.title}</h2>
                                                                                     </div>
                                                                                 }
                                                                                 {
@@ -126,6 +126,25 @@ const CountryPage = () => {
                                                                                 {
                                                                                     tab == section.name &&
                                                                                     subsection.type == 'cta' && <div className="grid-card is-warning"><div className="warning-content"><img loading="lazy" src="/assets/images/chili-exclamation.svg" alt="" className="icon"/><p className="clear">{subsection.content}</p></div></div>
+                                                                                }
+                                                                                {
+                                                                                    tab == section.name &&
+                                                                                    subsection.type == 'jump' && 
+                                                                                    <><h6>Jump to a section:</h6>
+                                                                                    <div class="button-wrapper">
+                                                                                        
+                                                                                        {
+                                                                                            subsection.sections.map((jump, i) => {
+                                                                                                return (
+                                                                                                    <a href={`#${jump.name}`} class="button is-page-nav w-inline-block">
+                                                                                                    <div class="button-bg"></div>
+                                                                                                    <div class="page-nav_text">{jump.title}</div>
+                                                                                                  </a>
+                                                                                                )
+                                                                                            })
+                                                                                        }
+                           
+                                                                                    </div></>
                                                                                 }
                                                                                 {
                                                                                     
