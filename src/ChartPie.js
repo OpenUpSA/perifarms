@@ -26,13 +26,13 @@ const ChartPie = (props) => {
             return;
         }
 
-        filteredData = data[props.props.charts[props.chartIndex].data_source].filter(item => item['country/community'] === props.props.charts[props.chartIndex].country);
+        filteredData = data[props.props.charts[props.chartIndex].data_source].filter(item => item['country'] === props.props.charts[props.chartIndex].country);
         filteredData = filteredData.filter(item => item.crop === props.props.charts[props.chartIndex].crop);
         filteredData = filteredData.filter(item => props.props.charts[props.chartIndex].indicator.includes(item.indicator));
         filteredData = filteredData.filter(item => item.year === props.props.charts[props.chartIndex].year);
 
 
-        console.log(filteredData);
+       
 
 
         let transformedDataArray = [];
@@ -114,7 +114,7 @@ const ChartPie = (props) => {
                 height={20} 
                 fill="rgba(255, 255, 255, 1)" />
             <text
-                class={`pie-text-${index}`} 
+                className={`pie-text-${index}`} 
                 x={x} 
                 y={y + 20} 
                 fill="#000"

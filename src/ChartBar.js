@@ -73,7 +73,17 @@ const ChartBar = (props) => {
             filteredData.filter(item => item.indicator === indicator).forEach(item => {
                 transformedData.forEach(bin => {
                     if (bin.bin === item.bin) {
-                        bin[item[props.props.group]] = parseFloat(props.props.value == 'percentage' ? item.percentage * 100 : item[props.props.value]);
+                        let value = 0;
+                        if (props.props.value == 'percentage') {
+                            value = item.percentage * 100;
+                        } else {
+                            value = item[props.props.value];
+                        }
+                        if(props.props.value != 'percentage' && props.props.is_percentage) {
+                            value = value * 100;
+                        }
+
+                        bin[item[props.props.group]] = parseFloat(value);
                     }
                 });
             });
