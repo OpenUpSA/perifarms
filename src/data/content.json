@@ -599,6 +599,52 @@
 													"colors": [
 														"#c13036"
 													]
+												},
+												{
+													"title": "Farmers according to their gross income (detailed)",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "SwarmChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"gross_income_scatter_plot"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+													]
+												},
+												{
+													"title": "Farmers according to their net income (detailed)",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "SwarmChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"true_earnings_scatter_plot"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+													]
 												}
 											]
 										}
@@ -1590,6 +1636,52 @@
 													"legend_text": "Select a Region",
 													"colors": [
 														"#9ac746"
+													]
+												},
+												{
+													"title": "Farmers according to their gross income (detailed)",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "SwarmChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"gross_income_scatter_plot"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+													]
+												},
+												{
+													"title": "Farmers according to their net income (detailed)",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "SwarmChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"true_earnings_scatter_plot"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
 													]
 												}
 											]
