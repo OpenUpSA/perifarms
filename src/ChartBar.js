@@ -190,7 +190,7 @@ const ChartBar = (props) => {
             </header>
 
             <div className="groups">
-                <div className="label">{props.props.legend_text}: </div>
+                <div className="label">{props.props.legend_text}</div>
 
                 {
 

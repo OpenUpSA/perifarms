@@ -676,7 +676,7 @@
 													],
 													"year": "",
 													"group": "community",
-													"layout": "horiontal",
+													"layout": "horizontal",
 													"singular": true,
 													"value": "value",
 													"x_label": "",
@@ -696,7 +696,101 @@
 												{
 													"title": "",
 													"type": "text",
-													"content": "To provide another perspective on how the ABE farmers have been impacted by the addition of this cash crop it is relevant to understand their access to education, energy and food security in relation to other subsistence farmers in Zimbabwe. These three factors are critical because: being food secure allows the farmers and their children to focus on other productive measures - education, commercial gain, and social connections; energy access which provides lights and charging facilities enables studying and commercial activities after dark; and, children's education is a tool for realising new commercial opportunities other than subsistence farming or becoming more efficient and effective at farming. As these impact metrics are vital to understanding change, this section reviews the access to education that ABE farmers' children have, their household access to energy, as well as their food security in relation to the Zimbabwean country norms.</p><h4>Education</h4><h5>Percentage of age appropriate children in primary school</h5><p>The latest data available from 2020 on what percentage of age appropriate children are in primary school is 86.36% in Zimbabwe. Thus 13.64% of children are not in school, however this statistic only refers to those not enrolled not counting those enrolled but not attending regularly.</p><h5>Percentage of children that complete primary school</h5><p>In Zimbabwe, around 89% of children complete primary school according to UNICEF's data for 2021 (UNICEF Zimbabwe Education Fact Sheets, 2021). There are however disparities between genders, with girls having a slightly higher completion rate (around 92%) compared to boys (around 86%) [International Institute for Capacity Building in Africa].</p><h5>Percentage which go to and also complete secondary school in Zimbabwe</h5><p>Secondary school has two levels in Zimbabwe, lower which is grades 8-11 (O level) and upper which is grades 12-13 (A level). As of 2021, 71% of children who completed primary school enter lower secondary school, however of those who entered, the average completion rate is only 54% which drops to 40% for rural areas. In Zimbabwe there are a range of tertiary degrees that only require an O level like teaching, and most other technical degrees. To enter university however, an A level is required. Only 15%, which drops to 6% for rural areas, complete upper secondary school. (<a href='https://data.unicef.org/wp-content/uploads/2021/12/Zimbabwe-MICS-EAGLE-Education-fact-sheets-2021.pdf'>See here</a>).</p><h5>Percentage in university</h5><p>The latest available tertiary education enrollment rate, 2020, was 9.72% of both O and A level graduates. Roughly 7-8% of the Zimbabwe population have tertiary education, that rate drops to 3-4% in rural areas.</p><p>The vast majority of ABE Zimbabwean farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level a high 96% of Zimbabwean farmers children are attending, for secondary school a high 84% are attending, and for university 58% eligible for university are attending.</p><p>The ABE farmer children are attending secondary school and university at much higher rates than the country average and particularly high in comparison to rural areas.</p><h4>Energy</h4><h5>Percentage of Zimbabwe electrified and has solar in rural areas</h5><p>While there's no single definitive figure, estimates suggest that between 40% and 53% of Zimbabwe's population has access to electricity. This access rate for Zimbabweans includes both rural and urban areas, with a significant disparity between urban (78 -86% access) and rural areas (14 -16% access). While these percentages are a range, so too is the daily availability of electricity for those who have it ranging between 4-12 hours per day.  Counted in the rural figures for having access to “electricity” includes those with a solar system which further confuses the facts. The estimations of how many people in rural communities have access to solar power ranges between 10-20%.</p><p>(<a href='https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW'>https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW</a>).<br/>(<a href='https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/'>https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/</a>)<br/>(<a href='https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/'>https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/</a>)</p><p>While the ABE farmers reflect close to the national average for electrical connections at 13%, the percentage which have solar energy is substantially above the rural average. 69% of ABE farmers have solar power for lighting and charging in their homes giving them a level of power access which is materially better than the rural and country norm.</p><h4>Food Security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Zimbabwe has been defined as being in a major food crisis considering that as of December 2022, annual food price inflation was estimated at 285% due to reliance on food imports as well as currency depreciations in the country. The extent of the crisis affects 3 - 3.5M people in Zimbabwe who were projected to be in IPC Phase 3 or above reflecting the persisting effects of economic and weather shocks on household food access and availability (FEWS NET, 2022)(FEWS NET, February 2023).</p><p>This crisis phase was consistent among the Birchenough, Ruware and Fuve, areas where ABE is grown. These areas have all been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report.</p><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in the farmers' diets, as well as the variety within food groups.</p><p>The chart below considers food regularly purchased and food grown for consumption by Zimbabwean farmers. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. The farmers have most of their variety concentrated in the various carbohydrates they consume at a 14.75% good variety rate, followed by proteins at 6,56% good variety rate. Therefore 21.31% of farmers consume 6 or more types of proteins and carbohydrates regularly. Almost half of the farmers (48%) have an inadequate variety of protein however, with the most consumed protein coming from beans and chicken. The most consumed carbohydrate is maize, in the form of porridge or sadza. When it comes to vitamins and minerals, the most consumed are from \"vegetables\" which refers to leafy greens such as kovo, rape or pumpkin leaves. Fats/oils have the least variety with farmers purchasing cooking oil and typically consuming ground nuts.</p>"
+													"content": ""
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "To provide another perspective on how the ABE farmers have been impacted by the addition of this cash crop it is relevant to understand their access to education, energy and food security in relation to other subsistence farmers in Zimbabwe. These three factors are critical because: being food secure allows the farmers and their children to focus on other productive measures - education, commercial gain, and social connections; energy access which provides lights and charging facilities enables studying and commercial activities after dark; and, children's education is a tool for realising new commercial opportunities other than subsistence farming or becoming more efficient and effective at farming. As these impact metrics are vital to understanding change, this section reviews the access to education that ABE farmers' children have, their household access to energy, as well as their food security in relation to the Zimbabwean country norms.</p>"
+												},
+												{
+													"title": "Education",
+													"type": "text",
+													"content": "<h5>Percentage of age appropriate children in primary school</h5><p>The latest data available from 2020 on what percentage of age appropriate children are in primary school is 86.36% in Zimbabwe. Thus 13.64% of children are not in school, however this statistic only refers to those not enrolled not counting those enrolled but not attending regularly.</p><h5>Percentage of children that complete primary school</h5><p>In Zimbabwe, around 89% of children complete primary school according to UNICEF's data for 2021 (UNICEF Zimbabwe Education Fact Sheets, 2021). There are however disparities between genders, with girls having a slightly higher completion rate (around 92%) compared to boys (around 86%) [International Institute for Capacity Building in Africa].</p><h5>Percentage which go to and also complete secondary school in Zimbabwe</h5><p>Secondary school has two levels in Zimbabwe, lower which is grades 8-11 (O level) and upper which is grades 12-13 (A level). As of 2021, 71% of children who completed primary school enter lower secondary school, however of those who entered, the average completion rate is only 54% which drops to 40% for rural areas. In Zimbabwe there are a range of tertiary degrees that only require an O level like teaching, and most other technical degrees. To enter university however, an A level is required. Only 15%, which drops to 6% for rural areas, complete upper secondary school. (<a href='https://data.unicef.org/wp-content/uploads/2021/12/Zimbabwe-MICS-EAGLE-Education-fact-sheets-2021.pdf'>See here</a>).</p><h5>Percentage in university</h5><p>The latest available tertiary education enrollment rate, 2020, was 9.72% of both O and A level graduates. Roughly 7-8% of the Zimbabwe population have tertiary education, that rate drops to 3-4% in rural areas.</p><p>The vast majority of ABE Zimbabwean farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level a high 96% of Zimbabwean farmers children are attending, for secondary school a high 84% are attending, and for university 58% eligible for university are attending.</p><p>The ABE farmer children are attending secondary school and university at much higher rates than the country average and particularly high in comparison to rural areas.</p>"
+												},
+												{
+													"title": "Zimbabwe children's education",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"childrens_education_chart"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Percentage of children",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "Energy",
+													"type": "text",
+													"content": "<h5>Percentage of Zimbabwe electrified and has solar in rural areas</h5><p>While there's no single definitive figure, estimates suggest that between 40% and 53% of Zimbabwe's population has access to electricity. This access rate for Zimbabweans includes both rural and urban areas, with a significant disparity between urban (78 -86% access) and rural areas (14 -16% access). While these percentages are a range, so too is the daily availability of electricity for those who have it ranging between 4-12 hours per day.  Counted in the rural figures for having access to “electricity” includes those with a solar system which further confuses the facts. The estimations of how many people in rural communities have access to solar power ranges between 10-20%.</p><p>(<a href='https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW'>https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW</a>).<br/>(<a href='https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/'>https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/</a>)<br/>(<a href='https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/'>https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/</a>)</p><p>While the ABE farmers reflect close to the national average for electrical connections at 13%, the percentage which have solar energy is substantially above the rural average. 69% of ABE farmers have solar power for lighting and charging in their homes giving them a level of power access which is materially better than the rural and country norm.</p>"
+												},
+												{
+													"title": "Zimbabwe energy security",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"energy_security_chart"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Food Security",
+													"type": "text",
+													"content": "<p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Zimbabwe has been defined as being in a major food crisis considering that as of December 2022, annual food price inflation was estimated at 285% due to reliance on food imports as well as currency depreciations in the country. The extent of the crisis affects 3 - 3.5M people in Zimbabwe who were projected to be in IPC Phase 3 or above reflecting the persisting effects of economic and weather shocks on household food access and availability (FEWS NET, 2022)(FEWS NET, February 2023).</p><p>This crisis phase was consistent among the Birchenough, Ruware and Fuve, areas where ABE is grown. These areas have all been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report.</p><table class='food-security-table'><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in the farmers' diets, as well as the variety within food groups.</p><p>The chart below considers food regularly purchased and food grown for consumption by Zimbabwean farmers. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. The farmers have most of their variety concentrated in the various carbohydrates they consume at a 14.75% good variety rate, followed by proteins at 6,56% good variety rate. Therefore 21.31% of farmers consume 6 or more types of proteins and carbohydrates regularly. Almost half of the farmers (48%) have an inadequate variety of protein however, with the most consumed protein coming from beans and chicken. The most consumed carbohydrate is maize, in the form of porridge or sadza. When it comes to vitamins and minerals, the most consumed are from \"vegetables\" which refers to leafy greens such as kovo, rape or pumpkin leaves. Fats/oils have the least variety with farmers purchasing cooking oil and typically consuming ground nuts.</p>"
+												},
+												{
+													"title": "Average number of Animals Owned by Farmers in Zimbabwe",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"animal_ownership_chart"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Number of animals",
+													"colors": [
+														"#f3b158"
+													]
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The data collected in the ABE impact assessment regarding food security does not perfectly align with the IPC system, so a direct comparison can not be made.  However, per the ABE impact assessment, the data suggests that these farmers are more food secure than the general population in their areas but lack enough protein, vitamins, minerals, fats and oils.  As has been observed, farmers in Zimbabwe have been increasingly becoming more food insecure over the last four years.</p><p>While a direct causal relationship cannot be made between the increased levels of food security, access to energy and education from growing ABE and its related income, there is a strong and distinct correlation between the introduction of ABE as a new cash crop and the improvement of each of these metrics.</p>"
 												}
 											]
 										},
@@ -1739,7 +1833,7 @@
 													],
 													"year": "",
 													"group": "community",
-													"layout": "horiontal",
+													"layout": "horizontal",
 													"singular": true,
 													"value": "value",
 													"x_label": "",
@@ -1759,8 +1853,101 @@
 												{
 													"title": "",
 													"type": "text",
-													"content": "<p>To provide another perspective on how the ABE farmers have been impacted by the addition of this cash crop it is relevant to understand their access to education, energy and food security in relation to other subsistence farmers in Malawi. These three factors are critical because: being food secure allows the farmers and their children to focus on other productive measures - education, commercial gain, and social connections; energy access which provides lights and charging facilities enables studying and commercial activities after dark; and, children's education is a tool for realising new commercial opportunities other than subsistence farming or becoming more efficient and effective at farming. As these impact metrics are vital to understanding change, this section reviews the access to education that ABE farmers' children have, their household access to energy, as well as their food security in relation to the Malawi country norms.</p><h4>Education</h4><h5>% of age appropriate children not in primary school in Malawi</h5><p>According to data from UNICEF, in Malawi over 10 percent of school-aged children do not attend primary school, this statistic does not however specify whether it applies specifically to rural populations.</p><h5>% of children that complete primary school</h5><p></p>The net enrolment rate in primary school is around 88% in Malawi, however only 27% of children complete primary education in rural areas <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>(Unicef, 2022; Ministry of Education Malawi Statistics, 2022)</a>.</p><p>The dropout rate from primary school is particularly high, with 74% of pupils not completing a full course of primary schooling in Malawi overall. This rate is even higher among girls due to factors like early marriages and pregnancies <a href='https://www.pedagogy4change.org/education-of-girls-in-malawi/'>(Pedagogy for change)</a>. <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>According to the Ministry of Education 2022 Education Statistics Report</a> about 44 % dropped out of primary school because of poverty (unspecified).</p><h5>% which go to and also complete secondary school in Malawi</h5>*note the distinction between rural and urban are not available for Malawi<p>In Malawi, the transition rate from primary to secondary school is approximately 16%​ <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>​.This indicates that a relatively small fraction of children who complete primary education proceed to secondary education.</p><p>The dropout rate of girls in secondary education increased from 6.4% in 2020 to 9.5% in 2021. For many girls, dropping out is common due to child marriage and teen pregnancy, with a 50% child marriage rate, and 29% teenage pregnancy rate (Unicef, 2022).</p><h5>% in university</h5><p>Malawi has one of the lowest university enrolment rates in the world, with less than 1% of college-age individuals attending university. This is considerably lower than the African average of 12% and the global average of 33% <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>.</p><p>The vast majority of ABE Malawi farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level, a high 98% of Malawian farmers children are attending, for secondary school 78% are attending, and for university 87% eligible for university are attending.  The university attendance level is exceptionally high and is likely an aberration based on the sample of farmers interviewed.  This is likely to decrease as more data is gathered in subsequent years.</p><p>The levels of school participation for ABE farmers in Malawi far exceeds the country norms at the primary, secondary and university levels.</p><h4>Energy</h4><p>Per the World Bank in 2022, 14.2% of Malawi is electrified, while only 5.6% is electrified in rural areas. Per a University of Michigan, School for Environment and Sustainability study in 2023 roughly 7% of rural households are electrified and 20% of rural homes have solar power.</p><p>More than half of the ABE farmers (58%) have access to solar for lighting and charging in their households. This solar consists of solar powered torches and lamps. Additionally, 10% of households are connected to the electrical grid.</p><p>The combination of solar power and grid based connections demonstrates that ABE farmers in Malawi are meaningfullymore energy secure than the rural country norms.</p><h4>Food security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Malawi has been defined as being in a major food crisis in all editions of the Report since 2017, largely due to the impact of weather extremes on harvests, high food prices and low household purchasing power.</p><p>The Chikwawa and Katomo areas where ABE is grown have been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report. These two areas generally fall into the Phase 2 and 3 classifications which are:</p><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in farmers' diets, as well as the variety within food groups.</p><p>The chart below shows that 43% of farmers in Malawi have good protein intake. Carbohydrate intake was considered moderate to good for 75% of farmers, and vitamin/mineral intake was considered good for only 23% of farmers.</p><p>This chart also factors in food regularly purchased and food grown for consumption. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. Farmers have more variety when it comes to proteins and carbohydrates consumed. 17,5% of farmers consume 6 or more types of proteins and carbohydrates. The most consumed protein comes from fish and beans, the most consumed carbohydrate is maize, consumed in the form of porridge or sima. When it comes to vitamins and minerals, the most consumed vitamins are from \"vegetables\" which refers to leafy greens such as pumpkin leaves. Fats/oils have the least variety with farmers acquiring fats and oils from cooking oil, and in some cases margarine and ground nuts.</p><h5>Animal ownership</h5><p>Every farmer growing ABE owns at least one animal, however owning one animal does not provide any real food security. For animals to contribute toward food security farmers need to own multiple animals. The chart below shows that the most popular animals owned by ABE farmers in Malawi are birds such as chickens and pigeons, followed by larger animals such as pigs and goats.</p><p>The combination of food consumed and animal ownership demonstrates that ABE farmers in Malawi are meaningfully more food secure than the country and regional norms.</p><p>While a direct causal relationship cannot be made between the increased levels of food security, access to energy and education from growing ABE and its related income. However, there is a strong and distinct correlation between the introduction of ABE as a new cash crop and the improvement of each of these metrics.</p>"
-												}
+													"content": "<p>To provide another perspective on how the ABE farmers have been impacted by the addition of this cash crop it is relevant to understand their access to education, energy and food security in relation to other subsistence farmers in Malawi. These three factors are critical because: being food secure allows the farmers and their children to focus on other productive measures - education, commercial gain, and social connections; energy access which provides lights and charging facilities enables studying and commercial activities after dark; and, children's education is a tool for realising new commercial opportunities other than subsistence farming or becoming more efficient and effective at farming. As these impact metrics are vital to understanding change, this section reviews the access to education that ABE farmers' children have, their household access to energy, as well as their food security in relation to the Malawi country norms.</p>"
+												},{
+													"title": "Education",
+													"type":"text",
+													"content": "<h5>% of age appropriate children not in primary school in Malawi</h5><p>According to data from UNICEF, in Malawi over 10 percent of school-aged children do not attend primary school, this statistic does not however specify whether it applies specifically to rural populations.</p><h5>% of children that complete primary school</h5><p></p>The net enrolment rate in primary school is around 88% in Malawi, however only 27% of children complete primary education in rural areas <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>(Unicef, 2022; Ministry of Education Malawi Statistics, 2022)</a>.</p><p>The dropout rate from primary school is particularly high, with 74% of pupils not completing a full course of primary schooling in Malawi overall. This rate is even higher among girls due to factors like early marriages and pregnancies <a href='https://www.pedagogy4change.org/education-of-girls-in-malawi/'>(Pedagogy for change)</a>. <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>According to the Ministry of Education 2022 Education Statistics Report</a> about 44 % dropped out of primary school because of poverty (unspecified).</p>"
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "<h5>% which go to and also complete secondary school in Malawi</h5>*note the distinction between rural and urban are not available for Malawi<p>In Malawi, the transition rate from primary to secondary school is approximately 16%​ <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>​.This indicates that a relatively small fraction of children who complete primary education proceed to secondary education.</p><p>The dropout rate of girls in secondary education increased from 6.4% in 2020 to 9.5% in 2021. For many girls, dropping out is common due to child marriage and teen pregnancy, with a 50% child marriage rate, and 29% teenage pregnancy rate (Unicef, 2022).</p><h5>% in university</h5><p>Malawi has one of the lowest university enrolment rates in the world, with less than 1% of college-age individuals attending university. This is considerably lower than the African average of 12% and the global average of 33% <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>.</p><p>The vast majority of ABE Malawi farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level, a high 98% of Malawian farmers children are attending, for secondary school 78% are attending, and for university 87% eligible for university are attending.  The university attendance level is exceptionally high and is likely an aberration based on the sample of farmers interviewed.  This is likely to decrease as more data is gathered in subsequent years.</p><p>The levels of school participation for ABE farmers in Malawi far exceeds the country norms at the primary, secondary and university levels.</p>"
+												},
+												{
+													"title": "Malawian children's education",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"childrens_education_chart"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Percentage of children",
+													"colors": [
+														"#c13036"
+													]
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "<h4>Energy</h4><p>Per the World Bank in 2022, 14.2% of Malawi is electrified, while only 5.6% is electrified in rural areas. Per a University of Michigan, School for Environment and Sustainability study in 2023 roughly 7% of rural households are electrified and 20% of rural homes have solar power.</p><p>More than half of the ABE farmers (58%) have access to solar for lighting and charging in their households. This solar consists of solar powered torches and lamps. Additionally, 10% of households are connected to the electrical grid.</p><p>The combination of solar power and grid based connections demonstrates that ABE farmers in Malawi are meaningfullymore energy secure than the rural country norms.</p>"
+												},
+												{
+													"title": "Malawi energy security",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"energy_security_chart"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "<h4>Food security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Malawi has been defined as being in a major food crisis in all editions of the Report since 2017, largely due to the impact of weather extremes on harvests, high food prices and low household purchasing power.</p><p>The Chikwawa and Katomo areas where ABE is grown have been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report. These two areas generally fall into the Phase 2 and 3 classifications which are:</p><table class='food-security-table'><tr><th class='stressed'>Phase 2<br/>Stressed</th><td>Households have minimally adequate food consumption but are unable to afford some essential non-food expenditures without engaging in stress-coping strategies.</td></tr><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in farmers' diets, as well as the variety within food groups.</p><p>The chart below shows that 43% of farmers in Malawi have good protein intake. Carbohydrate intake was considered moderate to good for 75% of farmers, and vitamin/mineral intake was considered good for only 23% of farmers.</p><p>This chart also factors in food regularly purchased and food grown for consumption. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. Farmers have more variety when it comes to proteins and carbohydrates consumed. 17,5% of farmers consume 6 or more types of proteins and carbohydrates. The most consumed protein comes from fish and beans, the most consumed carbohydrate is maize, consumed in the form of porridge or sima. When it comes to vitamins and minerals, the most consumed vitamins are from \"vegetables\" which refers to leafy greens such as pumpkin leaves. Fats/oils have the least variety with farmers acquiring fats and oils from cooking oil, and in some cases margarine and ground nuts.</p>"
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "<h5>Animal ownership</h5><p>Every farmer growing ABE owns at least one animal, however owning one animal does not provide any real food security. For animals to contribute toward food security farmers need to own multiple animals. The chart below shows that the most popular animals owned by ABE farmers in Malawi are birds such as chickens and pigeons, followed by larger animals such as pigs and goats.</p><p>The combination of food consumed and animal ownership demonstrates that ABE farmers in Malawi are meaningfully more food secure than the country and regional norms.</p><p>While a direct causal relationship cannot be made between the increased levels of food security, access to energy and education from growing ABE and its related income. However, there is a strong and distinct correlation between the introduction of ABE as a new cash crop and the improvement of each of these metrics.</p>"
+												},
+												{
+													"title": "Average number of Animals Owned by Farmers in Malawi",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"animal_ownership_chart"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Number of animals",
+													"colors": [
+														"#f3b158"
+													]
+												},
 											]
 										},
 										{

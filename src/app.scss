@@ -38,3 +38,36 @@
 h5 {
     font-size: 1rem;
 }
+
+.food-security-table {
+    width: 100%;
+    margin: 2em 0;
+
+    th, td {
+        padding: 1em;
+        border: 1px solid #333;
+    }
+
+    th {
+        font-weight: bold;
+        font-size: 1.2em;
+        text-align: center;
+
+        &.crisis {
+            background: #eb7d24;
+            color: #fff;
+        }
+
+        &.stressed {
+            background: #f3e838;
+        }
+    }
+
+    td {
+        text-align: left;
+        font-size: 1em;
+        background-color: #f1ebeb;
+    }
+
+
+}
