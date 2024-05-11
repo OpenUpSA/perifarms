@@ -6,7 +6,25 @@
                 {
                     "name": "Background",
                     "title": "The Peri-Farms Initiative",
-                    "content": "<p>Since 2012, Nando’s has actively sourced its global requirements for African Birds Eye (ABE) chilli from small farmers through its unique procurement programme ‘Nando’s PERi-Farms’.  The programme has afforded Nando’s the opportunity to activate one of its core values within its  “Changing Lives Together'' programme by playing a direct role in the procurement of ABE, which is central to the brand and many product recipes. More importantly, the direct procurement of ABE, which is very well suited for smallholder farming in Southern Africa, has created the possibility for Nando’s to directly and sustainably impact rural poverty in Africa through its supply chain.</p><p>Over the last ten years, or ‘seasons’, Impact Amplifier, a social impact focused accelerator and capital advisory business, blending research, impact assessments, business development services and funding to scale commercially viable social enterprises in Africa (https://www.impactamplifier.co.za/) has worked with Nando’s to conduct annual in-field impact assessments. The purpose of these assessments is to better understand the socio-economic impact of the programme and how to further enhance its effect on smallholder farmers in Zimbabwe, Malawi and Mozambique.</p><p>This site provides a detailed commercial and impact assessment of the 2022/23 ABE season (September 2022- August 2023), in these three countries.  By reviewing how the programme was implemented and what impact was achieved provides Nando’s with the necessary insight to both realise its success and optimise its potential going forward.</p>"
+                    "content": "<div class=\"quote-wrapper\"><blockquote class=\"block-quote\">Since 2012, Nando’s has actively sourced its global requirements for African Birds Eye (ABE) chilli from small farmers through its unique procurement programme ‘Nando’s PERi-Farms’.</blockquote><div class=\"overlay-icon\"><img alt=\"\" loading=\"lazy\" src=\"assets/images/chili-shine.png\"></div></div><p>Since 2012, Nando’s has actively sourced its global requirements for African Birds Eye (ABE) chilli from small farmers through its unique procurement programme ‘Nando’s PERi-Farms’.  The programme has afforded Nando’s the opportunity to activate one of its core values within its  “Changing Lives Together'' programme by playing a direct role in the procurement of ABE, which is central to the brand and many product recipes. More importantly, the direct procurement of ABE, which is very well suited for smallholder farming in Southern Africa, has created the possibility for Nando’s to directly and sustainably impact rural poverty in Africa through its supply chain.</p><p>Over the last ten years, or ‘seasons’, Impact Amplifier, a social impact focused accelerator and capital advisory business, blending research, impact assessments, business development services and funding to scale commercially viable social enterprises in Africa (https://www.impactamplifier.co.za/) has worked with Nando’s to conduct annual in-field impact assessments. The purpose of these assessments is to better understand the socio-economic impact of the programme and how to further enhance its effect on smallholder farmers in Zimbabwe, Malawi and Mozambique.</p><p>This site provides a detailed commercial and impact assessment of the 2022/23 ABE season (September 2022- August 2023), in these three countries.  By reviewing how the programme was implemented and what impact was achieved provides Nando’s with the necessary insight to both realise its success and optimise its potential going forward.</p>",
+                    "gallery": [
+                        {
+                            "image": "/assets/images/2022-2023-img-3.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "image": "/assets/images/2022-2023-img-2.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "image": "/assets/images/2022-2023-img-4.jpg",
+                            "caption": ""
+                        },
+                        {
+                            "image": "/assets/images/2022-2023-img-1.jpg",
+                            "caption": ""
+                        }
+                    ]
                 },
                 {
                     "name": "Methodology",

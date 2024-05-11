@@ -59,6 +59,18 @@ const HomePage = () => {
                                                         <div className="grid-item is-content">
                                                             <h2 className="section-heading">{section.title}</h2>
                                                             <div className="section-text" dangerouslySetInnerHTML={{__html: section.content}}></div>
+                                                            {section.gallery &&
+                                                                <div class="image-grid">
+                                                                    <div class="image-left"><img sizes="(max-width: 479px) 89vw, (max-width: 767px) 32vw, (max-width: 991px) 31vw, 21vw" src={section.gallery[0].image} loading="lazy" alt={section.gallery[0].caption} class="grid-image is-1"/></div>
+                                                                    <div class="images-right">
+                                                                        <div class="image-right_top"><img sizes="(max-width: 479px) 89vw, (max-width: 767px) 58vw, (max-width: 991px) 59vw, 38vw" src={section.gallery[1].image} loading="lazy" alt={section.gallery[1].caption} class="grid-image is-2"/></div>
+                                                                        <div class="images-right_bottom">
+                                                                            <div class="image-right_bottom-left"><img sizes="(max-width: 479px) 89vw, (max-width: 767px) 27vw, (max-width: 991px) 28vw, 18vw" src={section.gallery[2].image} loading="lazy" alt={section.gallery[2].caption} class="grid-image is-3"/></div>
+                                                                            <div class="image-right_bottom-right"><img sizes="(max-width: 479px) 89vw, (max-width: 767px) 27vw, (max-width: 991px) 28vw, 18vw" src={section.gallery[3].image} loading="lazy" alt={section.gallery[3].caption} class="grid-image is-4"/></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            }
                                                         </div>
                                                     </div>
                                                 </div>
