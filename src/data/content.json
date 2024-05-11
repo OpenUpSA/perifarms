@@ -620,7 +620,7 @@
 													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
 													]
 												},
 												{
@@ -643,7 +643,7 @@
 													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
 													]
 												}
 											]
@@ -1777,7 +1777,7 @@
 													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
 													]
 												},
 												{
@@ -1800,7 +1800,7 @@
 													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
-														"#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
+														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
 													]
 												}
 											]

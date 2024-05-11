@@ -144,20 +144,22 @@ const Swarmchart = (props) => {
     const updatechartData = (chartData, x, height, svg, circles, xAxis, width) => {
         // Recalculate maximum earnings value
         const maxEarnings = d3.max(chartData, (d) => d.earnings);
+        const minEarnings = d3.min(chartData, (d) => d.earnings);
 
         // Create or update the x scale
         const newX = x || d3.scaleLinear().range([0, width]);
-        newX.domain([0, maxEarnings]);
+        newX.domain([minEarnings, maxEarnings]);
         setX(newX);
 
         // Calculate dynamic band ranges based on the new maximum earnings value
         const bandRanges = [
-            { start: 0, end: Math.min(maxEarnings, 499), color: props?.props?.colors[0] },
-            { start: 500, end: Math.min(maxEarnings, 999), color: props?.props?.colors[1] },
-            { start: 1000, end: Math.min(maxEarnings, 1499), color: props?.props?.colors[2] },
-            { start: 1500, end: Math.min(maxEarnings, 1999), color: props?.props?.colors[3] },
-            { start: 2000, end: Math.min(maxEarnings, 2499), color: props?.props?.colors[4] },
-            { start: 2500, end: Math.min(maxEarnings, 9999), color: props?.props?.colors[4] },
+            { start: -2000, end: -1, color: props?.props?.colors[0] },
+            { start: 0, end: Math.min(maxEarnings, 499), color: props?.props?.colors[1] },
+            { start: 500, end: Math.min(maxEarnings, 999), color: props?.props?.colors[2] },
+            { start: 1000, end: Math.min(maxEarnings, 1499), color: props?.props?.colors[3] },
+            { start: 1500, end: Math.min(maxEarnings, 1999), color: props?.props?.colors[4] },
+            { start: 2000, end: Math.min(maxEarnings, 2499), color: props?.props?.colors[5] },
+            { start: 2500, end: Math.min(maxEarnings, 9999), color: props?.props?.colors[5] },
         ];
 
         updateBands(maxEarnings, newX, height, svg, circles);
@@ -226,12 +228,13 @@ const Swarmchart = (props) => {
 
         // Define background bands based on the max earnings value
         const newBands = [
-            { start: 0, end: Math.min(maxEarnings, 499), color: props?.props?.colors[0] },
-            { start: 500, end: Math.min(maxEarnings, 999), color: props?.props?.colors[1] },
-            { start: 1000, end: Math.min(maxEarnings, 1499), color: props?.props?.colors[2] },
-            { start: 1500, end: Math.min(maxEarnings, 1999), color: props?.props?.colors[3] },
-            { start: 2000, end: Math.min(maxEarnings, 2499), color: props?.props?.colors[4] },
-            { start: 2500, end: Math.min(maxEarnings, 9999), color: props?.props?.colors[4] },
+            { start: -2000, end: -1, color: props?.props?.colors[0] },
+            { start: 0, end: Math.min(maxEarnings, 499), color: props?.props?.colors[1] },
+            { start: 500, end: Math.min(maxEarnings, 999), color: props?.props?.colors[2] },
+            { start: 1000, end: Math.min(maxEarnings, 1499), color: props?.props?.colors[3] },
+            { start: 1500, end: Math.min(maxEarnings, 1999), color: props?.props?.colors[4] },
+            { start: 2000, end: Math.min(maxEarnings, 2499), color: props?.props?.colors[5] },
+            { start: 2500, end: Math.min(maxEarnings, 9999), color: props?.props?.colors[5] },
         ];
 
         svg
