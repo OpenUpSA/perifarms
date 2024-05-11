@@ -2,6 +2,8 @@ import React, { useState, useEffect, useRef, useContext } from 'react';
 import { AppContext } from './AppContext';
 import * as d3 from 'd3';
 
+console.log(d3);
+
 // import Debug from './Debug';
 
 import './swarmchart.scss';

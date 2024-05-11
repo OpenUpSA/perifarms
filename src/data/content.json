@@ -2868,6 +2868,30 @@
 							"type": "mixed",
 							"sections": [
 								{
+									"title": "Linechart work",
+									"subtitle": "2022/2023",
+									"caption": "",
+									"type": "LineChart",
+									"data_source": "country_comparisons_over_time_data",
+									"crop": "ABE",
+									"country": "multiple",
+									"indicator": ["Total Farmers"],
+									"year": "2022/23",
+									"group": "community",
+									"layout": "horizontal",
+									"singular": false,
+									"value": "value",
+									"x_label": "Countries",
+									"y_label": "Number of farmers",
+									"legend_text": "Select a Region",
+
+									"colors": [
+										"#9ac746",
+										"#ed732e",
+										"#c13036"
+									]
+								},
+								{
 									"title": "Total number of farmers",
 									"subtitle": "2022/2023",
 									"caption": "For example, there were 281 ABE chilli farmers in Malawi for 2022/2023.",

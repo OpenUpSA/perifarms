@@ -8,6 +8,7 @@ import ChartBar from './ChartBar';
 import MultiChart from './MultiChart';
 import Swarmchart from './Swarmchart';
 import ChartPie from './ChartPie';
+import ChartLine from './ChartLine';
 
 const CountryPage = () => {
 
@@ -136,6 +137,10 @@ const CountryPage = () => {
                                                                                 }
                                                                                 {
                                                                                     tab == section.name &&
+                                                                                    subsection.type == 'LineChart' && <ChartLine props={subsection} />
+                                                                                }
+                                                                                {
+                                                                                    tab == section.name &&
                                                                                     subsection.type == 'SwarmChart' && <Swarmchart props={subsection} />
                                                                                 }
                                                                                 {
@@ -171,6 +176,10 @@ const CountryPage = () => {
                                                                                                         {
                                                                                                             tab == section.name &&
                                                                                                             subsubsection.type == 'BarChart' && <ChartBar props={subsubsection} />
+                                                                                                        }
+                                                                                                        {
+                                                                                                            tab == section.name &&
+                                                                                                            subsubsection.type == 'LineChart' && <ChartLine props={subsubsection} />
                                                                                                         }
                                                                                                         {
                                                                                                             tab == section.name &&

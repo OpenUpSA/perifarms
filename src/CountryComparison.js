@@ -7,6 +7,7 @@ import Table from './Table';
 import ChartBar from './ChartBar';
 import MultiChart from './MultiChart';
 import Swarmchart from './Swarmchart';
+import ChartLine from './ChartLine';
 
 const CountryComparison = () => {
 
@@ -98,6 +99,9 @@ const CountryComparison = () => {
                                                         section.type == 'BarChart' && <ChartBar props={section} />
                                                     }
                                                     {
+                                                        section.type == 'LineChart' && <ChartLine props={section} />
+                                                    }
+                                                    {
                                                         section.type == 'Beeswarm' && <Swarmchart props={section} />
                                                     }
                                                     {
@@ -128,6 +132,9 @@ const CountryComparison = () => {
                                                                             }
                                                                             {
                                                                                 subsection.type == 'BarChart' && <ChartBar props={subsection} />
+                                                                            }
+                                                                            {
+                                                                                subsection.type == 'LineChart' && <ChartLine props={subsection} />
                                                                             }
                                                                             {
                                                                                 subsection.type == 'Beeswarm' && <Swarmchart props={subsection} />
