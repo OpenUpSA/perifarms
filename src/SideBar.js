@@ -17,6 +17,11 @@ const SideBar = () => {
                     <h1 className="nav-title">Impact Dashboard</h1>
                 </div>
                 <nav role="navigation" className={`${crop} countrypage-content main-nav_menu w-nav-menu`}>
+                    <a href="/" aria-current="page" className={`button is-main-nav w-inline-block ${useLocation().pathname == '/' && 'w--current'}`}>
+                        <div className="button-text">Introduction</div>
+                        <div className="button-bg"></div>
+                    </a>
+                    <div className="divider is-narrow"></div>
                     <div className="year-select_wrap">
                         <div className="button-text">Year:</div>
                         <div data-hover="false" data-delay="0" className="dropdown_wrap w-dropdown" onClick={() => setTogglePeriodDropdown(!togglePeriodDropdown)}>
@@ -30,12 +35,9 @@ const SideBar = () => {
                             </nav>
                         </div>
                     </div>
-                    <div className="divider is-narrow"></div>
-                    <a href="/" aria-current="page" className={`button is-main-nav w-inline-block ${useLocation().pathname == '/' && 'w--current'}`}>
-                        <div className="button-text">Introduction</div>
-                        <div className="button-bg"></div>
-                    </a>
-                    <div className="divider is-narrow"></div>
+                    
+                    
+                    
                     <div className="year-select_wrap">
                         <div className="button-text">Crop:</div>
                         <div data-hover="false" data-delay="0" className="dropdown_wrap w-dropdown" onClick={() => setToggleCropDropdown(!toggleCropDropdown)}>

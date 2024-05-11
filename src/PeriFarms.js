@@ -39,6 +39,7 @@ const PeriFarms = () => {
                                 <Route path="/abe/malawi" element={<CountryPage />} />
                                 <Route path="/abe/mozambique" element={<CountryPage />} />
                                 <Route path="/abe/comparisons" element={<CountryComparison />} />
+                                <Route path="/cayenne/malawi" element={<CountryPage />} />
                             </Routes>
                         </div>
                     </div>
