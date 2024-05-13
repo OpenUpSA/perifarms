@@ -134,7 +134,7 @@ const ChartPie = (props) => {
         <div className="pieChartContainer">
             {props.props.charts[props.chartIndex].chart_title && <h2>{props.props.charts[props.chartIndex].chart_title}</h2>}
             <ResponsiveContainer width="100%" height={350}>
-            <PieChart width={300} height={300}>
+            <PieChart>
                 <Pie
                     data={chartData}
                     cx="50%"

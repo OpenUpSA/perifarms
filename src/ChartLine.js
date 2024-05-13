@@ -153,7 +153,6 @@ const ChartLine = (props) => {
       }
 
     useEffect(() => {
-        console.log(chartData);
     }, [chartData]);
 
 

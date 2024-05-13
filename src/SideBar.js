@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from 'react';
-import { useLocation, Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { AppContext } from './AppContext';
 
 
@@ -80,9 +80,8 @@ const SideBar = () => {
                             ?.countries.map((country, index) => (
                                 <Link
                                     key={index}
-                                    to={`/${currentCrop}/${country.slug}`}
-                                    className={`button is-main-nav w-inline-block ${useLocation().pathname.includes(country.slug) && 'w--current'
-                                        }`}
+                                    to={`/${currentCrop}/${currentYear}/${country.slug}`}
+                                    className={`button is-main-nav w-inline-block ${useLocation().pathname.includes(country.slug) && 'w--current'}`}
                                 >
                                     <img
                                         src={`/assets/images/${country.slug}.svg`}

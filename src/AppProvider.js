@@ -21,6 +21,7 @@ export const AppProvider = ({ children }) => {
         country_comparisons_over_time_data: [],
         extra_charts: []
     });
+    
 
     // INIT
     useEffect(() => {

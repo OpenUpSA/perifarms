@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext } from 'react';
 import { AppContext } from './AppContext';
-import { useLocation } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
 import Protect from 'react-app-protect';
 
@@ -14,6 +14,7 @@ import ChartLine from './ChartLine';
 const CountryPage = () => {
 
     const location = useLocation();
+    const navigate = useNavigate();
 
     const { content, crop, period, country, setCountry } = useContext(AppContext);
 
@@ -23,25 +24,24 @@ const CountryPage = () => {
     const [tab, setTab] = useState('background');
 
 
+    useEffect(() => {
+        getContent();
+    }, [location]);
 
     useEffect(() => {
         getContent();
     }, []);
-
-    useEffect(() => {
-        
-        getContent();
-    }, [period, crop]);
-
    
-
-    useEffect(() => {
+    // useEffect(() => {
         
-    }, [pageContent]);
+    // }, [pageContent]);
 
     const getContent = () => {
 
-        let country = location.pathname.split('/')[2];
+        let country = location.pathname.split('/')[3];
+
+        let period = location.pathname.split('/')[2].split('-');
+
 
         let cropInfoGet = content.crops.find(c => c.slug == crop);
 
@@ -119,7 +119,7 @@ const CountryPage = () => {
                                                                                     }
                                                                                     {
                                                                                         tab == section.name &&
-                                                                                        subsection.type == 'text' && ReactHtmlParser(subsection.content?.replace('<h4>','<h4 class="is-highlighted">'))
+                                                                                        subsection.type == 'text' && ReactHtmlParser(subsection.content?.replace('<h4>','<h4 className="is-highlighted">'))
                                                                                     }
                                                                                     {
                                                                                         tab == section.name &&
@@ -133,14 +133,14 @@ const CountryPage = () => {
                                                                                         tab == section.name &&
                                                                                         subsection.type == 'jump' && 
                                                                                         <><h6>Jump to a section:</h6>
-                                                                                        <div class="button-wrapper">
+                                                                                        <div className="button-wrapper">
                                                                                             
                                                                                             {
                                                                                                 subsection.sections.map((jump, i) => {
                                                                                                     return (
-                                                                                                        <a key={i} href={`#${jump.name}`} class="button is-page-nav w-inline-block">
-                                                                                                            <div class="button-bg"></div>
-                                                                                                            <div class="page-nav_text">{jump.title}</div>
+                                                                                                        <a key={i} href={`#${jump.name}`} className="button is-page-nav w-inline-block">
+                                                                                                            <div className="button-bg"></div>
+                                                                                                            <div className="page-nav_text">{jump.title}</div>
                                                                                                         </a>
                                                                                                     )
                                                                                                 })

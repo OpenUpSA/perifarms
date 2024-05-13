@@ -7,6 +7,7 @@ import HomePage from './HomePage';
 import SideBar from './SideBar';
 import CountryPage from './CountryPage';
 import CountryComparison from './CountryComparison';
+import NotFound from './NotFound';
 
 import './assets/css/normalize.css';
 import './assets/css/components.css';
@@ -17,7 +18,7 @@ import './app.scss';
 
 const PeriFarms = () => {
 
-    const { crop, country, period } = useContext(AppContext);
+    const { crop, country, period, allCrops } = useContext(AppContext);
 
     return (
         <div>
@@ -37,11 +38,21 @@ const PeriFarms = () => {
                             
                                 <Routes>
                                     <Route path="/" element={<HomePage />} />
-                                    <Route path="/abe/zimbabwe" element={<CountryPage />} />
-                                    <Route path="/abe/malawi" element={<CountryPage />} />
-                                    <Route path="/abe/mozambique" element={<CountryPage />} />
-                                    <Route path="/abe/comparisons" element={<CountryComparison />} />
-                                    <Route path="/cayenne/malawi" element={<CountryPage />} />
+                                    {
+                                        allCrops.map((crop, index) => (
+                                            crop.periods.map((period, index) => (
+                                                period.countries.map((country, index) => (
+                                                    <Route key={index} path={`${crop.slug}/${period.period}/${country.slug}`} element={<CountryPage />} />
+                                                ))
+                                            ))
+                                        ))
+                                    }
+                                    {
+                                        allCrops.map((crop, index) => (
+                                            <Route key={index} path={`${crop.slug}/comparisons`} element={<CountryComparison />} />
+                                        ))
+                                    }
+                                    <Route path="*" element={<NotFound />} />
                                 </Routes>
                             
                         </div>

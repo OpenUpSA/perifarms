@@ -143,7 +143,7 @@ const MultiChart = (props) => {
                             <div key={index} className="group">
                                 <h4>{group.group}</h4>
                                 <ResponsiveContainer 
-                                    width={document.querySelector('.group')?.offsetWidth > 0 ? document.querySelector('.group')?.offsetWidth - 50: 500}
+                                    width='100%'
                                     height={130}>
                                 <BarChart
                                     layout={props.props.layout}

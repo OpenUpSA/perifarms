@@ -173,7 +173,6 @@ const ChartBar = (props) => {
 
     }
     useEffect(() => {
-        console.log(chartData)
     }, [chartData])
 
 

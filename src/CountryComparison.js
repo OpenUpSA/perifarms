@@ -83,7 +83,7 @@ const CountryComparison = () => {
                                                         </div>
                                                     }
                                                     {
-                                                        section.type == 'text' && ReactHtmlParser(section.content?.replace('<h4>', '<h4 class="is-highlighted">'))
+                                                        section.type == 'text' && ReactHtmlParser(section.content?.replace('<h4>', '<h4 className="is-highlighted">'))
                                                     }
                                                     {
                                                         section.type == 'missing' && <div className="missing-chart">{ReactHtmlParser(section.content)}</div>
