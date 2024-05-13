@@ -764,6 +764,28 @@
 													"content": "<h5>Percentage of Zimbabwe electrified and has solar in rural areas</h5><p>While there's no single definitive figure, estimates suggest that between 40% and 53% of Zimbabwe's population has access to electricity. This access rate for Zimbabweans includes both rural and urban areas, with a significant disparity between urban (78 -86% access) and rural areas (14 -16% access). While these percentages are a range, so too is the daily availability of electricity for those who have it ranging between 4-12 hours per day.  Counted in the rural figures for having access to “electricity” includes those with a solar system which further confuses the facts. The estimations of how many people in rural communities have access to solar power ranges between 10-20%.</p><p>(<a href='https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW'>https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW</a>).<br/>(<a href='https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/'>https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/</a>)<br/>(<a href='https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/'>https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/</a>)</p><p>While the ABE farmers reflect close to the national average for electrical connections at 13%, the percentage which have solar energy is substantially above the rural average. 69% of ABE farmers have solar power for lighting and charging in their homes giving them a level of power access which is materially better than the rural and country norm.</p>"
 												},
 												{
+													"title": "Since last season, has growing ABE changed the energy used in your household to cook, light or power other devices?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_affected_energy_used"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"colors": [
+														"#9ac746", "#c13036"
+													]
+												},
+												{
 													"title": "Zimbabwe energy security",
 													"subtitle": "2022/2023",
 													"caption": "",
@@ -789,7 +811,33 @@
 												{
 													"title": "Food Security",
 													"type": "text",
-													"content": "<p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Zimbabwe has been defined as being in a major food crisis considering that as of December 2022, annual food price inflation was estimated at 285% due to reliance on food imports as well as currency depreciations in the country. The extent of the crisis affects 3 - 3.5M people in Zimbabwe who were projected to be in IPC Phase 3 or above reflecting the persisting effects of economic and weather shocks on household food access and availability (FEWS NET, 2022)(FEWS NET, February 2023).</p><p>This crisis phase was consistent among the Birchenough, Ruware and Fuve, areas where ABE is grown. These areas have all been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report.</p><table class='food-security-table'><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in the farmers' diets, as well as the variety within food groups.</p><p>The chart below considers food regularly purchased and food grown for consumption by Zimbabwean farmers. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. The farmers have most of their variety concentrated in the various carbohydrates they consume at a 14.75% good variety rate, followed by proteins at 6,56% good variety rate. Therefore 21.31% of farmers consume 6 or more types of proteins and carbohydrates regularly. Almost half of the farmers (48%) have an inadequate variety of protein however, with the most consumed protein coming from beans and chicken. The most consumed carbohydrate is maize, in the form of porridge or sadza. When it comes to vitamins and minerals, the most consumed are from \"vegetables\" which refers to leafy greens such as kovo, rape or pumpkin leaves. Fats/oils have the least variety with farmers purchasing cooking oil and typically consuming ground nuts.</p>"
+													"content": "<p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Zimbabwe has been defined as being in a major food crisis considering that as of December 2022, annual food price inflation was estimated at 285% due to reliance on food imports as well as currency depreciations in the country. The extent of the crisis affects 3 - 3.5M people in Zimbabwe who were projected to be in IPC Phase 3 or above reflecting the persisting effects of economic and weather shocks on household food access and availability (FEWS NET, 2022)(FEWS NET, February 2023).</p><p>This crisis phase was consistent among the Birchenough, Ruware and Fuve, areas where ABE is grown. These areas have all been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report.</p><table class='food-security-table'><tbody><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></tbody></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in the farmers' diets, as well as the variety within food groups.</p><p>The chart below considers food regularly purchased and food grown for consumption by Zimbabwean farmers. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. The farmers have most of their variety concentrated in the various carbohydrates they consume at a 14.75% good variety rate, followed by proteins at 6,56% good variety rate. Therefore 21.31% of farmers consume 6 or more types of proteins and carbohydrates regularly. Almost half of the farmers (48%) have an inadequate variety of protein however, with the most consumed protein coming from beans and chicken. The most consumed carbohydrate is maize, in the form of porridge or sadza. When it comes to vitamins and minerals, the most consumed are from \"vegetables\" which refers to leafy greens such as kovo, rape or pumpkin leaves. Fats/oils have the least variety with farmers purchasing cooking oil and typically consuming ground nuts.</p>"
+												},
+												{
+													"title": "Zimbabwe Farmers Variety Consumed per Food Group",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"Proteins",
+														"Carbohydrates",
+														"Fats/Oils",
+														"Vitamins/Minerals"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Number of animals",
+													"colors": [
+														"#9ac746"
+													]
 												},
 												{
 													"title": "Average number of Animals Owned by Farmers in Zimbabwe",
@@ -1942,6 +1990,29 @@
 													]
 												},
 												{
+													"title": "Various reasons for learners dropout",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"Male","Female"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Percentage of children",
+													"colors": [
+														"#ffad43"
+													]
+												},
+												{
 													"title": "",
 													"type": "text",
 													"content": "<h4>Energy</h4><p>Per the World Bank in 2022, 14.2% of Malawi is electrified, while only 5.6% is electrified in rural areas. Per a University of Michigan, School for Environment and Sustainability study in 2023 roughly 7% of rural households are electrified and 20% of rural homes have solar power.</p><p>More than half of the ABE farmers (58%) have access to solar for lighting and charging in their households. This solar consists of solar powered torches and lamps. Additionally, 10% of households are connected to the electrical grid.</p><p>The combination of solar power and grid based connections demonstrates that ABE farmers in Malawi are meaningfullymore energy secure than the rural country norms.</p>"
@@ -1972,7 +2043,58 @@
 												{
 													"title": "",
 													"type": "text",
-													"content": "<h4>Food security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Malawi has been defined as being in a major food crisis in all editions of the Report since 2017, largely due to the impact of weather extremes on harvests, high food prices and low household purchasing power.</p><p>The Chikwawa and Katomo areas where ABE is grown have been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report. These two areas generally fall into the Phase 2 and 3 classifications which are:</p><table class='food-security-table'><tr><th class='stressed'>Phase 2<br/>Stressed</th><td>Households have minimally adequate food consumption but are unable to afford some essential non-food expenditures without engaging in stress-coping strategies.</td></tr><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in farmers' diets, as well as the variety within food groups.</p><p>The chart below shows that 43% of farmers in Malawi have good protein intake. Carbohydrate intake was considered moderate to good for 75% of farmers, and vitamin/mineral intake was considered good for only 23% of farmers.</p><p>This chart also factors in food regularly purchased and food grown for consumption. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. Farmers have more variety when it comes to proteins and carbohydrates consumed. 17,5% of farmers consume 6 or more types of proteins and carbohydrates. The most consumed protein comes from fish and beans, the most consumed carbohydrate is maize, consumed in the form of porridge or sima. When it comes to vitamins and minerals, the most consumed vitamins are from \"vegetables\" which refers to leafy greens such as pumpkin leaves. Fats/oils have the least variety with farmers acquiring fats and oils from cooking oil, and in some cases margarine and ground nuts.</p>"
+													"content": "<h4>Food security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Malawi has been defined as being in a major food crisis in all editions of the Report since 2017, largely due to the impact of weather extremes on harvests, high food prices and low household purchasing power.</p><p>The Chikwawa and Katomo areas where ABE is grown have been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report. These two areas generally fall into the Phase 2 and 3 classifications which are:</p><table class='food-security-table'><tbody><tr><th class='stressed'>Phase 2<br/>Stressed</th><td>Households have minimally adequate food consumption but are unable to afford some essential non-food expenditures without engaging in stress-coping strategies.</td></tr><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></tbody></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in farmers' diets, as well as the variety within food groups.</p><p>The chart below shows that 43% of farmers in Malawi have good protein intake. Carbohydrate intake was considered moderate to good for 75% of farmers, and vitamin/mineral intake was considered good for only 23% of farmers.</p><p>This chart also factors in food regularly purchased and food grown for consumption. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. Farmers have more variety when it comes to proteins and carbohydrates consumed. 17,5% of farmers consume 6 or more types of proteins and carbohydrates. The most consumed protein comes from fish and beans, the most consumed carbohydrate is maize, consumed in the form of porridge or sima. When it comes to vitamins and minerals, the most consumed vitamins are from \"vegetables\" which refers to leafy greens such as pumpkin leaves. Fats/oils have the least variety with farmers acquiring fats and oils from cooking oil, and in some cases margarine and ground nuts.</p>"
+												},
+												{
+													"title": "Malawi Farmers Variety Consumed per Food Group",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"Proteins",
+														"Carbohydrates",
+														"Fats/Oils",
+														"Vitamins/Minerals"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Number of animals",
+													"colors": [
+														"#9ac746"
+													]
+												},
+												{
+													"title": "Malawi Farmers Nutritional Intake",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"Farmers protein intake",
+														"Farmers carbohydrate intake",
+														"Farmers vitamin/mineral intake"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Number of animals",
+													"colors": [
+														"#c13036"
+													]
 												},
 												{
 													"title": "",
@@ -2001,7 +2123,7 @@
 													"colors": [
 														"#f3b158"
 													]
-												},
+												}
 											]
 										},
 										{
@@ -2250,6 +2372,28 @@
 													"title": "",
 													"type": "text",
 													"content": "<p>The primary sources of energy for Malawian ABE farmers is wood for cooking and heating, solar for lighting and small device charging, as well as batteries for lighting torches. In Chikwawa 33% of all farmers spent ABE money on energy, where 85% of those spent it on solar installation or upgrades. In Katowo 52% of farmers spent on energy and 70% of the spend was on solar as well. A small number of farmers were also able to spend ABE earnings on electrical wiring for electrical connections or buying more electricity than before. All cooking is done with wood or charcoal which is collected or purchased by the farmers or family members often requiring them to travel long distances.</p>"
+												},
+												{
+													"title": "Since last season, has growing ABE changed the energy used in your household to cook, light or power other devices?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"ABE_affected_energy_used"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"colors": [
+														"#9ac746", "#c13036"
+													]
 												},
 												{
 													"title": "Which energy forms have you increased spending on after growing ABE chillies?",
