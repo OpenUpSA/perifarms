@@ -95,15 +95,16 @@ const SideBar = () => {
                             ))
                     }
 
-
-
-
-
-
-                    <a href={`/${crop}/comparisons`} className={`button is-main-nav w-inline-block ${useLocation().pathname.includes('comparison') && 'w--current'}`}>
+                    <Link
+                        to={`/${crop}/comparisons`}
+                        className={`button is-main-nav w-inline-block ${useLocation().pathname.includes('comparison') && 'w--current'}`}
+                    >
                         <div className="button-text">Country Comparisons</div>
                         <div className="button-bg is-green"></div>
-                    </a>
+                    </Link>
+
+
+                    
                     <div className="main-nav_shadow"></div>
                 </nav>
                 <div className="menu-button w-nav-button">
