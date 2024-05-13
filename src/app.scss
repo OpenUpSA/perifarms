@@ -75,3 +75,10 @@ h5 {
 .btt-btn-inline {
     transform: translate3d(0px, -3rem, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; opacity: 1; display: flex;
 }
+
+.sidebar-menu-select {
+    background-color: rgb(234, 233, 233);
+    width: 100%;
+    padding: 1em 0.5em;
+    border: none;
+}

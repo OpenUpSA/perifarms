@@ -2,6 +2,7 @@ import { useState, useEffect, useContext } from 'react';
 import { AppContext } from './AppContext';
 import { Route, Routes } from 'react-router-dom';
 
+
 import HomePage from './HomePage';
 import SideBar from './SideBar';
 import CountryPage from './CountryPage';
@@ -33,14 +34,16 @@ const PeriFarms = () => {
                     <div className="dashboard">
                         <SideBar />
                         <div className="dashboard-content">
-                            <Routes>
-                                <Route path="/" element={<HomePage />} />
-                                <Route path="/abe/zimbabwe" element={<CountryPage />} />
-                                <Route path="/abe/malawi" element={<CountryPage />} />
-                                <Route path="/abe/mozambique" element={<CountryPage />} />
-                                <Route path="/abe/comparisons" element={<CountryComparison />} />
-                                <Route path="/cayenne/malawi" element={<CountryPage />} />
-                            </Routes>
+                            
+                                <Routes>
+                                    <Route path="/" element={<HomePage />} />
+                                    <Route path="/abe/zimbabwe" element={<CountryPage />} />
+                                    <Route path="/abe/malawi" element={<CountryPage />} />
+                                    <Route path="/abe/mozambique" element={<CountryPage />} />
+                                    <Route path="/abe/comparisons" element={<CountryComparison />} />
+                                    <Route path="/cayenne/malawi" element={<CountryPage />} />
+                                </Routes>
+                            
                         </div>
                     </div>
                 </main>

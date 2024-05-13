@@ -8,6 +8,7 @@ import * as homeContent from './data/home';
 export const AppProvider = ({ children }) => {
     const debug = false;
     const [crop, setCrop] = useState('abe');
+    const [allCrops, setAllCrops] = useState([]);
     const [period, setPeriod] = useState([2022, 2023]);
     const [country, setCountry] = useState('zimbabwe');
     const [dataLoaded, setDataLoaded] = useState(false);
@@ -24,7 +25,8 @@ export const AppProvider = ({ children }) => {
     // INIT
     useEffect(() => {
 
-       
+        getAllCrops();
+        
 
         if (dataLoaded == false) {
             loadData();
@@ -46,9 +48,64 @@ export const AppProvider = ({ children }) => {
 
     }, []);
 
-    useEffect(() => {
-        // console.log(crop);        
-    }, [crop]);
+   
+
+    const getAllCrops = () => {
+        let theCrops = [];
+
+        content.crops.forEach(crop => {
+            theCrops.push({
+                crop: crop.name,
+                slug: crop.slug,
+                short_name: crop.short_name,
+                periods: []
+            });
+        });
+
+        content.crops.forEach(crop => {
+            crop.countries.forEach(country => {
+                country.periods.forEach(period => {
+                    theCrops.find(c => c.crop === crop.name).periods.push(
+                        { 
+                            period: period.period.join('-')
+                        }
+                    );
+                });
+            });
+        })
+
+        theCrops.forEach(crop => {
+            crop.periods = crop.periods.filter((v,i,a)=>a.findIndex(t=>(t.period === v.period))===i);
+        })
+
+        theCrops.forEach(crop => {
+
+            crop.periods.forEach(period => {
+
+                period.countries = [];
+
+                let currentCrop = content.crops.find(c => c.name === crop.crop);
+
+                currentCrop.countries.forEach(country => {
+                    country.periods.forEach(p => {
+                        if (p.period.join('-') === period.period) {
+                            period.countries.push({
+                                country: country.name,
+                                slug: country.slug
+                            });
+                        }
+                    });
+                });
+                
+
+            });
+        })
+
+        setAllCrops(theCrops);
+
+
+    }
+
 
    
 
@@ -101,6 +158,7 @@ export const AppProvider = ({ children }) => {
     const values = {
         homeContent,
         content,
+        allCrops,
         crop,
         setCrop,
         period,

@@ -1,13 +1,32 @@
 import { useState, useEffect, useContext } from 'react';
-import { useLocation } from 'react-router-dom';
+import { useLocation, Link } from 'react-router-dom';
 import { AppContext } from './AppContext';
 
 
 const SideBar = () => {
 
-    const {content, crop, setCrop, period, setPeriod} = useContext(AppContext);
+    const { content, crop, setCrop, period, setPeriod, allCrops, allPeriods } = useContext(AppContext);
     const [togglePeriodDropdown, setTogglePeriodDropdown] = useState(false);
     const [toggleCropDropdown, setToggleCropDropdown] = useState(false);
+
+    const [currentCrop, setCurrentCrop] = useState('abe');
+    const [currentYear, setCurrentYear] = useState('2022-2023');
+
+
+    const updateFilter = (e, type) => {
+
+        if (type == 'crop') {
+            setCurrentCrop(e.target.value);
+        } else if (type == 'year') {
+            setCurrentYear(e.target.value);
+        }
+
+
+    }
+
+
+
+
 
     return (
         <>
@@ -22,59 +41,66 @@ const SideBar = () => {
                         <div className="button-bg"></div>
                     </a>
                     <div className="divider is-narrow"></div>
-                    <div className="year-select_wrap">
-                        <div className="button-text">Year:</div>
-                        <div data-hover="false" data-delay="0" className="dropdown_wrap w-dropdown" onClick={() => setTogglePeriodDropdown(!togglePeriodDropdown)}>
-                            <div className={`dropdown_trigger w-dropdown-toggle ${togglePeriodDropdown && 'w--open'}`}>
-                                <div className="w-icon-dropdown-toggle"></div>
-                                <div>{period[0]} - {period[1]}</div>
-                            </div>
-                            <nav className={`dropdown_list w-dropdown-list ${togglePeriodDropdown && 'w--open'}`}>
-                                
-                                <a href="#" onClick={() => setPeriod([2022,2023])} className="dropdown_link w-dropdown-link">2022 - 2023</a>
-                            </nav>
-                        </div>
-                    </div>
-                    
-                    
-                    
+
                     <div className="year-select_wrap">
                         <div className="button-text">Crop:</div>
-                        <div data-hover="false" data-delay="0" className="dropdown_wrap w-dropdown" onClick={() => setToggleCropDropdown(!toggleCropDropdown)}>
-                            <div className={`dropdown_trigger w-dropdown-toggle ${toggleCropDropdown && 'w--open'}`}>
-                                <div className="w-icon-dropdown-toggle"></div>
-                                <div>{content.crops.find(c => c.slug == crop).short_name}</div>
-                            </div>
-                            <nav className={`dropdown_list w-dropdown-list ${toggleCropDropdown && 'w--open'}`}>
-                                {
-                                    content.crops.map((crop,index) => {
-                                        return (
-                                            <a href="#" key={index} onClick={() => setCrop(crop.slug)} className="dropdown_link w-dropdown-link">{crop.name}</a>
-                                        )
-                                    })
-                                }
-                            </nav>
-                        </div>
-                    </div>
-                    
-                    <div className="menu_label">{ content.crops.find(c => c.slug == crop).short_name } Producing Countries:</div>
-                    
-                    {
-                        content.crops.find(c => c.slug == crop).countries.map((country,index) => {
-                            if(country.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]) != undefined){
-                                return (
-                                    <a key={index} href={`/${crop}/${country.slug}`} className={`button is-main-nav w-inline-block ${useLocation().pathname.includes(country.slug) && 'w--current'}`}>
-                                        <img src={`/assets/images/${country.slug}.svg`} loading="lazy" alt="" className="button-flag" />
-                                        <div className="button-text">{country.name}</div>
-                                        <div className="button-bg is-green"></div>
-                                    </a>
-                                )
+                        <select onChange={e => updateFilter(e, 'crop')} className="sidebar-menu-select">
+                            {
+                                allCrops.map((c, index) => {
+                                    return (
+                                        <option key={index} value={c.slug} >{c.short_name}</option>
+                                    )
+                                })
                             }
-                        })
+                        </select>
+                    </div>
+                    <div className="year-select_wrap">
+                        <div className="button-text">Year:</div>
+                        <select onChange={e => updateFilter(e, 'year')} className="sidebar-menu-select">
+                            {
+                                allCrops.find(c => c.slug == currentCrop)?.periods.map((p, index) => {
+                                    return (
+                                        <option key={index} value={p.period}>{p.period}</option>
+                                    )
+                                })
+                            }
+                        </select>
+                    </div>
+
+
+
+
+
+                    <div className="menu_label">{content.crops.find(c => c.slug == crop).short_name} Producing Countries:</div>
+
+                    {
+
+                        allCrops.find((c) => c.slug === currentCrop)
+                            ?.periods.find((p) => p.period === currentYear)
+                            ?.countries.map((country, index) => (
+                                <Link
+                                    key={index}
+                                    to={`/${currentCrop}/${country.slug}`}
+                                    className={`button is-main-nav w-inline-block ${useLocation().pathname.includes(country.slug) && 'w--current'
+                                        }`}
+                                >
+                                    <img
+                                        src={`/assets/images/${country.slug}.svg`}
+                                        loading="lazy"
+                                        alt=""
+                                        className="button-flag"
+                                    />
+                                    <div className="button-text">{country.country}</div>
+                                    <div className="button-bg is-green"></div>
+                                </Link>
+                            ))
                     }
-                    
-                    
-                   
+
+
+
+
+
+
                     <a href={`/${crop}/comparisons`} className={`button is-main-nav w-inline-block ${useLocation().pathname.includes('comparison') && 'w--current'}`}>
                         <div className="button-text">Country Comparisons</div>
                         <div className="button-bg is-green"></div>
