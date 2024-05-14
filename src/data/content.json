@@ -7,6 +7,7 @@
 			"colour": "#c13036",
 			"countries": [
 				{
+					"sha512": "73dcdeec4c71de9454038b0abeb86e21338a0f375c28dbc50dbde0c0f7e25f7376a04e7d169b805ea84036853ced5c270f7aadc5612fc04755ee454156ab6768",
 					"name": "Zimbabwe",
 					"slug": "zimbabwe",
 					"periods": [
@@ -1229,6 +1230,7 @@
 					]
 				},
 				{
+					"sha512": "c42d696a0bfbef19fcf60145ce246e8259b7c6fa220fcd33dda165ddd1968c518c046be360f58e129f6647c6f16fff62f3bbc459999ddb1d0eff2da6d6b3ffb3",
 					"name": "Malawi",
 					"slug": "malawi",
 					"periods": [
@@ -2497,6 +2499,7 @@
 					]
 				},
 				{
+					"sha512": "a64f81afec0733dfc01bea235119519a3e1825556d670b3aaf177212668e2c7f4f743773abe029be24aaa01b9108d5c0c6e226e732675a706c7ec0c23b5dfcd5",
 					"name": "Mozambique",
 					"slug": "mozambique",
 					"periods": [

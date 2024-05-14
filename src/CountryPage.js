@@ -2,7 +2,7 @@ import { useState, useEffect, useContext } from 'react';
 import { AppContext } from './AppContext';
 import { useLocation, useNavigate } from 'react-router-dom';
 import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
-import Protect from 'react-app-protect';
+import { SHA512 } from 'crypto-js';
 
 import Table from './Table';
 import ChartBar from './ChartBar';
@@ -15,6 +15,9 @@ const CountryPage = () => {
 
     const location = useLocation();
     const navigate = useNavigate();
+    const [password, setPassword] = useState('');
+    const [passwordCorrect, setPasswordCorrect] = useState(false);
+
 
     const { content, crop, period, country, setCountry } = useContext(AppContext);
 
@@ -22,6 +25,21 @@ const CountryPage = () => {
     const [countryInfo, setCountryInfo] = useState({});
     const [cropInfo, setCropInfo] = useState({});
     const [tab, setTab] = useState('background');
+
+    const handlePasswordChange = (e) => {
+        setPassword(e.target.value);
+    };
+    
+    const verifyPassword = () => {
+        const hash = SHA512(password).toString();
+        if (hash === countryInfo.sha512) {
+            localStorage.setItem(countryInfo.slug, true);
+            setPasswordCorrect(true);
+        } else {
+            localStorage.setItem(countryInfo.slug, false);
+            setPasswordCorrect(false);
+        }
+    };
 
 
     useEffect(() => {
@@ -32,9 +50,16 @@ const CountryPage = () => {
         getContent();
     }, []);
    
-    // useEffect(() => {
-        
-    // }, [pageContent]);
+    useEffect(() => {
+        let access = localStorage.getItem(countryInfo.slug);
+        console.log(access);
+        if (access === 'false' || access === null) {
+            setPasswordCorrect(false);
+        } else {
+            setPasswordCorrect(true);
+        }
+        console.log(countryInfo);
+    }, [countryInfo]);
 
     const getContent = () => {
 
@@ -56,6 +81,7 @@ const CountryPage = () => {
         setCountryInfo({
             name: countryInfoGet.name,
             slug: countryInfoGet.slug,
+            sha512: countryInfoGet.sha512,
         })
 
         setPageContent(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
@@ -67,7 +93,16 @@ const CountryPage = () => {
     return (
         <>
             {countryInfo.name != undefined &&
-                <Protect sha512={countryInfo.slug == 'zimbabwe' ? '73dcdeec4c71de9454038b0abeb86e21338a0f375c28dbc50dbde0c0f7e25f7376a04e7d169b805ea84036853ced5c270f7aadc5612fc04755ee454156ab6768' : countryInfo.slug == 'malawi' ? 'c42d696a0bfbef19fcf60145ce246e8259b7c6fa220fcd33dda165ddd1968c518c046be360f58e129f6647c6f16fff62f3bbc459999ddb1d0eff2da6d6b3ffb3' : 'a64f81afec0733dfc01bea235119519a3e1825556d670b3aaf177212668e2c7f4f743773abe029be24aaa01b9108d5c0c6e226e732675a706c7ec0c23b5dfcd5'}>
+
+                    (!passwordCorrect ?
+
+                    <div className="password-protected">
+                        <input type="password" value={password} onChange={handlePasswordChange} placeholder="Password"/>
+                        <button onClick={verifyPassword}>Continue</button>
+                    </div>
+
+                    :
+
                     <div className={`${crop} countrypage-content`}>
                         <div className="padding-global"></div>
 
@@ -262,7 +297,7 @@ const CountryPage = () => {
                             </div>
                         </div>
                     </div>
-                </Protect>
+                )
             }
         </>
     )

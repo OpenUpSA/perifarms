@@ -44,10 +44,9 @@ export const AppProvider = ({ children }) => {
         setCountry(currentCountry);
 
 
-
-
-
     }, []);
+
+   
 
    
 
@@ -152,6 +151,7 @@ export const AppProvider = ({ children }) => {
     };
 
     useEffect(() => {
+
         
     }, [data]);
 

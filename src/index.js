@@ -3,7 +3,6 @@ import { createRoot } from 'react-dom/client';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { AppProvider } from './AppProvider';
 import PeriFarms from './PeriFarms';
-import 'react-app-protect/dist/index.css';
 
 
 function App() {
