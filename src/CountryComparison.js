@@ -13,7 +13,7 @@ const CountryComparison = () => {
 
     const location = useLocation();
 
-    const { content, crop, period, country, setCountry } = useContext(AppContext);
+    const { content, period, country, setCountry } = useContext(AppContext);
 
     const [pageContent, setPageContent] = useState(null);
     const [countryInfo, setCountryInfo] = useState({});
@@ -26,10 +26,6 @@ const CountryComparison = () => {
         getContent();
     }, []);
 
-    useEffect(() => {
-
-        getContent();
-    }, [period, crop]);
 
 
 
@@ -38,6 +34,10 @@ const CountryComparison = () => {
     }, [pageContent]);
 
     const getContent = () => {
+
+        let crop = location.pathname.split('/')[1];
+
+        let period = location.pathname.split('/')[2].split('-');
 
         let cropInfoGet = content.crops.find(c => c.slug == crop);
 
@@ -58,7 +58,7 @@ const CountryComparison = () => {
 
     return (
         <>
-            <div className={`${crop} countrypage-content`}>
+            <div className={`countrypage-content`}>
                 <div className="padding-global"></div>
 
                 <div className="dashboard-country_info">

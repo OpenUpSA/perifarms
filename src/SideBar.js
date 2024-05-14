@@ -1,28 +1,49 @@
 import { useState, useEffect, useContext } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import { Link, useLocation, useNavigate} from 'react-router-dom';
 import { AppContext } from './AppContext';
 
 
 const SideBar = () => {
 
-    const { content, crop, setCrop, period, setPeriod, allCrops, allPeriods } = useContext(AppContext);
-    const [togglePeriodDropdown, setTogglePeriodDropdown] = useState(false);
-    const [toggleCropDropdown, setToggleCropDropdown] = useState(false);
+    const location = useLocation();
+    const navigate = useNavigate();
 
+    const { content, allCrops } = useContext(AppContext);
     const [currentCrop, setCurrentCrop] = useState('abe');
     const [currentYear, setCurrentYear] = useState('2022-2023');
+ 
 
 
-    const updateFilter = (e, type) => {
 
-        if (type == 'crop') {
-            setCurrentCrop(e.target.value);
-        } else if (type == 'year') {
-            setCurrentYear(e.target.value);
+   
+    useEffect(() => {
+
+        let crop = location.pathname.split('/')[1];
+
+        let period = location.pathname.split('/')[2];
+
+        let country = location.pathname.split('/')[3];
+
+        if (crop && period && country) {
+
+            let currentItems = allCrops.filter(c => c.slug == currentCrop)[0]?.periods.filter(p => p.period == currentYear)[0];
+
+            let currentSlugs = currentItems?.countries.map(c => c.slug);
+
+            let currentLinks = currentSlugs?.map(s => `/${currentCrop}/${currentYear}/${s}`);
+
+            if(currentLinks?.includes(`/${currentCrop}/${currentYear}/${country}`)) {
+                navigate(`/${currentCrop}/${currentYear}/${country}`);
+            }
+           
+
+        } else {
+            console.log('no location');
         }
 
 
-    }
+
+    }, [currentCrop, currentYear]);
 
 
 
@@ -35,77 +56,85 @@ const SideBar = () => {
                     <a href="/" aria-current="page" className="dashboard-nav_logo w-nav-brand w--current"><img src="/assets/images/peri-farms-logo-205px.png" loading="lazy" alt="" className="dashboard-logo_image" /></a>
                     <h1 className="nav-title">Impact Dashboard</h1>
                 </div>
-                <nav role="navigation" className={`${crop} countrypage-content main-nav_menu w-nav-menu`}>
-                    <a href="/" aria-current="page" className={`button is-main-nav w-inline-block ${useLocation().pathname == '/' && 'w--current'}`}>
+                <nav role="navigation" className={`countrypage-content main-nav_menu w-nav-menu`}>
+                    <a href="/" aria-current="page" className={`button is-main-nav w-inline-block ${location.pathname == '/' && 'w--current'}`}>
                         <div className="button-text">Introduction</div>
                         <div className="button-bg"></div>
                     </a>
                     <div className="divider is-narrow"></div>
 
-                    <div className="year-select_wrap">
-                        <div className="button-text">Crop:</div>
-                        <select onChange={e => updateFilter(e, 'crop')} className="sidebar-menu-select">
-                            {
-                                allCrops.map((c, index) => {
-                                    return (
-                                        <option key={index} value={c.slug} >{c.short_name}</option>
-                                    )
-                                })
-                            }
-                        </select>
-                    </div>
-                    <div className="year-select_wrap">
-                        <div className="button-text">Year:</div>
-                        <select onChange={e => updateFilter(e, 'year')} className="sidebar-menu-select">
-                            {
-                                allCrops.find(c => c.slug == currentCrop)?.periods.map((p, index) => {
-                                    return (
-                                        <option key={index} value={p.period}>{p.period}</option>
-                                    )
-                                })
-                            }
-                        </select>
-                    </div>
-
-
-
-
-
-                    <div className="menu_label">{content.crops.find(c => c.slug == crop).short_name} Producing Countries:</div>
-
                     {
+                        allCrops?.length > 0 &&
 
-                        allCrops.find((c) => c.slug === currentCrop)
-                            ?.periods.find((p) => p.period === currentYear)
-                            ?.countries.map((country, index) => (
+                        <>
+
+                            <div className="year-select_wrap">
+                                <div className="button-text">Crop:</div>
+                                <select onChange={e => setCurrentCrop(e.target.value)} className="sidebar-menu-select">
+                                    {
+                                        allCrops.map((c, index) => {
+                                            return (
+                                                <option key={index} value={c.slug} >{c.short_name}</option>
+                                            )
+                                        })
+                                    }
+                                </select>
+                            </div>
+                            <div className="year-select_wrap">
+                                <div className="button-text">Year:</div>
+                                <select onChange={e => setCurrentYear(e.target.value)} className="sidebar-menu-select">
+                                    {
+                                        allCrops.find(c => c.slug == currentCrop)?.periods.map((p, index) => {
+                                            return (
+                                                <option key={index} value={p.period}>{p.period}</option>
+                                            )
+                                        })
+                                    }
+                                </select>
+                            </div>
+
+
+
+
+
+                            <div className="menu_label">{allCrops.find(c => c.slug == currentCrop).short_name} Producing Countries:</div>
+
+                            {
+                                allCrops.find((c) => c.slug === currentCrop)
+                                    ?.periods.find((p) => p.period === currentYear)
+                                    ?.countries.map((country, index) => (
+                                        <Link
+                                            key={index}
+                                            to={`/${currentCrop}/${currentYear}/${country.slug}`}
+                                            className={`button is-main-nav w-inline-block ${location.pathname.includes(country.slug) && 'w--current'}`}
+                                        >
+                                            <img
+                                                src={`/assets/images/${country.slug}.svg`}
+                                                loading="lazy"
+                                                alt=""
+                                                className="button-flag"
+                                            />
+                                            <div className="button-text">{country.country}</div>
+                                            <div className="button-bg is-green"></div>
+                                        </Link>
+                                    ))
+                            }
+                            {
+                                allCrops.find((c) => c.slug === currentCrop)?.periods.find((p) => p.period === currentYear)?.comparisons &&
+
                                 <Link
-                                    key={index}
-                                    to={`/${currentCrop}/${currentYear}/${country.slug}`}
-                                    className={`button is-main-nav w-inline-block ${useLocation().pathname.includes(country.slug) && 'w--current'}`}
+                                    to={`/${currentCrop}/${currentYear}/comparisons`}
+                                    className={`button is-main-nav w-inline-block ${location.pathname.includes('comparison') && 'w--current'}`}
                                 >
-                                    <img
-                                        src={`/assets/images/${country.slug}.svg`}
-                                        loading="lazy"
-                                        alt=""
-                                        className="button-flag"
-                                    />
-                                    <div className="button-text">{country.country}</div>
+                                    <div className="button-text">Country Comparisons</div>
                                     <div className="button-bg is-green"></div>
                                 </Link>
-                            ))
+                            }
+                            
+                            <div className="main-nav_shadow"></div>
+
+                        </>
                     }
-
-                    <Link
-                        to={`/${crop}/comparisons`}
-                        className={`button is-main-nav w-inline-block ${useLocation().pathname.includes('comparison') && 'w--current'}`}
-                    >
-                        <div className="button-text">Country Comparisons</div>
-                        <div className="button-bg is-green"></div>
-                    </Link>
-
-
-                    
-                    <div className="main-nav_shadow"></div>
                 </nav>
                 <div className="menu-button w-nav-button">
                     <div className="menu-button_icons">

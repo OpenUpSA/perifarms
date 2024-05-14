@@ -18,7 +18,27 @@ import './app.scss';
 
 const PeriFarms = () => {
 
-    const { crop, country, period, allCrops } = useContext(AppContext);
+    const { country, period, allCrops } = useContext(AppContext);
+    const [routes, setRoutes] = useState([]);
+
+    useEffect(() => {
+
+        let routes = [];
+
+        allCrops.map((crop, index) => (
+            crop.periods.map((period, index) => {
+                period.countries.map((country, index) => (
+                    routes.push(`${crop.slug}/${period.period}/${country.slug}`)
+                ))
+                if(period.comparisons) {
+                    routes.push(`${crop.slug}/${period.period}/comparisons`)
+                }
+            })
+        ))
+
+        setRoutes(routes);
+
+    }, [allCrops]);
 
     return (
         <div>
@@ -39,19 +59,16 @@ const PeriFarms = () => {
                                 <Routes>
                                     <Route path="/" element={<HomePage />} />
                                     {
-                                        allCrops.map((crop, index) => (
-                                            crop.periods.map((period, index) => (
-                                                period.countries.map((country, index) => (
-                                                    <Route key={index} path={`${crop.slug}/${period.period}/${country.slug}`} element={<CountryPage />} />
-                                                ))
-                                            ))
+                                        routes.map((route, index) => (
+                                            route.includes('comparisons') ?
+                                                <Route key={index} path={route} element={<CountryComparison />} />
+                                                :
+                                                <Route key={index} path={route} element={<CountryPage />} />
                                         ))
                                     }
-                                    {
-                                        allCrops.map((crop, index) => (
-                                            <Route key={index} path={`${crop.slug}/comparisons`} element={<CountryComparison />} />
-                                        ))
-                                    }
+
+                                    {/* <Route key={index} path={`${crop.slug}/${period.period}/${country.slug}`} element={<CountryPage />} /> */}
+
                                     <Route path="*" element={<NotFound />} />
                                 </Routes>
                             

@@ -19,7 +19,10 @@ const CountryPage = () => {
     const [passwordCorrect, setPasswordCorrect] = useState(false);
 
 
-    const { content, crop, period, country, setCountry } = useContext(AppContext);
+    const { content } = useContext(AppContext);
+    const [country, setCountry] = useState(null);
+    const [period, setPeriod] = useState(null);
+
 
     const [pageContent, setPageContent] = useState(null);
     const [countryInfo, setCountryInfo] = useState({});
@@ -52,21 +55,24 @@ const CountryPage = () => {
    
     useEffect(() => {
         let access = localStorage.getItem(countryInfo.slug);
-        console.log(access);
         if (access === 'false' || access === null) {
             setPasswordCorrect(false);
         } else {
             setPasswordCorrect(true);
         }
-        console.log(countryInfo);
     }, [countryInfo]);
 
     const getContent = () => {
 
-        let country = location.pathname.split('/')[3];
+        let crop = location.pathname.split('/')[1];
 
         let period = location.pathname.split('/')[2].split('-');
 
+        setPeriod([parseInt(period[0]), parseInt(period[1])]);
+
+        let country = location.pathname.split('/')[3];
+
+        setCountry(country);
 
         let cropInfoGet = content.crops.find(c => c.slug == crop);
 
@@ -84,9 +90,10 @@ const CountryPage = () => {
             sha512: countryInfoGet.sha512,
         })
 
+        console.log(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
+
         setPageContent(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
 
-        setCountry(countryInfoGet.slug);
 
     }
 
@@ -103,12 +110,12 @@ const CountryPage = () => {
 
                     :
 
-                    <div className={`${crop} countrypage-content`}>
+                    <div className={`countrypage-content`}>
                         <div className="padding-global"></div>
 
                         <div className="dashboard-country_info">
                             <div className="country-name"><img src={`/assets/images/${countryInfo.slug}.svg`} loading="lazy" alt="" className="country-flag" />
-                                <h1 className="heading-style-h1">{countryInfo.name} {crop == 'abe' ? 'ABE' : 'Cayenne'}</h1>
+                                <h1 className="heading-style-h1">{countryInfo.name}</h1>
                                 <div className="grid-item_bg"></div>
                             </div>
                         </div>

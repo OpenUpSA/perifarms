@@ -7,7 +7,6 @@ import * as homeContent from './data/home';
 
 export const AppProvider = ({ children }) => {
     const debug = false;
-    const [crop, setCrop] = useState('abe');
     const [allCrops, setAllCrops] = useState([]);
     const [period, setPeriod] = useState([2022, 2023]);
     const [country, setCountry] = useState('zimbabwe');
@@ -33,16 +32,7 @@ export const AppProvider = ({ children }) => {
             loadData();
         }
 
-        let path = window.location.pathname.split('/');
-        let currentCrop = path[1];
-        let currentCountry = path[2];
-
-        if (currentCrop === 'abe' || currentCrop === 'cayenne') {
-            setCrop(currentCrop);
-        }
-
-        setCountry(currentCountry);
-
+       
 
     }, []);
 
@@ -83,6 +73,7 @@ export const AppProvider = ({ children }) => {
             crop.periods.forEach(period => {
 
                 period.countries = [];
+                period.comparisons = false;
 
                 let currentCrop = content.crops.find(c => c.name === crop.crop);
 
@@ -96,6 +87,15 @@ export const AppProvider = ({ children }) => {
                         }
                     });
                 });
+
+
+                if(currentCrop.comparisons != undefined && currentCrop.comparisons.length > 0) {
+                    currentCrop.comparisons.forEach(comparison => {
+                        if(comparison.period.join('-') === period.period) {
+                            period.comparisons = true;
+                        }
+                    })
+                }
                 
 
             });
@@ -150,18 +150,14 @@ export const AppProvider = ({ children }) => {
         });
     };
 
-    useEffect(() => {
-
-        
-    }, [data]);
+   
 
     // SEND
     const values = {
         homeContent,
         content,
         allCrops,
-        crop,
-        setCrop,
+        
         period,
         setPeriod,
         country,
