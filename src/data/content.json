@@ -4,7 +4,7 @@
 			"name": "African Birds Eye Chilli",
 			"short_name": "ABE",
 			"slug": "abe",
-			"colour": "#c13036",
+			"colour": "#000",
 			"countries": [
 				{
 					"sha512": "73dcdeec4c71de9454038b0abeb86e21338a0f375c28dbc50dbde0c0f7e25f7376a04e7d169b805ea84036853ced5c270f7aadc5612fc04755ee454156ab6768",
@@ -3888,6 +3888,36 @@
 				}
 			]
 
+		},
+		{
+			"name": "Paprika",
+			"short_name": "Paprika",
+			"slug": "paprika",
+			"colour": "#FF7B00",
+			"countries": [
+				{
+					"name": "Zimbabwe",
+					"slug": "zimbabwe",
+					"periods": [
+						{
+							"period": [2022,2023],
+							"sections": [
+								{
+									"name": "background",
+									"title": "Background",
+									"sections": [
+										{
+											"title": "Overview",
+											"type": "text",
+											"content": "<p>2022-2023 Zimbabwe Paprika</p>"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }

@@ -76,6 +76,7 @@ const CountryPage = () => {
 
         let cropInfoGet = content.crops.find(c => c.slug == crop);
 
+
         setCountryInfo({
             name: cropInfoGet.name,
             slug: cropInfoGet.slug,
@@ -85,12 +86,16 @@ const CountryPage = () => {
         let countryInfoGet = cropInfoGet.countries.find(c => c.slug == country);
 
         setCountryInfo({
+            crop_colour: cropInfoGet.colour,
+            crop: cropInfoGet.short_name,
+            crop_slug: cropInfoGet.slug,
             name: countryInfoGet.name,
             slug: countryInfoGet.slug,
             sha512: countryInfoGet.sha512,
         })
 
-        console.log(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
+        console.log(countryInfo);
+
 
         setPageContent(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
 
@@ -115,8 +120,8 @@ const CountryPage = () => {
 
                         <div className="dashboard-country_info">
                             <div className="country-name"><img src={`/assets/images/${countryInfo.slug}.svg`} loading="lazy" alt="" className="country-flag" />
-                                <h1 className="heading-style-h1">{countryInfo.name}</h1>
-                                <div className="grid-item_bg"></div>
+                                <h1 className="heading-style-h1">{countryInfo.name} {countryInfo.crop}</h1>
+                                <div className="grid-item_bg" style={{backgroundColor: countryInfo.crop_colour}}></div>
                             </div>
                         </div>
 

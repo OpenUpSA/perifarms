@@ -16,7 +16,6 @@ const CountryComparison = () => {
     const { content, period, country, setCountry } = useContext(AppContext);
 
     const [pageContent, setPageContent] = useState(null);
-    const [countryInfo, setCountryInfo] = useState({});
     const [cropInfo, setCropInfo] = useState({});
     const [tab, setTab] = useState('background');
 
@@ -43,6 +42,7 @@ const CountryComparison = () => {
 
         let comparisons = cropInfoGet.comparisons.find(p => p.period[0] == period[0] && p.period[1] == period[1]);
 
+        setCropInfo(cropInfoGet);
 
 
         setPageContent(comparisons);
@@ -64,7 +64,7 @@ const CountryComparison = () => {
                 <div className="dashboard-country_info">
                     <div className="country-name">
                         <h1 className="heading-style-h1">Country Comparison</h1>
-                        <div className="grid-item_bg"></div>
+                        <div className="grid-item_bg" style={{backgroundColor: cropInfo.colour}}></div>
                     </div>
                 </div>
 
