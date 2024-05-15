@@ -94,8 +94,6 @@ const CountryPage = () => {
             sha512: countryInfoGet.sha512,
         })
 
-        console.log(countryInfo);
-
 
         setPageContent(countryInfoGet.periods.find(p => p.period[0] == period[0] && p.period[1] == period[1]));
 

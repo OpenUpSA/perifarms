@@ -38,8 +38,6 @@ const SideBar = () => {
             }
            
 
-        } else {
-            console.log('no location');
         }
 
         const cropPeriods = allCrops.find(c => c.slug === currentCrop)?.periods.map(p => p.period);
@@ -47,9 +45,6 @@ const SideBar = () => {
             setCurrentYear(cropPeriods[0]);
         }
 
-        console.log(currentCrop, currentYear);
-
-        
 
 
     }, [currentCrop, currentYear]);
