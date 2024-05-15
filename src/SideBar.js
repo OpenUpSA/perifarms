@@ -11,6 +11,7 @@ const SideBar = () => {
     const { content, allCrops } = useContext(AppContext);
     const [currentCrop, setCurrentCrop] = useState('abe');
     const [currentYear, setCurrentYear] = useState('2022-2023');
+
  
 
 
@@ -41,6 +42,14 @@ const SideBar = () => {
             console.log('no location');
         }
 
+        const cropPeriods = allCrops.find(c => c.slug === currentCrop)?.periods.map(p => p.period);
+        if (cropPeriods && !cropPeriods.includes(currentYear)) {
+            setCurrentYear(cropPeriods[0]);
+        }
+
+        console.log(currentCrop, currentYear);
+
+        
 
 
     }, [currentCrop, currentYear]);
