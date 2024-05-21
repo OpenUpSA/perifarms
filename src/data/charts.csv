@@ -1,85 +1,85 @@
 order,crop,country,community,year,indicator,bin,value,percentage
-001,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Most important,14,0.2500
-002,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Average importance,8,0.1429
-003,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Least important,34,0.6071
-004,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Most important,2,0.1111
-005,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Average importance,4,0.2222
-006,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Least important,12,0.6667
-007,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Most important,5,0.2381
-008,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Average importance,1,0.0476
-009,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Least important,15,0.7143
-010,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Most important,7,0.4118
-011,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Average importance,3,0.1765
-012,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Least important,7,0.4118
-013,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Most important,17,0.3036
-014,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Average importance,32,0.5714
-015,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Least important,7,0.1250
-016,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Most important,8,0.4706
-017,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Average importance,6,0.3529
-018,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Least important,3,0.1765
-019,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Most important,5,0.2273
-020,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Average importance,17,0.7727
-021,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Least important,0,0.0000
-022,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Most important,4,0.2353
-023,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Average importance,9,0.5294
-024,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Least important,4,0.2353
-025,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Most important,29,0.4265
-026,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Average importance,20,0.2941
-027,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Least important,19,0.2794
-028,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Most important,8,0.4211
-029,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Average importance,8,0.4211
-030,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Least important,3,0.1579
-031,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Most important,11,0.5500
-032,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Average importance,3,0.1500
-033,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Least important,6,0.3000
-034,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Most important,10,0.3448
-035,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Average importance,9,0.3103
-036,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Least important,10,0.3448
-037,ABE,Malawi,Malawi,2022/23,Fixed Prices,Most important,10,0.2564
-038,ABE,Malawi,Malawi,2022/23,Fixed Prices,Average importance,8,0.2051
-039,ABE,Malawi,Malawi,2022/23,Fixed Prices,Least important,21,0.5385
-040,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Most important,5,0.2381
-041,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Average importance,5,0.2381
-042,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Least important,11,0.5238
-043,ABE,Malawi,Katowo,2022/23,Fixed Prices,Most important,5,0.2778
-044,ABE,Malawi,Katowo,2022/23,Fixed Prices,Average importance,3,0.1667
-045,ABE,Malawi,Katowo,2022/23,Fixed Prices,Least important,10,0.5556
-046,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Most important,10,0.2703
-047,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Average importance,13,0.3514
-048,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Least important,14,0.3784
-049,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Most important,5,0.2632
-050,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Average importance,7,0.3684
-051,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Least important,7,0.3684
-052,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Most important,5,0.2778
-053,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Average importance,6,0.3333
-054,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Least important,7,0.3889
-055,ABE,Malawi,Malawi,2022/23,Tech Support,Most important,20,0.4545
-056,ABE,Malawi,Malawi,2022/23,Tech Support,Average importance,19,0.4318
-057,ABE,Malawi,Malawi,2022/23,Tech Support,Least important,5,0.1136
-058,ABE,Malawi,Chikwawa,2022/23,Tech Support,Most important,11,0.4783
-059,ABE,Malawi,Chikwawa,2022/23,Tech Support,Average importance,9,0.3913
-060,ABE,Malawi,Chikwawa,2022/23,Tech Support,Least important,3,0.1304
-061,ABE,Malawi,Katowo,2022/23,Tech Support,Most important,9,0.4286
-062,ABE,Malawi,Katowo,2022/23,Tech Support,Average importance,10,0.4762
-063,ABE,Malawi,Katowo,2022/23,Tech Support,Least important,2,0.0952
-064,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Most important,3,0.2500
-065,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Average importance,6,0.5000
-066,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Least important,3,0.2500
-070,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Most important,3,0.2500
-071,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Average importance,6,0.5000
-072,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Least important,3,0.2500
-076,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Most important,5,0.4167
-077,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Average importance,2,0.1667
-078,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Least important,5,0.4167
-082,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Most important,5,0.4167
-083,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Average importance,2,0.1667
-084,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Least important,5,0.4167
-088,ABE,Mozambique,Mozambique,2022/23,Tech Support,Most important,4,0.3333
-089,ABE,Mozambique,Mozambique,2022/23,Tech Support,Average importance,4,0.3333
-090,ABE,Mozambique,Mozambique,2022/23,Tech Support,Least important,4,0.3333
-094,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Most important,4,0.3333
-095,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Average importance,4,0.3333
-096,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Least important,4,0.3333
+1,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Most important,14,0.2500
+2,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Average importance,8,0.1429
+3,ABE,Zimbabwe,Zimbabwe,2022/23,Fixed Prices,Least important,34,0.6071
+4,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Most important,2,0.1111
+5,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Average importance,4,0.2222
+6,ABE,Zimbabwe,Birchenough,2022/23,Fixed Prices,Least important,12,0.6667
+7,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Most important,5,0.2381
+8,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Average importance,1,0.0476
+9,ABE,Zimbabwe,Zaka,2022/23,Fixed Prices,Least important,15,0.7143
+10,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Most important,7,0.4118
+11,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Average importance,3,0.1765
+12,ABE,Zimbabwe,Ruware,2022/23,Fixed Prices,Least important,7,0.4118
+13,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Most important,17,0.3036
+14,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Average importance,32,0.5714
+15,ABE,Zimbabwe,Zimbabwe,2022/23,Inputs on Credit,Least important,7,0.1250
+16,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Most important,8,0.4706
+17,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Average importance,6,0.3529
+18,ABE,Zimbabwe,Birchenough,2022/23,Inputs on Credit,Least important,3,0.1765
+19,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Most important,5,0.2273
+20,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Average importance,17,0.7727
+21,ABE,Zimbabwe,Zaka,2022/23,Inputs on Credit,Least important,0,0.0000
+22,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Most important,4,0.2353
+23,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Average importance,9,0.5294
+24,ABE,Zimbabwe,Ruware,2022/23,Inputs on Credit,Least important,4,0.2353
+25,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Most important,29,0.4265
+26,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Average importance,20,0.2941
+27,ABE,Zimbabwe,Zimbabwe,2022/23,Tech Support,Least important,19,0.2794
+28,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Most important,8,0.4211
+29,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Average importance,8,0.4211
+30,ABE,Zimbabwe,Birchenough,2022/23,Tech Support,Least important,3,0.1579
+31,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Most important,11,0.5500
+32,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Average importance,3,0.1500
+33,ABE,Zimbabwe,Zaka,2022/23,Tech Support,Least important,6,0.3000
+34,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Most important,10,0.3448
+35,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Average importance,9,0.3103
+36,ABE,Zimbabwe,Ruware,2022/23,Tech Support,Least important,10,0.3448
+37,ABE,Malawi,Malawi,2022/23,Fixed Prices,Most important,10,0.2564
+38,ABE,Malawi,Malawi,2022/23,Fixed Prices,Average importance,8,0.2051
+39,ABE,Malawi,Malawi,2022/23,Fixed Prices,Least important,21,0.5385
+40,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Most important,5,0.2381
+41,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Average importance,5,0.2381
+42,ABE,Malawi,Chikwawa,2022/23,Fixed Prices,Least important,11,0.5238
+43,ABE,Malawi,Katowo,2022/23,Fixed Prices,Most important,5,0.2778
+44,ABE,Malawi,Katowo,2022/23,Fixed Prices,Average importance,3,0.1667
+45,ABE,Malawi,Katowo,2022/23,Fixed Prices,Least important,10,0.5556
+46,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Most important,10,0.2703
+47,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Average importance,13,0.3514
+48,ABE,Malawi,Malawi,2022/23,Inputs on Credit,Least important,14,0.3784
+49,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Most important,5,0.2632
+50,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Average importance,7,0.3684
+51,ABE,Malawi,Chikwawa,2022/23,Inputs on Credit,Least important,7,0.3684
+52,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Most important,5,0.2778
+53,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Average importance,6,0.3333
+54,ABE,Malawi,Katowo,2022/23,Inputs on Credit,Least important,7,0.3889
+55,ABE,Malawi,Malawi,2022/23,Tech Support,Most important,20,0.4545
+56,ABE,Malawi,Malawi,2022/23,Tech Support,Average importance,19,0.4318
+57,ABE,Malawi,Malawi,2022/23,Tech Support,Least important,5,0.1136
+58,ABE,Malawi,Chikwawa,2022/23,Tech Support,Most important,11,0.4783
+59,ABE,Malawi,Chikwawa,2022/23,Tech Support,Average importance,9,0.3913
+60,ABE,Malawi,Chikwawa,2022/23,Tech Support,Least important,3,0.1304
+61,ABE,Malawi,Katowo,2022/23,Tech Support,Most important,9,0.4286
+62,ABE,Malawi,Katowo,2022/23,Tech Support,Average importance,10,0.4762
+63,ABE,Malawi,Katowo,2022/23,Tech Support,Least important,2,0.0952
+64,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Most important,3,0.2500
+65,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Average importance,6,0.5000
+66,ABE,Mozambique,Mozambique,2022/23,Fixed Prices,Least important,3,0.2500
+70,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Most important,3,0.2500
+71,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Average importance,6,0.5000
+72,ABE,Mozambique,Subsistence farmers,2022/23,Fixed Prices,Least important,3,0.2500
+76,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Most important,5,0.4167
+77,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Average importance,2,0.1667
+78,ABE,Mozambique,Mozambique,2022/23,Inputs on Credit,Least important,5,0.4167
+82,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Most important,5,0.4167
+83,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Average importance,2,0.1667
+84,ABE,Mozambique,Subsistence farmers,2022/23,Inputs on Credit,Least important,5,0.4167
+88,ABE,Mozambique,Mozambique,2022/23,Tech Support,Most important,4,0.3333
+89,ABE,Mozambique,Mozambique,2022/23,Tech Support,Average importance,4,0.3333
+90,ABE,Mozambique,Mozambique,2022/23,Tech Support,Least important,4,0.3333
+94,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Most important,4,0.3333
+95,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Average importance,4,0.3333
+96,ABE,Mozambique,Subsistence farmers,2022/23,Tech Support,Least important,4,0.3333
 100,ABE,Zimbabwe,Zimbabwe,2022/23,training_received_changed_yield_ABE,Yes,56,0.9333
 101,ABE,Zimbabwe,Zimbabwe,2022/23,training_received_changed_yield_ABE,No,4,0.0667
 102,ABE,Zimbabwe,Birchenough,2022/23,training_received_changed_yield_ABE,Yes,18,1.0000
@@ -1569,7 +1569,7 @@ order,crop,country,community,year,indicator,bin,value,percentage
 1776,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 10,0,0.0000
 1777,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 11,0,0.0000
 1778,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Grade 12,0,0.0000
-1779,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,Higher than Grade 12,0,0.0000
+1779,ABE,Mozambique,Mozambique,2022/23,farmer_highest_edu_level,> Grade 12,0,0.0000
 1794,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,No schooling,2,0.1667
 1795,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 1,0,0.0000
 1796,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 2,0,0.0000
@@ -1583,4 +1583,4 @@ order,crop,country,community,year,indicator,bin,value,percentage
 1804,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 10,0,0.0000
 1805,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 11,0,0.0000
 1806,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Grade 12,0,0.0000
-1807,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,Higher than Grade 12,0,0.0000
+1807,ABE,Mozambique,Subsistence farmers,2022/23,farmer_highest_edu_level,> Grade 12,0,0.0000

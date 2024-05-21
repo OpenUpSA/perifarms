@@ -28,8 +28,8 @@ const ChartBar = (props) => {
         offset: -15,
         fontSize: 13,
         fontWeight: 'bold',
-        tyle: { textAnchor: 'middle' },
-        fill: '#000'
+        style: { textAnchor: 'middle' },
+        fill: '#000',
     }
     const yAxisLabelStyle = {
         value: props.props.y_label,
@@ -120,6 +120,8 @@ const ChartBar = (props) => {
             '#ff7f00',
             '#ffff33'
         ];
+
+
         if (props.props.colors) {
 
             colors = props.props.colors.concat(Array.from({ length: groups.length - props.props.colors.length }, (_, index) => props.props.colors[index % props.props.colors.length]));

@@ -39,8 +39,8 @@
 													"name": "operational_model"
 												},
 												{
-													"title": "Assesment Anomalies",
-													"name": "assesment_anomalies"
+													"title": "Assessment Anomalies",
+													"name": "assessment_anomalies"
 												},
 												{
 													"title": "Successes, Challenges & Farmer Feedback",
@@ -68,8 +68,8 @@
 											"content": "<div class=\"rich-text-with-icons w-richtext\"><figure class=\"w-richtext-align-floatright w-richtext-figure-type-image\"><div><img loading=\"lazy\" src=\"/assets/images/chili-shine.png\"></div></figure><p>Kacholo, used an out-grower operational model, with farmers cultivating ABE on their own land with support from Kacholo. The programme is supervised by Martin Bebete and Josaphat Mutsambwa with support from a team of dedicated field extension officers in each region.</p><p>Across all regions, Kacholo provided inputs, such as seedlings, fertiliser and pesticides, on credit to the farmers. Although Kacholo recommended which and how many inputs to take, farmers decided for themselves what they wanted. Kacholo also stipulated a fixed $.8 rate per kg for fresh chillies in the contract signed with farmers. Per the Kacholo field extension officers they provided an average of 20 hours of group and individual training to the farmers. However, the farmers perceive the training received to have been an average of 8 hours. Continued emphasis has also been placed by Kacholo on encouraging children to attend school rather than working in the fields during planting and harvest periods.</p><p>The planting density was 25,000 plants per Ha across all regions, but plot sizes varied between growing areas, cultivating ABE on plot sizes between .05Ha - .64Ha. The Zimbabwe government only permits 10-20% of a farmer's land to be designated for cash crops with the balance for family consumption to ensure farmer food security.</p></div>"
 										},
 										{
-											"name": "assesment_anomalies",
-											"title": "Assesment Anomalies",
+											"name": "assessment_anomalies",
+											"title": "Assessment Anomalies",
 											"type": "mixed",
 											"sections": [
 												{
@@ -78,7 +78,7 @@
 													"content": "<p>Although the situation in Zimbabwe remains relatively peaceful, the economic context continues to be a major challenge for farmers. Inflation rates continue to be erratic and averaged 314.5% in the calendar year 2023. There are also artificially State based USD to Zimbabwe Dollar (KWL) exchange rates, which continues to devalue the money paid to the farmers. Although the price per kg of ABE sold was contracted in USD, based on the Zimbabwe currency exchange laws, when farmers withdraw from their bank accounts it is paid in ZWL at a State defined exchange rate which is dramatically lower than the retail or commonly used rate.Kacholo was able to successfully pay 75% of farmer payments directly in USD and 25% in ZWL. This exchange rate loss on a percentage of the farmers income and hyperinflation continued to have a significant impact on the farmers spending power.</p>"
 												},
 												{
-													"title": "Labour Vs. Plot Size Vs Yield",
+													"title": "Labour Vs. Plot Size Vs. Yield",
 													"type": "text",
 													"content": "<p>The cost of labour continued to vary substantially between the three communities being assessed. This variance was based on two primary factors: Price of labour and when labour was used.</p><p>Labour costs are considered in two parts, the first is before chilli is harvested where labour is being used to prepare the land, plant seedlings and tend to the chill bushes while growing, this timeframe is deemed the growing season. The second labour costs are incurred when the chilli is being harvested. As it is sold fresh, harvesting and selling in a timely fashion is critical to the farmers income, thus, they use most labour to help them harvest. Across the various communities, day labour harvested between 80-90% of all chilli grown. What continued to differ dramatically between communities was the cost of labour and the application of paid labour versus average plot sizes and ABE production. In all three communities, labour was paid based on productivity, not time.</p><p>The day labour was compensated by the 20-litre bucket of chilli harvested. In 2022/2023, this bucket price was $1 in Fuve, $1.5 in Ruware and $2 in Birchenough. This variance was principally a factor of labour availability and employment opportunities in the areas where production occurred. The second key factor was the use of labour during the growing season. Historically, very few farmers have used labour during this period, but for the last two seasons, for unknown reasons, they did, particularly in Birchenough where labour was used by a large number of farmers interviewed. These differences accounted for an overall increase in the cost of labour from the previous season. 74% of Birchenough farmers used paid labour during the growing season, compared to 24% and 48% of farmers in Ruware and Fuve respectively. While Birchenough average plot sizes are the smallest of the three communities at .167Ha, compared to .176Ha in Fuve and .178Ha in Ruware it continues to have the highest yields.</p>"
 												},
@@ -117,7 +117,7 @@
 												{
 													"title": "Farmer Feedback",
 													"type": "text",
-													"content": "<h4>Farmers Perception Of The Most Important Component Of The PERi-Farms Programme</h4><p>The value farmers perceive they receive from the fixed price stayed very similar to previous years but is on a consistently decreasing trend. The value perceived from technical support also decreased considerably from 49% last season to 41%. The value perceived from inputs on credit has increased significantly from 27% last season to 36%. These changes continue to be an important reflection of the macroeconomic conditions the farmers operate within, and how Kacholo can continue to support them.</p>"
+													"content": "<h4>Farmers' Perception Of The Most Important Component Of The PERi-Farms Programme</h4><p>The value farmers perceive they receive from the fixed price stayed very similar to previous years but is on a consistently decreasing trend. The value perceived from technical support also decreased considerably from 49% last season to 41%. The value perceived from inputs on credit has increased significantly from 27% last season to 36%. These changes continue to be an important reflection of the macroeconomic conditions the farmers operate within, and how Kacholo can continue to support them.</p>"
 												},
 												{
 													"title": "Which of the three core components of the ABE programme was the most important to you?",
@@ -734,7 +734,7 @@
 												{
 													"title": "Education",
 													"type": "text",
-													"content": "<h5>Percentage of age appropriate children in primary school</h5><p>The latest data available from 2020 on what percentage of age appropriate children are in primary school is 86.36% in Zimbabwe. Thus 13.64% of children are not in school, however this statistic only refers to those not enrolled not counting those enrolled but not attending regularly.</p><h5>Percentage of children that complete primary school</h5><p>In Zimbabwe, around 89% of children complete primary school according to UNICEF's data for 2021 (UNICEF Zimbabwe Education Fact Sheets, 2021). There are however disparities between genders, with girls having a slightly higher completion rate (around 92%) compared to boys (around 86%) [International Institute for Capacity Building in Africa].</p><h5>Percentage which go to and also complete secondary school in Zimbabwe</h5><p>Secondary school has two levels in Zimbabwe, lower which is grades 8-11 (O level) and upper which is grades 12-13 (A level). As of 2021, 71% of children who completed primary school enter lower secondary school, however of those who entered, the average completion rate is only 54% which drops to 40% for rural areas. In Zimbabwe there are a range of tertiary degrees that only require an O level like teaching, and most other technical degrees. To enter university however, an A level is required. Only 15%, which drops to 6% for rural areas, complete upper secondary school. (<a href='https://data.unicef.org/wp-content/uploads/2021/12/Zimbabwe-MICS-EAGLE-Education-fact-sheets-2021.pdf'>See here</a>).</p><h5>Percentage in university</h5><p>The latest available tertiary education enrollment rate, 2020, was 9.72% of both O and A level graduates. Roughly 7-8% of the Zimbabwe population have tertiary education, that rate drops to 3-4% in rural areas.</p><p>The vast majority of ABE Zimbabwean farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level a high 96% of Zimbabwean farmers children are attending, for secondary school a high 84% are attending, and for university 58% eligible for university are attending.</p><p>The ABE farmer children are attending secondary school and university at much higher rates than the country average and particularly high in comparison to rural areas.</p>"
+													"content": "<h5>Percentage of age appropriate children in primary school</h5><p>The latest data available from 2020 on what percentage of age appropriate children are in primary school is 86.36% in Zimbabwe. Thus 13.64% of children are not in school, however this statistic only refers to those not enrolled not counting those enrolled but not attending regularly.</p><h5>Percentage of children that complete primary school</h5><p>In Zimbabwe, around 89% of children complete primary school according to UNICEF's data for 2021 (UNICEF Zimbabwe Education Fact Sheets, 2021). There are however disparities between genders, with girls having a slightly higher completion rate (around 92%) compared to boys (around 86%) [International Institute for Capacity Building in Africa].</p><h5>Percentage which go to and also complete secondary school in Zimbabwe</h5><p>Secondary school has two levels in Zimbabwe, lower which is grades 8-11 (O level) and upper which is grades 12-13 (A level). As of 2021, 71% of children who completed primary school enter lower secondary school, however of those who entered, the average completion rate is only 54% which drops to 40% for rural areas. In Zimbabwe there are a range of tertiary degrees that only require an O level like teaching, and most other technical degrees. To enter university however, an A level is required. Only 15%, which drops to 6% for rural areas, complete upper secondary school. (<a href='https://data.unicef.org/wp-content/uploads/2021/12/Zimbabwe-MICS-EAGLE-Education-fact-sheets-2021.pdf'>See here</a>).</p><h5>Percentage in university</h5><p>The latest available tertiary education enrollment rate, 2020, was 9.72% of both O and A level graduates. Roughly 7-8% of the Zimbabwe population have tertiary education, that rate drops to 3-4% in rural areas.</p><p>The vast majority of ABE Zimbabwean farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level a high 96% of Zimbabwean farmers children are attending, for secondary school a high 84% are attending, and for university 58% eligible for university are attending.</p>"
 												},
 												{
 													"title": "Zimbabwe children's education",
@@ -760,31 +760,14 @@
 													]
 												},
 												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The ABE farmer children are attending secondary school and university at much higher rates than the country average and particularly high in comparison to rural areas.</p>"
+												},
+												{
 													"title": "Energy",
 													"type": "text",
 													"content": "<h5>Percentage of Zimbabwe electrified and has solar in rural areas</h5><p>While there's no single definitive figure, estimates suggest that between 40% and 53% of Zimbabwe's population has access to electricity. This access rate for Zimbabweans includes both rural and urban areas, with a significant disparity between urban (78 -86% access) and rural areas (14 -16% access). While these percentages are a range, so too is the daily availability of electricity for those who have it ranging between 4-12 hours per day.  Counted in the rural figures for having access to “electricity” includes those with a solar system which further confuses the facts. The estimations of how many people in rural communities have access to solar power ranges between 10-20%.</p><p>(<a href='https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW'>https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=ZW</a>).<br/>(<a href='https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/'>https://www.se4all-africa.org/seforall-in-africa/country-data/zimbabwe/</a>)<br/>(<a href='https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/'>https://www.techzim.co.zw/2021/09/46-zimbabwe-electricity-users-use-solar-as-main-source/</a>)</p><p>While the ABE farmers reflect close to the national average for electrical connections at 13%, the percentage which have solar energy is substantially above the rural average. 69% of ABE farmers have solar power for lighting and charging in their homes giving them a level of power access which is materially better than the rural and country norm.</p>"
-												},
-												{
-													"title": "Since last season, has growing ABE changed the energy used in your household to cook, light or power other devices?",
-													"subtitle": "2022/2023",
-													"caption": "",
-													"type": "MultiChart",
-													"data_source": "charts_data",
-													"crop": "ABE",
-													"country": "Zimbabwe",
-													"indicator": [
-														"ABE_affected_energy_used"
-													],
-													"year": "2022/23",
-													"group": "community",
-													"layout": "vertical",
-													"singular": true,
-													"value": "percentage",
-													"x_label": "",
-													"y_label": "Percentage of farmers",
-													"colors": [
-														"#9ac746", "#c13036"
-													]
 												},
 												{
 													"title": "Zimbabwe energy security",
@@ -810,9 +793,14 @@
 													]
 												},
 												{
+													"title": "Impact Scores - Narrative",
+													"type": "text",
+													"content": "<p>While the ABE farmers reflect close to the national average for electrical connections at 13%, the percentage which have solar energy is substantially above the rural average. 69% of ABE farmers have solar power for lighting and charging in their homes giving them a level of power access which is materially better than the rural and country norm.</p>"
+												},
+												{
 													"title": "Food Security",
 													"type": "text",
-													"content": "<p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Zimbabwe has been defined as being in a major food crisis considering that as of December 2022, annual food price inflation was estimated at 285% due to reliance on food imports as well as currency depreciations in the country. The extent of the crisis affects 3 - 3.5M people in Zimbabwe who were projected to be in IPC Phase 3 or above reflecting the persisting effects of economic and weather shocks on household food access and availability (FEWS NET, 2022)(FEWS NET, February 2023).</p><p>This crisis phase was consistent among the Birchenough, Ruware and Fuve, areas where ABE is grown. These areas have all been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report.</p><table class='food-security-table'><tbody><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></tbody></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in the farmers' diets, as well as the variety within food groups.</p><p>The chart below considers food regularly purchased and food grown for consumption by Zimbabwean farmers. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. The farmers have most of their variety concentrated in the various carbohydrates they consume at a 14.75% good variety rate, followed by proteins at 6,56% good variety rate. Therefore 21.31% of farmers consume 6 or more types of proteins and carbohydrates regularly. Almost half of the farmers (48%) have an inadequate variety of protein however, with the most consumed protein coming from beans and chicken. The most consumed carbohydrate is maize, in the form of porridge or sadza. When it comes to vitamins and minerals, the most consumed are from \"vegetables\" which refers to leafy greens such as kovo, rape or pumpkin leaves. Fats/oils have the least variety with farmers purchasing cooking oil and typically consuming ground nuts.</p>"
+													"content": "<p>ABE farmers continued to face food insecurity in the 2022-2023 season, as 49% of the farmers felt they did not have enough to eat, with most of these farmers being hungry once a week or more. The specific months during the year that farmers identified as experiencing the most hunger were between October and January as this is the period between planting their cash (ABE) and subsistence crops and earning/reaping from the harvest. It is also the longest time from when they last earned any money from crop sales from the previous season. This period generally is considered the “hunger season”. A slight increase in food security was observed in Birchenough where farmers are eating 2.6 meals per day on average, and 50% are eating a balanced diet. In this community 36% spent ABE money on food where many spent on more protein or larger portions. The farmers in Fuve and Ruware did not increase their food security, but maintained the levels created in previous seasons. Farmers across all communities were able to marginally increase the number of goats, sheep, chickens and cows owed from ABE earnings. These animal purchases contribute to their overall food security of farmers.</p>"
 												},
 												{
 													"title": "Zimbabwe Farmers Variety Consumed per Food Group",
@@ -1113,6 +1101,28 @@
 													"content": "<p>The primary sources of energy for Zimbabwean ABE farmers is wood (84%) for cooking and heating, solar (69%) for lighting and small device charging, as well as batteries (23%). The Birchenough community is the only community where farmers have access to the electrical grid, where 42% have electricity connected to their homes. Across Zimbabwe 29% of farmers said that growing chilli changed the energy used in their households to cook, light and power devices. An average of 26% of farmers spent ABE money on energy in the past season on wood, electricity bills, and solar system maintenance and upgrades. The wood used is collected or purchased by the farmers or family members, and often requires them to travel long distances. In the Fuve and Ruware community some farmers travel distances exceeding 1km. By contrast the Birchenough farmers generally don't collect, but buy wood. For all three communities the ABE money spent on energy and the access it enabled in the 2022/23 season principally maintained the impact already achieved from previous years.</p>"
 												},
 												{
+													"title": "Since last season, has growing ABE changed the energy used in your household to cook, light or power other devices?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "MultiChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"ABE_affected_energy_used"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "vertical",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "",
+													"y_label": "Percentage of farmers",
+													"colors": [
+														"#9ac746", "#c13036"
+													]
+												},
+												{
 													"title": "Which energy forms have you increased spending on after growing ABE chillies?",
 													"subtitle": "2022/2023",
 													"caption": "NOTE: Farmers could select more than one form of energy, and not all farmers provided an answer. As such, percentages do not add up to 100%.",
@@ -1133,6 +1143,29 @@
 													"legend_text": "Select a Region",
 													"colors": [
 														"#c13036"
+													]
+												},
+												{
+													"title": "How far in meters, do the collectors have to walk to collect the wood?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"meters_walked_for_wood_collection"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "percentage",
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#9ac746"
 													]
 												}
 											]
@@ -1262,8 +1295,8 @@
 													"name": "operational_model"
 												},
 												{
-													"title": "Assesment Anomalies",
-													"name": "assesment_anomalies"
+													"title": "Assessment Anomalies",
+													"name": "assessment_anomalies"
 												},
 												{
 													"title": "Successes, Challenges & Farmer Feedback",
@@ -1302,7 +1335,7 @@
 											"content": "<p>The PERi-Farm's programme operates on an in/out-grower scheme managed by Tropha. The programme is managed by Duncan McDavid who supervised all aspects of the programme including farm visits, programme coordination, technical skills training by the FEOs and farmers, and the drying process.</p><p> Tropha's small scale farmers are growing ABE in one region, across different irrigation blocks. The irrigation system has been successfully installed by Tropha at no cost to the farmers. There was been no charge to-date for water, however, in the future farmers will be required to pay for pumping water and general maintenance monthly. The land has been allocated to the farmers through negotiations by Tropha with the primary chiefs in the area. Of the 120Ha of land allocated to Tropha, 63Ha was allocated to produce Nando's ABE across. Generally each ABE farmer has 1Ha of irrigated land, with an average of .22Ha allocated to ABE. The Tropha Farmers will be able to increase their ABE production, based on success, up to .4Ha of land.</p><p>Farmers growing ABE were provided inputs on credit, technical skills training, and a guaranteed price per kg of dry ABE. Inputs were allocated based on an average of .22 Ha plot size and were provided at cost with no additional charge for transportation. All new farmers are supplied with chemical inputs with the Tropha team doing the spraying of crops in the first season, and farmers spraying themselves from their second season onwards. Sprayers are bought by individual farmers or at a community level. Protective PPE clothing is supplied on loan from Nando's for farmers who opt to do their own spraying in the second season.</p><p>During 2022/2023, farmers received quarterly group training sessions from FEOs, lasting roughly two hours each. According to the FEOs, group training and one-on-one coaching totalled sixteen hours over the season, however, according to farmer's perceptions, the total training time totalled eleven hours. The focus of the technical skills training included the fundamentals of farming in the classroom with practical in-field observations, covering topics such as seed beds, land preparation, transplanting, pests and disease management, harvesting and grading.</p>"
 										},
 										{
-											"name": "assesment_anomalies",
+											"name": "assessment_anomalies",
 											"title": "Assessment Anomalies",
 											"type": "mixed",
 											"sections": [
@@ -1964,9 +1997,32 @@
 													"content": "<h5>% of age appropriate children not in primary school in Malawi</h5><p>According to data from UNICEF, in Malawi over 10 percent of school-aged children do not attend primary school, this statistic does not however specify whether it applies specifically to rural populations.</p><h5>% of children that complete primary school</h5><p></p>The net enrolment rate in primary school is around 88% in Malawi, however only 27% of children complete primary education in rural areas <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>(Unicef, 2022; Ministry of Education Malawi Statistics, 2022)</a>.</p><p>The dropout rate from primary school is particularly high, with 74% of pupils not completing a full course of primary schooling in Malawi overall. This rate is even higher among girls due to factors like early marriages and pregnancies <a href='https://www.pedagogy4change.org/education-of-girls-in-malawi/'>(Pedagogy for change)</a>. <a href='https://education.gov.mw/index.php/edu-resources/2022-education-statistics'>According to the Ministry of Education 2022 Education Statistics Report</a> about 44 % dropped out of primary school because of poverty (unspecified).</p>"
 												},
 												{
+													"title": "Various Reasons For Learners Dropouts",
+													"subtitle": "2022/2023",
+													"caption": "Figure above shows various reasons for drop out at primary school level, page 16",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"Male","Female"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "",
+													"y_label": "Percentage of children",
+													"colors": [
+														"#ffad43"
+													]
+												},
+												{
 													"title": "",
 													"type": "text",
-													"content": "<h5>% which go to and also complete secondary school in Malawi</h5>*note the distinction between rural and urban are not available for Malawi<p>In Malawi, the transition rate from primary to secondary school is approximately 16%​ <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>​.This indicates that a relatively small fraction of children who complete primary education proceed to secondary education.</p><p>The dropout rate of girls in secondary education increased from 6.4% in 2020 to 9.5% in 2021. For many girls, dropping out is common due to child marriage and teen pregnancy, with a 50% child marriage rate, and 29% teenage pregnancy rate (Unicef, 2022).</p><h5>% in university</h5><p>Malawi has one of the lowest university enrolment rates in the world, with less than 1% of college-age individuals attending university. This is considerably lower than the African average of 12% and the global average of 33% <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>.</p><p>The vast majority of ABE Malawi farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level, a high 98% of Malawian farmers children are attending, for secondary school 78% are attending, and for university 87% eligible for university are attending.  The university attendance level is exceptionally high and is likely an aberration based on the sample of farmers interviewed.  This is likely to decrease as more data is gathered in subsequent years.</p><p>The levels of school participation for ABE farmers in Malawi far exceeds the country norms at the primary, secondary and university levels.</p>"
+													"content": "<h5>% which go to and also complete secondary school in Malawi</h5>*note the distinction between rural and urban are not available for Malawi<p>In Malawi, the transition rate from primary to secondary school is approximately 16%​ <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>​.This indicates that a relatively small fraction of children who complete primary education proceed to secondary education.</p><p>The dropout rate of girls in secondary education increased from 6.4% in 2020 to 9.5% in 2021. For many girls, dropping out is common due to child marriage and teen pregnancy, with a 50% child marriage rate, and 29% teenage pregnancy rate (Unicef, 2022).</p><h5>% in university</h5><p>Malawi has one of the lowest university enrolment rates in the world, with less than 1% of college-age individuals attending university. This is considerably lower than the African average of 12% and the global average of 33% <a href='https://www.nyasatimes.com/the-challenge-of-low-enrolments-in-malawis-higher-education-system/'>(Nyasa Times)</a>.</p><p>The vast majority of ABE Malawi farmers have children that attend an educational institution which fall into either the primary (5-13 years), secondary (14-18 years) or university educational phase (19-25 years). At the primary school level, a high 98% of Malawian farmers children are attending, for secondary school 78% are attending, and for university 87% eligible for university are attending.  The university attendance level is exceptionally high and is likely an aberration based on the sample of farmers interviewed.  This is likely to decrease as more data is gathered in subsequent years.</p>"
 												},
 												{
 													"title": "Malawian children's education",
@@ -1992,32 +2048,14 @@
 													]
 												},
 												{
-													"title": "Various reasons for learners dropout",
-													"subtitle": "2022/2023",
-													"caption": "",
-													"type": "BarChart",
-													"data_source": "extra_charts",
-													"crop": "ABE",
-													"country": "Malawi",
-													"indicator": [
-														"Male","Female"
-													],
-													"year": "2022/23",
-													"group": "community",
-													"layout": "horizontal",
-													"singular": true,
-													"value": "orig_value",
-													"is_percentage": true,
-													"x_label": "",
-													"y_label": "Percentage of children",
-													"colors": [
-														"#ffad43"
-													]
-												},
-												{
 													"title": "",
 													"type": "text",
-													"content": "<h4>Energy</h4><p>Per the World Bank in 2022, 14.2% of Malawi is electrified, while only 5.6% is electrified in rural areas. Per a University of Michigan, School for Environment and Sustainability study in 2023 roughly 7% of rural households are electrified and 20% of rural homes have solar power.</p><p>More than half of the ABE farmers (58%) have access to solar for lighting and charging in their households. This solar consists of solar powered torches and lamps. Additionally, 10% of households are connected to the electrical grid.</p><p>The combination of solar power and grid based connections demonstrates that ABE farmers in Malawi are meaningfullymore energy secure than the rural country norms.</p>"
+													"content": "<p>The levels of school participation for ABE farmers in Malawi far exceeds the country norms at the primary, secondary and university levels.</p>"
+												},
+												{
+													"title": "Energy",
+													"type": "text",
+													"content": "<p>Per the World Bank in 2022, 14.2% of Malawi is electrified, while only 5.6% is electrified in rural areas. Per a University of Michigan, School for Environment and Sustainability study in 2023 roughly 7% of rural households are electrified and 20% of rural homes have solar power.</p><p>More than half of the ABE farmers (58%) have access to solar for lighting and charging in their households. This solar consists of solar powered torches and lamps. Additionally, 10% of households are connected to the electrical grid.</p>"
 												},
 												{
 													"title": "Malawi energy security",
@@ -2045,12 +2083,17 @@
 												{
 													"title": "",
 													"type": "text",
-													"content": "<h4>Food security</h4><p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Malawi has been defined as being in a major food crisis in all editions of the Report since 2017, largely due to the impact of weather extremes on harvests, high food prices and low household purchasing power.</p><p>The Chikwawa and Katomo areas where ABE is grown have been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report. These two areas generally fall into the Phase 2 and 3 classifications which are:</p><table class='food-security-table'><tbody><tr><th class='stressed'>Phase 2<br/>Stressed</th><td>Households have minimally adequate food consumption but are unable to afford some essential non-food expenditures without engaging in stress-coping strategies.</td></tr><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></tbody></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in farmers' diets, as well as the variety within food groups.</p><p>The chart below shows that 43% of farmers in Malawi have good protein intake. Carbohydrate intake was considered moderate to good for 75% of farmers, and vitamin/mineral intake was considered good for only 23% of farmers.</p><p>This chart also factors in food regularly purchased and food grown for consumption. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. Farmers have more variety when it comes to proteins and carbohydrates consumed. 17,5% of farmers consume 6 or more types of proteins and carbohydrates. The most consumed protein comes from fish and beans, the most consumed carbohydrate is maize, consumed in the form of porridge or sima. When it comes to vitamins and minerals, the most consumed vitamins are from \"vegetables\" which refers to leafy greens such as pumpkin leaves. Fats/oils have the least variety with farmers acquiring fats and oils from cooking oil, and in some cases margarine and ground nuts.</p>"
+													"content": "<p>The combination of solar power and grid based connections demonstrates that ABE farmers in Malawi are meaningfullymore energy secure than the rural country norms.</p>"
 												},
 												{
-													"title": "Malawi Farmers Variety Consumed per Food Group",
+													"title": "Food security",
+													"type": "text",
+													"content": "<p>The Integrated Food Security Phase Classification (IPC) system provides a five-phase acute food insecurity scale. The IPC Acute Food Insecurity Scale allows for the classification of acute food insecurity at both the household and area level using a scale of 1- Minimal food insecurity to 5 - Famine. Per the Global Report on Food Crisis (GFRC), Malawi has been defined as being in a major food crisis in all editions of the Report since 2017, largely due to the impact of weather extremes on harvests, high food prices and low household purchasing power.</p><p>The Chikwawa and Katomo areas where ABE is grown have been classified as acutely food insecure and in what is defined as crisis mode for 2023 from the same report. These two areas generally fall into the Phase 2 and 3 classifications which are:</p><table class='food-security-table'><tbody><tr><th class='stressed'>Phase 2<br/>Stressed</th><td>Households have minimally adequate food consumption but are unable to afford some essential non-food expenditures without engaging in stress-coping strategies.</td></tr><tr><th class='crisis'>Phase 3<br/>Crisis</th><td>Households either:<br/>- Have food consumption gaps that are reflected by high or above-usual acute malnutrition; OR<br/>- Are marginally able to meet minimum food needs but only by depleting essential livelihood assets or through crisis-coping strategies. </td></tr></tbody></table><p>In the ABE impact assessment, food security considers animal ownership, the balance of protein, carbohydrates, and vitamins/minerals found in farmers' diets, as well as the variety within food groups.</p><p>The chart below shows that 43% of farmers in Malawi have good protein intake. Carbohydrate intake was considered moderate to good for 75% of farmers, and vitamin/mineral intake was considered good for only 23% of farmers.</p>"
+												},
+												{
+													"title": "Malawian Farmers Nutritional Intake Of Protein, Carbs, Fats/oils And Vitamins/minerals",
 													"subtitle": "2022/2023",
-													"caption": "",
+													"caption": "*There were no farmers interviewed that had a moderate protein intake",
 													"type": "BarChart",
 													"data_source": "extra_charts",
 													"crop": "ABE",
@@ -2074,7 +2117,12 @@
 													]
 												},
 												{
-													"title": "Malawi Farmers Nutritional Intake",
+													"title": "",
+													"type": "text",
+													"contet": "<p>This chart also factors in food regularly purchased and food grown for consumption. Good variety indicates 6 or more food types per food group, moderate indicates 3 to 5 food types and inadequate indicates 2 or less food types per food group. Farmers have more variety when it comes to proteins and carbohydrates consumed. 17,5% of farmers consume 6 or more types of proteins and carbohydrates. The most consumed protein comes from fish and beans, the most consumed carbohydrate is maize, consumed in the form of porridge or sima. When it comes to vitamins and minerals, the most consumed vitamins are from \"vegetables\" which refers to leafy greens such as pumpkin leaves. Fats/oils have the least variety with farmers acquiring fats and oils from cooking oil, and in some cases margarine and ground nuts.</p>"
+												},
+												{
+													"title": "Malawian Farmers Variety Consumed Per Food Group",
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "BarChart",
@@ -2101,7 +2149,7 @@
 												{
 													"title": "",
 													"type": "text",
-													"content": "<h5>Animal ownership</h5><p>Every farmer growing ABE owns at least one animal, however owning one animal does not provide any real food security. For animals to contribute toward food security farmers need to own multiple animals. The chart below shows that the most popular animals owned by ABE farmers in Malawi are birds such as chickens and pigeons, followed by larger animals such as pigs and goats.</p><p>The combination of food consumed and animal ownership demonstrates that ABE farmers in Malawi are meaningfully more food secure than the country and regional norms.</p><p>While a direct causal relationship cannot be made between the increased levels of food security, access to energy and education from growing ABE and its related income. However, there is a strong and distinct correlation between the introduction of ABE as a new cash crop and the improvement of each of these metrics.</p>"
+													"content": "<h5>Animal ownership</h5><p>Every farmer growing ABE owns at least one animal, however owning one animal does not provide any real food security. For animals to contribute toward food security farmers need to own multiple animals. The chart below shows that the most popular animals owned by ABE farmers in Malawi are birds such as chickens and pigeons, followed by larger animals such as pigs and goats.</p>"
 												},
 												{
 													"title": "Average number of Animals Owned by Farmers in Malawi",
@@ -2125,11 +2173,16 @@
 													"colors": [
 														"#f3b158"
 													]
+												},
+												{
+													"title": "",
+													"type": "text",
+													"content": "<p>The combination of food consumed and animal ownership demonstrates that ABE farmers in Malawi are meaningfully more food secure than the country and regional norms.</p><p>While a direct causal relationship cannot be made between the increased levels of food security, access to energy and education from growing ABE and its related income. However, there is a strong and distinct correlation between the introduction of ABE as a new cash crop and the improvement of each of these metrics.</p>"
 												}
 											]
 										},
 										{
-											"title": "",
+											"title": "Impact Scores - Narrative",
 											"type": "text",
 											"content": "<p>When considering the impact information below, keep in mind that this reflects the views for farmers who earned an income from ABE. It does not reflect the views of the 40% of farmers which lost money from ABE in 2022-23. It therefore, does not reflect the outcomes of the entire community of farmers growing ABE in Malawi.</p>"
 										},
@@ -2140,7 +2193,7 @@
 												{
 													"title": "",
 													"type": "text",
-													"content": "<p>In the 2022 -2023 season all farmers could afford to send their children to school. There were also cases where children who had not attended school before could now attend school. Farmers had at least two children in primary school for both communities, and at least one child in secondary school. In the Chikwawa community farmers had at least two children in secondary school. In Chikwawa, 52% of farmers indicated that ABE affected schooling choices made positively and a high 73% of farmers spent money earned from ABE on education for their children. The average cost of education was $17 per child in Chikwawa per month, and $134 for the year. All farmers who spent in this community used it for fees, transport, uniforms, books and other materials. In Katowo the average monthly cost of education was slightly lower at $6 per month and $110 for the year. In this community a high 63% of farmers indicated that ABE money positively affected decisions made for education, and 78% of farmers spend money earned from ABE on their children's education./p>"
+													"content": "<p>In the 2022 -2023 season all farmers could afford to send their children to school. There were also cases where children who had not attended school before could now attend school. Farmers had at least two children in primary school for both communities, and at least one child in secondary school. In the Chikwawa community farmers had at least two children in secondary school. In Chikwawa, 52% of farmers indicated that ABE affected schooling choices made positively and a high 73% of farmers spent money earned from ABE on education for their children. The average cost of education was $17 per child in Chikwawa per month, and $134 for the year. All farmers who spent in this community used it for fees, transport, uniforms, books and other materials. In Katowo the average monthly cost of education was slightly lower at $6 per month and $110 for the year. In this community a high 63% of farmers indicated that ABE money positively affected decisions made for education, and 78% of farmers spend money earned from ABE on their children's education.</p>"
 												},
 												{
 													"title": "Has the money earned from growing ABE affected the education choices made in your household?",
@@ -2175,7 +2228,7 @@
 												{
 													"title": "",
 													"type": "text",
-													"content": "<p>In the 2022 -2023 season all farmers could afford to send their children to school. There were also cases where children who had not attended school before could now attend school. Farmers had at least two children in primary school for both communities, and at least one child in secondary school. In the Chikwawa community farmers had at least two children in secondary school. In Chikwawa, 52% of farmers indicated that ABE affected schooling choices made positively and a high 73% of farmers spent money earned from ABE on education for their children. The average cost of education was $17 per child in Chikwawa per month, and $134 for the year. All farmers who spent in this community used it for fees, transport, uniforms, books and other materials. In Katowo the average monthly cost of education was slightly lower at $6 per month and $110 for the year. In this community a high 63% of farmers indicated that ABE money positively affected decisions made for education, and 78% of farmers spend money earned from ABE on their children's education.</p>"
+													"content": "<p>ABE farmers in Malawi generally access their healthcare at local hospitals (79% in Chikwawa and 75% in Katowo), as well as clinics where consultations and basic medicines are free. The most common reasons farmers visit medical facilities are for malaria treatment (40% in Chikwawa and 36% in Katowo), coughs, various pains, pregnancy, high blood pressure and colds and flu. 52% of farmers in Chikwawa indicated that ABE positively affected the healthcare they received during the 2022-2023 season because they could afford transport to the government hospital, which is material because the local clinic has limited medical services.  Farmers in Chikwawa spent their ABE money on medicines as well as doctors fees at the hospital. Farmers were spending on average a reported $15 in Chikwawa. In Kawoto farmers spent an average of $26 per annum on accessing medical services.</p>"
 												},
 												{
 													"title": "Has the money earned from growing ABE, in last season, affected the medical care your family gets?",
@@ -2419,6 +2472,30 @@
 													"colors": [
 														"#c13036"
 													]
+												},
+												{
+													"title": "How far in meters, do the collectors have to walk to collect the wood?",
+													"subtitle": "2022/2023",
+													"caption": "",
+													"type": "BarChart",
+													"data_source": "extra_charts",
+													"crop": "ABE",
+													"country": "Malawi",
+													"indicator": [
+														"meters_walked_for_wood_collection"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": true,
+													"value": "orig_value",
+													"is_percentage": true,
+													"x_label": "Response",
+													"y_label": "Percentage of farmers",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#ffad43"
+													]
 												}
 											]
 										},
@@ -2528,8 +2605,8 @@
 													"name": "operational_model"
 												},
 												{
-													"title": "Assesment Anomalies",
-													"name": "assesment_anomalies"
+													"title": "Assessment Anomalies",
+													"name": "assessment_anomalies"
 												},
 												{
 													"title": "Successes, Challenges & Farmer Feedback",
@@ -2557,8 +2634,8 @@
 											"content": "<p>James Dunkin manages the MaXamba farm, out-growers programme and general community engagements initiated by Nando’s. The operational model and programme implementation are more complex in Mozambique than in other countries due to the farming scheme structure involving out-growers, their labourers, and MaXamba. The Mozambique out-growers can be divided into three distinct categories: Small Scale Commercial Farmers - these are farmers who typically grow ABE (.5Ha+), and other crops on a larger scale than subsistence farmers, and employ full time and part time labour; Organisations – these vary in type, but generally operate as non-profit organisations and/or have a religious or social mission, employ multiple types of people, including those who manage the chilli production, and use ABE income to fund their mandates and/or cover operational costs. These organisations are also generally reliant on multiple funding sources to operate (public, private); and Small-Scale Subsistence/Community Associations - these are made up of subsistence farmers from a specific community, who share land in order to produce ABE.</p><p>Daniel Lucilio specifically manages the out-grower programme. The implementation of the programme includes the receipt of seedlings while other inputs are provided by MaXamba for some of the out-growers. MaXamba provides very limited technical support to the farmers regarding ABE production. All harvested fresh ABE is aggregated at the MaXamba Farm, dried, graded, bagged, and shipped to Nando’s processors in South Africa.</p>"
 										},
 										{
-											"name": "assesment_anomalies",
-											"title": "Assesment Anomalies",
+											"name": "assessment_anomalies",
+											"title": "Assessment Anomalies",
 											"type": "mixed",
 											"sections": [
 												{
@@ -2606,7 +2683,7 @@
 												{
 													"title": "Which of the three core components of the ABE programme was the most important to you?",
 													"subtitle": "2022/2023",
-													"caption": "For example, 25% of subsistence farmers in Mozambique perceive ‘Inputs on Credit’ as the most important core component of the ABE programme, whereas 50% perceive it of average importance.",
+													"caption": "For example, 25% of subsistence farmers in Mozambique perceive ‘Fixed Prices’ as the most important core component of the ABE programme, whereas 50% perceive it of average importance.",
 													"type": "BarChart",
 													"data_source": "charts_data",
 													"crop": "ABE",
@@ -2679,7 +2756,7 @@
 												{
 													"title": "Farmers according to their highest level of education",
 													"subtitle": "2022/2023",
-													"caption": "",
+													"caption": "For example, 17% of farmers in Mozambique have Grade 7 as their highest level of education",
 													"type": "BarChart",
 													"data_source": "charts_data",
 													"crop": "ABE",
@@ -2702,7 +2779,7 @@
 												{
 													"title": "Farmers according to the size of their households",
 													"subtitle": "2022/2023",
-													"caption": "or example, 50% of farmers in Mozambique live in a household with 7-9 people (including farmer).",
+													"caption": "For example, 50% of farmers in Mozambique live in a household with 7-9 people (including farmer).",
 													"type": "BarChart",
 													"data_source": "charts_data",
 													"crop": "ABE",
@@ -3120,6 +3197,7 @@
 													"layout": "horizontal",
 													"singular": true,
 													"value": "value",
+													"is_percentage": true,
 													"x_label": "",
 													"y_label": "Percentage of income",
 													"legend_text": "",
@@ -3201,7 +3279,7 @@
 													"content": "<p>58% of the farmers reported spending some ABE earnings on education costs, spending on building materials, labour and cooking utensils. Their houses are generally made from cement bricks, with a zinc roof and cement floor. The houses have 2 bedrooms for sleeping with an average household size of 5-6 people.</p>"
 												},
 												{
-													"title": "Did you spend any of your ABE earnings from last season on housing?",
+													"title": "Did You Spend Any Of Your ABE  Earnings From Last Season On Housing?",
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "MultiChart",
@@ -3236,7 +3314,7 @@
 													"content": "<p>67% of the farmers reported spending some ABE earnings on education costs, like school fees, uniforms, bags and stationery, and paying for boarding with family to attend school. Of the farmers interviewed, (61%) have children in secondary school with an average cost of $235 per annum and 33% have children attending primary school with an average cost of $196 per annum. </p>"
 												},
 												{
-													"title": "Has the money earned from growing ABE affected the education choices made in your household?",
+													"title": "Has the money earned from growing chilli, in last season, affected the education choices made in your household?",
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "MultiChart",
@@ -3271,7 +3349,7 @@
 													"content": "<p>58% of the farmers reported spending some of their ABE earning on health care related costs, spending money on medicine and paying for transport to the hospital. Subsistence farmers make use of the local government hospital for healthcare needs that is generally 10-20km away from their homes. 27% of farmers visited the hospital more than seven times in the past year. </p>"
 												},
 												{
-													"title": "Has the money earned from growing ABE, in last season, affected the medical care your family gets?",
+													"title": "Has the money earned from growing chilli, in last season, affected the medical care your family gets?",
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "MultiChart",
@@ -3446,7 +3524,7 @@
 													"content": "<p>33% of the farmers reported spending some ABE earning on water costs, spending money on paying for water from the well. None of these farmers have a water connection inside their house, they get water from a well where they pay for the water and travel on average 600 to more than 2000m metres to collect it. </p>"
 												},
 												{
-													"title": "Have any of your last years' ABE chilli earnings been spent on water for your household?",
+													"title": "Have any of your last years' chilli earnings been spent on water?",
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "MultiChart",
@@ -3470,7 +3548,7 @@
 													]
 												},
 												{
-													"title": "What distance is travelled to collect water?",
+													"title": "What Distance Is Traveled To Collect Water In Meters?",
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "BarChart",
@@ -3506,7 +3584,7 @@
 													"content": "<p>8% of the farmers spent ABE earning on effluent costs. The type of toilet generally used by subsistence farmers are pit latrines. </p>"
 												},
 												{
-													"title": "Have earnings from last year's chillies been spent on your family's effluent systems?",
+													"title": "Have earnings from last year's chillies been spent on your family's toilet systems?",
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "MultiChart",

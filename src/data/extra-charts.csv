@@ -1,102 +1,102 @@
 order,crop,country,community,year,indicator,bin,orig_value,tag,value
-001,ABE,Zimbabwe,Zimbabwe,2022/23,No. of growing communities,Zimbabwe,3,communities,3 communities
-002,ABE,Malawi,Malawi,2022/23,No. of growing communities,Malawi,2,communities,2 communities
-003,ABE,Mozambique,Mozambique,2022/23,No. of growing communities,Mozambique,7,communities,7 communities
-004,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Zimbabwe,0.0006,,0.0006 
-005,ABE,Malawi,Malawi,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Malawi,-0.6428,,-0.6428 
-006,ABE,Mozambique,Mozambique,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Mozambique,0.2382,,0.2382 
-007,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Zimbabwe,-0.4026,,-0.4026 
-008,ABE,Malawi,Malawi,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Malawi,-0.8078,,-0.8078 
-009,ABE,Zimbabwe,Zimbabwe,2022/23,Average Gross Income,Zimbabwe,830.35,,$830.35 
-010,ABE,Malawi,Malawi,2022/23,Average Gross Income,Malawi,363.76,,$363.76 
-011,ABE,Mozambique,Mozambique,2022/23,Average Gross Income,Mozambique,3788.53,,"$3,788.53 "
-012,ABE,Zimbabwe,Zimbabwe,2021/22,Average Gross Income,Zimbabwe,829.83,,$829.83 
-013,ABE,Malawi,Malawi,2021/22,Average Gross Income,Malawi,1018.31,,"$1,018.31 "
-014,ABE,Mozambique,Mozambique,2021/22,Average Gross Income,Mozambique,3059.69,,"$3,059.69 "
-015,ABE,Zimbabwe,Zimbabwe,2022/23,Average True Earnings,Zimbabwe,364.74,,$364.74 
-016,ABE,Malawi,Malawi,2022/23,Average True Earnings,Malawi,98.24,,$98.24 
-017,ABE,Zimbabwe,Zimbabwe,2021/22,Average True Earnings,Zimbabwe,610.57,,$610.57 
-018,ABE,Malawi,Malawi,2021/22,Average True Earnings,Malawi,510.99,,$510.99 
-019,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Above minimum wage,0.5000,,0.5000 
-020,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Below minimum wage,0.5000,,0.5000 
-021,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,Some leave,0.6100,,0.6100 
-022,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,No leave,0.3900,,0.3900 
-023,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,Contract in place,0.5600,,0.5600 
-024,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,No contract,0.4400,,0.4400 
-025,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,Prefer to hire men,0.5000,,0.5000 
-026,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,No preference,0.5000,,0.5000 
-027,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,No training received,0.5600,,0.5600 
-028,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,Training received,0.4400,,0.4400 
-029,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Not informed,0.4400,,0.4400 
-030,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Informed,0.5600,,0.5600 
-031,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,Yes,0.1700,,0.1700 
-032,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,No,0.8300,,0.8300 
-033,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending primary school,0.9600,,0.9600 
-034,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.8400,,0.8400 
-035,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending university,0.5800,,0.5800 
-036,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of farmers with children in school (overall),0.9500,,0.9500 
-037,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending primary school,0.7800,,0.7800 
-038,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.6000,,0.6000 
-039,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending university,0.1000,,0.1000 
-040,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with solar,0.6900,,0.6900 
-041,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with electricity,0.1300,,0.1300 
-042,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with solar,0.5800,,0.5800 
-043,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with electricity,0.1000,,0.1000 
-044,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Good,0.0656,,0.0656 
-045,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Moderate,0.4590,,0.4590 
-046,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Inadequate,0.4754,,0.4754 
-047,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Good,0.1475,,0.1475 
-048,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Moderate,0.7049,,0.7049 
-049,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Inadequate,0.1475,,0.1475 
-050,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Good,0.0000,,0.0000 
-051,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Moderate,0.0984,,0.0984 
-052,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Inadequate,0.9016,,0.9016 
-053,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Good,0.0000,,0.0000 
-054,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Moderate,0.4590,,0.4590 
-055,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Inadequate,0.5410,,0.5410 
-056,ABE,Malawi,Malawi,2022/23,Proteins,Good,0.1750,,0.1750 
-057,ABE,Malawi,Malawi,2022/23,Proteins,Moderate,0.5250,,0.5250 
-058,ABE,Malawi,Malawi,2022/23,Proteins,Inadequate,0.3000,,0.3000 
-059,ABE,Malawi,Malawi,2022/23,Carbohydrates,Good,0.1750,,0.1750 
-060,ABE,Malawi,Malawi,2022/23,Carbohydrates,Moderate,0.6000,,0.6000 
-061,ABE,Malawi,Malawi,2022/23,Carbohydrates,Inadequate,0.2250,,0.2250 
-062,ABE,Malawi,Malawi,2022/23,Fats/Oils,Good,0.0000,,0.0000 
-063,ABE,Malawi,Malawi,2022/23,Fats/Oils,Moderate,0.0750,,0.0750 
-064,ABE,Malawi,Malawi,2022/23,Fats/Oils,Inadequate,0.9250,,0.9250 
-065,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Good,0.0000,,0.0000 
-066,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Moderate,0.6000,,0.6000 
-067,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Inadequate,0.4000,,0.4000 
-068,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Good,0.4300,,0.4300 
-069,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Moderate,0.0000,,0.0000 
-070,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Inadequate,0.1300,,0.1300 
-071,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Good,0.3500,,0.3500 
-072,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Moderate,0.4000,,0.4000 
-073,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Inadequate,0.1800,,0.1800 
-074,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Good,0.2300,,0.2300 
-075,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Moderate,0.4500,,0.4500 
-076,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Inadequate,0.3000,,0.3000 
-077,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Chicken,25.00,,0.5952
-078,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Cow,7.00,,0.1667
-079,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Donkey,1.00,,0.0238
-080,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Duck,0.00,,0.0000
-081,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Goat,6.00,,0.1429
-082,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Sheep,1.00,,0.0238
-083,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Guinea Fowl/Turkey,2.00,,0.0476
-084,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Chicken,19.00,,0.3393
-085,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Cow,2.00,,0.0357
-087,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Duck,2.00,,0.0357
-088,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Goat,4.00,,0.0714
-089,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pig,9.00,,0.1607
-090,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pigeon,20.00,,0.3571
-091,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,0-100m,0.1100,,0.1100 
-092,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,101-300m,0.1100,,0.1100 
-093,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,301-600m,0.1100,,0.1100 
-094,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,601-1000m,0.3300,,0.3300 
-095,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,1001-2000m,0.1100,,0.1100 
-096,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,>2000m,0.2200,,0.2200 
-097,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,0-100m,0.2600,,0.2600 
-098,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,101-300m,0.3200,,0.3200 
-099,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,301-600m,0.0900,,0.0900 
+1,ABE,Zimbabwe,Zimbabwe,2022/23,No. of growing communities,Zimbabwe,3,communities,3 communities
+2,ABE,Malawi,Malawi,2022/23,No. of growing communities,Malawi,2,communities,2 communities
+3,ABE,Mozambique,Mozambique,2022/23,No. of growing communities,Mozambique,7,communities,7 communities
+4,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Zimbabwe,0.0006,,0.0006 
+5,ABE,Malawi,Malawi,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Malawi,-0.6428,,-0.6428 
+6,ABE,Mozambique,Mozambique,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Mozambique,0.2382,,0.2382 
+7,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Zimbabwe,-0.4026,,-0.4026 
+8,ABE,Malawi,Malawi,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Malawi,-0.8078,,-0.8078 
+9,ABE,Zimbabwe,Zimbabwe,2022/23,Average Gross Income,Zimbabwe,830.35,,$830.35 
+10,ABE,Malawi,Malawi,2022/23,Average Gross Income,Malawi,363.76,,$363.76 
+11,ABE,Mozambique,Mozambique,2022/23,Average Gross Income,Mozambique,3788.53,,"$3,788.53 "
+12,ABE,Zimbabwe,Zimbabwe,2021/22,Average Gross Income,Zimbabwe,829.83,,$829.83 
+13,ABE,Malawi,Malawi,2021/22,Average Gross Income,Malawi,1018.31,,"$1,018.31 "
+14,ABE,Mozambique,Mozambique,2021/22,Average Gross Income,Mozambique,3059.69,,"$3,059.69 "
+15,ABE,Zimbabwe,Zimbabwe,2022/23,Average True Earnings,Zimbabwe,364.74,,$364.74 
+16,ABE,Malawi,Malawi,2022/23,Average True Earnings,Malawi,98.24,,$98.24 
+17,ABE,Zimbabwe,Zimbabwe,2021/22,Average True Earnings,Zimbabwe,610.57,,$610.57 
+18,ABE,Malawi,Malawi,2021/22,Average True Earnings,Malawi,510.99,,$510.99 
+19,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Above minimum wage,0.5000,,0.5000 
+20,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Below minimum wage,0.5000,,0.5000 
+21,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,Some leave,0.6100,,0.6100 
+22,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,No leave,0.3900,,0.3900 
+23,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,Contract in place,0.5600,,0.5600 
+24,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,No contract,0.4400,,0.4400 
+25,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,Prefer to hire men,0.5000,,0.5000 
+26,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,No preference,0.5000,,0.5000 
+27,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,No training received,0.5600,,0.5600 
+28,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,Training received,0.4400,,0.4400 
+29,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Not informed,0.4400,,0.4400 
+30,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Informed,0.5600,,0.5600 
+31,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,Yes,0.1700,,0.1700 
+32,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,No,0.8300,,0.8300 
+33,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending primary school,0.9600,,0.9600 
+34,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.8400,,0.8400 
+35,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending university,0.5800,,0.5800 
+36,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of farmers with children in school (overall),0.9500,,0.9500 
+37,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending primary school,0.7800,,0.7800 
+38,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.6000,,0.6000 
+39,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending university,0.1000,,0.1000 
+40,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with solar,0.6900,,0.6900 
+41,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with electricity,0.1300,,0.1300 
+42,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with solar,0.5800,,0.5800 
+43,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with electricity,0.1000,,0.1000 
+44,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Good,0.0656,,0.0656 
+45,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Moderate,0.4590,,0.4590 
+46,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Inadequate,0.4754,,0.4754 
+47,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Good,0.1475,,0.1475 
+48,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Moderate,0.7049,,0.7049 
+49,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Inadequate,0.1475,,0.1475 
+50,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Good,0.0000,,0.0000 
+51,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Moderate,0.0984,,0.0984 
+52,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Inadequate,0.9016,,0.9016 
+53,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Good,0.0000,,0.0000 
+54,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Moderate,0.4590,,0.4590 
+55,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Inadequate,0.5410,,0.5410 
+56,ABE,Malawi,Malawi,2022/23,Proteins,Good,0.1750,,0.1750 
+57,ABE,Malawi,Malawi,2022/23,Proteins,Moderate,0.5250,,0.5250 
+58,ABE,Malawi,Malawi,2022/23,Proteins,Inadequate,0.3000,,0.3000 
+59,ABE,Malawi,Malawi,2022/23,Carbohydrates,Good,0.1750,,0.1750 
+60,ABE,Malawi,Malawi,2022/23,Carbohydrates,Moderate,0.6000,,0.6000 
+61,ABE,Malawi,Malawi,2022/23,Carbohydrates,Inadequate,0.2250,,0.2250 
+62,ABE,Malawi,Malawi,2022/23,Fats/Oils,Good,0.0000,,0.0000 
+63,ABE,Malawi,Malawi,2022/23,Fats/Oils,Moderate,0.0750,,0.0750 
+64,ABE,Malawi,Malawi,2022/23,Fats/Oils,Inadequate,0.9250,,0.9250 
+65,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Good,0.0000,,0.0000 
+66,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Moderate,0.6000,,0.6000 
+67,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Inadequate,0.4000,,0.4000 
+68,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Good,0.4300,,0.4300 
+69,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Moderate,0.0000,,0.0000 
+70,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Inadequate,0.1300,,0.1300 
+71,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Good,0.3500,,0.3500 
+72,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Moderate,0.4000,,0.4000 
+73,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Inadequate,0.1800,,0.1800 
+74,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Good,0.2300,,0.2300 
+75,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Moderate,0.4500,,0.4500 
+76,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Inadequate,0.3000,,0.3000 
+77,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Chicken,25.00,,0.5952
+78,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Cow,7.00,,0.1667
+79,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Donkey,1.00,,0.0238
+80,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Duck,0.00,,0.0000
+81,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Goat,6.00,,0.1429
+82,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Sheep,1.00,,0.0238
+83,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Guinea Fowl/Turkey,2.00,,0.0476
+84,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Chicken,19.00,,0.3393
+85,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Cow,2.00,,0.0357
+87,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Duck,2.00,,0.0357
+88,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Goat,4.00,,0.0714
+89,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pig,9.00,,0.1607
+90,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pigeon,20.00,,0.3571
+91,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,0-100m,0.1100,,0.1100 
+92,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,101-300m,0.1100,,0.1100 
+93,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,301-600m,0.1100,,0.1100 
+94,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,601-1000m,0.3300,,0.3300 
+95,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,1001-2000m,0.1100,,0.1100 
+96,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,>2000m,0.2200,,0.2200 
+97,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,0-100m,0.2600,,0.2600 
+98,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,101-300m,0.3200,,0.3200 
+99,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,301-600m,0.0900,,0.0900 
 100,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,601-1000m,0.1200,,0.1200 
 101,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,1001-2000m,0.1500,,0.1500 
 102,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,>2000m,0.0600,,0.0600 
