@@ -246,7 +246,32 @@
 													"title": "Farmers according to their age group",
 													"subtitle": "2022/2023",
 													"caption": "For example, 30% of farmers in Fuve-Zaka belong to the age group 40-49 y/o.",
-													"type": "BarChart",
+													"type": "Chart",
+													"variant": "Line",
+													"data_source": "charts_data",
+													"crop": "ABE",
+													"country": "Zimbabwe",
+													"indicator": [
+														"farmer_age_groups"
+													],
+													"year": "2022/23",
+													"group": "community",
+													"layout": "horizontal",
+													"singular": false,
+													"value": "percentage",
+													"x_label": "",
+													"y_label": "",
+													"legend_text": "Select a Region",
+													"colors": [
+														"#c13036", "#9ac746", "#f3b158", "#377eb8"
+													]
+												},
+												{
+													"title": "Farmers according to their age group",
+													"subtitle": "2022/2023",
+													"caption": "For example, 30% of farmers in Fuve-Zaka belong to the age group 40-49 y/o.",
+													"type": "Chart",
+													"variant": "Bar",
 													"data_source": "charts_data",
 													"crop": "ABE",
 													"country": "Zimbabwe",
