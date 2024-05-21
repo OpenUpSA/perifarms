@@ -1050,8 +1050,9 @@ figcaption {
   background-color: #e5e5e5;
 }
 
-.button.is-page-nav.w--current:hover {
-  color: #fff;
+.button.is-page-nav:hover {
+  background-color: rgba(50, 49, 51, .25);
+  color: #000;
 }
 
 .button.is-page-nav {

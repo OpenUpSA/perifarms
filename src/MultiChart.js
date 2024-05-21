@@ -182,7 +182,7 @@ const MultiChart = (props) => {
                                     }
 
 
-                                    <Tooltip />
+                                    <Tooltip cursor={{fill: 'rgba(0, 0, 0, 0.05)'}}/>
 
                                     
                                     
