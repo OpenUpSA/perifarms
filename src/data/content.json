@@ -3304,13 +3304,13 @@
 														"#ed732e",
 														"#c13036"
 													]
-												},
-												{
-													"title": "",
-													"type": "text",
-													"content": "<p>Farmers reported the following impact from growing ABE:</p>"
 												}
 											]
+										},
+										{
+											"title": "Farmers reported the following impact from growing ABE:",
+											"type": "text",
+											"content":""
 										},
 										{
 											"title": "Housing",
