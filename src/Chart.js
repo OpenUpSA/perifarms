@@ -131,16 +131,13 @@ const Chart = (props) => {
     const getColors = (group) => {
 
         let colors = styles.default_colors;
-
-       
-
            
 
         if (props.props.colors) {
             colors = props.props.colors.concat(Array.from({ length: groups.length - props.props.colors.length }, (_, index) => props.props.colors[index % props.props.colors.length]));
         }
 
-        index = groups.indexOf(group);
+        let index = groups.indexOf(group);
 
        
         
