@@ -14,8 +14,9 @@ const Chart = (props) => {
     const [groups, setGroups] = useState([]);
     const [selectedGroups, setSelectedGroups] = useState([]);
     const [selectedIndicator, setSelectedIndicator] = useState(props.props.indicator[0]);
+    let indi;
     
-    
+
     const deepMerge = (target, source) => {
         const output = { ...target };
         if (typeof target === 'object' && typeof source === 'object') {
@@ -40,7 +41,8 @@ const Chart = (props) => {
         x_label_tick: { angle: 0, fontSize: 11, fontWeight: 'bold', x: 0, y: 0 },
         y_label_tick: { angle: 0, fontSize: 11, fontWeight: 'bold', x: 0, y: 0 },
         tooltip: { fill: 'rgba(0, 0, 0, 0.05)' },
-        default_colors: ['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00', '#ffff33']
+        default_colors: ['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00', '#ffff33'],
+        line: { strokeWidth: 2 }
     };
     
     const styles = deepMerge(defaultStyles, props.props.styles || {});
@@ -59,11 +61,14 @@ const Chart = (props) => {
 
         filteredData = filteredData.filter(item => item.crop === props.props.crop);
         filteredData = filteredData.filter(item => props.props.indicator.includes(item.indicator));
-        if (props.props.year != '') {
+        if (props.props.year && props.props.year != '') {
             filteredData = filteredData.filter(item => item.year === props.props.year);
         }
 
         let transformedDataArray = [];
+
+        
+
 
         props.props.indicator.forEach(indicator => {
             let transformedData = [];
@@ -72,6 +77,8 @@ const Chart = (props) => {
             bins.forEach(bin => {
                 transformedData.push({ bin: bin });
             });
+
+            
 
             filteredData.filter(item => item.indicator === indicator).forEach(item => {
                 transformedData.forEach(bin => {
@@ -85,8 +92,12 @@ const Chart = (props) => {
                         if (props.props.value != 'percentage' && props.props.is_percentage) {
                             value = value * 100;
                         }
-
-                        bin[item[props.props.group]] = parseFloat(value);
+                        if(props.props.group == undefined) {
+                            bin[item.indicator] = parseFloat(value);
+                            indi = item.indicator;
+                        } else {
+                            bin[item[props.props.group]] = parseFloat(value);
+                        }
                     }
                 });
             });
@@ -94,13 +105,20 @@ const Chart = (props) => {
             transformedDataArray.push({ indicator, transformedData });
         });
 
-        let groups = Array.from(new Set(filteredData.map(d => d[props.props.group])));
-        setGroups(groups);
-
-        if (props.props.singular) {
-            setSelectedGroups([groups[0]]);
+        if(props.props.group == undefined) {
+            // exception for ungrouped data like the ones used in country comaprisons
+            setSelectedGroups([indi]);
+            setGroups([indi]);
         } else {
-            setSelectedGroups(groups);
+
+            let groups = Array.from(new Set(filteredData.map(d => d[props.props.group])));
+            setGroups(groups);
+
+            if (props.props.singular) {
+                setSelectedGroups([groups[0]]);
+            } else {
+                setSelectedGroups(groups);
+            }
         }
 
         setAllData(transformedDataArray);
@@ -111,13 +129,21 @@ const Chart = (props) => {
     
 
     const getColors = (group) => {
+
         let colors = styles.default_colors;
+
+       
+
+           
 
         if (props.props.colors) {
             colors = props.props.colors.concat(Array.from({ length: groups.length - props.props.colors.length }, (_, index) => props.props.colors[index % props.props.colors.length]));
         }
 
-        let index = groups.indexOf(group);
+        index = groups.indexOf(group);
+
+       
+        
 
         return colors[index];
     }
@@ -139,21 +165,38 @@ const Chart = (props) => {
     const CustomizedLabel = (props) => {
         const { x, y, width, height, value, chartProps } = props;
 
-        if (chartProps.props.layout === 'horizontal') {
-            // For vertical bars, position the label above the bar
-            return (
-                <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
-                    {(chartProps.props.value === 'percentage' || chartProps.props.is_percentage) ? `${value?.toFixed(0)}%` : value?.toFixed(2)}
-                </text>
-            );
-        } else {
-            // For horizontal bars, position the label to the right of the bar
-            return (
-                <text x={x + width + 10} y={y + height / 2} fill="#000" fontSize={10} fontWeight='bold' textAnchor="start" dy={0.35}>
-                    {(chartProps.props.value === 'percentage' || chartProps.props.is_percentage) ? `${value.toFixed(0)}%` : value.toFixed(2)}
-                </text>
-            );
+        if(chartProps.props?.styles?.hide_label != true) {
+
+            if(chartProps.props.variant == 'Line') {
+
+                return (
+                    <text x={x} y={y} dy={-10} fontSize={10} textAnchor="middle">
+                    {value}
+                    </text>
+                )
+
+            } else {
+                if (chartProps.props.layout === 'horizontal') {
+                    // For vertical bars, position the label above the bar
+                    return (
+                        <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
+                            {(chartProps.props.value === 'percentage' || chartProps.props.is_percentage) ? `${value?.toFixed(0)}%` : value?.toFixed(2)}
+                        </text>
+                    );
+                } else {
+                    // For horizontal bars, position the label to the right of the bar
+                    return (
+                        <text x={x + width + 10} y={y + height / 2} fill="#000" fontSize={10} fontWeight='bold' textAnchor="start" dy={0.35}>
+                            {(chartProps.props.value === 'percentage' || chartProps.props.is_percentage) ? `${value.toFixed(0)}%` : value.toFixed(2)}
+                        </text>
+                    );
+                }
+            }
+
         }
+
+
+       
     };
 
     const CustomTooltip = ({ active, payload, label, chartProps }) => {
@@ -256,7 +299,7 @@ const Chart = (props) => {
                             {
                                 selectedGroups.map((group, index) => {
                                     return (
-                                        <Line type="monotone" dataKey={group} key={index} stroke={getColors(group)} activeDot={{ r: 8 }} />
+                                        <Line style={styles.line} type="monotone" dataKey={group} key={index} stroke={getColors(group)} activeDot={{ r: 8 }} label={<CustomizedLabel chartProps={props} />}/>
                                     );
                                 })
                             }

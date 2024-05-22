@@ -4,10 +4,8 @@ import { useLocation } from 'react-router-dom';
 import ReactHtmlParser, { processNodes, convertNodeToElement, htmlparser2 } from 'react-html-parser';
 
 import Table from './Table';
-import ChartBar from './ChartBar';
 import MultiChart from './MultiChart';
 import Swarmchart from './Swarmchart';
-import ChartLine from './ChartLine';
 import Chart from './Chart';
 
 const CountryComparison = () => {
@@ -97,13 +95,7 @@ const CountryComparison = () => {
                                                         section.type == 'Table' && <Table props={section} />
                                                     }
                                                     {
-                                                        section.type == 'BarChart' && <ChartBar props={section} />
-                                                    }
-                                                    {
                                                         section.type == 'Chart' && <Chart props={section} />
-                                                    }
-                                                    {
-                                                        section.type == 'LineChart' && <ChartLine props={section} />
                                                     }
                                                     {
                                                         section.type == 'Beeswarm' && <Swarmchart props={section} />
@@ -135,13 +127,7 @@ const CountryComparison = () => {
                                                                                 subsection.type == 'Table' && <Table props={subsection} />
                                                                             }
                                                                             {
-                                                                                subsection.type == 'BarChart' && <ChartBar props={subsection} />
-                                                                            }
-                                                                            {
                                                                                 subsection.type == 'Chart' && <Chart props={subsection} />
-                                                                            }
-                                                                            {
-                                                                                subsection.type == 'LineChart' && <ChartLine props={subsection} />
                                                                             }
                                                                             {
                                                                                 subsection.type == 'Beeswarm' && <Swarmchart props={subsection} />
