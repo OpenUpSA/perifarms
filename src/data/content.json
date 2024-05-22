@@ -473,7 +473,30 @@
 													"legend_text": "Select a Region",
 													"colors": [
 														"#f3b158"
-													]
+													],
+													"styles": {
+														"height": 400,
+														"margin": {
+															"bottom": 100,
+															"top": 40,
+															"left": 20,
+															"right": 20
+														},
+														"x_label": {
+															"offset": -40
+														},
+														"x_label_tick": {
+															"angle": -45,
+															"style": {
+																"whiteSpace": "normal",
+																"overflow": "hidden",
+																"textOverflow": "ellipsis",
+																"width": "20px",
+																"fontSize": "10px",
+																"textAnchor": "end"
+															}
+														}
+													}
 												},
 												{
 													"title": "Farmers according to the yield of fresh ABE chillis",
@@ -869,7 +892,6 @@
 													"layout": "horizontal",
 													"singular": true,
 													"value": "orig_value",
-													"is_percentage": true,
 													"x_label": "",
 													"y_label": "Number of animals",
 													"colors": [
@@ -2213,7 +2235,6 @@
 													"layout": "horizontal",
 													"singular": true,
 													"value": "orig_value",
-													"is_percentage": true,
 													"x_label": "",
 													"y_label": "Number of animals",
 													"colors": [
@@ -2692,7 +2713,7 @@
 												{
 													"title": "Subsistence Farmers",
 													"type": "text",
-													"content": "<p>12 subsistence farmers from three Community Associations/Cooperatives were interviewed. Each cooperative interviewed consists of between 3-5 farmers. There is little understanding of how the farmers in each cooperative work together and if they share land allocated to them equally or share some farming costs. There are also inconsistencies with the size of land allocated to each cooperative versus the land farmers within that cooperative are growing ABE on. Calculating net income begins with accurate figures for gross income which is provided by Nando’s country partners for this analysis. In this instance, MaXamba has accurate gross income data for the association but not for individual farmers within the association.  There was therefore no verifiable information regarding gross income for each farmer.  Accurately calculating net incomes was also possible for this group of farmers because only 40% indicated that they kept track of all their farming costs. Where costs were provided there were too many inconsistencies indicating a low reliability of accurate information. Costs associated with the hiring of seasonal labour appeared to be the highest costs incurred by farmers, however.  Without reliable yield data per farmer there is no alternative means to calculate labour costs as it is done in Zimbabwe and Malawi. In summary, accurately understanding individual farmer income was not possible for all the subsistence farmers in the programme.</p><p>Defining what impact occurred from growing ABE was more complex and described in detail in the impact section of this site.</p>"
+													"content": "<p>12 subsistence farmers from three Community Associations/Cooperatives were interviewed. Each cooperative interviewed consists of between 3-5 farmers. There is little understanding of how the farmers in each cooperative work together and if they share land allocated to them equally or share some farming costs. There are also inconsistencies with the size of land allocated to each cooperative versus the land farmers within that cooperative are growing ABE on. Calculating net income begins with accurate figures for gross income which is provided by Nando’s country partners for this analysis. In this instance, MaXamba has accurate gross income data for the association but not for individual farmers within the association.  There was therefore no verifiable information regarding gross income for each farmer.  Accurately calculating net incomes was also possible for this group of farmers because only 40% indicated that they kept track of all their farming costs. Where costs were provided there were too many inconsistencies indicating a low reliability of accurate information. Costs associated with the hiring of seasonal labour appeared to be the highest costs incurred by farmers, however.  Without reliable yield data per farmer there is no alternative means to calculate labour costs as it is done in Zimbabwe and Malawi. In summary, accurately understanding individual farmer income was not possible for all the subsistence farmers in the programme.</p><p>Defining what impact occurred from growing ABE was more complex and described in detail in the <a class=\"switch-to-tab\" data-tab=\"impact\">impact section</a> of this site.</p>"
 												},
 												{
 													"title": "Small-scale Commercial Growers",
@@ -2702,7 +2723,7 @@
 												{
 													"title": "Labour Risks",
 													"type": "text",
-													"content": "<p>The small-scale commercial farmers and organisations that are part of the out-grower network typically have permanent and seasonal labour. As they are functioning within one of the poorest countries on the planet and operating at a small scale in comparison to other Agri-producers it is to be expected that they will not always adhere to Mozambique labour law nor international labour standards. As such, the Labour Risks (hyperlink here) section documents some of the risks to Nando’s of this network based on the interviews conducted with labourers</p>"
+													"content": "<p>The small-scale commercial farmers and organisations that are part of the out-grower network typically have permanent and seasonal labour. As they are functioning within one of the poorest countries on the planet and operating at a small scale in comparison to other Agri-producers it is to be expected that they will not always adhere to Mozambique labour law nor international labour standards. As such, the <a class=\"switch-to-tab\" data-tab=\"labour\">Labour Risks</a> section documents some of the risks to Nando’s of this network based on the interviews conducted with labourers</p>"
 												}
 											]
 										},

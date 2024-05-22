@@ -16,9 +16,22 @@ const Chart = (props) => {
     const [selectedIndicator, setSelectedIndicator] = useState(props.props.indicator[0]);
     
     
-    const mergeStyles = (defaultStyles, customStyles) => {
-        return { ...defaultStyles, ...customStyles };
+    const deepMerge = (target, source) => {
+        const output = { ...target };
+        if (typeof target === 'object' && typeof source === 'object') {
+            for (const key in source) {
+                if (source.hasOwnProperty(key)) {
+                    if (typeof source[key] === 'object' && !Array.isArray(source[key])) {
+                        output[key] = deepMerge(target[key] || {}, source[key]);
+                    } else {
+                        output[key] = source[key];
+                    }
+                }
+            }
+        }
+        return output;
     };
+    
     
     const defaultStyles = {
         margin: { top: 40, right: 50, left: 20, bottom: 40 },
@@ -30,7 +43,7 @@ const Chart = (props) => {
         default_colors: ['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00', '#ffff33']
     };
     
-    const styles = mergeStyles(defaultStyles, props.props.styles || {});
+    const styles = deepMerge(defaultStyles, props.props.styles || {});
     
 
 
@@ -130,17 +143,40 @@ const Chart = (props) => {
             // For vertical bars, position the label above the bar
             return (
                 <text x={x + width / 2} y={y} fill="#000" fontSize={10} fontWeight='bold' textAnchor="middle" dy={-6}>
-                    {chartProps.props.value === 'percentage' ? `${value?.toFixed(0)}%` : value?.toFixed(2)}
+                    {(chartProps.props.value === 'percentage' || chartProps.props.is_percentage) ? `${value?.toFixed(0)}%` : value?.toFixed(2)}
                 </text>
             );
         } else {
             // For horizontal bars, position the label to the right of the bar
             return (
                 <text x={x + width + 10} y={y + height / 2} fill="#000" fontSize={10} fontWeight='bold' textAnchor="start" dy={0.35}>
-                    {chartProps.props.value === 'percentage' ? `${value.toFixed(0)}%` : value.toFixed(2)}
+                    {(chartProps.props.value === 'percentage' || chartProps.props.is_percentage) ? `${value.toFixed(0)}%` : value.toFixed(2)}
                 </text>
             );
         }
+    };
+
+    const CustomTooltip = ({ active, payload, label, chartProps }) => {
+        if (active && payload && payload.length) {
+            return (
+                <div className="custom-tooltip" style={{ backgroundColor: '#fff', border: '1px solid #ccc', padding: '10px', borderRadius: '5px', boxShadow: '0 0 5px rgba(0,0,0,0.05)' }}>
+                    <p className="label"><strong>{`${label}`}</strong></p>
+                    {payload.map((entry, index) => {
+                        const value = entry.value;
+                        const formattedValue = (chartProps.props.value === 'percentage' || chartProps.props.is_percentage)
+                            ? `${value.toFixed(0)}%`
+                            : value.toFixed(2);
+                        return (
+                            <p key={`item-${index}`} className="value" style={{ color: entry.color }}>
+                                <strong>{entry.name}</strong>: {formattedValue}
+                            </p>
+                        );
+                    })}
+                </div>
+            );
+        }
+    
+        return null;
     };
 
     const handleIndicatorChange = (item) => {
@@ -216,7 +252,7 @@ const Chart = (props) => {
                                 type="number"
                                 tick={styles.y_label_tick}
                                 label={styles.y_label} />
-                            <Tooltip cursor={styles.tooltip} />
+                            <Tooltip cursor={styles.tooltip} content={<CustomTooltip chartProps={props} />} />
                             {
                                 selectedGroups.map((group, index) => {
                                     return (
@@ -246,9 +282,7 @@ const Chart = (props) => {
                                     type="number"
                                     tick={styles.y_label_tick}
                                     label={styles.y_label} />
-                                <Tooltip
-                                    cursor={styles.tooltip}
-                                />
+                                <Tooltip cursor={styles.tooltip} content={<CustomTooltip chartProps={props} />} />
                                 {
                                     selectedGroups.map((group, index) => {
                                         return (
@@ -289,7 +323,7 @@ const Chart = (props) => {
                                             label={styles.y_label} />
                                     </>
                                 }
-                                <Tooltip cursor={styles.tooltip} />
+                                <Tooltip cursor={styles.tooltip} content={<CustomTooltip chartProps={props} />} />
                                 {
                                     selectedGroups.map((group, index) => {
                                         return (

@@ -52,6 +52,16 @@ const CountryPage = () => {
 
     useEffect(() => {
         getContent();
+
+        document.addEventListener('click', function (event) {
+            if (event.target.matches('.switch-to-tab')) {
+                event.preventDefault();
+                setTab(event.target.dataset.tab);
+                window.scrollTo(0, 0);
+            }
+        }, false);
+
+
     }, []);
    
     useEffect(() => {
