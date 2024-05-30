@@ -1,400 +1,400 @@
 order,crop,country,community,indicator,bin,value
-1,ABE,Zimbabwe,Zimbabwe,Education,Baseline,3.5
-2,ABE,Zimbabwe,Zimbabwe,Education,2015/16,5.0
-3,ABE,Zimbabwe,Zimbabwe,Education,2016/17,3.6
-4,ABE,Zimbabwe,Zimbabwe,Education,2017/18,5.4
-5,ABE,Zimbabwe,Zimbabwe,Education,2018/19,7.2
-6,ABE,Zimbabwe,Zimbabwe,Education,2019/20,5.6
-7,ABE,Zimbabwe,Zimbabwe,Education,2020/21,7.2
-8,ABE,Zimbabwe,Zimbabwe,Education,2021/22,5.6
-9,ABE,Zimbabwe,Zimbabwe,Education,2022/23,5.8
-10,ABE,Zimbabwe,Birchenough,Education,Baseline,4.0
-11,ABE,Zimbabwe,Birchenough,Education,2015/16,6.0
-12,ABE,Zimbabwe,Birchenough,Education,2016/17,7.0
-13,ABE,Zimbabwe,Birchenough,Education,2017/18,7.0
-14,ABE,Zimbabwe,Birchenough,Education,2018/19,7.5
-15,ABE,Zimbabwe,Birchenough,Education,2019/20,7.5
-16,ABE,Zimbabwe,Birchenough,Education,2020/21,7.5
-17,ABE,Zimbabwe,Birchenough,Education,2021/22,7.7
-18,ABE,Zimbabwe,Birchenough,Education,2022/23,8.0
-19,ABE,Zimbabwe,Zaka,Education,Baseline,5.0
-20,ABE,Zimbabwe,Zaka,Education,2015/16,7.0
-21,ABE,Zimbabwe,Zaka,Education,2016/17,0.0
-22,ABE,Zimbabwe,Zaka,Education,2017/18,7.0
-23,ABE,Zimbabwe,Zaka,Education,2018/19,7.0
-24,ABE,Zimbabwe,Zaka,Education,2019/20,7.5
-25,ABE,Zimbabwe,Zaka,Education,2020/21,7.0
-26,ABE,Zimbabwe,Zaka,Education,2021/22,7.0
-27,ABE,Zimbabwe,Zaka,Education,2022/23,7.3
-28,ABE,Zimbabwe,Ruware,Education,Baseline,5.0
-29,ABE,Zimbabwe,Ruware,Education,2015/16,7.0
-30,ABE,Zimbabwe,Ruware,Education,2016/17,7.5
-31,ABE,Zimbabwe,Ruware,Education,2017/18,7.5
-32,ABE,Zimbabwe,Ruware,Education,2018/19,7.5
-33,ABE,Zimbabwe,Ruware,Education,2019/20,7.5
-34,ABE,Zimbabwe,Ruware,Education,2020/21,7.5
-35,ABE,Zimbabwe,Ruware,Education,2021/22,7.5
-36,ABE,Zimbabwe,Ruware,Education,2022/23,7.8
-37,ABE,Zimbabwe,Gokwe,Education,Baseline,0.0
-38,ABE,Zimbabwe,Gokwe,Education,2015/16,0.0
-39,ABE,Zimbabwe,Gokwe,Education,2016/17,0.0
-40,ABE,Zimbabwe,Gokwe,Education,2017/18,0.0
-41,ABE,Zimbabwe,Gokwe,Education,2018/19,6.8
-42,ABE,Zimbabwe,Gokwe,Education,2019/20,0.0
-43,ABE,Zimbabwe,Gokwe,Education,2020/21,6.8
-44,ABE,Zimbabwe,Gokwe,Education,2021/22,0.0
-45,ABE,Zimbabwe,Gokwe,Education,2022/23,0.0
-46,ABE,Zimbabwe,Zimbabwe,Effluent,Baseline,2.0
-47,ABE,Zimbabwe,Zimbabwe,Effluent,2015/16,3.0
-48,ABE,Zimbabwe,Zimbabwe,Effluent,2016/17,3.0
-49,ABE,Zimbabwe,Zimbabwe,Effluent,2017/18,4.0
-50,ABE,Zimbabwe,Zimbabwe,Effluent,2018/19,6.6
-51,ABE,Zimbabwe,Zimbabwe,Effluent,2019/20,4.9
-52,ABE,Zimbabwe,Zimbabwe,Effluent,2020/21,6.9
-53,ABE,Zimbabwe,Zimbabwe,Effluent,2021/22,5.1
-54,ABE,Zimbabwe,Zimbabwe,Effluent,2022/23,5.2
-55,ABE,Zimbabwe,Birchenough,Effluent,Baseline,3.0
-56,ABE,Zimbabwe,Birchenough,Effluent,2015/16,5.0
-57,ABE,Zimbabwe,Birchenough,Effluent,2016/17,6.0
-58,ABE,Zimbabwe,Birchenough,Effluent,2017/18,6.0
-59,ABE,Zimbabwe,Birchenough,Effluent,2018/19,6.5
-60,ABE,Zimbabwe,Birchenough,Effluent,2019/20,7.0
-61,ABE,Zimbabwe,Birchenough,Effluent,2020/21,7.0
-62,ABE,Zimbabwe,Birchenough,Effluent,2021/22,7.0
-63,ABE,Zimbabwe,Birchenough,Effluent,2022/23,7.3
-64,ABE,Zimbabwe,Zaka,Effluent,Baseline,3.0
-65,ABE,Zimbabwe,Zaka,Effluent,2015/16,4.0
-66,ABE,Zimbabwe,Zaka,Effluent,2016/17,0.0
-67,ABE,Zimbabwe,Zaka,Effluent,2017/18,4.0
-68,ABE,Zimbabwe,Zaka,Effluent,2018/19,5.5
-69,ABE,Zimbabwe,Zaka,Effluent,2019/20,5.5
-70,ABE,Zimbabwe,Zaka,Effluent,2020/21,6.0
-71,ABE,Zimbabwe,Zaka,Effluent,2021/22,6.0
-72,ABE,Zimbabwe,Zaka,Effluent,2022/23,6.3
-73,ABE,Zimbabwe,Ruware,Effluent,Baseline,2.0
-74,ABE,Zimbabwe,Ruware,Effluent,2015/16,3.0
-75,ABE,Zimbabwe,Ruware,Effluent,2016/17,6.0
-76,ABE,Zimbabwe,Ruware,Effluent,2017/18,6.0
-77,ABE,Zimbabwe,Ruware,Effluent,2018/19,6.5
-78,ABE,Zimbabwe,Ruware,Effluent,2019/20,7.0
-79,ABE,Zimbabwe,Ruware,Effluent,2020/21,7.0
-80,ABE,Zimbabwe,Ruware,Effluent,2021/22,7.2
-81,ABE,Zimbabwe,Ruware,Effluent,2022/23,7.2
-82,ABE,Zimbabwe,Gokwe,Effluent,Baseline,0.0
-83,ABE,Zimbabwe,Gokwe,Effluent,2015/16,0.0
-84,ABE,Zimbabwe,Gokwe,Effluent,2016/17,0.0
-85,ABE,Zimbabwe,Gokwe,Effluent,2017/18,0.0
-86,ABE,Zimbabwe,Gokwe,Effluent,2018/19,7.8
-87,ABE,Zimbabwe,Gokwe,Effluent,2019/20,0.0
-88,ABE,Zimbabwe,Gokwe,Effluent,2020/21,7.8
-89,ABE,Zimbabwe,Gokwe,Effluent,2021/22,0.0
-90,ABE,Zimbabwe,Gokwe,Effluent,2022/23,0.0
-91,ABE,Zimbabwe,Zimbabwe,Energy,Baseline,1.8
-92,ABE,Zimbabwe,Zimbabwe,Energy,2015/16,4.8
-93,ABE,Zimbabwe,Zimbabwe,Energy,2016/17,3.5
-94,ABE,Zimbabwe,Zimbabwe,Energy,2017/18,5.4
-95,ABE,Zimbabwe,Zimbabwe,Energy,2018/19,7.3
-96,ABE,Zimbabwe,Zimbabwe,Energy,2019/20,5.8
-97,ABE,Zimbabwe,Zimbabwe,Energy,2020/21,7.6
-98,ABE,Zimbabwe,Zimbabwe,Energy,2021/22,5.8
-99,ABE,Zimbabwe,Zimbabwe,Energy,2022/23,5.8
-100,ABE,Zimbabwe,Birchenough,Energy,Baseline,3.0
-101,ABE,Zimbabwe,Birchenough,Energy,2015/16,6.0
-102,ABE,Zimbabwe,Birchenough,Energy,2016/17,7.0
-103,ABE,Zimbabwe,Birchenough,Energy,2017/18,7.5
-104,ABE,Zimbabwe,Birchenough,Energy,2018/19,7.8
-105,ABE,Zimbabwe,Birchenough,Energy,2019/20,7.5
-106,ABE,Zimbabwe,Birchenough,Energy,2020/21,7.5
-107,ABE,Zimbabwe,Birchenough,Energy,2021/22,7.7
-108,ABE,Zimbabwe,Birchenough,Energy,2022/23,7.7
-109,ABE,Zimbabwe,Zaka,Energy,Baseline,1.0
-110,ABE,Zimbabwe,Zaka,Energy,2015/16,7.0
-111,ABE,Zimbabwe,Zaka,Energy,2016/17,0.0
-112,ABE,Zimbabwe,Zaka,Energy,2017/18,7.0
-113,ABE,Zimbabwe,Zaka,Energy,2018/19,7.0
-114,ABE,Zimbabwe,Zaka,Energy,2019/20,7.5
-115,ABE,Zimbabwe,Zaka,Energy,2020/21,7.5
-116,ABE,Zimbabwe,Zaka,Energy,2021/22,7.7
-117,ABE,Zimbabwe,Zaka,Energy,2022/23,7.7
-118,ABE,Zimbabwe,Ruware,Energy,Baseline,3.0
-119,ABE,Zimbabwe,Ruware,Energy,2015/16,6.0
-120,ABE,Zimbabwe,Ruware,Energy,2016/17,7.0
-121,ABE,Zimbabwe,Ruware,Energy,2017/18,7.0
-122,ABE,Zimbabwe,Ruware,Energy,2018/19,7.0
-123,ABE,Zimbabwe,Ruware,Energy,2019/20,8.0
-124,ABE,Zimbabwe,Ruware,Energy,2020/21,8.0
-125,ABE,Zimbabwe,Ruware,Energy,2021/22,7.7
-126,ABE,Zimbabwe,Ruware,Energy,2022/23,7.7
-127,ABE,Zimbabwe,Gokwe,Energy,Baseline,0.0
-128,ABE,Zimbabwe,Gokwe,Energy,2015/16,0.0
-129,ABE,Zimbabwe,Gokwe,Energy,2016/17,0.0
-130,ABE,Zimbabwe,Gokwe,Energy,2017/18,0.0
-131,ABE,Zimbabwe,Gokwe,Energy,2018/19,7.5
-132,ABE,Zimbabwe,Gokwe,Energy,2019/20,0.0
-133,ABE,Zimbabwe,Gokwe,Energy,2020/21,7.5
-134,ABE,Zimbabwe,Gokwe,Energy,2021/22,0.0
-135,ABE,Zimbabwe,Gokwe,Energy,2022/23,0.0
-136,ABE,Zimbabwe,Zimbabwe,Food Security,Baseline,5.3
-137,ABE,Zimbabwe,Zimbabwe,Food Security,2015/16,6.8
-138,ABE,Zimbabwe,Zimbabwe,Food Security,2016/17,6.8
-139,ABE,Zimbabwe,Zimbabwe,Food Security,2017/18,6.8
-140,ABE,Zimbabwe,Zimbabwe,Food Security,2018/19,8.9
-141,ABE,Zimbabwe,Zimbabwe,Food Security,2019/20,5.5
-142,ABE,Zimbabwe,Zimbabwe,Food Security,2020/21,6.8
-143,ABE,Zimbabwe,Zimbabwe,Food Security,2021/22,5.3
-144,ABE,Zimbabwe,Zimbabwe,Food Security,2022/23,5.4
-145,ABE,Zimbabwe,Birchenough,Food Security,Baseline,7.0
-146,ABE,Zimbabwe,Birchenough,Food Security,2015/16,9.0
-147,ABE,Zimbabwe,Birchenough,Food Security,2016/17,9.0
-148,ABE,Zimbabwe,Birchenough,Food Security,2017/18,9.0
-149,ABE,Zimbabwe,Birchenough,Food Security,2018/19,9.0
-150,ABE,Zimbabwe,Birchenough,Food Security,2019/20,7.0
-151,ABE,Zimbabwe,Birchenough,Food Security,2020/21,6.5
-152,ABE,Zimbabwe,Birchenough,Food Security,2021/22,6.5
-153,ABE,Zimbabwe,Birchenough,Food Security,2022/23,6.8
-154,ABE,Zimbabwe,Zaka,Food Security,Baseline,7.0
-155,ABE,Zimbabwe,Zaka,Food Security,2015/16,9.0
-156,ABE,Zimbabwe,Zaka,Food Security,2016/17,9.0
-157,ABE,Zimbabwe,Zaka,Food Security,2017/18,9.0
-158,ABE,Zimbabwe,Zaka,Food Security,2018/19,9.0
-159,ABE,Zimbabwe,Zaka,Food Security,2019/20,8.0
-160,ABE,Zimbabwe,Zaka,Food Security,2020/21,7.5
-161,ABE,Zimbabwe,Zaka,Food Security,2021/22,7.7
-162,ABE,Zimbabwe,Zaka,Food Security,2022/23,7.7
-163,ABE,Zimbabwe,Ruware,Food Security,Baseline,7.0
-164,ABE,Zimbabwe,Ruware,Food Security,2015/16,9.0
-165,ABE,Zimbabwe,Ruware,Food Security,2016/17,9.0
-166,ABE,Zimbabwe,Ruware,Food Security,2017/18,9.0
-167,ABE,Zimbabwe,Ruware,Food Security,2018/19,9.0
-168,ABE,Zimbabwe,Ruware,Food Security,2019/20,7.0
-169,ABE,Zimbabwe,Ruware,Food Security,2020/21,5.0
-170,ABE,Zimbabwe,Ruware,Food Security,2021/22,7.0
-171,ABE,Zimbabwe,Ruware,Food Security,2022/23,7.0
-172,ABE,Zimbabwe,Gokwe,Food Security,Baseline,0.0
-173,ABE,Zimbabwe,Gokwe,Food Security,2015/16,0.0
-174,ABE,Zimbabwe,Gokwe,Food Security,2016/17,0.0
-175,ABE,Zimbabwe,Gokwe,Food Security,2017/18,0.0
-176,ABE,Zimbabwe,Gokwe,Food Security,2018/19,8.5
-177,ABE,Zimbabwe,Gokwe,Food Security,2019/20,0.0
-178,ABE,Zimbabwe,Gokwe,Food Security,2020/21,8.0
-179,ABE,Zimbabwe,Gokwe,Food Security,2021/22,0.0
-180,ABE,Zimbabwe,Gokwe,Food Security,2022/23,0.0
-181,ABE,Zimbabwe,Zimbabwe,Healthcare,Baseline,3.5
-182,ABE,Zimbabwe,Zimbabwe,Healthcare,2015/16,4.0
-183,ABE,Zimbabwe,Zimbabwe,Healthcare,2016/17,3.0
-184,ABE,Zimbabwe,Zimbabwe,Healthcare,2017/18,4.6
-185,ABE,Zimbabwe,Zimbabwe,Healthcare,2018/19,6.4
-186,ABE,Zimbabwe,Zimbabwe,Healthcare,2019/20,4.9
-187,ABE,Zimbabwe,Zimbabwe,Healthcare,2020/21,6.4
-188,ABE,Zimbabwe,Zimbabwe,Healthcare,2021/22,5.0
-189,ABE,Zimbabwe,Zimbabwe,Healthcare,2022/23,5.0
-190,ABE,Zimbabwe,Birchenough,Healthcare,Baseline,4.0
-191,ABE,Zimbabwe,Birchenough,Healthcare,2015/16,4.0
-192,ABE,Zimbabwe,Birchenough,Healthcare,2016/17,6.0
-193,ABE,Zimbabwe,Birchenough,Healthcare,2017/18,6.5
-194,ABE,Zimbabwe,Birchenough,Healthcare,2018/19,7.0
-195,ABE,Zimbabwe,Birchenough,Healthcare,2019/20,7.0
-196,ABE,Zimbabwe,Birchenough,Healthcare,2020/21,7.0
-197,ABE,Zimbabwe,Birchenough,Healthcare,2021/22,7.3
-198,ABE,Zimbabwe,Birchenough,Healthcare,2022/23,7.3
-199,ABE,Zimbabwe,Zaka,Healthcare,Baseline,5.0
-200,ABE,Zimbabwe,Zaka,Healthcare,2015/16,6.0
-201,ABE,Zimbabwe,Zaka,Healthcare,2016/17,0.0
-202,ABE,Zimbabwe,Zaka,Healthcare,2017/18,6.0
-203,ABE,Zimbabwe,Zaka,Healthcare,2018/19,6.0
-204,ABE,Zimbabwe,Zaka,Healthcare,2019/20,6.0
-205,ABE,Zimbabwe,Zaka,Healthcare,2020/21,6.0
-206,ABE,Zimbabwe,Zaka,Healthcare,2021/22,6.0
-207,ABE,Zimbabwe,Zaka,Healthcare,2022/23,6.3
-208,ABE,Zimbabwe,Ruware,Healthcare,Baseline,5.0
-209,ABE,Zimbabwe,Ruware,Healthcare,2015/16,6.0
-210,ABE,Zimbabwe,Ruware,Healthcare,2016/17,6.0
-211,ABE,Zimbabwe,Ruware,Healthcare,2017/18,6.0
-212,ABE,Zimbabwe,Ruware,Healthcare,2018/19,6.5
-213,ABE,Zimbabwe,Ruware,Healthcare,2019/20,6.5
-214,ABE,Zimbabwe,Ruware,Healthcare,2020/21,6.5
-215,ABE,Zimbabwe,Ruware,Healthcare,2021/22,6.5
-216,ABE,Zimbabwe,Ruware,Healthcare,2022/23,6.5
-217,ABE,Zimbabwe,Gokwe,Healthcare,Baseline,0.0
-218,ABE,Zimbabwe,Gokwe,Healthcare,2015/16,0.0
-219,ABE,Zimbabwe,Gokwe,Healthcare,2016/17,0.0
-220,ABE,Zimbabwe,Gokwe,Healthcare,2017/18,0.0
-221,ABE,Zimbabwe,Gokwe,Healthcare,2018/19,6.0
-222,ABE,Zimbabwe,Gokwe,Healthcare,2019/20,0.0
-223,ABE,Zimbabwe,Gokwe,Healthcare,2020/21,6.0
-224,ABE,Zimbabwe,Gokwe,Healthcare,2021/22,0.0
-225,ABE,Zimbabwe,Gokwe,Healthcare,2022/23,0.0
-226,ABE,Zimbabwe,Zimbabwe,Housing,Baseline,5.3
-227,ABE,Zimbabwe,Zimbabwe,Housing,2015/16,5.0
-228,ABE,Zimbabwe,Zimbabwe,Housing,2016/17,5.3
-229,ABE,Zimbabwe,Zimbabwe,Housing,2017/18,5.3
-230,ABE,Zimbabwe,Zimbabwe,Housing,2018/19,7.0
-231,ABE,Zimbabwe,Zimbabwe,Housing,2019/20,5.8
-232,ABE,Zimbabwe,Zimbabwe,Housing,2020/21,5.8
-233,ABE,Zimbabwe,Zimbabwe,Housing,2021/22,5.9
-234,ABE,Zimbabwe,Zimbabwe,Housing,2022/23,5.9
-235,ABE,Zimbabwe,Birchenough,Housing,Baseline,6.0
-236,ABE,Zimbabwe,Birchenough,Housing,2015/16,8.0
-237,ABE,Zimbabwe,Birchenough,Housing,2016/17,8.0
-238,ABE,Zimbabwe,Birchenough,Housing,2017/18,8.0
-239,ABE,Zimbabwe,Birchenough,Housing,2018/19,8.0
-240,ABE,Zimbabwe,Birchenough,Housing,2019/20,8.5
-241,ABE,Zimbabwe,Birchenough,Housing,2020/21,8.5
-242,ABE,Zimbabwe,Birchenough,Housing,2021/22,8.7
-243,ABE,Zimbabwe,Birchenough,Housing,2022/23,8.7
-244,ABE,Zimbabwe,Zaka,Housing,Baseline,4.0
-245,ABE,Zimbabwe,Zaka,Housing,2015/16,6.0
-246,ABE,Zimbabwe,Zaka,Housing,2016/17,0.0
-247,ABE,Zimbabwe,Zaka,Housing,2017/18,6.5
-248,ABE,Zimbabwe,Zaka,Housing,2018/19,6.5
-249,ABE,Zimbabwe,Zaka,Housing,2019/20,7.5
-250,ABE,Zimbabwe,Zaka,Housing,2020/21,7.5
-251,ABE,Zimbabwe,Zaka,Housing,2021/22,7.5
-252,ABE,Zimbabwe,Zaka,Housing,2022/23,7.5
-253,ABE,Zimbabwe,Ruware,Housing,Baseline,5.0
-254,ABE,Zimbabwe,Ruware,Housing,2015/16,6.0
-255,ABE,Zimbabwe,Ruware,Housing,2016/17,6.0
-256,ABE,Zimbabwe,Ruware,Housing,2017/18,6.5
-257,ABE,Zimbabwe,Ruware,Housing,2018/19,6.5
-258,ABE,Zimbabwe,Ruware,Housing,2019/20,7.0
-259,ABE,Zimbabwe,Ruware,Housing,2020/21,0.0
-260,ABE,Zimbabwe,Ruware,Housing,2021/22,7.3
-261,ABE,Zimbabwe,Ruware,Housing,2022/23,7.3
-262,ABE,Zimbabwe,Gokwe,Housing,Baseline,6.0
-263,ABE,Zimbabwe,Gokwe,Housing,2015/16,0.0
-264,ABE,Zimbabwe,Gokwe,Housing,2016/17,7.0
-265,ABE,Zimbabwe,Gokwe,Housing,2017/18,0.0
-266,ABE,Zimbabwe,Gokwe,Housing,2018/19,7.0
-267,ABE,Zimbabwe,Gokwe,Housing,2019/20,0.0
-268,ABE,Zimbabwe,Gokwe,Housing,2020/21,7.0
-269,ABE,Zimbabwe,Gokwe,Housing,2021/22,0.0
-270,ABE,Zimbabwe,Gokwe,Housing,2022/23,0.0
-271,ABE,Zimbabwe,Zimbabwe,Water,Baseline,3.5
-272,ABE,Zimbabwe,Zimbabwe,Water,2015/16,3.8
-273,ABE,Zimbabwe,Zimbabwe,Water,2016/17,4.5
-274,ABE,Zimbabwe,Zimbabwe,Water,2017/18,4.1
-275,ABE,Zimbabwe,Zimbabwe,Water,2018/19,5.9
-276,ABE,Zimbabwe,Zimbabwe,Water,2019/20,5.3
-277,ABE,Zimbabwe,Zimbabwe,Water,2020/21,5.4
-278,ABE,Zimbabwe,Zimbabwe,Water,2021/22,4.0
-279,ABE,Zimbabwe,Zimbabwe,Water,2022/23,4.1
-280,ABE,Zimbabwe,Birchenough,Water,Baseline,5.0
-281,ABE,Zimbabwe,Birchenough,Water,2015/16,6.0
-282,ABE,Zimbabwe,Birchenough,Water,2016/17,7.0
-283,ABE,Zimbabwe,Birchenough,Water,2017/18,7.0
-284,ABE,Zimbabwe,Birchenough,Water,2018/19,7.0
-285,ABE,Zimbabwe,Birchenough,Water,2019/20,7.0
-286,ABE,Zimbabwe,Birchenough,Water,2020/21,7.0
-287,ABE,Zimbabwe,Birchenough,Water,2021/22,7.0
-288,ABE,Zimbabwe,Birchenough,Water,2022/23,7.5
-289,ABE,Zimbabwe,Zaka,Water,Baseline,5.0
-290,ABE,Zimbabwe,Zaka,Water,2015/16,5.0
-291,ABE,Zimbabwe,Zaka,Water,2016/17,0.0
-292,ABE,Zimbabwe,Zaka,Water,2017/18,5.0
-293,ABE,Zimbabwe,Zaka,Water,2018/19,5.0
-294,ABE,Zimbabwe,Zaka,Water,2019/20,4.5
-295,ABE,Zimbabwe,Zaka,Water,2020/21,4.5
-296,ABE,Zimbabwe,Zaka,Water,2021/22,4.5
-297,ABE,Zimbabwe,Zaka,Water,2022/23,4.5
-298,ABE,Zimbabwe,Ruware,Water,Baseline,4.0
-299,ABE,Zimbabwe,Ruware,Water,2015/16,4.0
-300,ABE,Zimbabwe,Ruware,Water,2016/17,4.0
-301,ABE,Zimbabwe,Ruware,Water,2017/18,4.5
-302,ABE,Zimbabwe,Ruware,Water,2018/19,4.5
-303,ABE,Zimbabwe,Ruware,Water,2019/20,4.5
-304,ABE,Zimbabwe,Ruware,Water,2020/21,4.5
-305,ABE,Zimbabwe,Ruware,Water,2021/22,4.5
-306,ABE,Zimbabwe,Ruware,Water,2022/23,4.5
-307,ABE,Zimbabwe,Gokwe,Water,Baseline,0.0
-308,ABE,Zimbabwe,Gokwe,Water,2015/16,0.0
-309,ABE,Zimbabwe,Gokwe,Water,2016/17,7.0
-310,ABE,Zimbabwe,Gokwe,Water,2017/18,0.0
-311,ABE,Zimbabwe,Gokwe,Water,2018/19,7.0
-312,ABE,Zimbabwe,Gokwe,Water,2019/20,5.0
-313,ABE,Zimbabwe,Gokwe,Water,2020/21,5.5
-314,ABE,Zimbabwe,Gokwe,Water,2021/22,0.0
-315,ABE,Zimbabwe,Gokwe,Water,2022/23,0.0
-316,ABE,Malawi,Malawi,Education,Baseline,5.0
-317,ABE,Malawi,Malawi,Education,2020/21,6.5
-318,ABE,Malawi,Malawi,Education,2021/22,7.0
-319,ABE,Malawi,Malawi,Education,2022/23,7.3
-320,ABE,Malawi,Chikwawa,Education,Baseline,5.0
-321,ABE,Malawi,Chikwawa,Education,2020/21,6.5
-322,ABE,Malawi,Chikwawa,Education,2021/22,7.0
-323,ABE,Malawi,Chikwawa,Education,2022/23,7.3
-324,ABE,Malawi,Katowo,Education,Baseline,5.0
-325,ABE,Malawi,Katowo,Education,2020/21,6.5
-326,ABE,Malawi,Katowo,Education,2021/22,7.0
-327,ABE,Malawi,Katowo,Education,2022/23,7.3
-328,ABE,Malawi,Malawi,Effluent,Baseline,6.0
-329,ABE,Malawi,Malawi,Effluent,2020/21,6.0
-330,ABE,Malawi,Malawi,Effluent,2021/22,6.2
-331,ABE,Malawi,Malawi,Effluent,2022/23,6.4
-332,ABE,Malawi,Chikwawa,Effluent,Baseline,6.0
-333,ABE,Malawi,Chikwawa,Effluent,2020/21,6.0
-334,ABE,Malawi,Chikwawa,Effluent,2021/22,6.0
-335,ABE,Malawi,Chikwawa,Effluent,2022/23,6.3
-336,ABE,Malawi,Katowo,Effluent,Baseline,6.0
-337,ABE,Malawi,Katowo,Effluent,2020/21,6.0
-338,ABE,Malawi,Katowo,Effluent,2021/22,6.3
-339,ABE,Malawi,Katowo,Effluent,2022/23,6.5
-340,ABE,Malawi,Malawi,Energy,Baseline,5.0
-341,ABE,Malawi,Malawi,Energy,2020/21,6.5
-342,ABE,Malawi,Malawi,Energy,2021/22,6.9
-343,ABE,Malawi,Malawi,Energy,2022/23,7.1
-344,ABE,Malawi,Chikwawa,Energy,Baseline,5.0
-345,ABE,Malawi,Chikwawa,Energy,2020/21,6.5
-346,ABE,Malawi,Chikwawa,Energy,2021/22,6.7
-347,ABE,Malawi,Chikwawa,Energy,2022/23,7.0
-348,ABE,Malawi,Katowo,Energy,Baseline,5.0
-349,ABE,Malawi,Katowo,Energy,2020/21,6.5
-350,ABE,Malawi,Katowo,Energy,2021/22,7.0
-351,ABE,Malawi,Katowo,Energy,2022/23,7.3
-352,ABE,Malawi,Malawi,Food Security,Baseline,5.0
-353,ABE,Malawi,Malawi,Food Security,2020/21,7.3
-354,ABE,Malawi,Malawi,Food Security,2021/22,7.3
-355,ABE,Malawi,Malawi,Food Security,2022/23,7.3
-356,ABE,Malawi,Chikwawa,Food Security,Baseline,5.0
-357,ABE,Malawi,Chikwawa,Food Security,2020/21,7.0
-358,ABE,Malawi,Chikwawa,Food Security,2021/22,7.0
-359,ABE,Malawi,Chikwawa,Food Security,2022/23,7.0
-360,ABE,Malawi,Katowo,Food Security,Baseline,5.0
-361,ABE,Malawi,Katowo,Food Security,2020/21,7.5
-362,ABE,Malawi,Katowo,Food Security,2021/22,7.5
-363,ABE,Malawi,Katowo,Food Security,2022/23,7.5
-364,ABE,Malawi,Malawi,Healthcare,Baseline,5.0
-365,ABE,Malawi,Malawi,Healthcare,2020/21,6.0
-366,ABE,Malawi,Malawi,Healthcare,2021/22,6.6
-367,ABE,Malawi,Malawi,Healthcare,2022/23,6.9
-368,ABE,Malawi,Chikwawa,Healthcare,Baseline,5.0
-369,ABE,Malawi,Chikwawa,Healthcare,2020/21,6.0
-370,ABE,Malawi,Chikwawa,Healthcare,2021/22,6.7
-371,ABE,Malawi,Chikwawa,Healthcare,2022/23,7.0
-372,ABE,Malawi,Katowo,Healthcare,Baseline,5.0
-373,ABE,Malawi,Katowo,Healthcare,2020/21,6.0
-374,ABE,Malawi,Katowo,Healthcare,2021/22,6.5
-375,ABE,Malawi,Katowo,Healthcare,2022/23,6.8
-376,ABE,Malawi,Malawi,Housing,Baseline,5.0
-377,ABE,Malawi,Malawi,Housing,2020/21,6.0
-378,ABE,Malawi,Malawi,Housing,2021/22,6.5
-379,ABE,Malawi,Malawi,Housing,2022/23,6.8
-380,ABE,Malawi,Chikwawa,Housing,Baseline,5.0
-381,ABE,Malawi,Chikwawa,Housing,2020/21,5.5
-382,ABE,Malawi,Chikwawa,Housing,2021/22,6.0
-383,ABE,Malawi,Chikwawa,Housing,2022/23,6.3
-384,ABE,Malawi,Katowo,Housing,Baseline,5.0
-385,ABE,Malawi,Katowo,Housing,2020/21,6.5
-386,ABE,Malawi,Katowo,Housing,2021/22,7.0
-387,ABE,Malawi,Katowo,Housing,2022/23,7.3
-388,ABE,Malawi,Malawi,Water,Baseline,4.0
-389,ABE,Malawi,Malawi,Water,2020/21,4.5
-390,ABE,Malawi,Malawi,Water,2021/22,4.7
-391,ABE,Malawi,Malawi,Water,2022/23,4.8
-392,ABE,Malawi,Chikwawa,Water,Baseline,4.0
-393,ABE,Malawi,Chikwawa,Water,2020/21,4.0
-394,ABE,Malawi,Chikwawa,Water,2021/22,4.0
-395,ABE,Malawi,Chikwawa,Water,2022/23,4.0
-396,ABE,Malawi,Katowo,Water,Baseline,4.0
-397,ABE,Malawi,Katowo,Water,2020/21,5.0
-398,ABE,Malawi,Katowo,Water,2021/22,5.3
-399,ABE,Malawi,Katowo,Water,2022/23,5.5
+001,ABE,Zimbabwe,Zimbabwe,Education,Baseline,3.50
+002,ABE,Zimbabwe,Zimbabwe,Education,2015/16,5.00
+003,ABE,Zimbabwe,Zimbabwe,Education,2016/17,3.63
+004,ABE,Zimbabwe,Zimbabwe,Education,2017/18,5.38
+005,ABE,Zimbabwe,Zimbabwe,Education,2018/19,7.19
+006,ABE,Zimbabwe,Zimbabwe,Education,2019/20,5.63
+007,ABE,Zimbabwe,Zimbabwe,Education,2020/21,7.19
+008,ABE,Zimbabwe,Zimbabwe,Education,2021/22,5.55
+009,ABE,Zimbabwe,Zimbabwe,Education,2022/23,5.75
+010,ABE,Zimbabwe,Birchenough,Education,Baseline,4.00
+011,ABE,Zimbabwe,Birchenough,Education,2015/16,6.00
+012,ABE,Zimbabwe,Birchenough,Education,2016/17,7.00
+013,ABE,Zimbabwe,Birchenough,Education,2017/18,7.00
+014,ABE,Zimbabwe,Birchenough,Education,2018/19,7.50
+015,ABE,Zimbabwe,Birchenough,Education,2019/20,7.50
+016,ABE,Zimbabwe,Birchenough,Education,2020/21,7.50
+017,ABE,Zimbabwe,Birchenough,Education,2021/22,7.70
+018,ABE,Zimbabwe,Birchenough,Education,2022/23,8.00
+019,ABE,Zimbabwe,Zaka,Education,Baseline,5.00
+020,ABE,Zimbabwe,Zaka,Education,2015/16,7.00
+021,ABE,Zimbabwe,Zaka,Education,2016/17,0.00
+022,ABE,Zimbabwe,Zaka,Education,2017/18,7.00
+023,ABE,Zimbabwe,Zaka,Education,2018/19,7.00
+024,ABE,Zimbabwe,Zaka,Education,2019/20,7.50
+025,ABE,Zimbabwe,Zaka,Education,2020/21,7.00
+026,ABE,Zimbabwe,Zaka,Education,2021/22,7.00
+027,ABE,Zimbabwe,Zaka,Education,2022/23,7.25
+028,ABE,Zimbabwe,Ruware,Education,Baseline,5.00
+029,ABE,Zimbabwe,Ruware,Education,2015/16,7.00
+030,ABE,Zimbabwe,Ruware,Education,2016/17,7.50
+031,ABE,Zimbabwe,Ruware,Education,2017/18,7.50
+032,ABE,Zimbabwe,Ruware,Education,2018/19,7.50
+033,ABE,Zimbabwe,Ruware,Education,2019/20,7.50
+034,ABE,Zimbabwe,Ruware,Education,2020/21,7.50
+035,ABE,Zimbabwe,Ruware,Education,2021/22,7.50
+036,ABE,Zimbabwe,Ruware,Education,2022/23,7.75
+037,ABE,Zimbabwe,Gokwe,Education,Baseline,0.00
+038,ABE,Zimbabwe,Gokwe,Education,2015/16,0.00
+039,ABE,Zimbabwe,Gokwe,Education,2016/17,0.00
+040,ABE,Zimbabwe,Gokwe,Education,2017/18,0.00
+041,ABE,Zimbabwe,Gokwe,Education,2018/19,6.75
+042,ABE,Zimbabwe,Gokwe,Education,2019/20,0.00
+043,ABE,Zimbabwe,Gokwe,Education,2020/21,6.75
+044,ABE,Zimbabwe,Gokwe,Education,2021/22,0.00
+045,ABE,Zimbabwe,Gokwe,Education,2022/23,0.00
+046,ABE,Zimbabwe,Zimbabwe,Effluent ,Baseline,2.00
+047,ABE,Zimbabwe,Zimbabwe,Effluent ,2015/16,3.00
+048,ABE,Zimbabwe,Zimbabwe,Effluent ,2016/17,3.00
+049,ABE,Zimbabwe,Zimbabwe,Effluent ,2017/18,4.00
+050,ABE,Zimbabwe,Zimbabwe,Effluent ,2018/19,6.56
+051,ABE,Zimbabwe,Zimbabwe,Effluent ,2019/20,4.88
+052,ABE,Zimbabwe,Zimbabwe,Effluent ,2020/21,6.94
+053,ABE,Zimbabwe,Zimbabwe,Effluent ,2021/22,5.05
+054,ABE,Zimbabwe,Zimbabwe,Effluent ,2022/23,5.18
+055,ABE,Zimbabwe,Birchenough,Effluent ,Baseline,3.00
+056,ABE,Zimbabwe,Birchenough,Effluent ,2015/16,5.00
+057,ABE,Zimbabwe,Birchenough,Effluent ,2016/17,6.00
+058,ABE,Zimbabwe,Birchenough,Effluent ,2017/18,6.00
+059,ABE,Zimbabwe,Birchenough,Effluent ,2018/19,6.50
+060,ABE,Zimbabwe,Birchenough,Effluent ,2019/20,7.00
+061,ABE,Zimbabwe,Birchenough,Effluent ,2020/21,7.00
+062,ABE,Zimbabwe,Birchenough,Effluent ,2021/22,7.00
+063,ABE,Zimbabwe,Birchenough,Effluent ,2022/23,7.25
+064,ABE,Zimbabwe,Zaka,Effluent ,Baseline,3.00
+065,ABE,Zimbabwe,Zaka,Effluent ,2015/16,4.00
+066,ABE,Zimbabwe,Zaka,Effluent ,2016/17,0.00
+067,ABE,Zimbabwe,Zaka,Effluent ,2017/18,4.00
+068,ABE,Zimbabwe,Zaka,Effluent ,2018/19,5.50
+069,ABE,Zimbabwe,Zaka,Effluent ,2019/20,5.50
+070,ABE,Zimbabwe,Zaka,Effluent ,2020/21,6.00
+071,ABE,Zimbabwe,Zaka,Effluent ,2021/22,6.00
+072,ABE,Zimbabwe,Zaka,Effluent ,2022/23,6.25
+073,ABE,Zimbabwe,Ruware,Effluent ,Baseline,2.00
+074,ABE,Zimbabwe,Ruware,Effluent ,2015/16,3.00
+075,ABE,Zimbabwe,Ruware,Effluent ,2016/17,6.00
+076,ABE,Zimbabwe,Ruware,Effluent ,2017/18,6.00
+077,ABE,Zimbabwe,Ruware,Effluent ,2018/19,6.50
+078,ABE,Zimbabwe,Ruware,Effluent ,2019/20,7.00
+079,ABE,Zimbabwe,Ruware,Effluent ,2020/21,7.00
+080,ABE,Zimbabwe,Ruware,Effluent ,2021/22,7.20
+081,ABE,Zimbabwe,Ruware,Effluent ,2022/23,7.20
+082,ABE,Zimbabwe,Gokwe,Effluent ,Baseline,0.00
+083,ABE,Zimbabwe,Gokwe,Effluent ,2015/16,0.00
+084,ABE,Zimbabwe,Gokwe,Effluent ,2016/17,0.00
+085,ABE,Zimbabwe,Gokwe,Effluent ,2017/18,0.00
+086,ABE,Zimbabwe,Gokwe,Effluent ,2018/19,7.75
+087,ABE,Zimbabwe,Gokwe,Effluent ,2019/20,0.00
+088,ABE,Zimbabwe,Gokwe,Effluent ,2020/21,7.75
+089,ABE,Zimbabwe,Gokwe,Effluent ,2021/22,0.00
+090,ABE,Zimbabwe,Gokwe,Effluent ,2022/23,0.00
+091,ABE,Zimbabwe,Zimbabwe,Energy,Baseline,1.75
+092,ABE,Zimbabwe,Zimbabwe,Energy,2015/16,4.75
+093,ABE,Zimbabwe,Zimbabwe,Energy,2016/17,3.50
+094,ABE,Zimbabwe,Zimbabwe,Energy,2017/18,5.38
+095,ABE,Zimbabwe,Zimbabwe,Energy,2018/19,7.31
+096,ABE,Zimbabwe,Zimbabwe,Energy,2019/20,5.75
+097,ABE,Zimbabwe,Zimbabwe,Energy,2020/21,7.63
+098,ABE,Zimbabwe,Zimbabwe,Energy,2021/22,5.78
+099,ABE,Zimbabwe,Zimbabwe,Energy,2022/23,5.78
+100,ABE,Zimbabwe,Birchenough,Energy,Baseline,3.00
+101,ABE,Zimbabwe,Birchenough,Energy,2015/16,6.00
+102,ABE,Zimbabwe,Birchenough,Energy,2016/17,7.00
+103,ABE,Zimbabwe,Birchenough,Energy,2017/18,7.50
+104,ABE,Zimbabwe,Birchenough,Energy,2018/19,7.75
+105,ABE,Zimbabwe,Birchenough,Energy,2019/20,7.50
+106,ABE,Zimbabwe,Birchenough,Energy,2020/21,7.50
+107,ABE,Zimbabwe,Birchenough,Energy,2021/22,7.70
+108,ABE,Zimbabwe,Birchenough,Energy,2022/23,7.70
+109,ABE,Zimbabwe,Zaka,Energy,Baseline,1.00
+110,ABE,Zimbabwe,Zaka,Energy,2015/16,7.00
+111,ABE,Zimbabwe,Zaka,Energy,2016/17,0.00
+112,ABE,Zimbabwe,Zaka,Energy,2017/18,7.00
+113,ABE,Zimbabwe,Zaka,Energy,2018/19,7.00
+114,ABE,Zimbabwe,Zaka,Energy,2019/20,7.50
+115,ABE,Zimbabwe,Zaka,Energy,2020/21,7.50
+116,ABE,Zimbabwe,Zaka,Energy,2021/22,7.70
+117,ABE,Zimbabwe,Zaka,Energy,2022/23,7.70
+118,ABE,Zimbabwe,Ruware,Energy,Baseline,3.00
+119,ABE,Zimbabwe,Ruware,Energy,2015/16,6.00
+120,ABE,Zimbabwe,Ruware,Energy,2016/17,7.00
+121,ABE,Zimbabwe,Ruware,Energy,2017/18,7.00
+122,ABE,Zimbabwe,Ruware,Energy,2018/19,7.00
+123,ABE,Zimbabwe,Ruware,Energy,2019/20,8.00
+124,ABE,Zimbabwe,Ruware,Energy,2020/21,8.00
+125,ABE,Zimbabwe,Ruware,Energy,2021/22,7.70
+126,ABE,Zimbabwe,Ruware,Energy,2022/23,7.70
+127,ABE,Zimbabwe,Gokwe,Energy,Baseline,0.00
+128,ABE,Zimbabwe,Gokwe,Energy,2015/16,0.00
+129,ABE,Zimbabwe,Gokwe,Energy,2016/17,0.00
+130,ABE,Zimbabwe,Gokwe,Energy,2017/18,0.00
+131,ABE,Zimbabwe,Gokwe,Energy,2018/19,7.50
+132,ABE,Zimbabwe,Gokwe,Energy,2019/20,0.00
+133,ABE,Zimbabwe,Gokwe,Energy,2020/21,7.50
+134,ABE,Zimbabwe,Gokwe,Energy,2021/22,0.00
+135,ABE,Zimbabwe,Gokwe,Energy,2022/23,0.00
+136,ABE,Zimbabwe,Zimbabwe,Food Security,Baseline,5.25
+137,ABE,Zimbabwe,Zimbabwe,Food Security,2015/16,6.75
+138,ABE,Zimbabwe,Zimbabwe,Food Security,2016/17,6.75
+139,ABE,Zimbabwe,Zimbabwe,Food Security,2017/18,6.75
+140,ABE,Zimbabwe,Zimbabwe,Food Security,2018/19,8.88
+141,ABE,Zimbabwe,Zimbabwe,Food Security,2019/20,5.50
+142,ABE,Zimbabwe,Zimbabwe,Food Security,2020/21,6.75
+143,ABE,Zimbabwe,Zimbabwe,Food Security,2021/22,5.30
+144,ABE,Zimbabwe,Zimbabwe,Food Security,2022/23,5.36
+145,ABE,Zimbabwe,Birchenough,Food Security,Baseline,7.00
+146,ABE,Zimbabwe,Birchenough,Food Security,2015/16,9.00
+147,ABE,Zimbabwe,Birchenough,Food Security,2016/17,9.00
+148,ABE,Zimbabwe,Birchenough,Food Security,2017/18,9.00
+149,ABE,Zimbabwe,Birchenough,Food Security,2018/19,9.00
+150,ABE,Zimbabwe,Birchenough,Food Security,2019/20,7.00
+151,ABE,Zimbabwe,Birchenough,Food Security,2020/21,6.50
+152,ABE,Zimbabwe,Birchenough,Food Security,2021/22,6.50
+153,ABE,Zimbabwe,Birchenough,Food Security,2022/23,6.75
+154,ABE,Zimbabwe,Zaka,Food Security,Baseline,7.00
+155,ABE,Zimbabwe,Zaka,Food Security,2015/16,9.00
+156,ABE,Zimbabwe,Zaka,Food Security,2016/17,9.00
+157,ABE,Zimbabwe,Zaka,Food Security,2017/18,9.00
+158,ABE,Zimbabwe,Zaka,Food Security,2018/19,9.00
+159,ABE,Zimbabwe,Zaka,Food Security,2019/20,8.00
+160,ABE,Zimbabwe,Zaka,Food Security,2020/21,7.50
+161,ABE,Zimbabwe,Zaka,Food Security,2021/22,7.70
+162,ABE,Zimbabwe,Zaka,Food Security,2022/23,7.70
+163,ABE,Zimbabwe,Ruware,Food Security,Baseline,7.00
+164,ABE,Zimbabwe,Ruware,Food Security,2015/16,9.00
+165,ABE,Zimbabwe,Ruware,Food Security,2016/17,9.00
+166,ABE,Zimbabwe,Ruware,Food Security,2017/18,9.00
+167,ABE,Zimbabwe,Ruware,Food Security,2018/19,9.00
+168,ABE,Zimbabwe,Ruware,Food Security,2019/20,7.00
+169,ABE,Zimbabwe,Ruware,Food Security,2020/21,5.00
+170,ABE,Zimbabwe,Ruware,Food Security,2021/22,7.00
+171,ABE,Zimbabwe,Ruware,Food Security,2022/23,7.00
+172,ABE,Zimbabwe,Gokwe,Food Security,Baseline,0.00
+173,ABE,Zimbabwe,Gokwe,Food Security,2015/16,0.00
+174,ABE,Zimbabwe,Gokwe,Food Security,2016/17,0.00
+175,ABE,Zimbabwe,Gokwe,Food Security,2017/18,0.00
+176,ABE,Zimbabwe,Gokwe,Food Security,2018/19,8.50
+177,ABE,Zimbabwe,Gokwe,Food Security,2019/20,0.00
+178,ABE,Zimbabwe,Gokwe,Food Security,2020/21,8.00
+179,ABE,Zimbabwe,Gokwe,Food Security,2021/22,0.00
+180,ABE,Zimbabwe,Gokwe,Food Security,2022/23,0.00
+181,ABE,Zimbabwe,Zimbabwe,Healthcare,Baseline,3.50
+182,ABE,Zimbabwe,Zimbabwe,Healthcare,2015/16,4.00
+183,ABE,Zimbabwe,Zimbabwe,Healthcare,2016/17,3.00
+184,ABE,Zimbabwe,Zimbabwe,Healthcare,2017/18,4.63
+185,ABE,Zimbabwe,Zimbabwe,Healthcare,2018/19,6.38
+186,ABE,Zimbabwe,Zimbabwe,Healthcare,2019/20,4.88
+187,ABE,Zimbabwe,Zimbabwe,Healthcare,2020/21,6.38
+188,ABE,Zimbabwe,Zimbabwe,Healthcare,2021/22,4.95
+189,ABE,Zimbabwe,Zimbabwe,Healthcare,2022/23,5.01
+190,ABE,Zimbabwe,Birchenough,Healthcare,Baseline,4.00
+191,ABE,Zimbabwe,Birchenough,Healthcare,2015/16,4.00
+192,ABE,Zimbabwe,Birchenough,Healthcare,2016/17,6.00
+193,ABE,Zimbabwe,Birchenough,Healthcare,2017/18,6.50
+194,ABE,Zimbabwe,Birchenough,Healthcare,2018/19,7.00
+195,ABE,Zimbabwe,Birchenough,Healthcare,2019/20,7.00
+196,ABE,Zimbabwe,Birchenough,Healthcare,2020/21,7.00
+197,ABE,Zimbabwe,Birchenough,Healthcare,2021/22,7.30
+198,ABE,Zimbabwe,Birchenough,Healthcare,2022/23,7.30
+199,ABE,Zimbabwe,Zaka,Healthcare,Baseline,5.00
+200,ABE,Zimbabwe,Zaka,Healthcare,2015/16,6.00
+201,ABE,Zimbabwe,Zaka,Healthcare,2016/17,0.00
+202,ABE,Zimbabwe,Zaka,Healthcare,2017/18,6.00
+203,ABE,Zimbabwe,Zaka,Healthcare,2018/19,6.00
+204,ABE,Zimbabwe,Zaka,Healthcare,2019/20,6.00
+205,ABE,Zimbabwe,Zaka,Healthcare,2020/21,6.00
+206,ABE,Zimbabwe,Zaka,Healthcare,2021/22,6.00
+207,ABE,Zimbabwe,Zaka,Healthcare,2022/23,6.25
+208,ABE,Zimbabwe,Ruware,Healthcare,Baseline,5.00
+209,ABE,Zimbabwe,Ruware,Healthcare,2015/16,6.00
+210,ABE,Zimbabwe,Ruware,Healthcare,2016/17,6.00
+211,ABE,Zimbabwe,Ruware,Healthcare,2017/18,6.00
+212,ABE,Zimbabwe,Ruware,Healthcare,2018/19,6.50
+213,ABE,Zimbabwe,Ruware,Healthcare,2019/20,6.50
+214,ABE,Zimbabwe,Ruware,Healthcare,2020/21,6.50
+215,ABE,Zimbabwe,Ruware,Healthcare,2021/22,6.50
+216,ABE,Zimbabwe,Ruware,Healthcare,2022/23,6.50
+217,ABE,Zimbabwe,Gokwe,Healthcare,Baseline,0.00
+218,ABE,Zimbabwe,Gokwe,Healthcare,2015/16,0.00
+219,ABE,Zimbabwe,Gokwe,Healthcare,2016/17,0.00
+220,ABE,Zimbabwe,Gokwe,Healthcare,2017/18,0.00
+221,ABE,Zimbabwe,Gokwe,Healthcare,2018/19,6.00
+222,ABE,Zimbabwe,Gokwe,Healthcare,2019/20,0.00
+223,ABE,Zimbabwe,Gokwe,Healthcare,2020/21,6.00
+224,ABE,Zimbabwe,Gokwe,Healthcare,2021/22,0.00
+225,ABE,Zimbabwe,Gokwe,Healthcare,2022/23,0.00
+226,ABE,Zimbabwe,Zimbabwe,Housing,Baseline,5.25
+227,ABE,Zimbabwe,Zimbabwe,Housing,2015/16,5.00
+228,ABE,Zimbabwe,Zimbabwe,Housing,2016/17,5.25
+229,ABE,Zimbabwe,Zimbabwe,Housing,2017/18,5.25
+230,ABE,Zimbabwe,Zimbabwe,Housing,2018/19,7.00
+231,ABE,Zimbabwe,Zimbabwe,Housing,2019/20,5.75
+232,ABE,Zimbabwe,Zimbabwe,Housing,2020/21,5.75
+233,ABE,Zimbabwe,Zimbabwe,Housing,2021/22,5.88
+234,ABE,Zimbabwe,Zimbabwe,Housing,2022/23,5.88
+235,ABE,Zimbabwe,Birchenough,Housing,Baseline,6.00
+236,ABE,Zimbabwe,Birchenough,Housing,2015/16,8.00
+237,ABE,Zimbabwe,Birchenough,Housing,2016/17,8.00
+238,ABE,Zimbabwe,Birchenough,Housing,2017/18,8.00
+239,ABE,Zimbabwe,Birchenough,Housing,2018/19,8.00
+240,ABE,Zimbabwe,Birchenough,Housing,2019/20,8.50
+241,ABE,Zimbabwe,Birchenough,Housing,2020/21,8.50
+242,ABE,Zimbabwe,Birchenough,Housing,2021/22,8.70
+243,ABE,Zimbabwe,Birchenough,Housing,2022/23,8.70
+244,ABE,Zimbabwe,Zaka,Housing,Baseline,4.00
+245,ABE,Zimbabwe,Zaka,Housing,2015/16,6.00
+246,ABE,Zimbabwe,Zaka,Housing,2016/17,0.00
+247,ABE,Zimbabwe,Zaka,Housing,2017/18,6.50
+248,ABE,Zimbabwe,Zaka,Housing,2018/19,6.50
+249,ABE,Zimbabwe,Zaka,Housing,2019/20,7.50
+250,ABE,Zimbabwe,Zaka,Housing,2020/21,7.50
+251,ABE,Zimbabwe,Zaka,Housing,2021/22,7.50
+252,ABE,Zimbabwe,Zaka,Housing,2022/23,7.50
+253,ABE,Zimbabwe,Ruware,Housing,Baseline,5.00
+254,ABE,Zimbabwe,Ruware,Housing,2015/16,6.00
+255,ABE,Zimbabwe,Ruware,Housing,2016/17,6.00
+256,ABE,Zimbabwe,Ruware,Housing,2017/18,6.50
+257,ABE,Zimbabwe,Ruware,Housing,2018/19,6.50
+258,ABE,Zimbabwe,Ruware,Housing,2019/20,7.00
+259,ABE,Zimbabwe,Ruware,Housing,2020/21,0.00
+260,ABE,Zimbabwe,Ruware,Housing,2021/22,7.30
+261,ABE,Zimbabwe,Ruware,Housing,2022/23,7.30
+262,ABE,Zimbabwe,Gokwe,Housing,Baseline,6.00
+263,ABE,Zimbabwe,Gokwe,Housing,2015/16,0.00
+264,ABE,Zimbabwe,Gokwe,Housing,2016/17,7.00
+265,ABE,Zimbabwe,Gokwe,Housing,2017/18,0.00
+266,ABE,Zimbabwe,Gokwe,Housing,2018/19,7.00
+267,ABE,Zimbabwe,Gokwe,Housing,2019/20,0.00
+268,ABE,Zimbabwe,Gokwe,Housing,2020/21,7.00
+269,ABE,Zimbabwe,Gokwe,Housing,2021/22,0.00
+270,ABE,Zimbabwe,Gokwe,Housing,2022/23,0.00
+271,ABE,Zimbabwe,Zimbabwe,Water,Baseline,3.50
+272,ABE,Zimbabwe,Zimbabwe,Water,2015/16,3.75
+273,ABE,Zimbabwe,Zimbabwe,Water,2016/17,4.50
+274,ABE,Zimbabwe,Zimbabwe,Water,2017/18,4.13
+275,ABE,Zimbabwe,Zimbabwe,Water,2018/19,5.88
+276,ABE,Zimbabwe,Zimbabwe,Water,2019/20,5.25
+277,ABE,Zimbabwe,Zimbabwe,Water,2020/21,5.38
+278,ABE,Zimbabwe,Zimbabwe,Water,2021/22,4.00
+279,ABE,Zimbabwe,Zimbabwe,Water,2022/23,4.13
+280,ABE,Zimbabwe,Birchenough,Water,Baseline,5.00
+281,ABE,Zimbabwe,Birchenough,Water,2015/16,6.00
+282,ABE,Zimbabwe,Birchenough,Water,2016/17,7.00
+283,ABE,Zimbabwe,Birchenough,Water,2017/18,7.00
+284,ABE,Zimbabwe,Birchenough,Water,2018/19,7.00
+285,ABE,Zimbabwe,Birchenough,Water,2019/20,7.00
+286,ABE,Zimbabwe,Birchenough,Water,2020/21,7.00
+287,ABE,Zimbabwe,Birchenough,Water,2021/22,7.00
+288,ABE,Zimbabwe,Birchenough,Water,2022/23,7.50
+289,ABE,Zimbabwe,Zaka,Water,Baseline,5.00
+290,ABE,Zimbabwe,Zaka,Water,2015/16,5.00
+291,ABE,Zimbabwe,Zaka,Water,2016/17,0.00
+292,ABE,Zimbabwe,Zaka,Water,2017/18,5.00
+293,ABE,Zimbabwe,Zaka,Water,2018/19,5.00
+294,ABE,Zimbabwe,Zaka,Water,2019/20,4.50
+295,ABE,Zimbabwe,Zaka,Water,2020/21,4.50
+296,ABE,Zimbabwe,Zaka,Water,2021/22,4.50
+297,ABE,Zimbabwe,Zaka,Water,2022/23,4.50
+298,ABE,Zimbabwe,Ruware,Water,Baseline,4.00
+299,ABE,Zimbabwe,Ruware,Water,2015/16,4.00
+300,ABE,Zimbabwe,Ruware,Water,2016/17,4.00
+301,ABE,Zimbabwe,Ruware,Water,2017/18,4.50
+302,ABE,Zimbabwe,Ruware,Water,2018/19,4.50
+303,ABE,Zimbabwe,Ruware,Water,2019/20,4.50
+304,ABE,Zimbabwe,Ruware,Water,2020/21,4.50
+305,ABE,Zimbabwe,Ruware,Water,2021/22,4.50
+306,ABE,Zimbabwe,Ruware,Water,2022/23,4.50
+307,ABE,Zimbabwe,Gokwe,Water,Baseline,0.00
+308,ABE,Zimbabwe,Gokwe,Water,2015/16,0.00
+309,ABE,Zimbabwe,Gokwe,Water,2016/17,7.00
+310,ABE,Zimbabwe,Gokwe,Water,2017/18,0.00
+311,ABE,Zimbabwe,Gokwe,Water,2018/19,7.00
+312,ABE,Zimbabwe,Gokwe,Water,2019/20,5.00
+313,ABE,Zimbabwe,Gokwe,Water,2020/21,5.50
+314,ABE,Zimbabwe,Gokwe,Water,2021/22,0.00
+315,ABE,Zimbabwe,Gokwe,Water,2022/23,0.00
+316,ABE,Malawi,Malawi,Education,Baseline,5.00
+317,ABE,Malawi,Malawi,Education,2020/21,6.50
+318,ABE,Malawi,Malawi,Education,2021/22,7.00
+319,ABE,Malawi,Malawi,Education,2022/23,7.25
+320,ABE,Malawi,Chikwawa,Education,Baseline,5.00
+321,ABE,Malawi,Chikwawa,Education,2020/21,6.50
+322,ABE,Malawi,Chikwawa,Education,2021/22,7.00
+323,ABE,Malawi,Chikwawa,Education,2022/23,7.25
+324,ABE,Malawi,Katowo,Education,Baseline,5.00
+325,ABE,Malawi,Katowo,Education,2020/21,6.50
+326,ABE,Malawi,Katowo,Education,2021/22,7.00
+327,ABE,Malawi,Katowo,Education,2022/23,7.25
+328,ABE,Malawi,Malawi,Effluent ,Baseline,6.00
+329,ABE,Malawi,Malawi,Effluent ,2020/21,6.00
+330,ABE,Malawi,Malawi,Effluent ,2021/22,6.15
+331,ABE,Malawi,Malawi,Effluent ,2022/23,6.38
+332,ABE,Malawi,Chikwawa,Effluent ,Baseline,6.00
+333,ABE,Malawi,Chikwawa,Effluent ,2020/21,6.00
+334,ABE,Malawi,Chikwawa,Effluent ,2021/22,6.00
+335,ABE,Malawi,Chikwawa,Effluent ,2022/23,6.25
+336,ABE,Malawi,Katowo,Effluent ,Baseline,6.00
+337,ABE,Malawi,Katowo,Effluent ,2020/21,6.00
+338,ABE,Malawi,Katowo,Effluent ,2021/22,6.30
+339,ABE,Malawi,Katowo,Effluent ,2022/23,6.50
+340,ABE,Malawi,Malawi,Energy,Baseline,5.00
+341,ABE,Malawi,Malawi,Energy,2020/21,6.50
+342,ABE,Malawi,Malawi,Energy,2021/22,6.85
+343,ABE,Malawi,Malawi,Energy,2022/23,7.13
+344,ABE,Malawi,Chikwawa,Energy,Baseline,5.00
+345,ABE,Malawi,Chikwawa,Energy,2020/21,6.50
+346,ABE,Malawi,Chikwawa,Energy,2021/22,6.70
+347,ABE,Malawi,Chikwawa,Energy,2022/23,7.00
+348,ABE,Malawi,Katowo,Energy,Baseline,5.00
+349,ABE,Malawi,Katowo,Energy,2020/21,6.50
+350,ABE,Malawi,Katowo,Energy,2021/22,7.00
+351,ABE,Malawi,Katowo,Energy,2022/23,7.25
+352,ABE,Malawi,Malawi,Food Security,Baseline,5.00
+353,ABE,Malawi,Malawi,Food Security,2020/21,7.25
+354,ABE,Malawi,Malawi,Food Security,2021/22,7.25
+355,ABE,Malawi,Malawi,Food Security,2022/23,7.25
+356,ABE,Malawi,Chikwawa,Food Security,Baseline,5.00
+357,ABE,Malawi,Chikwawa,Food Security,2020/21,7.00
+358,ABE,Malawi,Chikwawa,Food Security,2021/22,7.00
+359,ABE,Malawi,Chikwawa,Food Security,2022/23,7.00
+360,ABE,Malawi,Katowo,Food Security,Baseline,5.00
+361,ABE,Malawi,Katowo,Food Security,2020/21,7.50
+362,ABE,Malawi,Katowo,Food Security,2021/22,7.50
+363,ABE,Malawi,Katowo,Food Security,2022/23,7.50
+364,ABE,Malawi,Malawi,Healthcare,Baseline,5.00
+365,ABE,Malawi,Malawi,Healthcare,2020/21,6.00
+366,ABE,Malawi,Malawi,Healthcare,2021/22,6.60
+367,ABE,Malawi,Malawi,Healthcare,2022/23,6.88
+368,ABE,Malawi,Chikwawa,Healthcare,Baseline,5.00
+369,ABE,Malawi,Chikwawa,Healthcare,2020/21,6.00
+370,ABE,Malawi,Chikwawa,Healthcare,2021/22,6.70
+371,ABE,Malawi,Chikwawa,Healthcare,2022/23,7.00
+372,ABE,Malawi,Katowo,Healthcare,Baseline,5.00
+373,ABE,Malawi,Katowo,Healthcare,2020/21,6.00
+374,ABE,Malawi,Katowo,Healthcare,2021/22,6.50
+375,ABE,Malawi,Katowo,Healthcare,2022/23,6.75
+376,ABE,Malawi,Malawi,Housing,Baseline,5.00
+377,ABE,Malawi,Malawi,Housing,2020/21,6.00
+378,ABE,Malawi,Malawi,Housing,2021/22,6.50
+379,ABE,Malawi,Malawi,Housing,2022/23,6.75
+380,ABE,Malawi,Chikwawa,Housing,Baseline,5.00
+381,ABE,Malawi,Chikwawa,Housing,2020/21,5.50
+382,ABE,Malawi,Chikwawa,Housing,2021/22,6.00
+383,ABE,Malawi,Chikwawa,Housing,2022/23,6.25
+384,ABE,Malawi,Katowo,Housing,Baseline,5.00
+385,ABE,Malawi,Katowo,Housing,2020/21,6.50
+386,ABE,Malawi,Katowo,Housing,2021/22,7.00
+387,ABE,Malawi,Katowo,Housing,2022/23,7.25
+388,ABE,Malawi,Malawi,Water,Baseline,4.00
+389,ABE,Malawi,Malawi,Water,2020/21,4.50
+390,ABE,Malawi,Malawi,Water,2021/22,4.65
+391,ABE,Malawi,Malawi,Water,2022/23,4.75
+392,ABE,Malawi,Chikwawa,Water,Baseline,4.00
+393,ABE,Malawi,Chikwawa,Water,2020/21,4.00
+394,ABE,Malawi,Chikwawa,Water,2021/22,4.00
+395,ABE,Malawi,Chikwawa,Water,2022/23,4.00
+396,ABE,Malawi,Katowo,Water,Baseline,4.00
+397,ABE,Malawi,Katowo,Water,2020/21,5.00
+398,ABE,Malawi,Katowo,Water,2021/22,5.30
+399,ABE,Malawi,Katowo,Water,2022/23,5.50

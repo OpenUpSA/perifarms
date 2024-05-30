@@ -3067,18 +3067,22 @@
 													"title": "Contracts",
 													"type": "content-and-chart",
 													"content": "<p>44% of employees interviewed do not have contracts with their employer.</p>",
-													"chart": "ChartPie",
-													"chart_title": "Labourers according to their contractual status",
-													"data_source": "extra_charts",
-													"crop": "ABE",
-													"country": "Mozambique",
-													"indicator": [
-														"farmers_contractual_status"
-													],
-													"year": "2022/23",
-													"colors": [
-														"#d21830", "#ffad43"
-													]
+													"charts": [
+														{
+															"chart": "ChartPie",
+															"chart_title": "Labourers according to their contractual status",
+															"data_source": "extra_charts",
+															"crop": "ABE",
+															"country": "Mozambique",
+															"indicator": [
+																"farmers_contractual_status"
+															],
+															"year": "2022/23",
+															"colors": [
+																"#d21830", "#ffad43"
+															]
+														}
+													] 
 												},
 												{
 													"title": "Policies",

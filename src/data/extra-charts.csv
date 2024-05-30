@@ -1,139 +1,139 @@
 order,crop,country,community,year,indicator,bin,orig_value,tag,value
-1,ABE,Zimbabwe,Zimbabwe,2022/23,No. of growing communities,Zimbabwe,3,communities,3 communities
-2,ABE,Malawi,Malawi,2022/23,No. of growing communities,Malawi,2,communities,2 communities
-3,ABE,Mozambique,Mozambique,2022/23,No. of growing communities,Mozambique,7,communities,7 communities
-4,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Zimbabwe,0.0006,,0.0006 
-5,ABE,Malawi,Malawi,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Malawi,-0.6428,,-0.6428 
-6,ABE,Mozambique,Mozambique,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Mozambique,0.2382,,0.2382 
-7,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Zimbabwe,-0.4026,,-0.4026 
-8,ABE,Malawi,Malawi,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Malawi,-0.8078,,-0.8078 
-9,ABE,Zimbabwe,Zimbabwe,2022/23,Average Gross Income,Zimbabwe,830.35,,$830.35 
-10,ABE,Malawi,Malawi,2022/23,Average Gross Income,Malawi,363.76,,$363.76 
-11,ABE,Mozambique,Mozambique,2022/23,Average Gross Income,Mozambique,3788.53,,"$3,788.53 "
-12,ABE,Zimbabwe,Zimbabwe,2021/22,Average Gross Income,Zimbabwe,829.83,,$829.83 
-13,ABE,Malawi,Malawi,2021/22,Average Gross Income,Malawi,1018.31,,"$1,018.31 "
-14,ABE,Mozambique,Mozambique,2021/22,Average Gross Income,Mozambique,3059.69,,"$3,059.69 "
-15,ABE,Zimbabwe,Zimbabwe,2022/23,Average True Earnings,Zimbabwe,364.74,,$364.74 
-16,ABE,Malawi,Malawi,2022/23,Average True Earnings,Malawi,98.24,,$98.24 
-17,ABE,Zimbabwe,Zimbabwe,2021/22,Average True Earnings,Zimbabwe,610.57,,$610.57 
-18,ABE,Malawi,Malawi,2021/22,Average True Earnings,Malawi,510.99,,$510.99 
-19,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Above minimum wage,0.5000,,0.5000 
-20,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Below minimum wage,0.5000,,0.5000 
-21,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,Some leave,0.6100,,0.6100 
-22,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,No leave,0.3900,,0.3900 
-23,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,Contract in place,0.5600,,0.5600 
-24,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,No contract,0.4400,,0.4400 
-25,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,Prefer to hire men,0.5000,,0.5000 
-26,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,No preference,0.5000,,0.5000 
-27,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,No training received,0.5600,,0.5600 
-28,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,Training received,0.4400,,0.4400 
-29,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Not informed,0.4400,,0.4400 
-30,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Informed,0.5600,,0.5600 
-31,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,Yes,0.1700,,0.1700 
-32,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,No,0.8300,,0.8300 
-33,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending primary school,0.9600,,0.9600 
-34,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.8400,,0.8400 
-35,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending university,0.5800,,0.5800 
-36,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of farmers with children in school (overall),0.9500,,0.9500 
-37,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending primary school,0.7800,,0.7800 
-38,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.6000,,0.6000 
-39,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending university,0.1000,,0.1000 
-40,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with solar,0.6900,,0.6900 
-41,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with electricity,0.1300,,0.1300 
-42,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with solar,0.5800,,0.5800 
-43,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with electricity,0.1000,,0.1000 
-44,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Good,0.0656,,0.0656 
-45,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Moderate,0.4590,,0.4590 
-46,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Inadequate,0.4754,,0.4754 
-47,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Good,0.1475,,0.1475 
-48,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Moderate,0.7049,,0.7049 
-49,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Inadequate,0.1475,,0.1475 
-50,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Good,0.0000,,0.0000 
-51,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Moderate,0.0984,,0.0984 
-52,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Inadequate,0.9016,,0.9016 
-53,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Good,0.0000,,0.0000 
-54,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Moderate,0.4590,,0.4590 
-55,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Inadequate,0.5410,,0.5410 
-56,ABE,Malawi,Malawi,2022/23,Proteins,Good,0.1750,,0.1750 
-57,ABE,Malawi,Malawi,2022/23,Proteins,Moderate,0.5250,,0.5250 
-58,ABE,Malawi,Malawi,2022/23,Proteins,Inadequate,0.3000,,0.3000 
-59,ABE,Malawi,Malawi,2022/23,Carbohydrates,Good,0.1750,,0.1750 
-60,ABE,Malawi,Malawi,2022/23,Carbohydrates,Moderate,0.6000,,0.6000 
-61,ABE,Malawi,Malawi,2022/23,Carbohydrates,Inadequate,0.2250,,0.2250 
-62,ABE,Malawi,Malawi,2022/23,Fats/Oils,Good,0.0000,,0.0000 
-63,ABE,Malawi,Malawi,2022/23,Fats/Oils,Moderate,0.0750,,0.0750 
-64,ABE,Malawi,Malawi,2022/23,Fats/Oils,Inadequate,0.9250,,0.9250 
-65,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Good,0.0000,,0.0000 
-66,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Moderate,0.6000,,0.6000 
-67,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Inadequate,0.4000,,0.4000 
-68,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Good,0.4300,,0.4300 
-69,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Moderate,0.0000,,0.0000 
-70,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Inadequate,0.1300,,0.1300 
-71,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Good,0.3500,,0.3500 
-72,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Moderate,0.4000,,0.4000 
-73,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Inadequate,0.1800,,0.1800 
-74,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Good,0.2300,,0.2300 
-75,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Moderate,0.4500,,0.4500 
-76,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Inadequate,0.3000,,0.3000 
-77,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Chicken,25.00,,0.5952
-78,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Cow,7.00,,0.1667
-79,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Donkey,1.00,,0.0238
-80,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Duck,0.00,,0.0000
-81,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Goat,6.00,,0.1429
-82,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Sheep,1.00,,0.0238
-83,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Guinea Fowl/Turkey,2.00,,0.0476
-84,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Chicken,19.00,,0.3393
-85,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Cow,2.00,,0.0357
-87,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Duck,2.00,,0.0357
-88,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Goat,4.00,,0.0714
-89,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pig,9.00,,0.1607
-90,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pigeon,20.00,,0.3571
-91,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,0-100m,0.1100,,0.1100 
-92,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,101-300m,0.1100,,0.1100 
-93,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,301-600m,0.1100,,0.1100 
-94,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,601-1000m,0.3300,,0.3300 
-95,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,1001-2000m,0.1100,,0.1100 
-96,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,>2000m,0.2200,,0.2200 
-97,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,0-100m,0.2600,,0.2600 
-98,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,101-300m,0.3200,,0.3200 
-99,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,301-600m,0.0900,,0.0900 
-100,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,601-1000m,0.1200,,0.1200 
-101,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,1001-2000m,0.1500,,0.1500 
-102,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,>2000m,0.0600,,0.0600 
-103,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,0-100m,0.1900,,0.1900 
-104,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,101-300m,0.2500,,0.2500 
-105,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,301-600m,0.1300,,0.1300 
-106,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,601-1000m,0.2500,,0.2500 
-107,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,1001-2000m,0.1300,,0.1300 
-108,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,>2000m,0.1300,,0.1300 
-109,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,0-100m,0.3800,,0.3800 
-110,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,101-300m,0.4400,,0.4400 
-111,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,301-600m,0.0600,,0.0600 
-112,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,601-1000m,0.0000,,0.0000 
-113,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,1001-2000m,0.1300,,0.1300 
-114,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,>2000m,0.0000,,0.0000 
-115,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,0-100m,0.0600,,0.0600 
-116,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,101-300m,0.2400,,0.2400 
-117,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,301-600m,0.1200,,0.1200 
-118,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,601-1000m,0.0600,,0.0600 
-119,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,1001-2000m,0.0600,,0.0600 
-120,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,>2000m,0.4700,,0.4700 
-121,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,0-100m,0.1700,,0.1700 
-122,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,101-300m,0.1700,,0.1700 
-123,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,301-600m,0.0000,,0.0000 
-124,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,601-1000m,0.1700,,0.1700 
-125,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,1001-2000m,0.1700,,0.1700 
-126,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,>2000m,0.3300,,0.3300 
-127,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,0-100m,0.0000,,0.0000 
-128,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,101-300m,0.2700,,0.2700 
-129,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,301-600m,0.1800,,0.1800 
-130,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,601-1000m,0.0000,,0.0000 
-131,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,1001-2000m,0.0000,,0.0000 
-132,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,>2000m,0.5500,,0.5500 
+001,ABE,Zimbabwe,Zimbabwe,2022/23,No. of growing communities,Zimbabwe,3,communities,3 communities
+002,ABE,Malawi,Malawi,2022/23,No. of growing communities,Malawi,2,communities,2 communities
+003,ABE,Mozambique,Mozambique,2022/23,No. of growing communities,Mozambique,7,communities,7 communities
+004,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Zimbabwe,0.06,,0.06 
+005,ABE,Malawi,Malawi,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Malawi,-0.69,,-0.69 
+006,ABE,Mozambique,Mozambique,2022/23,Percentage change in Avg Gross Income per Farmer (2021/22 - 2022/23),Mozambique,0.00,,0.00 
+007,ABE,Zimbabwe,Zimbabwe,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Zimbabwe,-0.38,,-0.38 
+008,ABE,Malawi,Malawi,2022/23,Percentage change in Avg True Earnings per Farmer (2021/22 - 2022/23),Malawi,-0.94,,-0.94 
+009,ABE,Zimbabwe,Zimbabwe,2022/23,Average Gross Income,Zimbabwe,881.14,,$881.14 
+010,ABE,Malawi,Malawi,2022/23,Average Gross Income,Malawi,316.43,,$316.43 
+011,ABE,Mozambique,Mozambique,2022/23,Average Gross Income,Mozambique,3060.98,,"$3,060.98 "
+012,ABE,Zimbabwe,Zimbabwe,2021/22,Average Gross Income,Zimbabwe,829.83,,$829.83 
+013,ABE,Malawi,Malawi,2021/22,Average Gross Income,Malawi,1018.31,,"$1,018.31 "
+014,ABE,Mozambique,Mozambique,2021/22,Average Gross Income,Mozambique,3059.69,,"$3,059.69 "
+015,ABE,Zimbabwe,Zimbabwe,2022/23,Average True Earnings,Zimbabwe,379.51,,$379.51 
+016,ABE,Malawi,Malawi,2022/23,Average True Earnings,Malawi,31.34,,$31.34 
+017,ABE,Zimbabwe,Zimbabwe,2021/22,Average True Earnings,Zimbabwe,610.57,,$610.57 
+018,ABE,Malawi,Malawi,2021/22,Average True Earnings,Malawi,510.99,,$510.99 
+019,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Above minimum wage,0.50,,0.50 
+020,ABE,Mozambique,Mozambique,2022/23,farmers_monthly_wages,Below minimum wage,0.50,,0.50 
+021,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,Annual leave,0.61,,0.61 
+022,ABE,Mozambique,Mozambique,2022/23,farmers_annual_leave,No annual leave,0.39,,0.39 
+023,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,Contract in place,0.56,,0.56 
+024,ABE,Mozambique,Mozambique,2022/23,farmers_contractual_status,No contract,0.44,,0.44 
+025,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,Prefer to hire men,0.50,,0.50 
+026,ABE,Mozambique,Mozambique,2022/23,employers_preference_to_hire_men,No preference,0.50,,0.50 
+027,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,No training received,0.56,,0.56 
+028,ABE,Mozambique,Mozambique,2022/23,farmers_training_received,Training received,0.44,,0.44 
+029,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Informed,0.44,,0.44 
+030,ABE,Mozambique,Mozambique,2022/23,famers_informed_about_work_hazards,Not Informed,0.56,,0.56 
+031,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,Yes,0.17,,0.17 
+032,ABE,Mozambique,Mozambique,2022/23,farmers_provided_with_protective_equip,No,0.83,,0.83 
+033,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending primary school,0.96,,0.96 
+034,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.84,,0.84 
+035,ABE,Zimbabwe,Zimbabwe,2022/23,childrens_education_chart,Percentage of children attending university,0.58,,0.58 
+036,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of farmers with children in school (overall),0.95,,0.95 
+037,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending primary school,0.78,,0.78 
+038,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending secondary school,0.60,,0.60 
+039,ABE,Malawi,Malawi,2022/23,childrens_education_chart,Percentage of children attending university,0.10,,0.10 
+040,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with solar,0.69,,0.69 
+041,ABE,Zimbabwe,Zimbabwe,2022/23,energy_security_chart,Percentage of farmers with electricity,0.13,,0.13 
+042,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with solar,0.58,,0.58 
+043,ABE,Malawi,Malawi,2022/23,energy_security_chart,Percentage of farmers with electricity,0.10,,0.10 
+044,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Good,0.07,,0.07 
+045,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Moderate,0.46,,0.46 
+046,ABE,Zimbabwe,Zimbabwe,2022/23,Proteins,Inadequate,0.48,,0.48 
+047,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Good,0.15,,0.15 
+048,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Moderate,0.70,,0.70 
+049,ABE,Zimbabwe,Zimbabwe,2022/23,Carbohydrates,Inadequate,0.15,,0.15 
+050,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Good,0.00,,0.00 
+051,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Moderate,0.10,,0.10 
+052,ABE,Zimbabwe,Zimbabwe,2022/23,Fats/Oils,Inadequate,0.90,,0.90 
+053,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Good,0.00,,0.00 
+054,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Moderate,0.46,,0.46 
+055,ABE,Zimbabwe,Zimbabwe,2022/23,Vitamins/Minerals,Inadequate,0.54,,0.54 
+056,ABE,Malawi,Malawi,2022/23,Proteins,Good,0.18,,0.18 
+057,ABE,Malawi,Malawi,2022/23,Proteins,Moderate,0.53,,0.53 
+058,ABE,Malawi,Malawi,2022/23,Proteins,Inadequate,0.30,,0.30 
+059,ABE,Malawi,Malawi,2022/23,Carbohydrates,Good,0.18,,0.18 
+060,ABE,Malawi,Malawi,2022/23,Carbohydrates,Moderate,0.60,,0.60 
+061,ABE,Malawi,Malawi,2022/23,Carbohydrates,Inadequate,0.23,,0.23 
+062,ABE,Malawi,Malawi,2022/23,Fats/Oils,Good,0.00,,0.00 
+063,ABE,Malawi,Malawi,2022/23,Fats/Oils,Moderate,0.08,,0.08 
+064,ABE,Malawi,Malawi,2022/23,Fats/Oils,Inadequate,0.93,,0.93 
+065,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Good,0.00,,0.00 
+066,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Moderate,0.60,,0.60 
+067,ABE,Malawi,Malawi,2022/23,Vitamins/Minerals,Inadequate,0.40,,0.40 
+068,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Good,0.43,,0.43 
+069,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Moderate,0.00,,0.00 
+070,ABE,Malawi,Malawi,2022/23,Farmers protein intake,Inadequate,0.13,,0.13 
+071,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Good,0.35,,0.35 
+072,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Moderate,0.40,,0.40 
+073,ABE,Malawi,Malawi,2022/23,Farmers carbohydrate intake,Inadequate,0.18,,0.18 
+074,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Good,0.23,,0.23 
+075,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Moderate,0.45,,0.45 
+076,ABE,Malawi,Malawi,2022/23,Farmers vitamin/mineral intake,Inadequate,0.30,,0.30 
+077,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Chicken,25,,0.60
+078,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Cow,7,,0.17
+079,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Donkey,1,,0.02
+080,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Duck,0,,0.00
+081,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Goat,6,,0.14
+082,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Sheep,1,,0.02
+083,ABE,Zimbabwe,Zimbabwe,2022/23,animal_ownership_chart,Guinea Fowl/Turkey,2,,0.05
+084,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Chicken,19,,0.34
+085,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Cow,2,,0.04
+087,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Duck,2,,0.04
+088,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Goat,4,,0.07
+089,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pig,9,,0.16
+090,ABE,Malawi,Malawi,2022/23,animal_ownership_chart,Pigeon,20,,0.36
+091,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,0-100m,0.11,,0.11 
+092,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,101-300m,0.11,,0.11 
+093,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,301-600m,0.11,,0.11 
+094,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,601-1000m,0.33,,0.33 
+095,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,1001-2000m,0.11,,0.11 
+096,ABE,Mozambique,Mozambique,2022/23,meters_walked_for_water_collection,>2000m,0.22,,0.22 
+097,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,0-100m,0.26,,0.26 
+098,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,101-300m,0.32,,0.32 
+099,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,301-600m,0.09,,0.09 
+100,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,601-1000m,0.12,,0.12 
+101,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,1001-2000m,0.15,,0.15 
+102,ABE,Zimbabwe,Zimbabwe,2022/23,meters_walked_for_wood_collection,>2000m,0.06,,0.06 
+103,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,0-100m,0.19,,0.19 
+104,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,101-300m,0.25,,0.25 
+105,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,301-600m,0.13,,0.13 
+106,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,601-1000m,0.25,,0.25 
+107,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,1001-2000m,0.13,,0.13 
+108,ABE,Zaka,Zaka,2022/23,meters_walked_for_wood_collection,>2000m,0.13,,0.13 
+109,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,0-100m,0.38,,0.38 
+110,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,101-300m,0.44,,0.44 
+111,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,301-600m,0.06,,0.06 
+112,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,601-1000m,0.00,,0.00 
+113,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,1001-2000m,0.13,,0.13 
+114,ABE,Ruware,Ruware,2022/23,meters_walked_for_wood_collection,>2000m,0.00,,0.00 
+115,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,0-100m,0.06,,0.06 
+116,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,101-300m,0.24,,0.24 
+117,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,301-600m,0.12,,0.12 
+118,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,601-1000m,0.06,,0.06 
+119,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,1001-2000m,0.06,,0.06 
+120,ABE,Malawi,Malawi,2022/23,meters_walked_for_wood_collection,>2000m,0.47,,0.47 
+121,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,0-100m,0.17,,0.17 
+122,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,101-300m,0.17,,0.17 
+123,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,301-600m,0.00,,0.00 
+124,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,601-1000m,0.17,,0.17 
+125,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,1001-2000m,0.17,,0.17 
+126,ABE,Chikwawa,Chikwawa,2022/23,meters_walked_for_wood_collection,>2000m,0.33,,0.33 
+127,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,0-100m,0.00,,0.00 
+128,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,101-300m,0.27,,0.27 
+129,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,301-600m,0.18,,0.18 
+130,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,601-1000m,0.00,,0.00 
+131,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,1001-2000m,0.00,,0.00 
+132,ABE,Katowo,Katowo,2022/23,meters_walked_for_wood_collection,>2000m,0.55,,0.55 
 133,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Number of farmers,560,farmers,560 farmers
 134,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Growing communities,,"Birchenough, Zaka & Ruware","Birchenough, Zaka & Ruware"
-135,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Country allocation,280,tonnes [dry],280 tonnes [dry]
-136,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,ABE production,560,tonnes [fresh],560 tonnes [fresh]
+135,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Country allocation,280,MT [fresh],280 MT [fresh]
+136,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,ABE production,617,MT [fresh],617 MT [fresh]
 137,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Total ABE land cultivated,96,ha,96ha
 138,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Average ABE plot size,0.17,ha,0.17ha
 139,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Average ABE harvest,1101,kg [fresh],"1,101 kg [fresh]"
@@ -143,8 +143,8 @@ order,crop,country,community,year,indicator,bin,orig_value,tag,value
 143,ABE,Zimbabwe,Zimbabwe,2022/23,tanner_key_metrics_table,Average farmer net earnings,366.00,,$366.00 
 144,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Number of farmers,530,farmers,530 farmers
 145,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Growing communities,,"Birchenough, Zaka & Ruware","Birchenough, Zaka & Ruware"
-146,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Country allocation,210,tonnes [dry],210 tonnes [dry]
-147,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,ABE production,675,tonnes [fresh],675 tonnes [fresh]
+146,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Country allocation,210,MT [fresh],210 MT [fresh]
+147,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,ABE production,675,MT [fresh],675 MT [fresh]
 148,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Total ABE land cultivated,106,ha,106ha
 149,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Average ABE plot size,0.2,ha,0.20ha
 150,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Average ABE harvest,1274,kg [fresh],"1,274 kg [fresh]"
@@ -154,30 +154,30 @@ order,crop,country,community,year,indicator,bin,orig_value,tag,value
 154,ABE,Zimbabwe,Zimbabwe,2012/22,tanner_key_metrics_table,Average farmer net earnings,611.00,,$611.00 
 155,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Number of farmers,281,farmers,281 farmers
 156,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Growing communities,,"Chikwawa, Katowo","Chikwawa, Katowo"
-157,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Country allocation,247,tonnes [fresh],247 tonnes [fresh]
-158,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,ABE production,121,tonnes [fresh],121 tonnes [fresh]
+157,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Country allocation,247,MT [fresh],247 MT [fresh]
+158,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,ABE production,121,MT [fresh],121 MT [fresh]
 159,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Total ABE land cultivated,63,ha,63ha
 160,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Average ABE plot size,0.22,ha,0.22ha
 161,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Average ABE harvest,432,kg [fresh],432 kg [fresh]
-162,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Average productivity (fresh ABE produced per .25ha),480,kg [per 0.25 ha],480 kg [per 0.25 ha]
+162,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Average productivity (fresh ABE produced per .25ha),490,kg [per 0.25 ha],490 kg [per 0.25 ha]
 163,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Price per kg,,$2.50 [dry],$2.50 [dry]
 164,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Average farmer gross earnings,316.00,,$316.00 
 165,ABE,Malawi,Malawi,2022/23,tanner_key_metrics_table,Average farmer net earnings,30.00,,$30.00 
-166,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Number of farmers,173,farmers,173 farmers
-167,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Growing communities,,"Chikwawa, Katowo","Chikwawa, Katowo"
-168,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Country allocation,181,tonnes [fresh],181 tonnes [fresh]
-169,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,ABE production,183,tonnes [fresh],183 tonnes [fresh]
-170,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Total ABE land cultivated,44,ha,44ha
-171,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Average ABE plot size,0.26,ha,0.26ha
-172,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Average ABE harvest,1058,kg [fresh],"1,058 kg [fresh]"
-173,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Average productivity (fresh ABE produced per .25ha),1083,kg [per 0.25 ha],"1,083 kg [per 0.25 ha]"
-174,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Price per kg,,$2.50 [dry],$2.50 [dry]
-175,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Average farmer gross earnings,830.00,,$830.00 
-176,ABE,Malawi,Malawi,2012/22,tanner_key_metrics_table,Average farmer net earnings,511.00,,$511.00 
+166,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Number of farmers,173,farmers,173 farmers
+167,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Growing communities,,"Chikwawa, Katowo","Chikwawa, Katowo"
+168,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Country allocation,181,MT [fresh],181 MT [fresh]
+169,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,ABE production,183,MT [fresh],183 MT [fresh]
+170,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Total ABE land cultivated,44,ha,44ha
+171,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Average ABE plot size,0.26,ha,0.26ha
+172,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Average ABE harvest,1058,kg [fresh],"1,058 kg [fresh]"
+173,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Average productivity (fresh ABE produced per .25ha),1083,kg [per 0.25 ha],"1,083 kg [per 0.25 ha]"
+174,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Price per kg,,$2.50 [dry],$2.50 [dry]
+175,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Average farmer gross earnings,830.00,,$830.00 
+176,ABE,Malawi,Malawi,2021/22,tanner_key_metrics_table,Average farmer net earnings,511.00,,$511.00 
 177,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Number of farmers,172,farmers,172 farmers
 178,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Growing communities,,"Chikwawa, Katowo","Chikwawa, Katowo"
-179,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Country allocation,,tonnes [fresh],0 tonnes [fresh]
-180,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,ABE production,104,tonnes [fresh],104 tonnes [fresh]
+179,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Country allocation,,MT [fresh],0 MT [fresh]
+180,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,ABE production,104,MT [fresh],104 MT [fresh]
 181,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Total ABE land cultivated,39,ha,39ha
 182,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Average ABE plot size,0.22,ha,0.22ha
 183,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Average ABE harvest,606,kg [fresh],606 kg [fresh]
@@ -187,47 +187,47 @@ order,crop,country,community,year,indicator,bin,orig_value,tag,value
 187,ABE,Malawi,Malawi,Only farmers with positive incomes,tanner_key_metrics_table,Average farmer net earnings,155,,$155.00 
 188,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Number of farmers,35,farmers,35 farmers
 189,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Growing communities,,"Marracuene, Boane, Namaacha, Matatuine, Moamba","Marracuene, Boane, Namaacha, Matatuine, Moamba"
-190,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Country allocation,55,tonnes [dry],55 tonnes [dry]
-191,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,ABE production,105,tonnes [fresh],105 tonnes [fresh]
+190,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Country allocation,55,MT [dry],55 MT [dry]
+191,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,ABE production,105,MT [fresh],105 MT [fresh]
 192,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Total ABE land cultivated,29.57,ha,30ha
 193,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Average ABE plot size,0.38,ha,0.38ha
 194,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Average ABE harvest,1368,kg [fresh],"1,368 kg [fresh]"
 195,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Average productivity (fresh ABE produced per .25ha),890,kg [per 0.25 ha],890 kg [per 0.25 ha]
 196,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Price per kg,,$1.00 [fresh],$1.00 [fresh]
 197,ABE,Mozambique,Mozambique,2022/23,tanner_key_metrics_table,Average farmer gross earnings,1378,,"$1,378.00 "
-198,ABE,Mozambique,Mozambique,2022/23,percentage_income_from_ABE_chart,ABE,0.3000,,0.3000 
-199,ABE,Mozambique,Mozambique,2022/23,percentage_income_from_ABE_chart,Other,0.7000,,0.7000 
-200,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Animals,0.0700,,0.0700 
-201,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Education,0.2000,,0.2000 
-202,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Energy,0.1300,,0.1300 
-203,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Housing,0.3300,,0.3300 
-204,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Water,0.1300,,0.1300 
-205,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Other,0.1300,,0.1300 
-206,ABE,Malawi,Malawi,2022/23,Female,Violence,0.0020,,0.0020 
-207,ABE,Malawi,Malawi,2022/23,Female,Disability,0.0020,,0.0020 
-208,ABE,Malawi,Malawi,2022/23,Female,Availability of teachers,0.0070,,0.0070 
-209,ABE,Malawi,Malawi,2022/23,Female,Natural disaster,0.0120,,0.0120 
-210,ABE,Malawi,Malawi,2022/23,Female,Employment,0.0160,,0.0160 
-211,ABE,Malawi,Malawi,2022/23,Female,Poor facilities,0.0190,,0.0190 
-212,ABE,Malawi,Malawi,2022/23,Female,Sickness,0.0290,,0.0290 
-213,ABE,Malawi,Malawi,2022/23,Female,Other reasons,0.0570,,0.0570 
-214,ABE,Malawi,Malawi,2022/23,Female,Pregnancy,0.0680,,0.0680 
-215,ABE,Malawi,Malawi,2022/23,Female,Marriage,0.0630,,0.0630 
-216,ABE,Malawi,Malawi,2022/23,Female,Long distances,0.1080,,0.1080 
-217,ABE,Malawi,Malawi,2022/23,Female,Truancy,0.2030,,0.2030 
-218,ABE,Malawi,Malawi,2022/23,Female,Poverty,0.2290,,0.2290 
-219,ABE,Malawi,Malawi,2022/23,Female,Family responsibilities,0.2670,,0.2670 
-220,ABE,Malawi,Malawi,2022/23,Male,Violence,0.0030,,0.0030 
-221,ABE,Malawi,Malawi,2022/23,Male,Disability,0.0030,,0.0030 
-222,ABE,Malawi,Malawi,2022/23,Male,Availability of teachers,0.0070,,0.0070 
-223,ABE,Malawi,Malawi,2022/23,Male,Natural disaster,0.0130,,0.0130 
-224,ABE,Malawi,Malawi,2022/23,Male,Employment,0.0300,,0.0300 
-225,ABE,Malawi,Malawi,2022/23,Male,Poor facilities,0.0200,,0.0200 
-226,ABE,Malawi,Malawi,2022/23,Male,Sickness,0.0320,,0.0320 
-227,ABE,Malawi,Malawi,2022/23,Male,Other reasons,0.0520,,0.0520 
-228,ABE,Malawi,Malawi,2022/23,Male,Pregnancy,0.0000,,0.0000 
-229,ABE,Malawi,Malawi,2022/23,Male,Marriage,0.0130,,0.0130 
-230,ABE,Malawi,Malawi,2022/23,Male,Long distances,0.0950,,0.0950 
-231,ABE,Malawi,Malawi,2022/23,Male,Truancy,0.1650,,0.1650 
-232,ABE,Malawi,Malawi,2022/23,Male,Poverty,0.2070,,0.2070 
-233,ABE,Malawi,Malawi,2022/23,Male,Family responsibilities,0.2510,,0.2510 
+198,ABE,Mozambique,Mozambique,2022/23,percentage_income_from_ABE_chart,ABE,0.30,,0.30 
+199,ABE,Mozambique,Mozambique,2022/23,percentage_income_from_ABE_chart,Other,0.70,,0.70 
+200,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Animals,0.07,,0.07 
+201,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Education,0.20,,0.20 
+202,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Energy,0.13,,0.13 
+203,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Housing,0.33,,0.33 
+204,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Water,0.13,,0.13 
+205,ABE,Mozambique,Mozambique,2022/23,ABE_money_spent_on,Other,0.13,,0.13 
+206,ABE,Malawi,Malawi,2022/23,Female,Violence,0.00,,0.00 
+207,ABE,Malawi,Malawi,2022/23,Female,Disability,0.00,,0.00 
+208,ABE,Malawi,Malawi,2022/23,Female,Availability of teachers,0.01,,0.01 
+209,ABE,Malawi,Malawi,2022/23,Female,Natural disaster,0.01,,0.01 
+210,ABE,Malawi,Malawi,2022/23,Female,Employment,0.02,,0.02 
+211,ABE,Malawi,Malawi,2022/23,Female,Poor facilities,0.02,,0.02 
+212,ABE,Malawi,Malawi,2022/23,Female,Sickness,0.03,,0.03 
+213,ABE,Malawi,Malawi,2022/23,Female,Other reasons,0.06,,0.06 
+214,ABE,Malawi,Malawi,2022/23,Female,Pregnancy,0.07,,0.07 
+215,ABE,Malawi,Malawi,2022/23,Female,Marriage,0.06,,0.06 
+216,ABE,Malawi,Malawi,2022/23,Female,Long distances,0.11,,0.11 
+217,ABE,Malawi,Malawi,2022/23,Female,Truancy,0.20,,0.20 
+218,ABE,Malawi,Malawi,2022/23,Female,Poverty,0.23,,0.23 
+219,ABE,Malawi,Malawi,2022/23,Female,Family responsibilities,0.27,,0.27 
+220,ABE,Malawi,Malawi,2022/23,Male,Violence,0.00,,0.00 
+221,ABE,Malawi,Malawi,2022/23,Male,Disability,0.00,,0.00 
+222,ABE,Malawi,Malawi,2022/23,Male,Availability of teachers,0.01,,0.01 
+223,ABE,Malawi,Malawi,2022/23,Male,Natural disaster,0.01,,0.01 
+224,ABE,Malawi,Malawi,2022/23,Male,Employment,0.03,,0.03 
+225,ABE,Malawi,Malawi,2022/23,Male,Poor facilities,0.02,,0.02 
+226,ABE,Malawi,Malawi,2022/23,Male,Sickness,0.03,,0.03 
+227,ABE,Malawi,Malawi,2022/23,Male,Other reasons,0.05,,0.05 
+228,ABE,Malawi,Malawi,2022/23,Male,Pregnancy,0.00,,0.00 
+229,ABE,Malawi,Malawi,2022/23,Male,Marriage,0.01,,0.01 
+230,ABE,Malawi,Malawi,2022/23,Male,Long distances,0.10,,0.10 
+231,ABE,Malawi,Malawi,2022/23,Male,Truancy,0.17,,0.17 
+232,ABE,Malawi,Malawi,2022/23,Male,Poverty,0.21,,0.21 
+233,ABE,Malawi,Malawi,2022/23,Male,Family responsibilities,0.25,,0.25 
