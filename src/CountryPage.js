@@ -212,7 +212,7 @@ const CountryPage = () => {
                                                                                     }
                                                                                     {
                                                                                         tab == section.name &&
-                                                                                        subsection.type == 'SwarmChart' && <Swarmchart props={subsection} />
+                                                                                        subsection.type == 'SwarmChart' && <Swarmchart key={i} props={subsection} />
                                                                                     }
                                                                                     {
                                                                                         tab == section.name &&
@@ -250,7 +250,7 @@ const CountryPage = () => {
                                                                                                             }
                                                                                                             {
                                                                                                                 tab == section.name &&
-                                                                                                                subsubsection.type == 'SwarmChart' && <Swarmchart props={subsubsection} />
+                                                                                                                subsubsection.type == 'SwarmChart' && <Swarmchart key={i} props={subsubsection} />
                                                                                                             }
                                                                                                             {
                                                                                                                 tab == section.name &&

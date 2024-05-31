@@ -12,8 +12,8 @@ const Swarmchart = (props) => {
     const { crop, country, period, data } = useContext(AppContext);
 
 
-    const uniqueId = `swarmchart-${props.props.indicator[0]}`;
-    const xAxisId = `swarmchart-${props.props.indicator[0]}-xAxis`;
+    const uniqueId = `swarmchart-${props.props.indicator[0]}-${props.props.country}`;
+    const xAxisId = `swarmchart-${props.props.indicator[0]}-${props.props.country}-xAxis`;
     const [allData, setAllData] = useState([]);
     const [bands, setBands] = useState([]);
     const [chartData, setChartchartData] = useState([]);
@@ -39,6 +39,8 @@ const Swarmchart = (props) => {
         filteredData = filteredData.filter(item => item.year === props.props.year);
         filteredData = filteredData.filter(item => item.indicator === props.props.indicator[0]);
 
+        
+
 
         filteredData.forEach((d, i) => {
             d.earnings = parseFloat(d.value);
@@ -62,7 +64,7 @@ const Swarmchart = (props) => {
         if (draw) {
             updatechartData(chartData, x, height, svg, circles, xAxis, width);
         }
-    }, [chartData, draw]);
+    }, [chartData, draw, uniqueId]);
 
     useEffect(() => {
         let filteredData = allData.filter(item => selectedGroups?.includes(item.community)); 
@@ -103,7 +105,7 @@ const Swarmchart = (props) => {
 
         // Add circles
         const initialCircles = initialSvg
-            .selectAll('.circle')
+            .selectAll(`#${uniqueId} .circle`)
             .data(chartData)
             .enter()
             .append('circle')
@@ -177,7 +179,7 @@ const Swarmchart = (props) => {
 
         for (let i = 0; i < 120; ++i) simulation.tick();
 
-        circles = svg.selectAll('.circle').data(chartData).join(
+        circles = svg.selectAll(`#${uniqueId} .circle`).data(chartData).join(
             (enter) =>
                 enter
                     .append('circle')

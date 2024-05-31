@@ -688,11 +688,6 @@
 													],
 													"year": "2022/23",
 													"group": "community",
-													"layout": "horizontal",
-													"singular": true,
-													"value": "percentage",
-													"x_label": "Response",
-													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
 														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
@@ -711,11 +706,6 @@
 													],
 													"year": "2022/23",
 													"group": "community",
-													"layout": "horizontal",
-													"singular": true,
-													"value": "percentage",
-													"x_label": "Response",
-													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
 														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
@@ -1976,11 +1966,6 @@
 													],
 													"year": "2022/23",
 													"group": "community",
-													"layout": "horizontal",
-													"singular": true,
-													"value": "percentage",
-													"x_label": "Response",
-													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
 														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
@@ -1999,11 +1984,6 @@
 													],
 													"year": "2022/23",
 													"group": "community",
-													"layout": "horizontal",
-													"singular": true,
-													"value": "percentage",
-													"x_label": "Response",
-													"y_label": "",
 													"legend_text": "Select a Region",
 													"colors": [
 														"#333333","#c1a8a1","#c13036","#ed732e","#f3b158","#9ac746"
