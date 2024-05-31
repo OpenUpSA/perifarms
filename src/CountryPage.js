@@ -18,8 +18,7 @@ const CountryPage = () => {
     const [passwordCorrect, setPasswordCorrect] = useState(false);
 
 
-    const { content } = useContext(AppContext);
-    const [country, setCountry] = useState(null);
+    const { content, country, setCountry } = useContext(AppContext);
     const [period, setPeriod] = useState(null);
 
 
