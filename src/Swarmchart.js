@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useContext } from 'react';
+import React, { useState, useEffect, useContext } from 'react';
 import { AppContext } from './AppContext';
 import * as d3 from 'd3';
 
@@ -12,15 +12,15 @@ const Swarmchart = (props) => {
     const { crop, country, period, data } = useContext(AppContext);
 
 
-    const svgRef = useRef(null);
-    const xAxisRef = useRef(null);
+    const uniqueId = `swarmchart-${props.props.indicator[0]}`;
+    const xAxisId = `swarmchart-${props.props.indicator[0]}-xAxis`;
     const [allData, setAllData] = useState([]);
     const [bands, setBands] = useState([]);
     const [chartData, setChartchartData] = useState([]);
     const [groups, setGroups] = useState([]);
     const [selectedGroups, setSelectedGroups] = useState([]);
     const [x, setX] = useState(null);
-    const [height, setHeight] = useState(null);
+    const [height, setHeight] = useState(350);
     const [svg, setSvg] = useState(null);
     const [circles, setCircles] = useState(null);
     const [xAxis, setXAxis] = useState(null);
@@ -53,12 +53,16 @@ const Swarmchart = (props) => {
     }, [allData]);
 
     useEffect(() => {
-        if(!draw) {
+        if (!draw) {
             initializeVisualization();
-        } else {
+        }
+    }, [draw]);
+    
+    useEffect(() => {
+        if (draw) {
             updatechartData(chartData, x, height, svg, circles, xAxis, width);
         }
-    }, [chartData]);
+    }, [chartData, draw]);
 
     useEffect(() => {
         let filteredData = allData.filter(item => selectedGroups?.includes(item.community)); 
@@ -67,7 +71,6 @@ const Swarmchart = (props) => {
     }, [selectedGroups]);
 
     const initializeVisualization = () => {
-        // Sample chartData
 
         // Set up margin and dimensions
         const margin = { top: 20, right: 0, bottom: 30, left: 0 };
@@ -77,7 +80,7 @@ const Swarmchart = (props) => {
         setHeight(initialHeight);
 
         // Append SVG
-        const initialSvg = d3.select(svgRef.current)
+        const initialSvg = d3.select(`#${uniqueId}`)
             .attr('width', width + margin.left + margin.right)
             .attr('height', initialHeight + margin.top + margin.bottom)
             .append('g')
@@ -289,12 +292,15 @@ const Swarmchart = (props) => {
                     })
                 }
             </div>
-            <div className="swarmchart">
-                <svg ref={svgRef}>
-                    <g ref={xAxisRef} transform={`translate(0, ${height})`}></g>
-                </svg>
-                <div className="swarm-tooltip" style={{ opacity: 0 }}></div>
-            </div>
+            {
+                height != null &&
+                    <div className="swarmchart">
+                        <svg id={uniqueId}>
+                            <g id={xAxisId} transform={`translate(0, ${height})`}></g>
+                        </svg>
+                        <div className="swarm-tooltip" style={{ opacity: 0 }}></div>
+                    </div>
+            }
         </div>
     );
 };

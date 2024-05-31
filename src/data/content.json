@@ -650,7 +650,30 @@
 													"legend_text": "Select a Region",
 													"colors": [
 														"#c13036"
-													]
+													],
+													"styles": {
+														"height": 400,
+														"margin": {
+															"bottom": 100,
+															"top": 40,
+															"left": 20,
+															"right": 20
+														},
+														"x_label": {
+															"offset": -40
+														},
+														"x_label_tick": {
+															"angle": -45,
+															"style": {
+																"whiteSpace": "normal",
+																"overflow": "hidden",
+																"textOverflow": "ellipsis",
+																"width": "20px",
+																"fontSize": "10px",
+																"textAnchor": "end"
+															}
+														}
+													}
 												},
 												{
 													"title": "Farmers according to their gross income (detailed)",
@@ -1173,7 +1196,7 @@
 													"subtitle": "2022/2023",
 													"caption": "",
 													"type": "Chart",
-													"data_source": "charts_data",
+													"data_source": "extra_charts",
 													"crop": "ABE",
 													"country": "Zimbabwe",
 													"indicator": [
@@ -1183,7 +1206,7 @@
 													"group": "community",
 													"layout": "horizontal",
 													"singular": true,
-													"value": "percentage",
+													"value": "value",
 													"x_label": "Response",
 													"y_label": "Percentage of farmers",
 													"legend_text": "Select a Region",
@@ -1915,7 +1938,30 @@
 													"legend_text": "Select a Region",
 													"colors": [
 														"#9ac746"
-													]
+													],
+													"styles": {
+														"height": 400,
+														"margin": {
+															"bottom": 100,
+															"top": 40,
+															"left": 20,
+															"right": 20
+														},
+														"x_label": {
+															"offset": -40
+														},
+														"x_label_tick": {
+															"angle": -45,
+															"style": {
+																"whiteSpace": "normal",
+																"overflow": "hidden",
+																"textOverflow": "ellipsis",
+																"width": "20px",
+																"fontSize": "10px",
+																"textAnchor": "end"
+															}
+														}
+													}
 												},
 												{
 													"title": "Farmers according to their gross income (detailed)",
