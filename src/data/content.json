@@ -3706,7 +3706,7 @@
 									"indicator": ["Total area under cultivation per year (all countries)"],
 									"value": "orig_value",
 									"x_label": "",
-									"y_label": "Number of farmers",
+									"y_label": "Total Area",
 									"colors": [
 										"#9ac746"
 									],
