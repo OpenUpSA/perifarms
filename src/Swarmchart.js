@@ -4,7 +4,6 @@ import * as d3 from 'd3';
 
 console.log(d3);
 
-// import Debug from './Debug';
 
 import './swarmchart.scss';
 
@@ -40,9 +39,6 @@ const Swarmchart = (props) => {
         filteredData = filteredData.filter(item => item.year === props.props.year);
         filteredData = filteredData.filter(item => item.indicator === props.props.indicator[0]);
 
-        
-
-
         filteredData.forEach((d, i) => {
             d.earnings = parseFloat(d.value);
         })
@@ -52,7 +48,6 @@ const Swarmchart = (props) => {
         setThisChartData(filteredData);
         setGroups(groups);
         setSelectedGroups(groups[0]);
-
         
     }, [allData, country]);
 
@@ -66,13 +61,11 @@ const Swarmchart = (props) => {
         if (draw) {
             updatechartData(chartData, x, height, svg, circles, xAxis, width);
         }
-        console.log('chartData1', chartData);
     }, [chartData, draw, uniqueId]);
 
     useEffect(() => {
         let filteredData = thisChartData.filter(item => selectedGroups?.includes(item.community)); 
         setChartchartData(filteredData);
-        
     }, [selectedGroups]);
 
     const initializeVisualization = () => {
@@ -161,13 +154,13 @@ const Swarmchart = (props) => {
 
         // Calculate dynamic band ranges based on the new maximum earnings value
         const bandRanges = [
-            { start: -2000, end: -1, color: props?.props?.colors[0] },
-            { start: 0, end: Math.min(maxEarnings, 499), color: props?.props?.colors[1] },
-            { start: 500, end: Math.min(maxEarnings, 999), color: props?.props?.colors[2] },
-            { start: 1000, end: Math.min(maxEarnings, 1499), color: props?.props?.colors[3] },
-            { start: 1500, end: Math.min(maxEarnings, 1999), color: props?.props?.colors[4] },
-            { start: 2000, end: Math.min(maxEarnings, 2499), color: props?.props?.colors[5] },
-            { start: 2500, end: Math.min(maxEarnings, 9999), color: props?.props?.colors[5] },
+            { start: -2000, end: 0, color: props?.props?.colors[0] },
+            { start: 0, end: 500, color: props?.props?.colors[1] },
+            { start: 500, end: 1000, color: props?.props?.colors[2] },
+            { start: 1000, end: 1500, color: props?.props?.colors[3] },
+            { start: 1500, end: 2000, color: props?.props?.colors[4] },
+            { start: 2000, end: 2500, color: props?.props?.colors[5] },
+            { start: 2500, end: 10000, color: props?.props?.colors[5] },
         ];
 
         updateBands(maxEarnings, newX, height, svg, circles);
@@ -236,14 +229,15 @@ const Swarmchart = (props) => {
 
         // Define background bands based on the max earnings value
         const newBands = [
-            { start: -2000, end: -1, color: props?.props?.colors[0] },
-            { start: 0, end: Math.min(maxEarnings, 499), color: props?.props?.colors[1] },
-            { start: 500, end: Math.min(maxEarnings, 999), color: props?.props?.colors[2] },
-            { start: 1000, end: Math.min(maxEarnings, 1499), color: props?.props?.colors[3] },
-            { start: 1500, end: Math.min(maxEarnings, 1999), color: props?.props?.colors[4] },
-            { start: 2000, end: Math.min(maxEarnings, 2499), color: props?.props?.colors[5] },
-            { start: 2500, end: Math.min(maxEarnings, 9999), color: props?.props?.colors[5] },
+            { start: -2000, end: 0, color: props?.props?.colors[0] },
+            { start: 0, end: 500, color: props?.props?.colors[1] },
+            { start: 500, end: 1000, color: props?.props?.colors[2] },
+            { start: 1000, end: 1500, color: props?.props?.colors[3] },
+            { start: 1500, end: 2000, color: props?.props?.colors[4] },
+            { start: 2000, end: 2500, color: props?.props?.colors[5] },
+            { start: 2500, end: 10000, color: props?.props?.colors[5] },
         ];
+        
 
         svg
             .selectAll('.band')
@@ -280,7 +274,7 @@ const Swarmchart = (props) => {
                 {
                     props.props.subtitle && <h3>{props.props.subtitle}</h3>
                 }
-                {/* <Debug props={props} /> */}
+                
             </header>
 
             <div className="groups">
