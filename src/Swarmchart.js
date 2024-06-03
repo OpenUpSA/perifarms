@@ -54,7 +54,7 @@ const Swarmchart = (props) => {
         setSelectedGroups(groups[0]);
 
         
-    }, [allData]);
+    }, [allData, country]);
 
     useEffect(() => {
         if (!draw) {
