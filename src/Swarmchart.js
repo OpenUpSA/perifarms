@@ -15,6 +15,7 @@ const Swarmchart = (props) => {
     const uniqueId = `swarmchart-${props.props.indicator[0]}-${props.props.country}`;
     const xAxisId = `swarmchart-${props.props.indicator[0]}-${props.props.country}-xAxis`;
     const [allData, setAllData] = useState([]);
+    const [thisChartData, setThisChartData] = useState([]); 
     const [bands, setBands] = useState([]);
     const [chartData, setChartchartData] = useState([]);
     const [groups, setGroups] = useState([]);
@@ -48,6 +49,7 @@ const Swarmchart = (props) => {
 
         let groups = Array.from(new Set(filteredData.map(d => d[props.props.group])));
         
+        setThisChartData(filteredData);
         setGroups(groups);
         setSelectedGroups(groups[0]);
 
@@ -64,10 +66,11 @@ const Swarmchart = (props) => {
         if (draw) {
             updatechartData(chartData, x, height, svg, circles, xAxis, width);
         }
+        console.log('chartData1', chartData);
     }, [chartData, draw, uniqueId]);
 
     useEffect(() => {
-        let filteredData = allData.filter(item => selectedGroups?.includes(item.community)); 
+        let filteredData = thisChartData.filter(item => selectedGroups?.includes(item.community)); 
         setChartchartData(filteredData);
         
     }, [selectedGroups]);
